@@ -6,7 +6,7 @@
     <description>Posts from x.com/dharmatrade</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 08:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:55:06 +0000</lastBuildDate>
     <item>
       <title>Lean Machine is a small desktop environment written in @leanprover On the Symbol</title>
       <link>https://x.com/dharmatrade/status/2122909068394418640</link>
@@ -16,6 +16,16 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXYWT-9bAAAOoih.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/dharmatrade/status/2122909068394418640</guid>
       <pubDate>Wed, 18 Nov 2026 04:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The SymLean computer algebra library by @Robertljg running in Lean Machine https</title>
+      <link>https://x.com/dharmatrade/status/2124154641659424960</link>
+      <description>&lt;p&gt;The SymLean computer algebra library by @Robertljg running in Lean Machine&lt;br/&gt;&lt;br/&gt;https://github.com/Robertboy18/SymLean&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqDCA7bsAALOEk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The SymLean computer algebra library by @Robertljg running in Lean Machine&lt;br/&gt;&lt;br/&gt;https://github.com/Robertboy18/SymLean&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqDCA7bsAALOEk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/dharmatrade/status/2124154641659424960</guid>
+      <pubDate>Sat, 21 Nov 2026 14:55:06 +0000</pubDate>
     </item>
     <item>
       <title>Editing the clock application live in Lean Machine</title>
@@ -204,16 +214,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/skdh/status/2112042730297958683"&gt;@skdh&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If we want to continue progress in science, we must be prepared to acknowledge that the correct description of nature will eventually simply be too complicated for humans to understand. I do not think it is wise to make human understanding a requirement. AI is the way forward.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/dharmatrade/status/2112485793277333589</guid>
       <pubDate>Tue, 20 Oct 2026 10:07:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazing talk by @odersky addressing similar claims. https://x.com/odersky/status</title>
-      <link>https://x.com/dharmatrade/status/2111694990263148905</link>
-      <description>&lt;p&gt;Amazing talk by @odersky addressing similar claims. &lt;br/&gt;&lt;br/&gt;https://x.com/odersky/status/2109979147019878624?s=20&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/odersky/status/2109979147019878624"&gt;@odersky&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The End of Programming? Video of my talk yesterday at #scaladays. https://www.youtube.com/watch?v=jlJyuJhDnlc&amp;amp;t=3s&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Amazing talk by @odersky addressing similar claims. &lt;br/&gt;&lt;br/&gt;https://x.com/odersky/status/2109979147019878624?s=20&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/odersky/status/2109979147019878624"&gt;@odersky&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The End of Programming? Video of my talk yesterday at #scaladays. https://www.youtube.com/watch?v=jlJyuJhDnlc&amp;amp;t=3s&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/dharmatrade/status/2111694990263148905</guid>
-      <pubDate>Sun, 18 Oct 2026 05:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,31 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 12:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:32:52 +0000</lastBuildDate>
+    <item>
+      <title>X 是懂我的，只要是好项目，总能推给我。 有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现</title>
+      <link>https://x.com/geekbb/status/2124149049360265275</link>
+      <description>&lt;p&gt;X 是懂我的，只要是好项目，总能推给我。&lt;br/&gt;&lt;br/&gt;有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现了，对 Antigravity 好感度+1。&lt;br/&gt;&lt;br/&gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp9UdLboAAFn6X.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/shehxuhxjx66088/status/2123800656595271981"&gt;@shehxuhxjx66088&lt;/a&gt;&lt;/p&gt;&lt;p&gt;这两天看大家都在吐槽 Antigravity 缓存命中，刚跑完一轮 Gemini 4 Neon (XHigh) 直接给我看舒服了：&lt;br/&gt;·上下文 244k / 512k（48%）&lt;br/&gt;·单轮连跑 11 步，累计输入 2.61M，读缓存 2.58M&lt;br/&gt;·缓存命中率 98.8%，新增输入才 30k&lt;br/&gt;·流式输出 204 tok/s&lt;br/&gt;这套大上下文 + 高缓存命中 + 200 tok/s 的组合，用起来是真的不肉疼。（图里这个纯白 Codex 主题 + 汉化 + 每轮悬浮统计卡是我自己开源的 Antigravity 桌面端插件，仓库放评论区 👇）&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlBS6obYAAKTTv.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;X 是懂我的，只要是好项目，总能推给我。&lt;br/&gt;&lt;br/&gt;有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现了，对 Antigravity 好感度+1。&lt;br/&gt;&lt;br/&gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp9UdLboAAFn6X.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/shehxuhxjx66088/status/2123800656595271981"&gt;@shehxuhxjx66088&lt;/a&gt;&lt;/p&gt;&lt;p&gt;这两天看大家都在吐槽 Antigravity 缓存命中，刚跑完一轮 Gemini 4 Neon (XHigh) 直接给我看舒服了：&lt;br/&gt;·上下文 244k / 512k（48%）&lt;br/&gt;·单轮连跑 11 步，累计输入 2.61M，读缓存 2.58M&lt;br/&gt;·缓存命中率 98.8%，新增输入才 30k&lt;br/&gt;·流式输出 204 tok/s&lt;br/&gt;这套大上下文 + 高缓存命中 + 200 tok/s 的组合，用起来是真的不肉疼。（图里这个纯白 Codex 主题 + 汉化 + 每轮悬浮统计卡是我自己开源的 Antigravity 桌面端插件，仓库放评论区 👇）&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlBS6obYAAKTTv.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124149049360265275</guid>
+      <pubDate>Sat, 21 Nov 2026 14:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着你，捡到的纸片和点亮的灯还能自动记下来。 https://github.com/</title>
+      <link>https://x.com/geekbb/status/2124140035935281501</link>
+      <description>&lt;p&gt;哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着你，捡到的纸片和点亮的灯还能自动记下来。&lt;br/&gt;&lt;br/&gt;https://github.com/xikhar/papertrails&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1cWqaQAAXB8u.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1enWbsAADv-y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着你，捡到的纸片和点亮的灯还能自动记下来。&lt;br/&gt;&lt;br/&gt;https://github.com/xikhar/papertrails&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1cWqaQAAXB8u.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1enWbsAADv-y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124140035935281501</guid>
+      <pubDate>Sat, 21 Nov 2026 13:57:03 +0000</pubDate>
+    </item>
     <item>
       <title>开源的咱就用用 👍</title>
       <link>https://x.com/geekbb/status/2124120750554845669</link>
@@ -196,16 +220,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2123267944142749829"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;xyz 域名好像被墙了&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123371599672090961</guid>
       <pubDate>Thu, 19 Nov 2026 11:03:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>我以为 OpenCode $500 的 GLM-5.3 有好多，结果打开一看，还不如 DeepSeek V4.1 Flash 的 $100 顶用，请求量只有人家</title>
-      <link>https://x.com/geekbb/status/2123324608447463484</link>
-      <description>&lt;p&gt;我以为 OpenCode $500 的 GLM-5.3 有好多，结果打开一看，还不如 DeepSeek V4.1 Flash 的 $100 顶用，请求量只有人家的 1/6 出头，主要还是太贵了吧～&lt;br/&gt;&lt;br/&gt;要是让 DeepSeek V4.1 Flash 也拿到 $500，那得多屌炸天，直接杀死比赛。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXeOWLoacAAT3m_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;我以为 OpenCode $500 的 GLM-5.3 有好多，结果打开一看，还不如 DeepSeek V4.1 Flash 的 $100 顶用，请求量只有人家的 1/6 出头，主要还是太贵了吧～&lt;br/&gt;&lt;br/&gt;要是让 DeepSeek V4.1 Flash 也拿到 $500，那得多屌炸天，直接杀死比赛。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXeOWLoacAAT3m_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123324608447463484</guid>
-      <pubDate>Thu, 19 Nov 2026 07:56:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
