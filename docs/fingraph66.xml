@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 20:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2124255280275898818</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-viJbEAAt4YG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-viJbEAAt4YG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124255280275898818</guid>
+      <pubDate>Sat, 21 Nov 2026 21:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2124240180810801469</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm8xQXaUAA9Ma1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2124041873899807102</guid>
       <pubDate>Sat, 21 Nov 2026 07:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>针对为何美国科技股近期大幅抛售之际美元反而逆势走强，德意志银行给出了两个核心解释：首先是美债利率与利差支撑，其次是海外资金正趁美股回调大举逢低扫货。德银追踪的数</title>
-      <link>https://x.com/fingraph66/status/2124028536340230337</link>
-      <description>&lt;p&gt;针对为何美国科技股近期大幅抛售之际美元反而逆势走强，德意志银行给出了两个核心解释：首先是美债利率与利差支撑，其次是海外资金正趁美股回调大举逢低扫货。德银追踪的数据显示，在11月初纳斯达克指数从逾3.1万点急挫至2.7万点附近的过程中，海外投资者通过ETF净买入美股的单日资金流入量反而显著飙升（峰值单日净流入逾26亿美元），外资抄底盘直接托住了美元汇价。&lt;br/&gt;来源：德意志银行&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-eE1aIAAw-Vr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;针对为何美国科技股近期大幅抛售之际美元反而逆势走强，德意志银行给出了两个核心解释：首先是美债利率与利差支撑，其次是海外资金正趁美股回调大举逢低扫货。德银追踪的数据显示，在11月初纳斯达克指数从逾3.1万点急挫至2.7万点附近的过程中，海外投资者通过ETF净买入美股的单日资金流入量反而显著飙升（峰值单日净流入逾26亿美元），外资抄底盘直接托住了美元汇价。&lt;br/&gt;来源：德意志银行&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-eE1aIAAw-Vr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124028536340230337</guid>
-      <pubDate>Sat, 21 Nov 2026 06:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
