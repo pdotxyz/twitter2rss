@@ -6,7 +6,31 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 00:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:17:02 +0000</lastBuildDate>
+    <item>
+      <title>两种使用 Agy 的方法： - Open WebUI 支持 Open Terminal，通过它调用调用终端环境中的 agy CLI，这样做不违反谷歌的政策吧。 </title>
+      <link>https://x.com/geekbb/status/2123994067084460376</link>
+      <description>&lt;p&gt;两种使用 Agy 的方法：&lt;br/&gt;&lt;br/&gt;- Open WebUI 支持 Open Terminal，通过它调用调用终端环境中的 agy CLI，这样做不违反谷歌的政策吧。&lt;br/&gt;&lt;br/&gt;- OpenBot run 里面可以连接 Gemini 使用，之前被暂停 Antigravity 的试试，有惊喜，但不知道会不会彻底封号。&lt;br/&gt;&lt;br/&gt;- 捏着鼻子用 Antigravity，再等两周，官方说要迈出第一步，看看会不会放开使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnwRnFaIAAaRa7.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnxSeJbQAAHwR0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;两种使用 Agy 的方法：&lt;br/&gt;&lt;br/&gt;- Open WebUI 支持 Open Terminal，通过它调用调用终端环境中的 agy CLI，这样做不违反谷歌的政策吧。&lt;br/&gt;&lt;br/&gt;- OpenBot run 里面可以连接 Gemini 使用，之前被暂停 Antigravity 的试试，有惊喜，但不知道会不会彻底封号。&lt;br/&gt;&lt;br/&gt;- 捏着鼻子用 Antigravity，再等两周，官方说要迈出第一步，看看会不会放开使用。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnwRnFaIAAaRa7.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnxSeJbQAAHwR0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2123994067084460376</guid>
+      <pubDate>Sat, 21 Nov 2026 04:17:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>这就是资产配置的魅力，哈哈哈哈</title>
+      <link>https://x.com/geekbb/status/2123965180484911146</link>
+      <description>&lt;p&gt;这就是资产配置的魅力，哈哈哈哈&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnW_d7aAAA-YGO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/0xQuit/status/2123878063113179514"&gt;@0xQuit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Never put all your eggs in one basket&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmHz-2bYAA1uk6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;这就是资产配置的魅力，哈哈哈哈&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnW_d7aAAA-YGO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/0xQuit/status/2123878063113179514"&gt;@0xQuit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Never put all your eggs in one basket&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmHz-2bYAA1uk6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2123965180484911146</guid>
+      <pubDate>Sat, 21 Nov 2026 02:22:15 +0000</pubDate>
+    </item>
     <item>
       <title>做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。 在 Node、浏览器和 Cloudflare Workers 中无需 Pyth</title>
       <link>https://x.com/geekbb/status/2123944131961733206</link>
@@ -180,26 +204,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/moreless/status/2122831858694308011"&gt;@moreless&lt;/a&gt;&lt;/p&gt;&lt;p&gt;只能说，黄仁勋太膨胀了，以为自己的权力可以通天。&lt;br/&gt;&lt;br/&gt;11月9号彭博社爆出一条新闻。2025 年美国政府在调查 Megaspeed 走私芯片时，英伟达的首席法务顾问（General Counsel）蒂姆·泰特（Tim Teter） 直接把电话打给了美国商务部主管芯片出口管制的副部长（BIS 负责人）杰弗里·凯斯勒（Jeffrey Kessler）。向美方打听有没有参与新加坡方面扣留黄乐。给副部长打完电话还不够，蒂姆·泰特随后直接发邮件给商务部负责查办 Megaspeed 走私案的一线执法探员（BIS Agents），要求跟办案人员当面开会。&lt;br/&gt;当一线探员按规定拒绝了英伟达的会面要求后，泰特竟然回信表示“无法理解为什么拒绝他”，并搬出副部长压人，声称“凯斯勒副部长已经授权我跟你们办案人员直接沟通！”&lt;br/&gt;在蒂姆·泰特打完那个电话之后的几周里，商务部 BIS 内部负责查 Megaspeed 的工作人员收到了两条极其罕见的奇葩禁令：&lt;br/&gt;1. 凡是涉及英伟达的一切调查请求，必须先交给副部长凯斯勒本人审批；&lt;br/&gt;2. 严禁在任何外部沟通中提起“Megaspeed”及其马来西亚子公司“Speedmatrix”的名字！&lt;br/&gt;&lt;br/&gt;https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123255935812739405</guid>
       <pubDate>Thu, 19 Nov 2026 03:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Command Code 扛不住了，宣布不卷了。</title>
-      <link>https://x.com/geekbb/status/2123238672971792757</link>
-      <description>&lt;p&gt;Command Code 扛不住了，宣布不卷了。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/MrAhmadAwais/status/2123187153643737396"&gt;@MrAhmadAwais&lt;/a&gt;&lt;/p&gt;&lt;p&gt;we&amp;#x27;re not interested in a race to bottom. without quality of inference, cheaper prices mean nothing. &lt;br/&gt;&lt;br/&gt;remember we&amp;#x27;re building Costco of AI. best possible value with highest possible quality. &lt;br/&gt;&lt;br/&gt;cheap tokens that break your agent aren&amp;#x27;t cheap. that was always our thesis. our competitors don&amp;#x27;t get that. &lt;br/&gt;&lt;br/&gt;we&amp;#x27;ll continue to deliver best quality &amp;amp; prices on open models!! 🐐&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Command Code 扛不住了，宣布不卷了。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/MrAhmadAwais/status/2123187153643737396"&gt;@MrAhmadAwais&lt;/a&gt;&lt;/p&gt;&lt;p&gt;we&amp;#x27;re not interested in a race to bottom. without quality of inference, cheaper prices mean nothing. &lt;br/&gt;&lt;br/&gt;remember we&amp;#x27;re building Costco of AI. best possible value with highest possible quality. &lt;br/&gt;&lt;br/&gt;cheap tokens that break your agent aren&amp;#x27;t cheap. that was always our thesis. our competitors don&amp;#x27;t get that. &lt;br/&gt;&lt;br/&gt;we&amp;#x27;ll continue to deliver best quality &amp;amp; prices on open models!! 🐐&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123238672971792757</guid>
-      <pubDate>Thu, 19 Nov 2026 02:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>MausBot 它前身叫 OpenGrokBot，定位本来就是替代 Grok Bot。目前使用下来功能上是最全的，跟 Grok Bot 一样带一台 Local </title>
-      <link>https://x.com/geekbb/status/2123079454713102518</link>
-      <description>&lt;p&gt;MausBot 它前身叫 OpenGrokBot，定位本来就是替代 Grok Bot。目前使用下来功能上是最全的，跟 Grok Bot 一样带一台 Local VM。&lt;br/&gt;&lt;br/&gt;OpenBot 用起来很丝滑，就差个一键起本地容器的入口，虚拟机对我可有可无，所以现在拿它当 Grok Bot 的备胎。&lt;br/&gt;&lt;br/&gt;Hermes 太卡了，回复又慢，每次进对话都新起一个 Python 进程，还要把内置插件全部 import，启动像在启动一台重型机。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/laogui/status/2122731710240723323"&gt;@laogui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;现在到底有多少个 Grok Bot、Muse Bot 的替代品了？&lt;br/&gt;这个评测站收录了近百款同生态位的 Agent 替代产品。&lt;br/&gt;&lt;br/&gt;整体排名符合我的实际体验。排在前面的 OpenBot、Codync、agentes chat 体验确实不错。&lt;br/&gt;&lt;br/&gt;作者提前帮大家做好了筛选和排雷：&lt;br/&gt;- 是不是真正的个人助手？​ 偏企业工作区、编程工具或纯 Agent 客户端的，都被作者单独归类并写明排除原因。&lt;br/&gt;- 是开箱即用还是需要折腾？​ 清楚区分了闭源方案与适合自部署的开源项目。&lt;br/&gt;- 综合体验属于哪个梯队？作者给出了主观梯队分级，且声明零付费收录。&lt;br/&gt;&lt;br/&gt;网站：https://my-tierroom.party/explore?view=list&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXV00tCaUAAkQsT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;MausBot 它前身叫 OpenGrokBot，定位本来就是替代 Grok Bot。目前使用下来功能上是最全的，跟 Grok Bot 一样带一台 Local VM。&lt;br/&gt;&lt;br/&gt;OpenBot 用起来很丝滑，就差个一键起本地容器的入口，虚拟机对我可有可无，所以现在拿它当 Grok Bot 的备胎。&lt;br/&gt;&lt;br/&gt;Hermes 太卡了，回复又慢，每次进对话都新起一个 Python 进程，还要把内置插件全部 import，启动像在启动一台重型机。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/laogui/status/2122731710240723323"&gt;@laogui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;现在到底有多少个 Grok Bot、Muse Bot 的替代品了？&lt;br/&gt;这个评测站收录了近百款同生态位的 Agent 替代产品。&lt;br/&gt;&lt;br/&gt;整体排名符合我的实际体验。排在前面的 OpenBot、Codync、agentes chat 体验确实不错。&lt;br/&gt;&lt;br/&gt;作者提前帮大家做好了筛选和排雷：&lt;br/&gt;- 是不是真正的个人助手？​ 偏企业工作区、编程工具或纯 Agent 客户端的，都被作者单独归类并写明排除原因。&lt;br/&gt;- 是开箱即用还是需要折腾？​ 清楚区分了闭源方案与适合自部署的开源项目。&lt;br/&gt;- 综合体验属于哪个梯队？作者给出了主观梯队分级，且声明零付费收录。&lt;br/&gt;&lt;br/&gt;网站：https://my-tierroom.party/explore?view=list&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXV00tCaUAAkQsT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123079454713102518</guid>
-      <pubDate>Wed, 18 Nov 2026 15:42:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
