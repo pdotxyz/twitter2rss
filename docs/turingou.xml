@@ -6,7 +6,15 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 07:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:26:26 +0000</lastBuildDate>
+    <item>
+      <title>今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更</title>
+      <link>https://x.com/turingou/status/2124162529274573171</link>
+      <description>&lt;p&gt;今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更不可能去安装我自己的实验性应用。&lt;br/&gt;&lt;br/&gt;所以我让 Claude Code 解决了几个问题。第一个问题是它默认不让你开启开发者选项，必须自己写个一键开启的 APK 通过 U 盘安装。开启之后，因为它没有 Play Store，安装不了特定的应用，所以它只能从我的 Google TV，也就是我的索尼电视上拷贝了从日本市场下载的 APK 过去。除了像 Netflix 这种需要认证才能够打开应用支持不了之外，其他几乎都可以支持，可以说是投影仪废物利用了。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更不可能去安装我自己的实验性应用。&lt;br/&gt;&lt;br/&gt;所以我让 Claude Code 解决了几个问题。第一个问题是它默认不让你开启开发者选项，必须自己写个一键开启的 APK 通过 U 盘安装。开启之后，因为它没有 Play Store，安装不了特定的应用，所以它只能从我的 Google TV，也就是我的索尼电视上拷贝了从日本市场下载的 APK 过去。除了像 Netflix 这种需要认证才能够打开应用支持不了之外，其他几乎都可以支持，可以说是投影仪废物利用了。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2124162529274573171</guid>
+      <pubDate>Sat, 21 Nov 2026 15:26:26 +0000</pubDate>
+    </item>
     <item>
       <title>日本这个气候进入冬季之后，每天天气都非常好，万里无云、碧空如洗…非常适合遛弯儿</title>
       <link>https://x.com/turingou/status/2124045347546935318</link>
@@ -264,24 +272,6 @@
       <content:encoded>&lt;p&gt;天塌了！黑川温泉现在竟然没有混浴了！！&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2121845700665450675</guid>
       <pubDate>Sun, 15 Nov 2026 06:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>红叶季飞来九州泡温泉，刚落地熊本的时候，开车去吃这里评分第一的拉面，也是第一次用上了 Parkuma 的 CarPlay 功能！</title>
-      <link>https://x.com/turingou/status/2121560492049387777</link>
-      <description>&lt;p&gt;红叶季飞来九州泡温泉，刚落地熊本的时候，开车去吃这里评分第一的拉面，也是第一次用上了 Parkuma 的 CarPlay 功能！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IobkAEM_Bj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IlbEAAPWaw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IoaoAAWypG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IsawAAKDnw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IqaoAAuC71.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;红叶季飞来九州泡温泉，刚落地熊本的时候，开车去吃这里评分第一的拉面，也是第一次用上了 Parkuma 的 CarPlay 功能！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IobkAEM_Bj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IlbEAAPWaw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IoaoAAWypG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IsawAAKDnw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXFL9IqaoAAuC71.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2121560492049387777</guid>
-      <pubDate>Sat, 14 Nov 2026 11:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
