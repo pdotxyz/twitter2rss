@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>@_reachsumit</title>
+    <link>https://x.com/_reachsumit</link>
+    <description>Posts from x.com/_reachsumit</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Fri, 20 Nov 2026 05:59:22 +0000</lastBuildDate>
+    <item>
+      <title>Intelligent Embedding Pruning for Large-Scale Recommendation Models Meta uses fe</title>
+      <link>https://x.com/_reachsumit/status/2123657434376135092</link>
+      <description>&lt;p&gt;Intelligent Embedding Pruning for Large-Scale Recommendation Models&lt;br/&gt;&lt;br/&gt;Meta uses feature importance to decide how much to prune each embedding table in large recommendation models, cutting more memory than size-based pruning at equal or better accuracy.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Intelligent Embedding Pruning for Large-Scale Recommendation Models&lt;br/&gt;&lt;br/&gt;Meta uses feature importance to decide how much to prune each embedding table in large recommendation models, cutting more memory than size-based pruning at equal or better accuracy.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657434376135092</guid>
+      <pubDate>Fri, 20 Nov 2026 05:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>LQ-Rec: Late Quantization for Sequential Recommendation Proposes a recommender t</title>
+      <link>https://x.com/_reachsumit/status/2123657292285681830</link>
+      <description>&lt;p&gt;LQ-Rec: Late Quantization for Sequential Recommendation&lt;br/&gt;&lt;br/&gt;Proposes a recommender that stores items as semantic IDs but keeps the encoder in continuous space, so longer IDs improve ranking and one model supports anytime compression.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;LQ-Rec: Late Quantization for Sequential Recommendation&lt;br/&gt;&lt;br/&gt;Proposes a recommender that stores items as semantic IDs but keeps the encoder in continuous space, so longer IDs improve ranking and one model supports anytime compression.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657292285681830</guid>
+      <pubDate>Fri, 20 Nov 2026 05:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development Intro</title>
+      <link>https://x.com/_reachsumit/status/2123657153596772768</link>
+      <description>&lt;p&gt;AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development&lt;br/&gt;&lt;br/&gt;Introduces a benchmark that tests how well LLM agents can build RAG systems from scratch and improve them through iteration across nine tasks.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development&lt;br/&gt;&lt;br/&gt;Introduces a benchmark that tests how well LLM agents can build RAG systems from scratch and improve them through iteration across nine tasks.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657153596772768</guid>
+      <pubDate>Fri, 20 Nov 2026 05:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models Me</title>
+      <link>https://x.com/_reachsumit/status/2123657020238897532</link>
+      <description>&lt;p&gt;Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models&lt;br/&gt;&lt;br/&gt;Meta presents an LLM agent system that selects features for a whole fleet of ads ranking models while keeping serving cost and shared feature pipeline cost within budget.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models&lt;br/&gt;&lt;br/&gt;Meta presents an LLM agent system that selects features for a whole fleet of ads ranking models while keeping serving cost and shared feature pipeline cost within budget.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657020238897532</guid>
+      <pubDate>Fri, 20 Nov 2026 05:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence-Based Credit Assignment for Search-Augmented Language Models Introduces</title>
+      <link>https://x.com/_reachsumit/status/2123594955902067155</link>
+      <description>&lt;p&gt;Evidence-Based Credit Assignment for Search-Augmented Language Models&lt;br/&gt;&lt;br/&gt;Introduces a training-only reward crediting each search by how much its retrieved documents raise the likelihood of the correct answer, so agents learn even when all rollouts fail.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Evidence-Based Credit Assignment for Search-Augmented Language Models&lt;br/&gt;&lt;br/&gt;Introduces a training-only reward crediting each search by how much its retrieved documents raise the likelihood of the correct answer, so agents learn even when all rollouts fail.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594955902067155</guid>
+      <pubDate>Fri, 20 Nov 2026 01:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recomme</title>
+      <link>https://x.com/_reachsumit/status/2123594811248902513</link>
+      <description>&lt;p&gt;Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference&lt;br/&gt;&lt;br/&gt;Huawei cuts generative recommendation inference latency versus vLLM on Ascend NPUs by optimizing the whole pipeline rather than writing custom kernels.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference&lt;br/&gt;&lt;br/&gt;Huawei cuts generative recommendation inference latency versus vLLM on Ascend NPUs by optimizing the whole pipeline rather than writing custom kernels.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594811248902513</guid>
+      <pubDate>Fri, 20 Nov 2026 01:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems Meta</title>
+      <link>https://x.com/_reachsumit/status/2123594735571087713</link>
+      <description>&lt;p&gt;MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems&lt;br/&gt;&lt;br/&gt;Meta uses LLM agents that propose, train, and evaluate changes to a large search ranker, guided by engineers.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems&lt;br/&gt;&lt;br/&gt;Meta uses LLM agents that propose, train, and evaluate changes to a large search ranker, guided by engineers.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594735571087713</guid>
+      <pubDate>Fri, 20 Nov 2026 01:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Reco</title>
+      <link>https://x.com/_reachsumit/status/2123594517068845155</link>
+      <description>&lt;p&gt;CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation&lt;br/&gt;&lt;br/&gt;Tencent proposes a diffusion recommender that learns how much to trust each content modality, so missing or conflicting audio, video, image or text hurts less.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation&lt;br/&gt;&lt;br/&gt;Tencent proposes a diffusion recommender that learns how much to trust each content modality, so missing or conflicting audio, video, image or text hurts less.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594517068845155</guid>
+      <pubDate>Fri, 20 Nov 2026 01:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>MARS Technical Report Taobao presents an LLM agent that periodically sets user-s</title>
+      <link>https://x.com/_reachsumit/status/2123594414501331219</link>
+      <description>&lt;p&gt;MARS Technical Report&lt;br/&gt;&lt;br/&gt;Taobao presents an LLM agent that periodically sets user-specific retrieval quotas, model choices and score fusion weights across the whole recommendation pipeline, replacing one fixed configuration shared by all users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;MARS Technical Report&lt;br/&gt;&lt;br/&gt;Taobao presents an LLM agent that periodically sets user-specific retrieval quotas, model choices and score fusion weights across the whole recommendation pipeline, replacing one fixed configuration shared by all users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594414501331219</guid>
+      <pubDate>Fri, 20 Nov 2026 01:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction Yan</title>
+      <link>https://x.com/_reachsumit/status/2123594281533514187</link>
+      <description>&lt;p&gt;X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction&lt;br/&gt;&lt;br/&gt;Yandex presents an ad CTR ranker that compresses long user histories into reusable offline tokens, then scores ads with cross-attention to those tokens and recent events.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction&lt;br/&gt;&lt;br/&gt;Yandex presents an ad CTR ranker that compresses long user histories into reusable offline tokens, then scores ads with cross-attention to those tokens and recent events.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594281533514187</guid>
+      <pubDate>Fri, 20 Nov 2026 01:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Self-correcting Interaction Network Proposes a dynamic interaction netwo</title>
+      <link>https://x.com/_reachsumit/status/2122960713077739776</link>
+      <description>&lt;p&gt;Dynamic Self-correcting Interaction Network&lt;br/&gt;&lt;br/&gt;Proposes a dynamic interaction network that filters out unhelpful past interactions for both users and items, models the negative effect of new interactions, and handles cold-start users and items.&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Dynamic Self-correcting Interaction Network&lt;br/&gt;&lt;br/&gt;Proposes a dynamic interaction network that filters out unhelpful past interactions for both users and items, models the negative effect of new interactions, and handles cold-start users and items.&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960713077739776</guid>
+      <pubDate>Wed, 18 Nov 2026 07:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Errpedia: Is Your Exact k-NN Vector Search Really Exact? Introduces a dataset fo</title>
+      <link>https://x.com/_reachsumit/status/2122960581582110907</link>
+      <description>&lt;p&gt;Errpedia: Is Your Exact k-NN Vector Search Really Exact?&lt;br/&gt;&lt;br/&gt;Introduces a dataset for testing numerical correctness of exact k-NN search; every tested library and database returns wrong top-10 results on some queries.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Errpedia: Is Your Exact k-NN Vector Search Really Exact?&lt;br/&gt;&lt;br/&gt;Introduces a dataset for testing numerical correctness of exact k-NN search; every tested library and database returns wrong top-10 results on some queries.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960581582110907</guid>
+      <pubDate>Wed, 18 Nov 2026 07:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When</title>
+      <link>https://x.com/_reachsumit/status/2122960457145471318</link>
+      <description>&lt;p&gt;RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t&lt;br/&gt;&lt;br/&gt;@Jingyu227 et al. show that simple RAG memory matches complex agentic memory on popular benchmarks, but no design wins everywhere.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t&lt;br/&gt;&lt;br/&gt;@Jingyu227 et al. show that simple RAG memory matches complex agentic memory on popular benchmarks, but no design wins everywhere.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960457145471318</guid>
+      <pubDate>Wed, 18 Nov 2026 07:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>KVUse: Reusable-KV User Memory for Efficient LLM Recommenders Meta introduces a </title>
+      <link>https://x.com/_reachsumit/status/2122960136851603702</link>
+      <description>&lt;p&gt;KVUse: Reusable-KV User Memory for Efficient LLM Recommenders&lt;br/&gt;&lt;br/&gt;Meta introduces a method that stores user profiles as reusable KV caches instead of text, so LLM ranking calls skip re-reading them, raising throughput without hurting ranking quality.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.21920&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;KVUse: Reusable-KV User Memory for Efficient LLM Recommenders&lt;br/&gt;&lt;br/&gt;Meta introduces a method that stores user profiles as reusable KV caches instead of text, so LLM ranking calls skip re-reading them, raising throughput without hurting ranking quality.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.21920&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960136851603702</guid>
+      <pubDate>Wed, 18 Nov 2026 07:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIMQ: A Single Graph-based Index for Multi-Vector Query Introduces a single grap</title>
+      <link>https://x.com/_reachsumit/status/2122960030798610720</link>
+      <description>&lt;p&gt;SIMQ: A Single Graph-based Index for Multi-Vector Query&lt;br/&gt;&lt;br/&gt;Introduces a single graph index for multi-vector retrieval. It approximates MaxSim via per-token graph search over data-aware clusters, with no interaction matrix.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22079&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;SIMQ: A Single Graph-based Index for Multi-Vector Query&lt;br/&gt;&lt;br/&gt;Introduces a single graph index for multi-vector retrieval. It approximates MaxSim via per-token graph search over data-aware clusters, with no interaction matrix.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22079&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960030798610720</guid>
+      <pubDate>Wed, 18 Nov 2026 07:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommend</title>
+      <link>https://x.com/_reachsumit/status/2122959881674326115</link>
+      <description>&lt;p&gt;Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation&lt;br/&gt;&lt;br/&gt;Amazon adds a learned semantic cluster prior to item scores.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22163&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation&lt;br/&gt;&lt;br/&gt;Amazon adds a learned semantic cluster prior to item scores.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22163&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959881674326115</guid>
+      <pubDate>Wed, 18 Nov 2026 07:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Sha</title>
+      <link>https://x.com/_reachsumit/status/2122959495047664014</link>
+      <description>&lt;p&gt;Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Shared-Context Attention&lt;br/&gt;&lt;br/&gt;LinkedIn replaces Python constraint callbacks with a GPU-native ID trie and shares prompt attention across beams, speeding up wide-beam retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22309&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Shared-Context Attention&lt;br/&gt;&lt;br/&gt;LinkedIn replaces Python constraint callbacks with a GPU-native ID trie and shares prompt attention across beams, speeding up wide-beam retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22309&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959495047664014</guid>
+      <pubDate>Wed, 18 Nov 2026 07:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deal With It: On Better Schedules for Listwise Reranking @bclavie et al. at Mixe</title>
+      <link>https://x.com/_reachsumit/status/2122959347663970526</link>
+      <description>&lt;p&gt;Deal With It: On Better Schedules for Listwise Reranking&lt;br/&gt;&lt;br/&gt;@bclavie et al. at Mixedbread show that dealing documents round-robin by retriever rank, like cards, is the best split for parallel LLM reranking calls.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22392&lt;br/&gt;👨🏽‍💻 https://github.com/mixedbread-ai/dealrank&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Deal With It: On Better Schedules for Listwise Reranking&lt;br/&gt;&lt;br/&gt;@bclavie et al. at Mixedbread show that dealing documents round-robin by retriever rank, like cards, is the best split for parallel LLM reranking calls.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22392&lt;br/&gt;👨🏽‍💻 https://github.com/mixedbread-ai/dealrank&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959347663970526</guid>
+      <pubDate>Wed, 18 Nov 2026 07:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>More Than a Score: Reinforcement Learning with Verbalized Feedback for Generativ</title>
+      <link>https://x.com/_reachsumit/status/2122958936345358535</link>
+      <description>&lt;p&gt;More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation&lt;br/&gt;&lt;br/&gt;Tencent introduces a system where a simulated user critiques each recommendation in words and the model refines its picks, going beyond scalar rewards.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22410&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation&lt;br/&gt;&lt;br/&gt;Tencent introduces a system where a simulated user critiques each recommendation in words and the model refines its picks, going beyond scalar rewards.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22410&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122958936345358535</guid>
+      <pubDate>Wed, 18 Nov 2026 07:43:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Relevance to Utility: Rubric Alignment in Yuanbao Search Tencent proposes r</title>
+      <link>https://x.com/_reachsumit/status/2122958746880221532</link>
+      <description>&lt;p&gt;From Relevance to Utility: Rubric Alignment in Yuanbao Search&lt;br/&gt;&lt;br/&gt;Tencent proposes rubric-aligned search, which trains retrieval, ranking, and document selection against one per-query rubric so LLMs get useful document sets.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22503&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;From Relevance to Utility: Rubric Alignment in Yuanbao Search&lt;br/&gt;&lt;br/&gt;Tencent proposes rubric-aligned search, which trains retrieval, ranking, and document selection against one per-query rubric so LLMs get useful document sets.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22503&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122958746880221532</guid>
+      <pubDate>Wed, 18 Nov 2026 07:43:02 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
