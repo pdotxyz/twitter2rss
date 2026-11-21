@@ -6,7 +6,17 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 00:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:16:08 +0000</lastBuildDate>
+    <item>
+      <title>Michael Burry looking at the market this week:</title>
+      <link>https://x.com/Barchart/status/2123948544411459616</link>
+      <description>&lt;p&gt;Michael Burry looking at the market this week:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnH8anWUAA41Ky.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Michael Burry looking at the market this week:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnH8anWUAA41Ky.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2123948544411459616</guid>
+      <pubDate>Sat, 21 Nov 2026 01:16:08 +0000</pubDate>
+    </item>
     <item>
       <title>JUST IN 🚨: Nasdaq 100 $QQQ enters Bear Market 🐻 after plunging more than 20% fro</title>
       <link>https://x.com/Barchart/status/2123934123613995170</link>
@@ -172,24 +182,6 @@
       <content:encoded>&lt;p&gt;Bullish or Bearish on Anthropic? Meet @GraniteShares $AIL &amp;amp; $ANS ETFs https://x.com/i/broadcasts/2pedbPQAOLWWrk&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2123824341062480073</guid>
       <pubDate>Fri, 20 Nov 2026 17:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sell the S&amp;P 500 immediately because the AI Bubble is about to burst warns Panmu</title>
-      <link>https://x.com/Barchart/status/2123631033518116916</link>
-      <description>&lt;p&gt;Sell the S&amp;amp;P 500 immediately because the AI Bubble is about to burst warns Panmure Liberum 🚨 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXinK9VWcAA9nDx.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Sell the S&amp;amp;P 500 immediately because the AI Bubble is about to burst warns Panmure Liberum 🚨 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXinK9VWcAA9nDx.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123631033518116916</guid>
-      <pubDate>Fri, 20 Nov 2026 04:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://www.msn.com/en-us/money/general/the-ai-bubble-is-about-to-burst-sell-the</title>
-      <link>https://x.com/Barchart/status/2123631267145027681</link>
-      <description>&lt;p&gt;https://www.msn.com/en-us/money/general/the-ai-bubble-is-about-to-burst-sell-the-s-p-500-and-buy-this-instead-analyst-says/ar-AA2hLDTl&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;https://www.msn.com/en-us/money/general/the-ai-bubble-is-about-to-burst-sell-the-s-p-500-and-buy-this-instead-analyst-says/ar-AA2hLDTl&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123631267145027681</guid>
-      <pubDate>Fri, 20 Nov 2026 04:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
