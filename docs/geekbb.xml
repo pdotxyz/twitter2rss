@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 00:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:58:36 +0000</lastBuildDate>
+    <item>
+      <title>做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。 在 Node、浏览器和 Cloudflare Workers 中无需 Pyth</title>
+      <link>https://x.com/geekbb/status/2123944131961733206</link>
+      <description>&lt;p&gt;做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。&lt;br/&gt;&lt;br/&gt;在 Node、浏览器和 Cloudflare Workers 中无需 Python 或原生依赖，直接用纯 JavaScript/TypeScript 复现 matplotlib 3.11.2 的像素级图表渲染。&lt;br/&gt;&lt;br/&gt;https://github.com/ivarvong/mpl&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnD0x2boAAR6r3.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。&lt;br/&gt;&lt;br/&gt;在 Node、浏览器和 Cloudflare Workers 中无需 Python 或原生依赖，直接用纯 JavaScript/TypeScript 复现 matplotlib 3.11.2 的像素级图表渲染。&lt;br/&gt;&lt;br/&gt;https://github.com/ivarvong/mpl&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnD0x2boAAR6r3.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2123944131961733206</guid>
+      <pubDate>Sat, 21 Nov 2026 00:58:36 +0000</pubDate>
+    </item>
     <item>
       <title>别人恐惧我贪婪 这句话是谁说来着</title>
       <link>https://x.com/geekbb/status/2123933589486371143</link>
@@ -190,16 +200,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/laogui/status/2122731710240723323"&gt;@laogui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;现在到底有多少个 Grok Bot、Muse Bot 的替代品了？&lt;br/&gt;这个评测站收录了近百款同生态位的 Agent 替代产品。&lt;br/&gt;&lt;br/&gt;整体排名符合我的实际体验。排在前面的 OpenBot、Codync、agentes chat 体验确实不错。&lt;br/&gt;&lt;br/&gt;作者提前帮大家做好了筛选和排雷：&lt;br/&gt;- 是不是真正的个人助手？​ 偏企业工作区、编程工具或纯 Agent 客户端的，都被作者单独归类并写明排除原因。&lt;br/&gt;- 是开箱即用还是需要折腾？​ 清楚区分了闭源方案与适合自部署的开源项目。&lt;br/&gt;- 综合体验属于哪个梯队？作者给出了主观梯队分级，且声明零付费收录。&lt;br/&gt;&lt;br/&gt;网站：https://my-tierroom.party/explore?view=list&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXV00tCaUAAkQsT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123079454713102518</guid>
       <pubDate>Wed, 18 Nov 2026 15:42:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>免费开源的 Spotlight / Raycast 轻量平替 Rust 内核做本地搜索、SwiftUI 做界面，能搜 App、文件、剪贴板历史和图片/PDF 里</title>
-      <link>https://x.com/geekbb/status/2123062984310468918</link>
-      <description>&lt;p&gt;免费开源的 Spotlight / Raycast 轻量平替&lt;br/&gt;&lt;br/&gt;Rust 内核做本地搜索、SwiftUI 做界面，能搜 App、文件、剪贴板历史和图片/PDF 里的文字。&lt;br/&gt;&lt;br/&gt;https://github.com/cavaldos/Lumio&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123062279927484416/img/OoVqm5rceDC4C0kV.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;免费开源的 Spotlight / Raycast 轻量平替&lt;br/&gt;&lt;br/&gt;Rust 内核做本地搜索、SwiftUI 做界面，能搜 App、文件、剪贴板历史和图片/PDF 里的文字。&lt;br/&gt;&lt;br/&gt;https://github.com/cavaldos/Lumio&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123062279927484416/img/OoVqm5rceDC4C0kV.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123062984310468918</guid>
-      <pubDate>Wed, 18 Nov 2026 14:37:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
