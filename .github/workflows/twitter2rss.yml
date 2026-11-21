@@ -1,14 +1,16 @@
 name: twitter2rss
 
 on:
-  schedule:
-    - cron: "17 * * * *"   # hourly, UTC
   workflow_dispatch:
   repository_dispatch:
     types: [hourly-rss]
 
 permissions:
   contents: write
+
+concurrency:
+  group: twitter2rss
+  cancel-in-progress: false
 
 jobs:
   update-feeds:
