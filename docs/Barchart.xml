@@ -6,7 +6,17 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 02:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:37:12 +0000</lastBuildDate>
+    <item>
+      <title>Peter Lynch: “The market will go down sometimes. It’s a good thing when it does </title>
+      <link>https://x.com/Barchart/status/2123984044664734204</link>
+      <description>&lt;p&gt;Peter Lynch: “The market will go down sometimes.  It’s a good thing when it does but if you’re not ready for that, you shouldn’t own stocks.”&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/1755308910859231233/pu/img/WZAMfNbZi9OR-TTe.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Peter Lynch: “The market will go down sometimes.  It’s a good thing when it does but if you’re not ready for that, you shouldn’t own stocks.”&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/1755308910859231233/pu/img/WZAMfNbZi9OR-TTe.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2123984044664734204</guid>
+      <pubDate>Sat, 21 Nov 2026 03:37:12 +0000</pubDate>
+    </item>
     <item>
       <title>Blackrock's Bitcoin $BTC ETF plunges to most oversold level in history 📉 📉</title>
       <link>https://x.com/Barchart/status/2123965947790700561</link>
@@ -184,16 +194,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXldts_WAAAIXWA.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2123831741215293796</guid>
       <pubDate>Fri, 20 Nov 2026 17:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bears right now: “I told ya we’re coming”</title>
-      <link>https://x.com/Barchart/status/2123827528444068293</link>
-      <description>&lt;p&gt;Bears right now: “I told ya we’re coming”&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlZ4aGWUAACqmu.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Bears right now: “I told ya we’re coming”&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlZ4aGWUAACqmu.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123827528444068293</guid>
-      <pubDate>Fri, 20 Nov 2026 17:15:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
