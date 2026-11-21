@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>@LabSpeculation</title>
+    <link>https://x.com/LabSpeculation</link>
+    <description>Posts from x.com/LabSpeculation</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 21 Nov 2026 05:12:09 +0000</lastBuildDate>
+    <item>
+      <title>https://x.com/i/article/2124005860116684800</title>
+      <link>https://x.com/LabSpeculation/status/2124007940386394209</link>
+      <description>&lt;p&gt;https://x.com/i/article/2124005860116684800&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;https://x.com/i/article/2124005860116684800&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124007940386394209</guid>
+      <pubDate>Sat, 21 Nov 2026 05:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>用期望值法做交易还是很科学的，数学能战胜人性。 23岁他已经拿了三次世界交易赛冠军，意大利交易员Gianluca的期望值交易法，2026年3季度他又排第一，收益</title>
+      <link>https://x.com/LabSpeculation/status/2123986776893386948</link>
+      <description>&lt;p&gt;用期望值法做交易还是很科学的，数学能战胜人性。&lt;br/&gt;&lt;br/&gt;23岁他已经拿了三次世界交易赛冠军，意大利交易员Gianluca的期望值交易法，2026年3季度他又排第一，收益率做到了245%，非常的强😘🤑&lt;br/&gt;&lt;br/&gt;他做交易很有意思，每天最先做的就是先测行情的状态。&lt;br/&gt;&lt;br/&gt;不是去猜行情为什么涨跌，只在数据证明有优势的时候才出手，这套策略一共五步，测状态，看趋势，等信号，下单，定仓位，最后还会用凯利公式算冒多大风险！！&lt;br/&gt;&lt;br/&gt;测行情状态要看波动大不大，再看这种波动持续多久了。&lt;br/&gt;&lt;br/&gt;波动大小看 ATR 的百分位，百分位就是看现在的 ATR 在最近两百根 K 线里排在百分之几。比如80就是比八成的时候波动都大，从零到一百，他每二十五分一档，分成低中和高波动，还有极端。&lt;br/&gt;&lt;br/&gt;分档是因为同一套方法，高波动的时候能赚钱，但到了极端波动可能就亏了。&lt;br/&gt;&lt;br/&gt;所以回测时每一档都要分开算期望值，他这套在高波动，也就是五十一到七十五之间最好，持续多久，可以看 TradingView 上免费的贝叶斯变点指标。&lt;br/&gt;&lt;br/&gt;搜 Bayesian Changepoint 就有，叫监测选波动率。&lt;br/&gt;&lt;br/&gt;它会显示这种波动已经持续了多少根 K 线，三十根以内算新，状态新的时候最好做。六十根以内算成熟，再长就算老。&lt;br/&gt;&lt;br/&gt;第二步是看趋势，这个需要有图才说的清，看视频吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123981683406041088/img/8KZJgKmM-Z2gInmC.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;用期望值法做交易还是很科学的，数学能战胜人性。&lt;br/&gt;&lt;br/&gt;23岁他已经拿了三次世界交易赛冠军，意大利交易员Gianluca的期望值交易法，2026年3季度他又排第一，收益率做到了245%，非常的强😘🤑&lt;br/&gt;&lt;br/&gt;他做交易很有意思，每天最先做的就是先测行情的状态。&lt;br/&gt;&lt;br/&gt;不是去猜行情为什么涨跌，只在数据证明有优势的时候才出手，这套策略一共五步，测状态，看趋势，等信号，下单，定仓位，最后还会用凯利公式算冒多大风险！！&lt;br/&gt;&lt;br/&gt;测行情状态要看波动大不大，再看这种波动持续多久了。&lt;br/&gt;&lt;br/&gt;波动大小看 ATR 的百分位，百分位就是看现在的 ATR 在最近两百根 K 线里排在百分之几。比如80就是比八成的时候波动都大，从零到一百，他每二十五分一档，分成低中和高波动，还有极端。&lt;br/&gt;&lt;br/&gt;分档是因为同一套方法，高波动的时候能赚钱，但到了极端波动可能就亏了。&lt;br/&gt;&lt;br/&gt;所以回测时每一档都要分开算期望值，他这套在高波动，也就是五十一到七十五之间最好，持续多久，可以看 TradingView 上免费的贝叶斯变点指标。&lt;br/&gt;&lt;br/&gt;搜 Bayesian Changepoint 就有，叫监测选波动率。&lt;br/&gt;&lt;br/&gt;它会显示这种波动已经持续了多少根 K 线，三十根以内算新，状态新的时候最好做。六十根以内算成熟，再长就算老。&lt;br/&gt;&lt;br/&gt;第二步是看趋势，这个需要有图才说的清，看视频吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123981683406041088/img/8KZJgKmM-Z2gInmC.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123986776893386948</guid>
+      <pubDate>Sat, 21 Nov 2026 03:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>问 @grok SBF不是在牢里吗，怎么还能发 X 啊？</title>
+      <link>https://x.com/LabSpeculation/status/2123979918866530549</link>
+      <description>&lt;p&gt;问 @grok &lt;br/&gt;&lt;br/&gt;SBF不是在牢里吗，怎么还能发 X 啊？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/SBF_FTX/status/2123955799252984270"&gt;@SBF_FTX&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This guy wants to play me in season 2, what do we think&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnNNkLXQAA-fri.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;问 @grok &lt;br/&gt;&lt;br/&gt;SBF不是在牢里吗，怎么还能发 X 啊？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/SBF_FTX/status/2123955799252984270"&gt;@SBF_FTX&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This guy wants to play me in season 2, what do we think&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnNNkLXQAA-fri.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123979918866530549</guid>
+      <pubDate>Sat, 21 Nov 2026 03:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>股灾对于有仓位的人是灾难，对于会管理仓位的人来说都是机会。 比如方程式新闻的Vida，他现在就极度看涨，但现金还留着 87%，他说要等 QQQ 从高位跌掉四五成</title>
+      <link>https://x.com/LabSpeculation/status/2123960346784432625</link>
+      <description>&lt;p&gt;股灾对于有仓位的人是灾难，对于会管理仓位的人来说都是机会。&lt;br/&gt;&lt;br/&gt;比如方程式新闻的Vida，他现在就极度看涨，但现金还留着 87%，他说要等 QQQ 从高位跌掉四五成，才考虑把现金打完😂&lt;br/&gt;&lt;br/&gt;这次就是 2021 年 5 月币圈那种行业基本面没坏，只是去杠杆的回调。&lt;br/&gt;&lt;br/&gt;QQQ 再跌一成以内，他把仓位加到两成，再跌一到两成，加到三四成，要打完现金，得是 QQQ 高位回调四五成，或者全球资产一起大打折，杠杆这辈子不碰。&lt;br/&gt;&lt;br/&gt;我拿纳斯达克 100 的收盘价翻了一遍，QQQ 跟的就是它。&lt;br/&gt;&lt;br/&gt;他举的是 2008 年2020 年和 2022 年，2008 年那次跌了 54%，2020 年 3 月是 28%，2022 年是 36%，都没到四成。&lt;br/&gt;&lt;br/&gt;现在它离 10 月 6 号的高点已经跌了两成。&lt;br/&gt;&lt;br/&gt;QQQ 昨晚收 608，按他的线再跌一成，离高点就是 28%，跟 2020 年 3 月的底一样深，再跌两成离高点 36%，跟 2022 年的底一样深。&lt;br/&gt;&lt;br/&gt;也就是说，2020 和 2022 那种底真来了，他也只打到三四成仓位，子弹多的很。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnSksgbIAA_3Mj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;股灾对于有仓位的人是灾难，对于会管理仓位的人来说都是机会。&lt;br/&gt;&lt;br/&gt;比如方程式新闻的Vida，他现在就极度看涨，但现金还留着 87%，他说要等 QQQ 从高位跌掉四五成，才考虑把现金打完😂&lt;br/&gt;&lt;br/&gt;这次就是 2021 年 5 月币圈那种行业基本面没坏，只是去杠杆的回调。&lt;br/&gt;&lt;br/&gt;QQQ 再跌一成以内，他把仓位加到两成，再跌一到两成，加到三四成，要打完现金，得是 QQQ 高位回调四五成，或者全球资产一起大打折，杠杆这辈子不碰。&lt;br/&gt;&lt;br/&gt;我拿纳斯达克 100 的收盘价翻了一遍，QQQ 跟的就是它。&lt;br/&gt;&lt;br/&gt;他举的是 2008 年2020 年和 2022 年，2008 年那次跌了 54%，2020 年 3 月是 28%，2022 年是 36%，都没到四成。&lt;br/&gt;&lt;br/&gt;现在它离 10 月 6 号的高点已经跌了两成。&lt;br/&gt;&lt;br/&gt;QQQ 昨晚收 608，按他的线再跌一成，离高点就是 28%，跟 2020 年 3 月的底一样深，再跌两成离高点 36%，跟 2022 年的底一样深。&lt;br/&gt;&lt;br/&gt;也就是说，2020 和 2022 那种底真来了，他也只打到三四成仓位，子弹多的很。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnSksgbIAA_3Mj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123960346784432625</guid>
+      <pubDate>Sat, 21 Nov 2026 02:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达从 10 月的最高点跌了 47%，我把它上市 27 年的历史翻了一遍，之前 7 次跌到四成以上的情况，离最高点最后都跌破了50%，也就是还有空间。 这就是</title>
+      <link>https://x.com/LabSpeculation/status/2123947462931218837</link>
+      <description>&lt;p&gt;英伟达从 10 月的最高点跌了 47%，我把它上市 27 年的历史翻了一遍，之前 7 次跌到四成以上的情况，离最高点最后都跌破了50%，也就是还有空间。&lt;br/&gt;&lt;br/&gt;这就是我在Mercy直播里说的抄底的机会🤔&lt;br/&gt;&lt;br/&gt;周五它一天跌了 14%，路透说美国证监会在查它的账，具体查什么还不清楚。&lt;br/&gt;&lt;br/&gt;它已经连跌 7 天，从 10 月最高的 239 美元跌到了 125 美元，很多人在问能不能抄。&lt;br/&gt;&lt;br/&gt;我挑的是跌到和现在一样深的那天，假设当天收盘买进去，看后来怎么走，7 次里一年后 4 次赚钱 3 次亏钱，而且两头都很极端，赚的涨了 44% 到 170%，亏的还亏着 58% 到 64%。&lt;br/&gt;&lt;br/&gt;回来得最快的是 2001 年那次，一个月就回到了前高，2018 年和 2022 年那两次，买完也又跌了 12% 和 34%，一年多才回去。&lt;br/&gt;&lt;br/&gt;最惨的是 2002 年那次，买完又跌了 80%，等了四年半才回到前高，2008 年那次又跌了 70%，等了八年多，当然现在节奏都很快，价格极端大跌后经常会有暴力反弹的交易机会，可以先留意一下短线机会，机会很多。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnGAmcbwAA_S0k.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2122702811259605143"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;英伟达收盘就出财报了，我认为这一季的财报基本是不受影响的，肯定是超预期，这没什么悬念，而且大家也都知道会超预期。&lt;br/&gt;&lt;br/&gt;过去十二次财报，每次也都超了。&lt;br/&gt;&lt;br/&gt;这季的门槛其实很低，公司自己给的指引是一千零八十亿，华尔街的一致预期是一千零九十亿，只高一点点，过去两季它都比预期多了三到四个点，这季到1120亿以上我觉得问题都不大。&lt;br/&gt;&lt;br/&gt;但这季显不出什么来，因为这季度其实十月二十五号就结束了，该发的货早就发出去了，指引也是现在的临时CEO Kress 八月自己给的，老黄出事的时候已经是月底了。&lt;br/&gt;&lt;br/&gt;现在价格跌的这么厉害，其中有个原因是整个 AI 板块在一起跌，因为民主党掌握国会后，有可能会主动给AI行业降温，提前给行业挤泡沫，这就导致AI行业出现很多的不确定性，因为不确定政策会从哪下手。&lt;br/&gt;&lt;br/&gt;市场肯定不是在怀疑英伟达的实力，价格跌主要也是来自于不确定性。&lt;br/&gt;&lt;br/&gt;是对这家企业未来不确定性的一种担心，比如客户关系，马斯克说英伟达很多大单都是跟黄仁勋握手握出来的，属于是私人关系，不都是签的书面合同。&lt;br/&gt;&lt;br/&gt;这种创始人靠个人影响力个人魅力，能给企业带来很多好的机会。&lt;br/&gt;&lt;br/&gt;比如你看黄仁勋和三星，李在镕就很尊重他，黄仁勋甚至都能调侃李在镕说他小时候怎么怎么样，跟他父亲李健熙的私交也不错，还有现代的郑义宣，黄仁勋公开场合甚至都喊他们是兄弟。&lt;br/&gt;&lt;br/&gt;这都能说明黄仁勋对于英伟达的发展起到了非常大的作用，尤其是在销售网络，企业关系这些方面，一个创始人对于一个企业而言太重要了，这不是一个人的事。&lt;br/&gt;&lt;br/&gt;黄仁勋一走，有报道说都有云厂商的高管已经在考虑 AMD 和谷歌的芯片，就说他对企业对客户来说分量其实是非常重的。&lt;br/&gt;&lt;br/&gt;还有是给客户垫钱的业务，他们八月的时候说过，明年大概四分之一的生意要靠英伟达掏钱或者做担保撑着。&lt;br/&gt;&lt;br/&gt;这些钱不全是英伟达自己出，八月它拉了六家大机构搞融资平台，要从外面募五千多亿给这些客户用，但到现在，这个平台一单都还没公布，换了人以后，这些业务肯定会更保守。&lt;br/&gt;&lt;br/&gt;美国财长贝森特这几天还点名新加坡，说卖到那边的芯片只有百分之一留在了当地，让董事会十天之内给答案，这也会对英伟达的短期价格产生影响。&lt;br/&gt;&lt;br/&gt;内部问题也很大，尤其是英伟达没有二把手三把手，六十个左右的管理层直接向黄仁勋汇报工作，也就是说其实英伟达内部没有一个公认能独当一面的人能站出来顶起这个摊子。&lt;br/&gt;&lt;br/&gt;这些事财报解决不了，接替黄仁勋的CEO是谁还没定，贝森特要找外面的人，两家持股的基金写公开信要董事会别急着换人，还有十八万人签名请他回来，特朗普也说他回来自己肯定不介意，但这两天又有报道说，董事会不考虑让黄仁勋回来。&lt;br/&gt;&lt;br/&gt;总之现在非常乱，这种对于一个几万亿美金市值的大公司来说，影响可能会持续很长一段时间，内部外部都充满了不确定性，可以等等低价抄底的机会。&lt;br/&gt;&lt;br/&gt;后续有抄底机会了我会在我欧易星球跟进。http://oyidl.co/ul/m8uXR1g&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVa7bJakAAWjTk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;英伟达从 10 月的最高点跌了 47%，我把它上市 27 年的历史翻了一遍，之前 7 次跌到四成以上的情况，离最高点最后都跌破了50%，也就是还有空间。&lt;br/&gt;&lt;br/&gt;这就是我在Mercy直播里说的抄底的机会🤔&lt;br/&gt;&lt;br/&gt;周五它一天跌了 14%，路透说美国证监会在查它的账，具体查什么还不清楚。&lt;br/&gt;&lt;br/&gt;它已经连跌 7 天，从 10 月最高的 239 美元跌到了 125 美元，很多人在问能不能抄。&lt;br/&gt;&lt;br/&gt;我挑的是跌到和现在一样深的那天，假设当天收盘买进去，看后来怎么走，7 次里一年后 4 次赚钱 3 次亏钱，而且两头都很极端，赚的涨了 44% 到 170%，亏的还亏着 58% 到 64%。&lt;br/&gt;&lt;br/&gt;回来得最快的是 2001 年那次，一个月就回到了前高，2018 年和 2022 年那两次，买完也又跌了 12% 和 34%，一年多才回去。&lt;br/&gt;&lt;br/&gt;最惨的是 2002 年那次，买完又跌了 80%，等了四年半才回到前高，2008 年那次又跌了 70%，等了八年多，当然现在节奏都很快，价格极端大跌后经常会有暴力反弹的交易机会，可以先留意一下短线机会，机会很多。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnGAmcbwAA_S0k.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2122702811259605143"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;英伟达收盘就出财报了，我认为这一季的财报基本是不受影响的，肯定是超预期，这没什么悬念，而且大家也都知道会超预期。&lt;br/&gt;&lt;br/&gt;过去十二次财报，每次也都超了。&lt;br/&gt;&lt;br/&gt;这季的门槛其实很低，公司自己给的指引是一千零八十亿，华尔街的一致预期是一千零九十亿，只高一点点，过去两季它都比预期多了三到四个点，这季到1120亿以上我觉得问题都不大。&lt;br/&gt;&lt;br/&gt;但这季显不出什么来，因为这季度其实十月二十五号就结束了，该发的货早就发出去了，指引也是现在的临时CEO Kress 八月自己给的，老黄出事的时候已经是月底了。&lt;br/&gt;&lt;br/&gt;现在价格跌的这么厉害，其中有个原因是整个 AI 板块在一起跌，因为民主党掌握国会后，有可能会主动给AI行业降温，提前给行业挤泡沫，这就导致AI行业出现很多的不确定性，因为不确定政策会从哪下手。&lt;br/&gt;&lt;br/&gt;市场肯定不是在怀疑英伟达的实力，价格跌主要也是来自于不确定性。&lt;br/&gt;&lt;br/&gt;是对这家企业未来不确定性的一种担心，比如客户关系，马斯克说英伟达很多大单都是跟黄仁勋握手握出来的，属于是私人关系，不都是签的书面合同。&lt;br/&gt;&lt;br/&gt;这种创始人靠个人影响力个人魅力，能给企业带来很多好的机会。&lt;br/&gt;&lt;br/&gt;比如你看黄仁勋和三星，李在镕就很尊重他，黄仁勋甚至都能调侃李在镕说他小时候怎么怎么样，跟他父亲李健熙的私交也不错，还有现代的郑义宣，黄仁勋公开场合甚至都喊他们是兄弟。&lt;br/&gt;&lt;br/&gt;这都能说明黄仁勋对于英伟达的发展起到了非常大的作用，尤其是在销售网络，企业关系这些方面，一个创始人对于一个企业而言太重要了，这不是一个人的事。&lt;br/&gt;&lt;br/&gt;黄仁勋一走，有报道说都有云厂商的高管已经在考虑 AMD 和谷歌的芯片，就说他对企业对客户来说分量其实是非常重的。&lt;br/&gt;&lt;br/&gt;还有是给客户垫钱的业务，他们八月的时候说过，明年大概四分之一的生意要靠英伟达掏钱或者做担保撑着。&lt;br/&gt;&lt;br/&gt;这些钱不全是英伟达自己出，八月它拉了六家大机构搞融资平台，要从外面募五千多亿给这些客户用，但到现在，这个平台一单都还没公布，换了人以后，这些业务肯定会更保守。&lt;br/&gt;&lt;br/&gt;美国财长贝森特这几天还点名新加坡，说卖到那边的芯片只有百分之一留在了当地，让董事会十天之内给答案，这也会对英伟达的短期价格产生影响。&lt;br/&gt;&lt;br/&gt;内部问题也很大，尤其是英伟达没有二把手三把手，六十个左右的管理层直接向黄仁勋汇报工作，也就是说其实英伟达内部没有一个公认能独当一面的人能站出来顶起这个摊子。&lt;br/&gt;&lt;br/&gt;这些事财报解决不了，接替黄仁勋的CEO是谁还没定，贝森特要找外面的人，两家持股的基金写公开信要董事会别急着换人，还有十八万人签名请他回来，特朗普也说他回来自己肯定不介意，但这两天又有报道说，董事会不考虑让黄仁勋回来。&lt;br/&gt;&lt;br/&gt;总之现在非常乱，这种对于一个几万亿美金市值的大公司来说，影响可能会持续很长一段时间，内部外部都充满了不确定性，可以等等低价抄底的机会。&lt;br/&gt;&lt;br/&gt;后续有抄底机会了我会在我欧易星球跟进。http://oyidl.co/ul/m8uXR1g&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVa7bJakAAWjTk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123947462931218837</guid>
+      <pubDate>Sat, 21 Nov 2026 01:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>这导演当时是在边上吗，有点形象啊😂 这才是我心中的 CZ 啊，平时在线下活动在 X 上太亲切了，有时候我就想，这种人畜无害的老好人怎么能在币圈这种金钱帝国里登顶</title>
+      <link>https://x.com/LabSpeculation/status/2123935385252458662</link>
+      <description>&lt;p&gt;这导演当时是在边上吗，有点形象啊😂&lt;br/&gt;&lt;br/&gt;这才是我心中的 CZ 啊，平时在线下活动在 X 上太亲切了，有时候我就想，这种人畜无害的老好人怎么能在币圈这种金钱帝国里登顶呢。&lt;br/&gt;&lt;br/&gt;币圈这么多坏东西，离钱越近的地方坏东西越厉害，正义必胜在币圈也行得通吗。。&lt;br/&gt;&lt;br/&gt;来吧 CZ，让我们感受一下币圈大王的霸道吧🫡&lt;br/&gt;&lt;br/&gt;对了，这演员是二手玫瑰吗？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CryptoKaleo/status/2123781956810997823"&gt;@CryptoKaleo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is wild.&lt;br/&gt;&lt;br/&gt;Netflix is making SBF &amp;amp; Caroline look like they were pressured and groomed by CZ to commit their crimes.&lt;br/&gt;&lt;br/&gt;It practically frames them as innocent and him as the villain who orchestrated everything.&lt;br/&gt;&lt;br/&gt;Whoever wrote this script is shameless.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123731694205165568/img/Ia7P8zve_GYnsrw8.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;这导演当时是在边上吗，有点形象啊😂&lt;br/&gt;&lt;br/&gt;这才是我心中的 CZ 啊，平时在线下活动在 X 上太亲切了，有时候我就想，这种人畜无害的老好人怎么能在币圈这种金钱帝国里登顶呢。&lt;br/&gt;&lt;br/&gt;币圈这么多坏东西，离钱越近的地方坏东西越厉害，正义必胜在币圈也行得通吗。。&lt;br/&gt;&lt;br/&gt;来吧 CZ，让我们感受一下币圈大王的霸道吧🫡&lt;br/&gt;&lt;br/&gt;对了，这演员是二手玫瑰吗？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CryptoKaleo/status/2123781956810997823"&gt;@CryptoKaleo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This is wild.&lt;br/&gt;&lt;br/&gt;Netflix is making SBF &amp;amp; Caroline look like they were pressured and groomed by CZ to commit their crimes.&lt;br/&gt;&lt;br/&gt;It practically frames them as innocent and him as the villain who orchestrated everything.&lt;br/&gt;&lt;br/&gt;Whoever wrote this script is shameless.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123731694205165568/img/Ia7P8zve_GYnsrw8.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123935385252458662</guid>
+      <pubDate>Sat, 21 Nov 2026 00:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>这个值钱，Vinh Giang 价值199美元的说话练习说话演讲的方法，其实iPhone 自带的转文字就能做！！ 交易亏了的都看看，别找工作的时候说话都不利索，</title>
+      <link>https://x.com/LabSpeculation/status/2123923494983627085</link>
+      <description>&lt;p&gt;这个值钱，Vinh Giang 价值199美元的说话练习说话演讲的方法，其实iPhone 自带的转文字就能做！！&lt;br/&gt;&lt;br/&gt;交易亏了的都看看，别找工作的时候说话都不利索，那怎么赚钱补仓，说话紧张不利索的都可以练练，外网一周 300 多万人在看的说话练法🤔😘&lt;br/&gt;&lt;br/&gt;每天用手机录 3 分钟自己讲话，放一天再看，一次只改一处，讲这套的是沟通教练 Vinh Giang，他这周上了两档大播客，光一个印度播客那一集就有 166 万播放。&lt;br/&gt;&lt;br/&gt;每天录的时候，讲工作上常要讲的事，不准备，只录第一条，第二天看之前，先写一句你觉得自己哪里最差，然后当成看一个陌生人。&lt;br/&gt;&lt;br/&gt;先扣着屏幕只听声音，再静音只看动作，最后转成文字，把说了等于没说的口头禅圈出来，比如嗯和然后，挑一处改，第二天再录。&lt;br/&gt;&lt;br/&gt;先写那一句是有用的，牛津做过实验，看之前先写下猜测，看完一对，多半没你想的那么差。&lt;br/&gt;&lt;br/&gt;他们测的 47 个人里，98% 看完觉得自己比预想的好，不过这些人是社交焦虑症患者，普通人效果不一定这么大。&lt;br/&gt;&lt;br/&gt;还有一个荷兰的实验，练演讲只靠自己看录像的那组，进步只有老师给意见那组的三分之一，所以隔一阵，也可以找个朋友帮你看一次。&lt;br/&gt;&lt;br/&gt;我把练习流程做成了图卡，各位可以保存下反复看。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmwaEXbEAAqVqY.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;这个值钱，Vinh Giang 价值199美元的说话练习说话演讲的方法，其实iPhone 自带的转文字就能做！！&lt;br/&gt;&lt;br/&gt;交易亏了的都看看，别找工作的时候说话都不利索，那怎么赚钱补仓，说话紧张不利索的都可以练练，外网一周 300 多万人在看的说话练法🤔😘&lt;br/&gt;&lt;br/&gt;每天用手机录 3 分钟自己讲话，放一天再看，一次只改一处，讲这套的是沟通教练 Vinh Giang，他这周上了两档大播客，光一个印度播客那一集就有 166 万播放。&lt;br/&gt;&lt;br/&gt;每天录的时候，讲工作上常要讲的事，不准备，只录第一条，第二天看之前，先写一句你觉得自己哪里最差，然后当成看一个陌生人。&lt;br/&gt;&lt;br/&gt;先扣着屏幕只听声音，再静音只看动作，最后转成文字，把说了等于没说的口头禅圈出来，比如嗯和然后，挑一处改，第二天再录。&lt;br/&gt;&lt;br/&gt;先写那一句是有用的，牛津做过实验，看之前先写下猜测，看完一对，多半没你想的那么差。&lt;br/&gt;&lt;br/&gt;他们测的 47 个人里，98% 看完觉得自己比预想的好，不过这些人是社交焦虑症患者，普通人效果不一定这么大。&lt;br/&gt;&lt;br/&gt;还有一个荷兰的实验，练演讲只靠自己看录像的那组，进步只有老师给意见那组的三分之一，所以隔一阵，也可以找个朋友帮你看一次。&lt;br/&gt;&lt;br/&gt;我把练习流程做成了图卡，各位可以保存下反复看。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmwaEXbEAAqVqY.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123923494983627085</guid>
+      <pubDate>Fri, 20 Nov 2026 23:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>小韩挺住。 两周前我算了一下，韩国散户抄底的 SOXL 想回到 10 月初的价，得再涨2倍多，昨晚它一天跌了 32%，现在得涨将近 4 倍了🥲 10 月 1 号</title>
+      <link>https://x.com/LabSpeculation/status/2123916308110848228</link>
+      <description>&lt;p&gt;小韩挺住。&lt;br/&gt;&lt;br/&gt;两周前我算了一下，韩国散户抄底的 SOXL 想回到 10 月初的价，得再涨2倍多，昨晚它一天跌了 32%，现在得涨将近 4 倍了🥲&lt;br/&gt;&lt;br/&gt;10 月 1 号 SOXL 收 153.69，昨晚收 30.88，少了80%左右。。&lt;br/&gt;&lt;br/&gt;这个月到 18 号，韩国散户又往里净买了 21 亿多美元，还是他们买得最多的美股。&lt;br/&gt;&lt;br/&gt;11 月 5 号大跌完，它 4 天反弹了六成多，从 40 涨到 66，那几天抄到底的人是真赚了，之后 7 个交易日全吐回去，昨晚收盘比 11 月 5 号那天还低了 24%。&lt;br/&gt;&lt;br/&gt;6 月 22 号它最高收过 300 块，现在 30 块😂&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmqjclawAEGaDR.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2119254198592352341"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;韩国天台挤满了人。。&lt;br/&gt;&lt;br/&gt;外资这周把三星和海力士砸了 7.6 万亿韩元，接得最多的是韩国散户，接完转头又去美股买三倍做多芯片的 SOXL🥲&lt;br/&gt;&lt;br/&gt;这 7.6 万亿占了外资这周在韩股卖的七成多，光海力士一只就 5 万多亿。&lt;br/&gt;&lt;br/&gt;韩国散户在国内买了 4 万亿多的这两只，在美股又往 SOXL 里砸了 16 亿多美元。&lt;br/&gt;&lt;br/&gt;一周下来，三星跌了 16%，海力士跌了 20%。&lt;br/&gt;&lt;br/&gt;三星的外资持股也掉到了 45.95%，2009 年以后就没这么低过。&lt;br/&gt;&lt;br/&gt;周一韩国开盘，就看散户还接不接了。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HWkaUV4bUAA9raH.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;小韩挺住。&lt;br/&gt;&lt;br/&gt;两周前我算了一下，韩国散户抄底的 SOXL 想回到 10 月初的价，得再涨2倍多，昨晚它一天跌了 32%，现在得涨将近 4 倍了🥲&lt;br/&gt;&lt;br/&gt;10 月 1 号 SOXL 收 153.69，昨晚收 30.88，少了80%左右。。&lt;br/&gt;&lt;br/&gt;这个月到 18 号，韩国散户又往里净买了 21 亿多美元，还是他们买得最多的美股。&lt;br/&gt;&lt;br/&gt;11 月 5 号大跌完，它 4 天反弹了六成多，从 40 涨到 66，那几天抄到底的人是真赚了，之后 7 个交易日全吐回去，昨晚收盘比 11 月 5 号那天还低了 24%。&lt;br/&gt;&lt;br/&gt;6 月 22 号它最高收过 300 块，现在 30 块😂&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmqjclawAEGaDR.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2119254198592352341"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;韩国天台挤满了人。。&lt;br/&gt;&lt;br/&gt;外资这周把三星和海力士砸了 7.6 万亿韩元，接得最多的是韩国散户，接完转头又去美股买三倍做多芯片的 SOXL🥲&lt;br/&gt;&lt;br/&gt;这 7.6 万亿占了外资这周在韩股卖的七成多，光海力士一只就 5 万多亿。&lt;br/&gt;&lt;br/&gt;韩国散户在国内买了 4 万亿多的这两只，在美股又往 SOXL 里砸了 16 亿多美元。&lt;br/&gt;&lt;br/&gt;一周下来，三星跌了 16%，海力士跌了 20%。&lt;br/&gt;&lt;br/&gt;三星的外资持股也掉到了 45.95%，2009 年以后就没这么低过。&lt;br/&gt;&lt;br/&gt;周一韩国开盘，就看散户还接不接了。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HWkaUV4bUAA9raH.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123916308110848228</guid>
+      <pubDate>Fri, 20 Nov 2026 23:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>好兄弟排排坐。 既然你马斯克那么挺老黄，那就一块儿吧你俩😮‍💨</title>
+      <link>https://x.com/LabSpeculation/status/2123805345902711220</link>
+      <description>&lt;p&gt;好兄弟排排坐。&lt;br/&gt;&lt;br/&gt;既然你马斯克那么挺老黄，那就一块儿吧你俩😮‍💨&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlFtMYaEAAv63S.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;好兄弟排排坐。&lt;br/&gt;&lt;br/&gt;既然你马斯克那么挺老黄，那就一块儿吧你俩😮‍💨&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlFtMYaEAAv63S.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123805345902711220</guid>
+      <pubDate>Fri, 20 Nov 2026 15:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT: Anthropic 上市首日收涨 17%，昨晚敲钟现场的笑脸能持续多久？ 专题预测已上新，参与交易日收盘时的市值、价格等事件预测，上榜即可瓜分 50,000U </title>
+      <link>https://x.com/okxchinese/status/2123692131005161593</link>
+      <description>&lt;p&gt;Anthropic 上市首日收涨 17%，昨晚敲钟现场的笑脸能持续多久？&lt;br/&gt;&lt;br/&gt;专题预测已上新，参与交易日收盘时的市值、价格等事件预测，上榜即可瓜分 50,000U 奖池！&lt;br/&gt;&lt;br/&gt;目前已有 2,575 人上榜，最后一名 PnL 仅 +0.01 XP。该怎么做，不用小 O 多说了吧？👇&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXjdxJwbMAAhw-a.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Anthropic 上市首日收涨 17%，昨晚敲钟现场的笑脸能持续多久？&lt;br/&gt;&lt;br/&gt;专题预测已上新，参与交易日收盘时的市值、价格等事件预测，上榜即可瓜分 50,000U 奖池！&lt;br/&gt;&lt;br/&gt;目前已有 2,575 人上榜，最后一名 PnL 仅 +0.01 XP。该怎么做，不用小 O 多说了吧？👇&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXjdxJwbMAAhw-a.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/okxchinese/status/2123692131005161593</guid>
+      <pubDate>Fri, 20 Nov 2026 08:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>第一天七个人就卖了2000多万股，这全世界最聪明的大脑们是怎么想的。 为什么要这么着急卖。 @grok 用你不如他们聪明的脑袋分析一下Anthropic今天还会</title>
+      <link>https://x.com/LabSpeculation/status/2123664778958877136</link>
+      <description>&lt;p&gt;第一天七个人就卖了2000多万股，这全世界最聪明的大脑们是怎么想的。&lt;br/&gt;&lt;br/&gt;为什么要这么着急卖。&lt;br/&gt;&lt;br/&gt;@grok 用你不如他们聪明的脑袋分析一下Anthropic今天还会不会接着砸？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2122651856015114478"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Anthropic 周四开盘，第一天能卖的不止 8.25 亿股新股，员工手里最多还有 3.16 亿股，开盘就能卖😂&lt;br/&gt;&lt;br/&gt;我把 11 月 10 号那版招股书的解禁表翻出来了，第一行就是它，上市第一个交易日，非创始人的董事，高管，在职和离职的员工，顾问，最多 3.16 亿股可以卖。&lt;br/&gt;&lt;br/&gt;这个数快到新股的40%了。&lt;br/&gt;&lt;br/&gt;按欧易盘前合约现在 97 美元一股算，3.16 亿股是 300 多亿美元，招股书里还没行权的员工期权，平均行权价才 2.91 美元。。&lt;br/&gt;&lt;br/&gt;后面第 27，48，62，76 天各再放一批。&lt;br/&gt;&lt;br/&gt;按周三定价算，前五批到 2 月 2 号一共 16 亿多股，差不多是新股的两倍。&lt;br/&gt;&lt;br/&gt;订单是快 7 倍，但抢的是那 8.25 亿股。&lt;br/&gt;&lt;br/&gt;开盘以后，接盘的人可能要接的，是新股加员工最多 3 亿多股，这还只是 23 批里的第一批。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUsEdnbwAA_Iet.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUsNOVbYAAt8Fg.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;第一天七个人就卖了2000多万股，这全世界最聪明的大脑们是怎么想的。&lt;br/&gt;&lt;br/&gt;为什么要这么着急卖。&lt;br/&gt;&lt;br/&gt;@grok 用你不如他们聪明的脑袋分析一下Anthropic今天还会不会接着砸？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2122651856015114478"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Anthropic 周四开盘，第一天能卖的不止 8.25 亿股新股，员工手里最多还有 3.16 亿股，开盘就能卖😂&lt;br/&gt;&lt;br/&gt;我把 11 月 10 号那版招股书的解禁表翻出来了，第一行就是它，上市第一个交易日，非创始人的董事，高管，在职和离职的员工，顾问，最多 3.16 亿股可以卖。&lt;br/&gt;&lt;br/&gt;这个数快到新股的40%了。&lt;br/&gt;&lt;br/&gt;按欧易盘前合约现在 97 美元一股算，3.16 亿股是 300 多亿美元，招股书里还没行权的员工期权，平均行权价才 2.91 美元。。&lt;br/&gt;&lt;br/&gt;后面第 27，48，62，76 天各再放一批。&lt;br/&gt;&lt;br/&gt;按周三定价算，前五批到 2 月 2 号一共 16 亿多股，差不多是新股的两倍。&lt;br/&gt;&lt;br/&gt;订单是快 7 倍，但抢的是那 8.25 亿股。&lt;br/&gt;&lt;br/&gt;开盘以后，接盘的人可能要接的，是新股加员工最多 3 亿多股，这还只是 23 批里的第一批。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUsEdnbwAA_Iet.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUsNOVbYAAt8Fg.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123664778958877136</guid>
+      <pubDate>Fri, 20 Nov 2026 06:28:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>德国交易员帕特里克这个PbD策略真不错，建议各位把这张图留好。 他说这两三个月用这个方法做了八到十笔交易，笔笔都盈利了，虽说有点超常发挥。 他罗宾斯世界杯交易锦</title>
+      <link>https://x.com/LabSpeculation/status/2123616144888352903</link>
+      <description>&lt;p&gt;德国交易员帕特里克这个PbD策略真不错，建议各位把这张图留好。&lt;br/&gt;&lt;br/&gt;他说这两三个月用这个方法做了八到十笔交易，笔笔都盈利了，虽说有点超常发挥。&lt;br/&gt;&lt;br/&gt;他罗宾斯世界杯交易锦标赛的账户到十月份已经翻了3倍还多，他已经11次参赛挺进前5，两次拿冠军，这次又是锁定冠军的大热门🤓😘&lt;br/&gt;&lt;br/&gt;逻辑其实就一句话，70%的时间市场都在区间里来回，大资金就在区间里成交，成交不够了就把价格推一段，到下一个位置再横住。所以先找大资金成交最密的地方，在它的边上找单。&lt;br/&gt;&lt;br/&gt;第一步画区域，看周线的成交量分布，把上周价值区的上沿和下沿标出来，他一般画成价格带，左边横过盘的老位置也标上。上沿先找空，下沿先找多，但要等价格从远处打过来才用，前几天刚到过的不用。&lt;br/&gt;&lt;br/&gt;第二步画方框，价格到了区域就切到十五分钟图，一口气走过来的那段叫推动，推动走完横住的那段按 K 线实体画成方框。往上推再横住叫 P，往下推叫小写的 b，很宽能来回走好几回的叫 D。&lt;br/&gt;&lt;br/&gt;第三步进场，分三种情况。&lt;br/&gt;&lt;br/&gt;K 线收盘出了方框才算，跟推动反着出是他最喜欢的，通常还要等一下确认。跌破下沿又收回来的假突破做多，他说是最好的机会。&lt;br/&gt;&lt;br/&gt;一直不出方框的 D，碰过三次就两边挂单来回做，不等方框的，就在区域上直接挂限价单。&lt;br/&gt;&lt;br/&gt;第四步止损止盈，也按这三种情况放，盈亏比至少一点五倍，最好两倍以上，止盈一般分三份，止损只能往赚钱的方向挪。&lt;br/&gt;&lt;br/&gt;每笔最多亏百分之一，他算过，胜率就算五成，连亏迟早会碰上，所以每笔都要冒得小。&lt;br/&gt;&lt;br/&gt;比赛的时候方法一样，手法激进一些，每笔冒百分之二到三的风险，不做小的短线，基本傍晚就平掉，很早就分批止盈。&lt;br/&gt;&lt;br/&gt;每种情况的止损和目标放在哪，德指和美油两个例子怎么走，都在图里。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXiZn7tbwAAFjXU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;德国交易员帕特里克这个PbD策略真不错，建议各位把这张图留好。&lt;br/&gt;&lt;br/&gt;他说这两三个月用这个方法做了八到十笔交易，笔笔都盈利了，虽说有点超常发挥。&lt;br/&gt;&lt;br/&gt;他罗宾斯世界杯交易锦标赛的账户到十月份已经翻了3倍还多，他已经11次参赛挺进前5，两次拿冠军，这次又是锁定冠军的大热门🤓😘&lt;br/&gt;&lt;br/&gt;逻辑其实就一句话，70%的时间市场都在区间里来回，大资金就在区间里成交，成交不够了就把价格推一段，到下一个位置再横住。所以先找大资金成交最密的地方，在它的边上找单。&lt;br/&gt;&lt;br/&gt;第一步画区域，看周线的成交量分布，把上周价值区的上沿和下沿标出来，他一般画成价格带，左边横过盘的老位置也标上。上沿先找空，下沿先找多，但要等价格从远处打过来才用，前几天刚到过的不用。&lt;br/&gt;&lt;br/&gt;第二步画方框，价格到了区域就切到十五分钟图，一口气走过来的那段叫推动，推动走完横住的那段按 K 线实体画成方框。往上推再横住叫 P，往下推叫小写的 b，很宽能来回走好几回的叫 D。&lt;br/&gt;&lt;br/&gt;第三步进场，分三种情况。&lt;br/&gt;&lt;br/&gt;K 线收盘出了方框才算，跟推动反着出是他最喜欢的，通常还要等一下确认。跌破下沿又收回来的假突破做多，他说是最好的机会。&lt;br/&gt;&lt;br/&gt;一直不出方框的 D，碰过三次就两边挂单来回做，不等方框的，就在区域上直接挂限价单。&lt;br/&gt;&lt;br/&gt;第四步止损止盈，也按这三种情况放，盈亏比至少一点五倍，最好两倍以上，止盈一般分三份，止损只能往赚钱的方向挪。&lt;br/&gt;&lt;br/&gt;每笔最多亏百分之一，他算过，胜率就算五成，连亏迟早会碰上，所以每笔都要冒得小。&lt;br/&gt;&lt;br/&gt;比赛的时候方法一样，手法激进一些，每笔冒百分之二到三的风险，不做小的短线，基本傍晚就平掉，很早就分批止盈。&lt;br/&gt;&lt;br/&gt;每种情况的止损和目标放在哪，德指和美油两个例子怎么走，都在图里。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXiZn7tbwAAFjXU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123616144888352903</guid>
+      <pubDate>Fri, 20 Nov 2026 03:15:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>下巴锻炼80天居然有这效果，堪比整容，脸小了这么多😬 就这几个动作就行吗？</title>
+      <link>https://x.com/LabSpeculation/status/2123573199950749719</link>
+      <description>&lt;p&gt;下巴锻炼80天居然有这效果，堪比整容，脸小了这么多😬&lt;br/&gt;&lt;br/&gt;就这几个动作就行吗？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/XpressTR/status/2123422560243085462"&gt;@XpressTR&lt;/a&gt;&lt;/p&gt;&lt;p&gt;80 gün boyunca çene egzersizi yapan bir adam, görünümündeki dikkat çekici değişimi paylaşınca viral oldu.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123422502374297600/img/0JDqkq66F_d69NfU.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;下巴锻炼80天居然有这效果，堪比整容，脸小了这么多😬&lt;br/&gt;&lt;br/&gt;就这几个动作就行吗？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/XpressTR/status/2123422560243085462"&gt;@XpressTR&lt;/a&gt;&lt;/p&gt;&lt;p&gt;80 gün boyunca çene egzersizi yapan bir adam, görünümündeki dikkat çekici değişimi paylaşınca viral oldu.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123422502374297600/img/0JDqkq66F_d69NfU.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123573199950749719</guid>
+      <pubDate>Fri, 20 Nov 2026 00:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT: 1915 年，利弗莫尔刚刚破产，有人答应给他 500 股的本金让他东山再起，他很看好一支股，但接下来六个星期他一单也没下，他甚至躲到不能下单的地方，怕自己管不住</title>
+      <link>https://x.com/LabSpeculation/status/2123363137156161861</link>
+      <description>&lt;p&gt;1915 年，利弗莫尔刚刚破产，有人答应给他 500 股的本金让他东山再起，他很看好一支股，但接下来六个星期他一单也没下，他甚至躲到不能下单的地方，怕自己管不住手😮‍💨🥸&lt;br/&gt;&lt;br/&gt;14 岁他在证券行抄报价，拿小本子先写猜测，再等价格验证。&lt;br/&gt;&lt;br/&gt;1901 年他有近 5 万美元，纸带延迟，方向对了两次都没拿到要的成交，不到一天赔光，他从铁路发新股要分期付款看出钱紧了，等股票抬不动才加空。&lt;br/&gt;&lt;br/&gt;1907 年他怕交易所关门，先开始平空单，银行家又托人带话为国家想一想，那天身家过 100 万美元，30 岁。&lt;br/&gt;&lt;br/&gt;七月棉花他先想空头要买回时谁卖给他们，《世界报》说他控制了七月棉花，送来了买家，10 分钟卖完 14 万包，他在书里的说法是事先毫不知情。&lt;br/&gt;&lt;br/&gt;后来他在棉花上亏掉九成以上，为 20 万美元的账单去找交易，欠债超过 100 万，1915 年破产。&lt;br/&gt;&lt;br/&gt;1916 年净赚约 300 万，按回忆录记下的数目，这笔交易后来牵涉国会调查，按回忆录的说法，他几个星期前就建好主要空单，调查记录同时显示，消息公开之前他确实见过经纪商转来的一份提前信息。&lt;br/&gt;&lt;br/&gt;1917 年他还清 100 多万旧债，连免掉的也还，后来给妻儿设信托，避免自己下一次非要交易再破产。&lt;br/&gt;&lt;br/&gt;我图里下面四张卡是这么画的。&lt;br/&gt;&lt;br/&gt;1 号是棉花在赔，别的在赚，上一次他卖掉赚钱的小麦，棉花从 6 万包加到 44 万包。1917 年他赚的兑现，棉花也卖了，还剩超过 100 万。&lt;br/&gt;&lt;br/&gt;2 号是领涨股走弱，1916 年他一只走弱空一笔，整个市场转弱才加倍到 12 万股。二十年代末按他后来在《如何交易股票》里的自述，他把部分板块走弱推成整个市场该跌，反复找顶，赔了不少。&lt;br/&gt;&lt;br/&gt;3 号是听别人的，经纪人说有内部消息，他把赚钱的持仓换成亏损。书里叫托马斯的人说公开资料有问题，他转去做多。书里叫威廉森的经纪商把他的空单改成多单，他倒欠 15 万。&lt;br/&gt;&lt;br/&gt;4 号是加仓放在哪，1906 年联合太平洋跌破平均卖价他才加，1915 年那 500 股在 98 到 99 买进，第一笔赚了才买第二笔，第二天到 145。&lt;br/&gt;&lt;br/&gt;可同样一个人，已经用过正确的办法，下一次仍然可能做错。&lt;br/&gt;&lt;br/&gt;1929 年赚一亿美元的说法没有可靠确认，《时代》报道那场崩盘重创了他，现有说法互相冲突，1934 年他再次破产，负债约 226 万，56 岁。&lt;br/&gt;&lt;br/&gt;钱怎样一笔笔损失，现有资料不足以完整重建，不能把整个过程归给一笔猜错的交易。&lt;br/&gt;&lt;br/&gt;1940 年他出版《如何交易股票》，用六栏表记价格，同年 11 月 28 日，他在纽约自杀去世，63 岁，他经历的财务和家庭困境，都无法单独解释这个结局。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXexEOgbMAAzMB8.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;1915 年，利弗莫尔刚刚破产，有人答应给他 500 股的本金让他东山再起，他很看好一支股，但接下来六个星期他一单也没下，他甚至躲到不能下单的地方，怕自己管不住手😮‍💨🥸&lt;br/&gt;&lt;br/&gt;14 岁他在证券行抄报价，拿小本子先写猜测，再等价格验证。&lt;br/&gt;&lt;br/&gt;1901 年他有近 5 万美元，纸带延迟，方向对了两次都没拿到要的成交，不到一天赔光，他从铁路发新股要分期付款看出钱紧了，等股票抬不动才加空。&lt;br/&gt;&lt;br/&gt;1907 年他怕交易所关门，先开始平空单，银行家又托人带话为国家想一想，那天身家过 100 万美元，30 岁。&lt;br/&gt;&lt;br/&gt;七月棉花他先想空头要买回时谁卖给他们，《世界报》说他控制了七月棉花，送来了买家，10 分钟卖完 14 万包，他在书里的说法是事先毫不知情。&lt;br/&gt;&lt;br/&gt;后来他在棉花上亏掉九成以上，为 20 万美元的账单去找交易，欠债超过 100 万，1915 年破产。&lt;br/&gt;&lt;br/&gt;1916 年净赚约 300 万，按回忆录记下的数目，这笔交易后来牵涉国会调查，按回忆录的说法，他几个星期前就建好主要空单，调查记录同时显示，消息公开之前他确实见过经纪商转来的一份提前信息。&lt;br/&gt;&lt;br/&gt;1917 年他还清 100 多万旧债，连免掉的也还，后来给妻儿设信托，避免自己下一次非要交易再破产。&lt;br/&gt;&lt;br/&gt;我图里下面四张卡是这么画的。&lt;br/&gt;&lt;br/&gt;1 号是棉花在赔，别的在赚，上一次他卖掉赚钱的小麦，棉花从 6 万包加到 44 万包。1917 年他赚的兑现，棉花也卖了，还剩超过 100 万。&lt;br/&gt;&lt;br/&gt;2 号是领涨股走弱，1916 年他一只走弱空一笔，整个市场转弱才加倍到 12 万股。二十年代末按他后来在《如何交易股票》里的自述，他把部分板块走弱推成整个市场该跌，反复找顶，赔了不少。&lt;br/&gt;&lt;br/&gt;3 号是听别人的，经纪人说有内部消息，他把赚钱的持仓换成亏损。书里叫托马斯的人说公开资料有问题，他转去做多。书里叫威廉森的经纪商把他的空单改成多单，他倒欠 15 万。&lt;br/&gt;&lt;br/&gt;4 号是加仓放在哪，1906 年联合太平洋跌破平均卖价他才加，1915 年那 500 股在 98 到 99 买进，第一笔赚了才买第二笔，第二天到 145。&lt;br/&gt;&lt;br/&gt;可同样一个人，已经用过正确的办法，下一次仍然可能做错。&lt;br/&gt;&lt;br/&gt;1929 年赚一亿美元的说法没有可靠确认，《时代》报道那场崩盘重创了他，现有说法互相冲突，1934 年他再次破产，负债约 226 万，56 岁。&lt;br/&gt;&lt;br/&gt;钱怎样一笔笔损失，现有资料不足以完整重建，不能把整个过程归给一笔猜错的交易。&lt;br/&gt;&lt;br/&gt;1940 年他出版《如何交易股票》，用六栏表记价格，同年 11 月 28 日，他在纽约自杀去世，63 岁，他经历的财务和家庭困境，都无法单独解释这个结局。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXexEOgbMAAzMB8.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123363137156161861</guid>
+      <pubDate>Thu, 19 Nov 2026 10:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>这个交易冠军的MACD策略真不错，做了个图卡方便各位经常看。 西班牙交易员 David，只用 90 天就把收益率做到了 2222%，拿下 2026 年世界杯交易</title>
+      <link>https://x.com/LabSpeculation/status/2123559280456724874</link>
+      <description>&lt;p&gt;这个交易冠军的MACD策略真不错，做了个图卡方便各位经常看。&lt;br/&gt;&lt;br/&gt;西班牙交易员 David，只用 90 天就把收益率做到了 2222%，拿下 2026 年世界杯交易锦标赛期货日内赛第二季度的冠军，连着五个季度冠军都成了他的。&lt;br/&gt;&lt;br/&gt;他说他拿冠军的方法，就是成交量，斐波那契，MACD 和 RSI 组成的大背离策略，又简单又傻又老土，但是管用，我把这套 MACD 三背离压成了这一张图。&lt;br/&gt;&lt;br/&gt;他认为一段行情走到头，价格经常会回撤这一段的三分之二，他做的就是回撤的这一段。有没有走到头看背离，价格创了新高，指标却没跟着创新高，就说明往上推的力量已经不够用，起码短期不够用。&lt;br/&gt;&lt;br/&gt;这四样里 MACD 是主导，MACD 不背离，RSI 和成交量再好看也不做。&lt;br/&gt;&lt;br/&gt;价格创了新高，快线的高点却比上一个高点低，就是顶背离找做空，新低反过来就是底背离找做多。&lt;br/&gt;&lt;br/&gt;先找位置，在日线和一小时图上标出支撑和阻力，价格到了不提前挂限价单去接，要等背离出来，看背离和进场用小周期，纳指他看三十秒图，也可以用一分钟和五分钟。&lt;br/&gt;&lt;br/&gt;再定手数，MACD 背离先下一手，RSI 也背离再多下一手，新高这根的成交量比上一个高点那根小，再多下一手，三样都背离就是三手。&lt;br/&gt;&lt;br/&gt;然后用斐波那契定进场和止损。做空就从两个高点中间的最低点拉到新高，跌破 23.6 那条线一跳就进，止损放在新高上面一跳，拉的这一段越小止损越近。&lt;br/&gt;&lt;br/&gt;目标看大一级的那一整波，从这一波上涨的起点再拉一个斐波那契。刚学的时候到 38.2 就全部走，做熟了以后再留一手去拿三分之二。&lt;br/&gt;&lt;br/&gt;止损只在赚钱以后才挪，先挪到保本，亏钱的时候不动。&lt;br/&gt;&lt;br/&gt;刚学的人先别做开盘那一段，每天的亏损上限至少留够两三笔止损的钱，当天赚到目标就不要再交易了。&lt;br/&gt;&lt;br/&gt;隐藏背离和他说碰上了就是市场白送钱的 MACD 失败怎么认，还有 1 月 13 日和 9 月 23 日那两笔纳指单子是怎么做的，都在图里。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXhl4kuaQAATSzp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;这个交易冠军的MACD策略真不错，做了个图卡方便各位经常看。&lt;br/&gt;&lt;br/&gt;西班牙交易员 David，只用 90 天就把收益率做到了 2222%，拿下 2026 年世界杯交易锦标赛期货日内赛第二季度的冠军，连着五个季度冠军都成了他的。&lt;br/&gt;&lt;br/&gt;他说他拿冠军的方法，就是成交量，斐波那契，MACD 和 RSI 组成的大背离策略，又简单又傻又老土，但是管用，我把这套 MACD 三背离压成了这一张图。&lt;br/&gt;&lt;br/&gt;他认为一段行情走到头，价格经常会回撤这一段的三分之二，他做的就是回撤的这一段。有没有走到头看背离，价格创了新高，指标却没跟着创新高，就说明往上推的力量已经不够用，起码短期不够用。&lt;br/&gt;&lt;br/&gt;这四样里 MACD 是主导，MACD 不背离，RSI 和成交量再好看也不做。&lt;br/&gt;&lt;br/&gt;价格创了新高，快线的高点却比上一个高点低，就是顶背离找做空，新低反过来就是底背离找做多。&lt;br/&gt;&lt;br/&gt;先找位置，在日线和一小时图上标出支撑和阻力，价格到了不提前挂限价单去接，要等背离出来，看背离和进场用小周期，纳指他看三十秒图，也可以用一分钟和五分钟。&lt;br/&gt;&lt;br/&gt;再定手数，MACD 背离先下一手，RSI 也背离再多下一手，新高这根的成交量比上一个高点那根小，再多下一手，三样都背离就是三手。&lt;br/&gt;&lt;br/&gt;然后用斐波那契定进场和止损。做空就从两个高点中间的最低点拉到新高，跌破 23.6 那条线一跳就进，止损放在新高上面一跳，拉的这一段越小止损越近。&lt;br/&gt;&lt;br/&gt;目标看大一级的那一整波，从这一波上涨的起点再拉一个斐波那契。刚学的时候到 38.2 就全部走，做熟了以后再留一手去拿三分之二。&lt;br/&gt;&lt;br/&gt;止损只在赚钱以后才挪，先挪到保本，亏钱的时候不动。&lt;br/&gt;&lt;br/&gt;刚学的人先别做开盘那一段，每天的亏损上限至少留够两三笔止损的钱，当天赚到目标就不要再交易了。&lt;br/&gt;&lt;br/&gt;隐藏背离和他说碰上了就是市场白送钱的 MACD 失败怎么认，还有 1 月 13 日和 9 月 23 日那两笔纳指单子是怎么做的，都在图里。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXhl4kuaQAATSzp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123559280456724874</guid>
+      <pubDate>Thu, 19 Nov 2026 23:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>这就是马斯克让X上无语言障碍后的福利，你可以看到各种以前没有见到过的美丽诗歌。 感谢马斯克。</title>
+      <link>https://x.com/LabSpeculation/status/2123555942356955587</link>
+      <description>&lt;p&gt;这就是马斯克让X上无语言障碍后的福利，你可以看到各种以前没有见到过的美丽诗歌。&lt;br/&gt;&lt;br/&gt;感谢马斯克。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/himahima_ns8/status/2122978131715989853"&gt;@himahima_ns8&lt;/a&gt;&lt;/p&gt;&lt;p&gt;うんちってあんなに臭いのに、&lt;br/&gt;体の中だと無臭なのバグすぎる。&lt;br/&gt;肛門の密閉力ってまじで優秀。&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;这就是马斯克让X上无语言障碍后的福利，你可以看到各种以前没有见到过的美丽诗歌。&lt;br/&gt;&lt;br/&gt;感谢马斯克。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/himahima_ns8/status/2122978131715989853"&gt;@himahima_ns8&lt;/a&gt;&lt;/p&gt;&lt;p&gt;うんちってあんなに臭いのに、&lt;br/&gt;体の中だと無臭なのバグすぎる。&lt;br/&gt;肛門の密閉力ってまじで優秀。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123555942356955587</guid>
+      <pubDate>Thu, 19 Nov 2026 23:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT: https://x.com/i/article/2123296636176826368</title>
+      <link>https://x.com/Mercy_okx/status/2123318306593747021</link>
+      <description>&lt;p&gt;https://x.com/i/article/2123296636176826368&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;https://x.com/i/article/2123296636176826368&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Mercy_okx/status/2123318306593747021</guid>
+      <pubDate>Thu, 19 Nov 2026 07:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>CZ 没说这轮暴跌是 Anthropic 打新砸的，他那条原话第一句是没人确定，相关不等于因果😂 他发帖聊币价为什么跌，列了五个可能的原因。 第一个是钱挪去打 </title>
+      <link>https://x.com/LabSpeculation/status/2123437842630422801</link>
+      <description>&lt;p&gt;CZ 没说这轮暴跌是 Anthropic 打新砸的，他那条原话第一句是没人确定，相关不等于因果😂&lt;br/&gt;&lt;br/&gt;他发帖聊币价为什么跌，列了五个可能的原因。&lt;br/&gt;&lt;br/&gt;第一个是钱挪去打 Anthropic 的新，附的是 Matt Cole 那张 SpaceX 对比图。原帖有 339 万观看。&lt;br/&gt;&lt;br/&gt;第二个是 ETF，美国比特币现货 ETF 七个交易日流出大约 19 亿美元。&lt;br/&gt;&lt;br/&gt;后面三个是币安被盗这些安全事件，美国通胀太热市场押还要加息，中期选举后怕加密政策变严。&lt;br/&gt;&lt;br/&gt;最后他补了一句，这几天他自己在买币，刚拿到一些稳定币，说也许这才是原因。。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXf3XuLbUAAH1G2.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;CZ 没说这轮暴跌是 Anthropic 打新砸的，他那条原话第一句是没人确定，相关不等于因果😂&lt;br/&gt;&lt;br/&gt;他发帖聊币价为什么跌，列了五个可能的原因。&lt;br/&gt;&lt;br/&gt;第一个是钱挪去打 Anthropic 的新，附的是 Matt Cole 那张 SpaceX 对比图。原帖有 339 万观看。&lt;br/&gt;&lt;br/&gt;第二个是 ETF，美国比特币现货 ETF 七个交易日流出大约 19 亿美元。&lt;br/&gt;&lt;br/&gt;后面三个是币安被盗这些安全事件，美国通胀太热市场押还要加息，中期选举后怕加密政策变严。&lt;br/&gt;&lt;br/&gt;最后他补了一句，这几天他自己在买币，刚拿到一些稳定币，说也许这才是原因。。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXf3XuLbUAAH1G2.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123437842630422801</guid>
+      <pubDate>Thu, 19 Nov 2026 15:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克今天说特斯拉要继续在中国加产。但特斯拉 10 月在国内只卖了 8817 辆，比去年同月少了三分之二，51 个月来第一次跌破一万辆🥲 这句话是他今天在深圳见</title>
+      <link>https://x.com/LabSpeculation/status/2123421994016481534</link>
+      <description>&lt;p&gt;马斯克今天说特斯拉要继续在中国加产。但特斯拉 10 月在国内只卖了 8817 辆，比去年同月少了三分之二，51 个月来第一次跌破一万辆🥲&lt;br/&gt;&lt;br/&gt;这句话是他今天在深圳见贸促会会长任鸿斌时说的，中午前玉渊谭天发出来，晚上他人已经到了上海工厂。&lt;br/&gt;&lt;br/&gt;我去翻了 10 月的数，上海工厂那个月一共卖出去 6.8 万辆，出口 5.9 万辆，将近九成直接装船运走了。&lt;br/&gt;&lt;br/&gt;北京一家门店的销售跟界面新闻说，10 月交付中心一天只交几台车。&lt;br/&gt;&lt;br/&gt;所以这个加产，加的主要是出口。&lt;br/&gt;&lt;br/&gt;消息中午出来之后，欧易的特斯拉永续从 386 涨到最高 393，现在 391 左右，比昨晚美股收盘高了快 2%。&lt;br/&gt;&lt;br/&gt;看下个月乘联会出的 11 月国内数吧😂&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfov_QaIAE1xSd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;马斯克今天说特斯拉要继续在中国加产。但特斯拉 10 月在国内只卖了 8817 辆，比去年同月少了三分之二，51 个月来第一次跌破一万辆🥲&lt;br/&gt;&lt;br/&gt;这句话是他今天在深圳见贸促会会长任鸿斌时说的，中午前玉渊谭天发出来，晚上他人已经到了上海工厂。&lt;br/&gt;&lt;br/&gt;我去翻了 10 月的数，上海工厂那个月一共卖出去 6.8 万辆，出口 5.9 万辆，将近九成直接装船运走了。&lt;br/&gt;&lt;br/&gt;北京一家门店的销售跟界面新闻说，10 月交付中心一天只交几台车。&lt;br/&gt;&lt;br/&gt;所以这个加产，加的主要是出口。&lt;br/&gt;&lt;br/&gt;消息中午出来之后，欧易的特斯拉永续从 386 涨到最高 393，现在 391 左右，比昨晚美股收盘高了快 2%。&lt;br/&gt;&lt;br/&gt;看下个月乘联会出的 11 月国内数吧😂&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfov_QaIAE1xSd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2123421994016481534</guid>
+      <pubDate>Thu, 19 Nov 2026 14:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT: 今晚 $ANT</title>
+      <link>https://x.com/Mercy_okx/status/2123377012501025108</link>
+      <description>&lt;p&gt;今晚 $ANT&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfAIpCbkAATFvr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Mercy_okx/status/2121199571556545004"&gt;@Mercy_okx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2121194064905420800&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;今晚 $ANT&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfAIpCbkAATFvr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Mercy_okx/status/2121199571556545004"&gt;@Mercy_okx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2121194064905420800&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Mercy_okx/status/2123377012501025108</guid>
+      <pubDate>Thu, 19 Nov 2026 11:25:04 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
