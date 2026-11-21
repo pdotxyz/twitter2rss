@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 19:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2124240180810801469</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-rwibMAANzSF.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-rwibMAANzSF.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124240180810801469</guid>
+      <pubDate>Sat, 21 Nov 2026 20:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>TS Lombard指出，由2年期利差、风险情绪、全球制造业PMI及美联储会议纪要情绪等多因子合成的TS Lombard美元多空指标目前已攀升至正0.9，创下2</title>
       <link>https://x.com/fingraph66/status/2124225081144652274</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-eE1aIAAw-Vr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2124028536340230337</guid>
       <pubDate>Sat, 21 Nov 2026 06:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>科创50指数较年内高点回撤约45%，远超纳斯达克100指数13%的跌幅，核心原因在于两者的上涨驱动力截然不同。自2023年底以来，受美国限制英伟达H20芯片及中</title>
-      <link>https://x.com/fingraph66/status/2124026523095277759</link>
-      <description>&lt;p&gt;科创50指数较年内高点回撤约45%，远超纳斯达克100指数13%的跌幅，核心原因在于两者的上涨驱动力截然不同。自2023年底以来，受美国限制英伟达H20芯片及中国本土采购政策催化，科创50的涨幅绝大部分依赖远期市盈率扩张（2026年7月中旬静态市盈率达220倍、远期市盈率超80倍）；相比之下，纳斯达克100指数的累计涨幅几乎完全由每股收益（EPS）增长驱动，2026年甚至伴随着估值收缩，因此缺乏盈利支撑的科创板在情绪退潮时面临更剧烈重置。&lt;br/&gt;来源：法国外贸银行（ 《当科创板不再闪耀：中国自主可控交易面临估值重置》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXat_ZubIAARJl5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;科创50指数较年内高点回撤约45%，远超纳斯达克100指数13%的跌幅，核心原因在于两者的上涨驱动力截然不同。自2023年底以来，受美国限制英伟达H20芯片及中国本土采购政策催化，科创50的涨幅绝大部分依赖远期市盈率扩张（2026年7月中旬静态市盈率达220倍、远期市盈率超80倍）；相比之下，纳斯达克100指数的累计涨幅几乎完全由每股收益（EPS）增长驱动，2026年甚至伴随着估值收缩，因此缺乏盈利支撑的科创板在情绪退潮时面临更剧烈重置。&lt;br/&gt;来源：法国外贸银行（ 《当科创板不再闪耀：中国自主可控交易面临估值重置》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXat_ZubIAARJl5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124026523095277759</guid>
-      <pubDate>Sat, 21 Nov 2026 06:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
