@@ -6,7 +6,17 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 04:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:18:05 +0000</lastBuildDate>
+    <item>
+      <title>Semiconductor Stocks $SOXX have plunged 35% since the end of September, on track</title>
+      <link>https://x.com/Barchart/status/2124009432447107304</link>
+      <description>&lt;p&gt;Semiconductor Stocks $SOXX have plunged 35% since the end of September, on track for their largest 2-month loss this century 🚨 🚨 🚨&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXn_UsDWEAEZ2nT.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Semiconductor Stocks $SOXX have plunged 35% since the end of September, on track for their largest 2-month loss this century 🚨 🚨 🚨&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXn_UsDWEAEZ2nT.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2124009432447107304</guid>
+      <pubDate>Sat, 21 Nov 2026 05:18:05 +0000</pubDate>
+    </item>
     <item>
       <title>BREAKING 🚨: Bitcoin $BTC Timberrrrrrrrrrrrrrrrrrrrrrrrrrrr 📉 📉</title>
       <link>https://x.com/Barchart/status/2124003530553843733</link>
@@ -184,16 +194,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXltpuPWgAAXlxN.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2123849266607304875</guid>
       <pubDate>Fri, 20 Nov 2026 18:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>BREAKING 🚨: Nvidia $NVDA now trading below its 200-day moving average by the lar</title>
-      <link>https://x.com/Barchart/status/2123841513293566110</link>
-      <description>&lt;p&gt;BREAKING 🚨: Nvidia&lt;br/&gt;&lt;br/&gt;$NVDA now trading below its 200-day moving average by the largest margin in 4 years 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlmmg6X0AAgW95.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BREAKING 🚨: Nvidia&lt;br/&gt;&lt;br/&gt;$NVDA now trading below its 200-day moving average by the largest margin in 4 years 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlmmg6X0AAgW95.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123841513293566110</guid>
-      <pubDate>Fri, 20 Nov 2026 18:10:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
