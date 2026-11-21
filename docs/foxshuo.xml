@@ -6,7 +6,17 @@
     <description>Posts from x.com/foxshuo</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 02:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:40:00 +0000</lastBuildDate>
+    <item>
+      <title>梆硬……</title>
+      <link>https://x.com/foxshuo/status/2124060244917834111</link>
+      <description>&lt;p&gt;梆硬……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123898541970173952/img/gUmexpVGtUOYcOap.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;梆硬……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123898541970173952/img/gUmexpVGtUOYcOap.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/foxshuo/status/2124060244917834111</guid>
+      <pubDate>Sat, 21 Nov 2026 08:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>关于「自动驾驶能不能让我上班的时候我的车自己开出去帮我赚钱」这个曾经的热评，马斯克好像在把它变成现实。 在美国部分州，特斯拉已经在定向开放Cybercab的购买</title>
       <link>https://x.com/foxshuo/status/2123959833649156503</link>
@@ -182,16 +192,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXQU-1yaoAA6M_J.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/foxshuo/status/2122521355211952304</guid>
       <pubDate>Tue, 17 Nov 2026 02:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>很久没法马尔芙了，这个腰臀比喜欢吗？#malfoid</title>
-      <link>https://x.com/foxshuo/status/2122343950476603637</link>
-      <description>&lt;p&gt;很久没法马尔芙了，这个腰臀比喜欢吗？#malfoid&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122314884662931456/img/S0H4MNVo-MfzeDHu.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;很久没法马尔芙了，这个腰臀比喜欢吗？#malfoid&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122314884662931456/img/S0H4MNVo-MfzeDHu.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/foxshuo/status/2122343950476603637</guid>
-      <pubDate>Mon, 16 Nov 2026 15:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

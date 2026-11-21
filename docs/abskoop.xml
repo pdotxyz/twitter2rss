@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 08:59:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:05:55 +0000</lastBuildDate>
+    <item>
+      <title>原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️</title>
+      <link>https://x.com/abskoop/status/2124066766985052559</link>
+      <description>&lt;p&gt;原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXozdhAaAAAWoXn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXozdhAaAAAWoXn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124066766985052559</guid>
+      <pubDate>Sat, 21 Nov 2026 09:05:55 +0000</pubDate>
+    </item>
     <item>
       <title>腾讯的WorkBuddy日活超千万了 字节的豆包工作日活800万 国内的AI大战 腾讯要跑赢了吗</title>
       <link>https://x.com/abskoop/status/2124065257316659217</link>
@@ -224,18 +234,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122574262339010720"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;macOS更新完 27.3 beta 竟然支持Apple intelligence 了😂&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTld-VbIAArP57.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTlwNHakAAE8QO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2122577447023743057</guid>
       <pubDate>Tue, 17 Nov 2026 06:27:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS更新完 27.3 beta 竟然支持Apple intelligence 了😂</title>
-      <link>https://x.com/abskoop/status/2122574262339010720</link>
-      <description>&lt;p&gt;macOS更新完 27.3 beta 竟然支持Apple intelligence 了😂&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTld-VbIAArP57.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTlwNHakAAE8QO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;macOS更新完 27.3 beta 竟然支持Apple intelligence 了😂&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTld-VbIAArP57.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTlwNHakAAE8QO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2122574262339010720</guid>
-      <pubDate>Tue, 17 Nov 2026 06:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
