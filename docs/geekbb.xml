@@ -6,7 +6,29 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 14:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:47:38 +0000</lastBuildDate>
+    <item>
+      <title>Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永远不会被封禁。 T3Code 是有什</title>
+      <link>https://x.com/geekbb/status/2124333956460167270</link>
+      <description>&lt;p&gt;Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永远不会被封禁。&lt;br/&gt;&lt;br/&gt;T3Code 是有什么背景吗？太牛了，Pi、Hermes、OpenCode、OpenBot 只能眼巴巴地看着。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PatrickToulme/status/2124265732540387418"&gt;@PatrickToulme&lt;/a&gt;&lt;/p&gt;&lt;p&gt;I’m also very tired of this misinformation. I’ll say it very clear&lt;br/&gt;&lt;br/&gt;You will NOT be banned ever for using Antigravity in T3Code.&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永远不会被封禁。&lt;br/&gt;&lt;br/&gt;T3Code 是有什么背景吗？太牛了，Pi、Hermes、OpenCode、OpenBot 只能眼巴巴地看着。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PatrickToulme/status/2124265732540387418"&gt;@PatrickToulme&lt;/a&gt;&lt;/p&gt;&lt;p&gt;I’m also very tired of this misinformation. I’ll say it very clear&lt;br/&gt;&lt;br/&gt;You will NOT be banned ever for using Antigravity in T3Code.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124333956460167270</guid>
+      <pubDate>Sun, 22 Nov 2026 02:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模型的曙光。 然后刷到这个网友在 7 月份就预测了昨天黎曼猜想被</title>
+      <link>https://x.com/geekbb/status/2124322710318874919</link>
+      <description>&lt;p&gt;今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模型的曙光。&lt;br/&gt;&lt;br/&gt;然后刷到这个网友在 7 月份就预测了昨天黎曼猜想被攻克，神奇的是时间都对上了，其他的我都不在乎，最重要的是明年 2 月 10 号，全息编码大幅降低训练和推理的内存开销，Fable 7 可以运行在你的手机上！我嘞个豆哦，想想就激动。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsa_ViaMAA_IOs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UnslothAI/status/2123873656069877899"&gt;@UnslothAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.&lt;br/&gt;&lt;br/&gt;Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch &amp;amp; scores 48.2% on DeepSWE v1.1, the best for size.&lt;br/&gt;&lt;br/&gt;Run on Unsloth, llama.cpp&lt;br/&gt;&lt;br/&gt;GGUF: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF&lt;br/&gt;Guide: https://unsloth.ai/docs/models/inkling-2-mini&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmCJVrawAAtnD5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模型的曙光。&lt;br/&gt;&lt;br/&gt;然后刷到这个网友在 7 月份就预测了昨天黎曼猜想被攻克，神奇的是时间都对上了，其他的我都不在乎，最重要的是明年 2 月 10 号，全息编码大幅降低训练和推理的内存开销，Fable 7 可以运行在你的手机上！我嘞个豆哦，想想就激动。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsa_ViaMAA_IOs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UnslothAI/status/2123873656069877899"&gt;@UnslothAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.&lt;br/&gt;&lt;br/&gt;Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch &amp;amp; scores 48.2% on DeepSWE v1.1, the best for size.&lt;br/&gt;&lt;br/&gt;Run on Unsloth, llama.cpp&lt;br/&gt;&lt;br/&gt;GGUF: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF&lt;br/&gt;Guide: https://unsloth.ai/docs/models/inkling-2-mini&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmCJVrawAAtnD5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124322710318874919</guid>
+      <pubDate>Sun, 22 Nov 2026 02:02:56 +0000</pubDate>
+    </item>
     <item>
       <title>X 是懂我的，只要是好项目，总能推给我。 有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现</title>
       <link>https://x.com/geekbb/status/2124149049360265275</link>
@@ -198,28 +220,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaHPPaQAAJrNv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123405780221333729</guid>
       <pubDate>Thu, 19 Nov 2026 13:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google AI Plus &amp; Google AI Pro &amp; Google AI Ultra 的区别，AI 套餐永远高不成低不就，$4.99 的 Googl</title>
-      <link>https://x.com/geekbb/status/2123389751202095598</link>
-      <description>&lt;p&gt;Google AI Plus &amp;amp; Google AI Pro &amp;amp; Google AI Ultra 的区别，AI 套餐永远高不成低不就，$4.99 的 Google AI Plus 用不了 Neon，$19.99 的 AI Pro 又太贵了，这个世界太不友好了～&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfK4cSaYAAZpoS.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Google AI Plus &amp;amp; Google AI Pro &amp;amp; Google AI Ultra 的区别，AI 套餐永远高不成低不就，$4.99 的 Google AI Plus 用不了 Neon，$19.99 的 AI Pro 又太贵了，这个世界太不友好了～&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfK4cSaYAAZpoS.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123389751202095598</guid>
-      <pubDate>Thu, 19 Nov 2026 12:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>查了一天终于搞清楚了，跟域名没关系，这台 VPS 的 TCP 所有端口全部被阻断了，IP 还可以从国内 ping 通，牛逼！</title>
-      <link>https://x.com/geekbb/status/2123371599672090961</link>
-      <description>&lt;p&gt;查了一天终于搞清楚了，跟域名没关系，这台 VPS 的 TCP 所有端口全部被阻断了，IP 还可以从国内 ping 通，牛逼！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe69pLaMAAwobT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2123267944142749829"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;xyz 域名好像被墙了&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;查了一天终于搞清楚了，跟域名没关系，这台 VPS 的 TCP 所有端口全部被阻断了，IP 还可以从国内 ping 通，牛逼！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe69pLaMAAwobT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2123267944142749829"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;xyz 域名好像被墙了&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123371599672090961</guid>
-      <pubDate>Thu, 19 Nov 2026 11:03:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

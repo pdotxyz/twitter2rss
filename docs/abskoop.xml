@@ -6,7 +6,19 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 17:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:47:00 +0000</lastBuildDate>
+    <item>
+      <title>支付宝还推出了相亲名片😶‍🌫️</title>
+      <link>https://x.com/abskoop/status/2124348896612946220</link>
+      <description>&lt;p&gt;支付宝还推出了相亲名片😶‍🌫️&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsxF5uaoAA_bOo.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXs0DrMakAAWQ9B.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;支付宝还推出了相亲名片😶‍🌫️&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsxF5uaoAA_bOo.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXs0DrMakAAWQ9B.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124348896612946220</guid>
+      <pubDate>Sun, 22 Nov 2026 03:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>我发誓 再也不买VPS了 买了好多用不完 主力的够用就行了 其他的都闲置吃灰了😶‍🌫️</title>
       <link>https://x.com/abskoop/status/2124194882273284167</link>
@@ -214,30 +226,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122604272638660966"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。&lt;br/&gt;&lt;br/&gt;基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持 Bot 群聊、@任务委派、Goal 目标管理、独立记忆和工作目录。&lt;br/&gt;&lt;br/&gt;还能接入已有的 Claude Code、Codex CLI、Cursor CLI 等本地编程 Agent。&lt;br/&gt;&lt;br/&gt;和偏向云端 AI 员工服务的 Grok Bot 不同，DS Bot 更侧重本地 Agent 的组织与协作，支持 Windows、macOS、Linux 桌面端及 Docker 自托管部署。&lt;br/&gt;&lt;br/&gt;Apache 2.0 开源，软件免费，模型费用自理，多 Bot 协作也可能增加 Token 消耗。&lt;br/&gt;&lt;br/&gt;适合已经在用多个 AI Agent，希望统一管理、分工执行任务的用户。&lt;br/&gt;&lt;br/&gt;👉 https://www.ahhhhfs.com/98625/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUAwdjbwAAKgX1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2122975482362855896</guid>
       <pubDate>Wed, 18 Nov 2026 08:49:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>主力服务器用来 访问AI 闲置的就用来YouTube分流了 小火箭组策略就可以实现了 带宽变废为宝了 🤡</title>
-      <link>https://x.com/abskoop/status/2122707221914263642</link>
-      <description>&lt;p&gt;主力服务器用来 访问AI&lt;br/&gt;&lt;br/&gt;闲置的就用来YouTube分流了&lt;br/&gt;&lt;br/&gt;小火箭组策略就可以实现了 &lt;br/&gt;&lt;br/&gt;带宽变废为宝了 🤡&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVe9kGaMAAVAfp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVe9kIa0AAjLO7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;主力服务器用来 访问AI&lt;br/&gt;&lt;br/&gt;闲置的就用来YouTube分流了&lt;br/&gt;&lt;br/&gt;小火箭组策略就可以实现了 &lt;br/&gt;&lt;br/&gt;带宽变废为宝了 🤡&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVe9kGaMAAVAfp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVe9kIa0AAjLO7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2122707221914263642</guid>
-      <pubDate>Tue, 17 Nov 2026 15:03:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>把X的套餐换成了新的AI融合套餐了 同样的任务看看grok bot 能用几天🥲</title>
-      <link>https://x.com/abskoop/status/2122682116177879145</link>
-      <description>&lt;p&gt;把X的套餐换成了新的AI融合套餐了 &lt;br/&gt;&lt;br/&gt;同样的任务看看grok bot 能用几天🥲&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVIIM6aIAAuQdf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122256069611429951"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;有没有大佬们合并新款𝕏 套餐了 &lt;br/&gt;&lt;br/&gt;The 𝕏 Subscription 在App Store有啥套餐可选&lt;br/&gt;&lt;br/&gt;Grok 也不推荐我合并 但是现在感觉明显Grok Bot额度缩水了&lt;br/&gt;&lt;br/&gt;重度用户只能选100美元的了 入门用户要被抛弃了&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXPD76hbcAEr5U0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;把X的套餐换成了新的AI融合套餐了 &lt;br/&gt;&lt;br/&gt;同样的任务看看grok bot 能用几天🥲&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVIIM6aIAAuQdf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122256069611429951"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;有没有大佬们合并新款𝕏 套餐了 &lt;br/&gt;&lt;br/&gt;The 𝕏 Subscription 在App Store有啥套餐可选&lt;br/&gt;&lt;br/&gt;Grok 也不推荐我合并 但是现在感觉明显Grok Bot额度缩水了&lt;br/&gt;&lt;br/&gt;重度用户只能选100美元的了 入门用户要被抛弃了&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXPD76hbcAEr5U0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2122682116177879145</guid>
-      <pubDate>Tue, 17 Nov 2026 13:23:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
