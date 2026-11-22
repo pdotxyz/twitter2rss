@@ -6,7 +6,25 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 16:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:07:16 +0000</lastBuildDate>
+    <item>
+      <title>美国总统杜鲁门在历史上犯下过哪些重大错误？</title>
+      <link>https://x.com/lidangzzz/status/2124565390491848800</link>
+      <description>&lt;p&gt;美国总统杜鲁门在历史上犯下过哪些重大错误？&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;美国总统杜鲁门在历史上犯下过哪些重大错误？&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124565390491848800</guid>
+      <pubDate>Sun, 22 Nov 2026 18:07:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>RT: fiapp 做了几天的 feed 流，感觉效果很不错。</title>
+      <link>https://x.com/fiapp_pro/status/2124336521323163982</link>
+      <description>&lt;p&gt;fiapp 做了几天的 feed 流，感觉效果很不错。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsot2gbcAIa9jA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;fiapp 做了几天的 feed 流，感觉效果很不错。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsot2gbcAIa9jA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fiapp_pro/status/2124336521323163982</guid>
+      <pubDate>Sun, 22 Nov 2026 02:57:49 +0000</pubDate>
+    </item>
     <item>
       <title>黎曼猜想的这行lean确实爆出来了一个大漏洞， 爆出来一群连lean基本语法都看不懂就炒</title>
       <link>https://x.com/lidangzzz/status/2124540979697135644</link>
@@ -16,16 +34,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Zhongyeli777/status/2124388473079783832"&gt;@Zhongyeli777&lt;/a&gt;&lt;/p&gt;&lt;p&gt;昨天刚认证，今天就被扒出一个True，黎曼这个瓜还有下半场&lt;br/&gt;周五Alpöge说他跟Claude证出了黎曼猜想，我昨天的态度是先别吹爆、等验证。结果验证来得飞快：Lean和Mathlib社区昨天发联合声明，175,187个模块全部编译通过，几个独立内核都收了那个61GB的导出文件，原话是完全相信证明正确&lt;br/&gt;瓜还没吃完，今天又有人扒源码：一篇质疑论文说，证明里一个叫anyGeometry的几何谓词，定义直接写成 fun _ _ _ =&amp;gt; True，对所有输入都放行，这行东西在24个文件里出现。意思就是，几何这关等于没设卡&lt;br/&gt;但先别急着喊造假。扒源码那位自己写了，最关键的一步他没查完：主定理那条依赖链，到底走不走这个谓词。走，这事就大了；不走，它就是17万个文件角落里的一段死代码，伤不到主定理&lt;br/&gt;内核能验的是每步推导对不对，验不了你起的定义是不是名副其实。AI证明时代的新功课大概就是这个：代码机器能查，定义还得人一行行读&lt;br/&gt;我先蹲Alpöge和社区的回应，这事估计很快有下文&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtYDfTbkAA56J2.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124540979697135644</guid>
       <pubDate>Sun, 22 Nov 2026 16:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>所以我经常臭骂这些国产无人驾驶厂商， 一个个自己天天坐地铁、一年开车不到2000迈、</title>
-      <link>https://x.com/lidangzzz/status/2124539344773943658</link>
-      <description>&lt;p&gt;所以我经常臭骂这些国产无人驾驶厂商，&lt;br/&gt;&lt;br/&gt;一个个自己天天坐地铁、一年开车不到2000迈、一辈子没在高速上开过100迈以上速度、没在大型国家公园或者new mexico这种大沙漠一脚油开个三百多迈的程序员，&lt;br/&gt;&lt;br/&gt;这种几十人上百人的全办公楼做题家团队能做好fsd，能技术大跃进赶上特斯拉，那才是真的没天理了。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PengQihang87687/status/2124476196012560491"&gt;@PengQihang87687&lt;/a&gt;&lt;/p&gt;&lt;p&gt;一年前我还在做自动驾驶，当时其实国内厂商都在各种挖fsd的技术细节，但也只有上次ICCV2025里特斯拉技术专家分享了一点点，fsd很早就押注端到端和闭环仿真，抛弃了各种inductive bias，相信数据与迭代的潜力，如今国内厂商还在花式遥遥领先的时候，fsd已经默默做到这种程度了。。。&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;所以我经常臭骂这些国产无人驾驶厂商，&lt;br/&gt;&lt;br/&gt;一个个自己天天坐地铁、一年开车不到2000迈、一辈子没在高速上开过100迈以上速度、没在大型国家公园或者new mexico这种大沙漠一脚油开个三百多迈的程序员，&lt;br/&gt;&lt;br/&gt;这种几十人上百人的全办公楼做题家团队能做好fsd，能技术大跃进赶上特斯拉，那才是真的没天理了。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PengQihang87687/status/2124476196012560491"&gt;@PengQihang87687&lt;/a&gt;&lt;/p&gt;&lt;p&gt;一年前我还在做自动驾驶，当时其实国内厂商都在各种挖fsd的技术细节，但也只有上次ICCV2025里特斯拉技术专家分享了一点点，fsd很早就押注端到端和闭环仿真，抛弃了各种inductive bias，相信数据与迭代的潜力，如今国内厂商还在花式遥遥领先的时候，fsd已经默默做到这种程度了。。。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124539344773943658</guid>
-      <pubDate>Sun, 22 Nov 2026 16:23:46 +0000</pubDate>
     </item>
     <item>
       <title>其实最早用LLM Agent做数学证明的是Tony Feng，UC Berkeley Math AP， 他去年正好赶上</title>
@@ -154,14 +162,6 @@
       <content:encoded>&lt;p&gt;太好了，黎曼猜想被一位男生证明了，咱们男生简直太优秀了👍👍👍&lt;br/&gt;&lt;br/&gt; https://leanprover-community.github.io/blog/posts/riemann-hypothesis/&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124176579337273828</guid>
       <pubDate>Sat, 21 Nov 2026 16:22:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1evOPmZrqXbAyA</title>
-      <link>https://x.com/lidangzzz/status/2124081024099643811</link>
-      <description>&lt;p&gt;突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1evOPmZrqXbAyA&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1evOPmZrqXbAyA&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124081024099643811</guid>
-      <pubDate>Sat, 21 Nov 2026 10:02:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
