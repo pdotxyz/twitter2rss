@@ -6,7 +6,27 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 18:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2124587469090030062</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqMlucbkAAjbcd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqMlucbkAAjbcd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124587469090030062</guid>
+      <pubDate>Sun, 22 Nov 2026 19:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>下图显示了上周中国A股主题ETF的表现。 来源：边际Lab x FinGraph财经图集</title>
+      <link>https://x.com/fingraph66/status/2124584700777836709</link>
+      <description>&lt;p&gt;下图显示了上周中国A股主题ETF的表现。&lt;br/&gt;来源：边际Lab x FinGraph财经图集&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXvhelsbcAEc5si.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;下图显示了上周中国A股主题ETF的表现。&lt;br/&gt;来源：边际Lab x FinGraph财经图集&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXvhelsbcAEc5si.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124584700777836709</guid>
+      <pubDate>Sun, 22 Nov 2026 19:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2124572369746329784</link>
@@ -186,26 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAj5Za4AAhFIf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2124378089341714579</guid>
       <pubDate>Sun, 22 Nov 2026 05:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/fingraph66/status/2124362989843148946</link>
-      <description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAgeGbgAAD_he.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAgeGbgAAD_he.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124362989843148946</guid>
-      <pubDate>Sun, 22 Nov 2026 04:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/fingraph66/status/2124347890386837672</link>
-      <description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAdlNbAAEMXML.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAdlNbAAEMXML.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124347890386837672</guid>
-      <pubDate>Sun, 22 Nov 2026 03:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
