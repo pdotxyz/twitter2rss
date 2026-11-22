@@ -6,7 +6,15 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 22:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:22:53 +0000</lastBuildDate>
+    <item>
+      <title>8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套build system再用Rust重构一遍，为了迎接P</title>
+      <link>https://x.com/lidangzzz/status/2124297531794272328</link>
+      <description>&lt;p&gt;8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套build system再用Rust重构一遍，为了迎接P vs NP和黎曼猜想时代来临把infra做好。&lt;br/&gt;&lt;br/&gt;结果没等我干完，黎曼猜想和P vs NP已经结束了。&lt;br/&gt;&lt;br/&gt;作为陈省身的私淑继承者，我再一次悲壮地牺牲了。&lt;br/&gt;&lt;br/&gt;https://github.com/lidangzzz/Lean4-ts&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套build system再用Rust重构一遍，为了迎接P vs NP和黎曼猜想时代来临把infra做好。&lt;br/&gt;&lt;br/&gt;结果没等我干完，黎曼猜想和P vs NP已经结束了。&lt;br/&gt;&lt;br/&gt;作为陈省身的私淑继承者，我再一次悲壮地牺牲了。&lt;br/&gt;&lt;br/&gt;https://github.com/lidangzzz/Lean4-ts&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124297531794272328</guid>
+      <pubDate>Sun, 22 Nov 2026 00:22:53 +0000</pubDate>
+    </item>
     <item>
       <title>湖南人都这么办白事吗😅😅😅</title>
       <link>https://x.com/lidangzzz/status/2124275409852215737</link>
@@ -34,14 +42,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124229555279826944/img/2MjYI-UNKncmhZJ-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124230591142908337</guid>
       <pubDate>Sat, 21 Nov 2026 19:56:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>河头老街再一次证明了我的理论：中国第一大消费群体就是北京人，吃掉北京人的溢出消费，就能轻易吃掉中国消费的最简单且最大的一块。</title>
-      <link>https://x.com/lidangzzz/status/2124221867657658749</link>
-      <description>&lt;p&gt;河头老街再一次证明了我的理论：中国第一大消费群体就是北京人，吃掉北京人的溢出消费，就能轻易吃掉中国消费的最简单且最大的一块。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;河头老街再一次证明了我的理论：中国第一大消费群体就是北京人，吃掉北京人的溢出消费，就能轻易吃掉中国消费的最简单且最大的一块。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124221867657658749</guid>
-      <pubDate>Sat, 21 Nov 2026 19:22:14 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI宣布证伪ETH的时候，我整个人浑身发抖冷了好几天，信仰彻底崩塌 这次证明黎曼猜想，我他妈乐得跟王八蛋一样，大家一起都别活了，爽死了。</title>
