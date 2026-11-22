@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 13:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:32:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2124511216773304333</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqL7lLaAAA7Evb.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqL7lLaAAA7Evb.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124511216773304333</guid>
+      <pubDate>Sun, 22 Nov 2026 14:32:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2124495865783922721</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm-l17bUAA8D6m.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2124225081144652274</guid>
       <pubDate>Sat, 21 Nov 2026 19:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>路透基于265家已披露财报及未披露公司一致预期的统计显示，欧洲斯托克600指数成分股20</title>
-      <link>https://x.com/fingraph66/status/2124179027741356084</link>
-      <description>&lt;p&gt;路透基于265家已披露财报及未披露公司一致预期的统计显示，欧洲斯托克600指数成分股2026年三季度整体盈利预计同比大增25%，营收同比增长12%，双双创下2022年三季度以来最强季度增速。其中能源板块受油价上涨推动盈利预计暴增151%，剔除能源后欧股盈利仍稳健增长10%、营收增7%。&lt;br/&gt;来源：Reuters&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm9_uoaUAA-1sr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;路透基于265家已披露财报及未披露公司一致预期的统计显示，欧洲斯托克600指数成分股2026年三季度整体盈利预计同比大增25%，营收同比增长12%，双双创下2022年三季度以来最强季度增速。其中能源板块受油价上涨推动盈利预计暴增151%，剔除能源后欧股盈利仍稳健增长10%、营收增7%。&lt;br/&gt;来源：Reuters&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm9_uoaUAA-1sr.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124179027741356084</guid>
-      <pubDate>Sat, 21 Nov 2026 16:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

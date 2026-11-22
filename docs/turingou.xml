@@ -6,7 +6,17 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 13:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:36:47 +0000</lastBuildDate>
+    <item>
+      <title>这个可灵 4.0 的视频编辑真的蛮搞笑的，是目前 video to video 我试过最严丝合缝的！</title>
+      <link>https://x.com/turingou/status/2124512421809365019</link>
+      <description>&lt;p&gt;这个可灵 4.0 的视频编辑真的蛮搞笑的，是目前 video to video 我试过最严丝合缝的！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bobo_sumi/status/2124291770611544269"&gt;@bobo_sumi&lt;/a&gt;&lt;/p&gt;&lt;p&gt;郭总跳的真带劲 舞起来也是发了狠忘了情！哈哈哈哈～&lt;br/&gt;测了 9 个 视频模型，只有一个能做到动作一帧不差，猜猜是哪个模型&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124204247646654464/img/QPZd2tDRnR9OvMUq.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;这个可灵 4.0 的视频编辑真的蛮搞笑的，是目前 video to video 我试过最严丝合缝的！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bobo_sumi/status/2124291770611544269"&gt;@bobo_sumi&lt;/a&gt;&lt;/p&gt;&lt;p&gt;郭总跳的真带劲 舞起来也是发了狠忘了情！哈哈哈哈～&lt;br/&gt;测了 9 个 视频模型，只有一个能做到动作一帧不差，猜猜是哪个模型&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124204247646654464/img/QPZd2tDRnR9OvMUq.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2124512421809365019</guid>
+      <pubDate>Sun, 22 Nov 2026 14:36:47 +0000</pubDate>
+    </item>
     <item>
       <title>随着 SOTA 模型能力增强，这种由科学家团队成立的私人 AI 实验室会在各个领域爆发，奇</title>
       <link>https://x.com/turingou/status/2124501562907414900</link>
@@ -228,16 +238,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy3bwAAQq9G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2122525656861069615</guid>
       <pubDate>Tue, 17 Nov 2026 03:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一</title>
-      <link>https://x.com/turingou/status/2122257927876829250</link>
-      <description>&lt;p&gt;经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一个 iOS 项目构建只要 38 秒，就可以自动被打包到 TestFlight 的内测版本，下一步就可以开放 slot 给大家用了&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXPGVjhbYAA60mx.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一个 iOS 项目构建只要 38 秒，就可以自动被打包到 TestFlight 的内测版本，下一步就可以开放 slot 给大家用了&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXPGVjhbYAA60mx.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2122257927876829250</guid>
-      <pubDate>Mon, 16 Nov 2026 09:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
