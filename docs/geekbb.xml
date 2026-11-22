@@ -6,7 +6,27 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 12:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:22:00 +0000</lastBuildDate>
+    <item>
+      <title>我现在看 Antigravity 这小子就眉清目秀的，搭配 Gemini 4 Hydrogen 越用越喜欢了。 </title>
+      <link>https://x.com/geekbb/status/2124508700065120646</link>
+      <description>&lt;p&gt;我现在看 Antigravity 这小子就眉清目秀的，搭配 Gemini 4 Hydrogen 越用越喜欢了。&lt;br/&gt;&lt;br/&gt;想想挺悲哀的，我的所有任务场景根本用不到Gemini 4 Neon 这种级别的模型，Hydrogen 就可以包圆了。😅&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuo-XEaYAAFLhp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;我现在看 Antigravity 这小子就眉清目秀的，搭配 Gemini 4 Hydrogen 越用越喜欢了。&lt;br/&gt;&lt;br/&gt;想想挺悲哀的，我的所有任务场景根本用不到Gemini 4 Neon 这种级别的模型，Hydrogen 就可以包圆了。😅&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuo-XEaYAAFLhp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124508700065120646</guid>
+      <pubDate>Sun, 22 Nov 2026 14:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scrubshot · 截图脱敏工具 截图发出去之前要遮掉手机号、身份证、银行卡和 token，手</title>
+      <link>https://x.com/geekbb/status/2124493600646189090</link>
+      <description>&lt;p&gt;Scrubshot · 截图脱敏工具&lt;br/&gt;&lt;br/&gt;截图发出去之前要遮掉手机号、身份证、银行卡和 token，手动画框容易漏，Scrubshot 用浏览器内的 OCR 把命中项找出来再一次涂黑。&lt;br/&gt;&lt;br/&gt;https://github.com/strugglesky/scrubshot&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuca8faYAAFsCD.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Scrubshot · 截图脱敏工具&lt;br/&gt;&lt;br/&gt;截图发出去之前要遮掉手机号、身份证、银行卡和 token，手动画框容易漏，Scrubshot 用浏览器内的 OCR 把命中项找出来再一次涂黑。&lt;br/&gt;&lt;br/&gt;https://github.com/strugglesky/scrubshot&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuca8faYAAFsCD.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124493600646189090</guid>
+      <pubDate>Sun, 22 Nov 2026 13:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳</title>
       <link>https://x.com/geekbb/status/2124473971726839990</link>
@@ -198,26 +218,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2123405780221333729"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;哦，原来是对自己的 Antigravity 有点迷之自信了，哈哈哈。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaBuma8AAqLTV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaDNtaUAAA9Aa.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaHPPaQAAJrNv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123698612194431186</guid>
       <pubDate>Fri, 20 Nov 2026 08:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qwen4-Max 在 Nous Portal 免费 5 天，这就对了嘛，这才是有效的宣发，用起来。</title>
-      <link>https://x.com/geekbb/status/2123673384768970802</link>
-      <description>&lt;p&gt;Qwen4-Max 在 Nous Portal 免费 5 天，这就对了嘛，这才是有效的宣发，用起来。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/NousResearch/status/2123135537087181191"&gt;@NousResearch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Qwen4-Max, the new flagship model from Alibaba, is free in Nous Portal for 5 days in partnership with @inferact and @Alibaba_Qwen.&lt;br/&gt;&lt;br/&gt;It’s built for long-horizon work, with native vision and 1M context. Try it today at http://portal.nousresearch.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123135247952883712/img/XviUbjm1hQsZQFD0.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Qwen4-Max 在 Nous Portal 免费 5 天，这就对了嘛，这才是有效的宣发，用起来。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/NousResearch/status/2123135537087181191"&gt;@NousResearch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Qwen4-Max, the new flagship model from Alibaba, is free in Nous Portal for 5 days in partnership with @inferact and @Alibaba_Qwen.&lt;br/&gt;&lt;br/&gt;It’s built for long-horizon work, with native vision and 1M context. Try it today at http://portal.nousresearch.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123135247952883712/img/XviUbjm1hQsZQFD0.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123673384768970802</guid>
-      <pubDate>Fri, 20 Nov 2026 07:02:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>不好，老黄疯啦，要搞个新英伟达。 “你想搞新英伟达，那就开打吧”</title>
-      <link>https://x.com/geekbb/status/2123637589270003946</link>
-      <description>&lt;p&gt;不好，老黄疯啦，要搞个新英伟达。&lt;br/&gt;&lt;br/&gt;“你想搞新英伟达，那就开打吧”&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/JasonColelfod/status/2123412986496999449"&gt;@JasonColelfod&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨&lt;br/&gt;&lt;br/&gt;He could raise tens of billions on day one, would have full founder control, and could build fast on his own terms. With the relationships he&amp;#x27;s built over decades, he could easily plug into the #AI ecosystem.&lt;br/&gt;&lt;br/&gt;Imagine the demand and customer base lining up before his first chip even ships...&lt;br/&gt;&lt;br/&gt;@grok Could Jensen Huang launch a competitor to $NVDA, attract tens of billions in funding, and lock in major customers?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123412505838104577/img/aacVThBCdhbrgN-B.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;不好，老黄疯啦，要搞个新英伟达。&lt;br/&gt;&lt;br/&gt;“你想搞新英伟达，那就开打吧”&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/JasonColelfod/status/2123412986496999449"&gt;@JasonColelfod&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨&lt;br/&gt;&lt;br/&gt;He could raise tens of billions on day one, would have full founder control, and could build fast on his own terms. With the relationships he&amp;#x27;s built over decades, he could easily plug into the #AI ecosystem.&lt;br/&gt;&lt;br/&gt;Imagine the demand and customer base lining up before his first chip even ships...&lt;br/&gt;&lt;br/&gt;@grok Could Jensen Huang launch a competitor to $NVDA, attract tens of billions in funding, and lock in major customers?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123412505838104577/img/aacVThBCdhbrgN-B.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123637589270003946</guid>
-      <pubDate>Fri, 20 Nov 2026 04:40:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

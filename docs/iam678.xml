@@ -6,7 +6,17 @@
     <description>Posts from x.com/iam678</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 04:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:06:48 +0000</lastBuildDate>
+    <item>
+      <title>美图秀秀大部分功能完美复刻版， 甚至有些功能要比美图更强。 完全开源无广告，有需要</title>
+      <link>https://x.com/iam678/status/2124489777177297240</link>
+      <description>&lt;p&gt;美图秀秀大部分功能完美复刻版，&lt;br/&gt;甚至有些功能要比美图更强。&lt;br/&gt;完全开源无广告，有需要的可以自提了。&lt;br/&gt;https://github.com/iam567/qiongtu&lt;br/&gt;需要个人申请API，&lt;br/&gt;不会申请API的，请勿使用。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/iam678/status/2124324009911488515"&gt;@iam678&lt;/a&gt;&lt;/p&gt;&lt;p&gt;实在受不了国内修图软件的各种广告了，&lt;br/&gt;就干脆自己写了一个美图秀秀出来。&lt;br/&gt;直接把各种AI的API复制进去，&lt;br/&gt;就可以使用和美图秀秀等APP同等功能的AI修图功能。&lt;br/&gt;甚至你都不需要会修图，&lt;br/&gt;直接点一键修图就可以帮你修图，&lt;br/&gt;还可以帮你模拟各种大师风格，和各种相机风格。&lt;br/&gt;让你看到如果这张照片是摄影大师拍，&lt;br/&gt;他会拍成什么样。&lt;br/&gt;还可以记住你平时修图的脸的风格，&lt;br/&gt;以后所有的修图都可以一键AI成自己满意的风格。&lt;br/&gt;再不用一张一张的去拉脸了。&lt;br/&gt;本想着可以全免费开源，&lt;br/&gt;但突然我意识到，这个需要用户配置自己的API。&lt;br/&gt;懂得申请API的，会配置API的，&lt;br/&gt;自己也会写一个同样的APP出来，&lt;br/&gt;不知道啥是API不会配置API的，&lt;br/&gt;就算开源了他们也不会用，&lt;br/&gt;反而还会因为没有API，说功能不全到处骂你诈骗。&lt;br/&gt;一想到后果想想还是自己用吧...&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKbsAA50JT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUHagAAGsMG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUJboAAo3nA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKa8AAxdgG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKbEAA5Cvk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUNaoAE-Vld.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbULbQAA2Zgz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;美图秀秀大部分功能完美复刻版，&lt;br/&gt;甚至有些功能要比美图更强。&lt;br/&gt;完全开源无广告，有需要的可以自提了。&lt;br/&gt;https://github.com/iam567/qiongtu&lt;br/&gt;需要个人申请API，&lt;br/&gt;不会申请API的，请勿使用。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/iam678/status/2124324009911488515"&gt;@iam678&lt;/a&gt;&lt;/p&gt;&lt;p&gt;实在受不了国内修图软件的各种广告了，&lt;br/&gt;就干脆自己写了一个美图秀秀出来。&lt;br/&gt;直接把各种AI的API复制进去，&lt;br/&gt;就可以使用和美图秀秀等APP同等功能的AI修图功能。&lt;br/&gt;甚至你都不需要会修图，&lt;br/&gt;直接点一键修图就可以帮你修图，&lt;br/&gt;还可以帮你模拟各种大师风格，和各种相机风格。&lt;br/&gt;让你看到如果这张照片是摄影大师拍，&lt;br/&gt;他会拍成什么样。&lt;br/&gt;还可以记住你平时修图的脸的风格，&lt;br/&gt;以后所有的修图都可以一键AI成自己满意的风格。&lt;br/&gt;再不用一张一张的去拉脸了。&lt;br/&gt;本想着可以全免费开源，&lt;br/&gt;但突然我意识到，这个需要用户配置自己的API。&lt;br/&gt;懂得申请API的，会配置API的，&lt;br/&gt;自己也会写一个同样的APP出来，&lt;br/&gt;不知道啥是API不会配置API的，&lt;br/&gt;就算开源了他们也不会用，&lt;br/&gt;反而还会因为没有API，说功能不全到处骂你诈骗。&lt;br/&gt;一想到后果想想还是自己用吧...&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKbsAA50JT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUHagAAGsMG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUJboAAo3nA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKa8AAxdgG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUKbEAA5Cvk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbUNaoAE-Vld.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdbULbQAA2Zgz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/iam678/status/2124489777177297240</guid>
+      <pubDate>Sun, 22 Nov 2026 13:06:48 +0000</pubDate>
+    </item>
     <item>
       <title>还行， 美图基本能实现的功能80%都复刻实现了。 bug完善一下就考虑开源免费发布， 让p</title>
       <link>https://x.com/iam678/status/2124363121968193998</link>
@@ -198,14 +208,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HWurotJakAAwS1R.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/iam678/status/2119976773094121929</guid>
       <pubDate>Tue, 10 Nov 2026 02:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>给个小建议， 用Codex制作个人履历网页的人， 最好给你的履历做一下美化， 现在每个搞</title>
-      <link>https://x.com/iam678/status/2119638619535417779</link>
-      <description>&lt;p&gt;给个小建议，&lt;br/&gt;用Codex制作个人履历网页的人，&lt;br/&gt;最好给你的履历做一下美化，&lt;br/&gt;现在每个搞IT的都能靠AI让我感觉他很懂技术，&lt;br/&gt;但到现在我没看到一个有审美的。&lt;br/&gt;技术平权时代，&lt;br/&gt;用心对待和审美培养开始变得尤为重要。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;给个小建议，&lt;br/&gt;用Codex制作个人履历网页的人，&lt;br/&gt;最好给你的履历做一下美化，&lt;br/&gt;现在每个搞IT的都能靠AI让我感觉他很懂技术，&lt;br/&gt;但到现在我没看到一个有审美的。&lt;br/&gt;技术平权时代，&lt;br/&gt;用心对待和审美培养开始变得尤为重要。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/iam678/status/2119638619535417779</guid>
-      <pubDate>Mon, 09 Nov 2026 03:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
