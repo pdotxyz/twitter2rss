@@ -34,7 +34,7 @@
       <pubDate>Sun, 22 Nov 2026 03:48:55 +0000</pubDate>
     </item>
     <item>
-      <title>今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更</title>
+      <title>今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是</title>
       <link>https://x.com/turingou/status/2124162529274573171</link>
       <description>&lt;p&gt;今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更不可能去安装我自己的实验性应用。&lt;br/&gt;&lt;br/&gt;所以我让 Claude Code 解决了几个问题。第一个问题是它默认不让你开启开发者选项，必须自己写个一键开启的 APK 通过 U 盘安装。开启之后，因为它没有 Play Store，安装不了特定的应用，所以它只能从我的 Google TV，也就是我的索尼电视上拷贝了从日本市场下载的 APK 过去。除了像 Netflix 这种需要认证才能够打开应用支持不了之外，其他几乎都可以支持，可以说是投影仪废物利用了。&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;今天解决了一个小问题，但是也是蛮有意思一个问题。我去年从国内买了一些投影仪，但是这些投影仪装的系统都是安卓的国内的厂商改的系统，没有办法安装国外的流媒体应用，更不可能去安装我自己的实验性应用。&lt;br/&gt;&lt;br/&gt;所以我让 Claude Code 解决了几个问题。第一个问题是它默认不让你开启开发者选项，必须自己写个一键开启的 APK 通过 U 盘安装。开启之后，因为它没有 Play Store，安装不了特定的应用，所以它只能从我的 Google TV，也就是我的索尼电视上拷贝了从日本市场下载的 APK 过去。除了像 Netflix 这种需要认证才能够打开应用支持不了之外，其他几乎都可以支持，可以说是投影仪废物利用了。&lt;/p&gt;</content:encoded>
@@ -58,7 +58,7 @@
       <pubDate>Sat, 21 Nov 2026 07:40:48 +0000</pubDate>
     </item>
     <item>
-      <title>我最近还没有玩上 GTA 6，但看了一个 YouTube 视频讲现在这个游戏有多么真实。竟然在 PS5 上都能跑出这样的效果，那明年上了 PC，那不是得跟真实世</title>
+      <title>我最近还没有玩上 GTA 6，但看了一个 YouTube 视频讲现在这个游戏有多么真实。竟然在 </title>
       <link>https://x.com/turingou/status/2124042384631849180</link>
       <description>&lt;p&gt;我最近还没有玩上 GTA 6，但看了一个 YouTube 视频讲现在这个游戏有多么真实。竟然在 PS5 上都能跑出这样的效果，那明年上了 PC，那不是得跟真实世界一模一样？&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;我最近还没有玩上 GTA 6，但看了一个 YouTube 视频讲现在这个游戏有多么真实。竟然在 PS5 上都能跑出这样的效果，那明年上了 PC，那不是得跟真实世界一模一样？&lt;/p&gt;</content:encoded>
@@ -66,7 +66,7 @@
       <pubDate>Sat, 21 Nov 2026 07:29:01 +0000</pubDate>
     </item>
     <item>
-      <title>今年 1 月开始，已经一年了，在沙箱这个赛道上，还没有成长出最终的产品形态和获胜的赢家</title>
+      <title>今年 1 月开始，已经一年了，在沙箱这个赛道上，还没有成长出最终的产品形态和获胜的</title>
       <link>https://x.com/turingou/status/2123426189692039675</link>
       <description>&lt;p&gt;今年 1 月开始，已经一年了，在沙箱这个赛道上，还没有成长出最终的产品形态和获胜的赢家&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/tonychang430/status/2123106480194826389"&gt;@tonychang430&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The sandbox market is CROWDED AF &lt;br/&gt;&lt;br/&gt;But I still think we&amp;#x27;re early in figuring out what compute (and even infrastructure) should look like for agents.&lt;br/&gt;&lt;br/&gt;Compute is finite and agent demand isn’t slowing down.&lt;br/&gt;&lt;br/&gt;The first step is figuring out how to orchestrate containers and microVMs more intelligently. Better resource sharing, higher utilization, faster startup, and tighter control over the infrastructure underneath our sandboxes.&lt;br/&gt;&lt;br/&gt;But that’s only the tip of the iceberg.&lt;br/&gt;&lt;br/&gt;I want to go deeper: Kernels, networking, storage, operating systems. Every layer of the stack deserves to be rethought for agents.&lt;br/&gt;&lt;br/&gt;Competing mainly on price feels like a trap to me. A slightly lower price can just mean a smaller margin, without changing what the infrastructure can do.&lt;br/&gt;&lt;br/&gt;I’m much more interested in unlocking things that aren’t practical today.&lt;br/&gt;&lt;br/&gt;Imagine one agent forking its live sandbox into a million isolated environments in seconds, each inheriting its memory and execution state.&lt;br/&gt;&lt;br/&gt;Now imagine those forks spawning more forks. Millions becoming billions. Each branch exploring a different path, preserving its own state, and sharing discoveries through agent-to-agent (A2A) communication.&lt;br/&gt;&lt;br/&gt;I don&amp;#x27;t think anyone has figured out the winning approach yet...&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXbKF1NXQAAfhnU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
@@ -126,7 +126,7 @@
       <pubDate>Thu, 19 Nov 2026 11:13:54 +0000</pubDate>
     </item>
     <item>
-      <title>下午集中 review 了一波 Claude Code 和 Codex 自带的这个云环境，我发现这些云环境比我想象的要强大很多。虽然这些机器都是临时的，但是按照</title>
+      <title>下午集中 review 了一波 Claude Code 和 Codex 自带的这个云环境，我发现这些云环境比</title>
       <link>https://x.com/turingou/status/2123331809299616121</link>
       <description>&lt;p&gt;下午集中 review 了一波 Claude Code 和 Codex 自带的这个云环境，我发现这些云环境比我想象的要强大很多。虽然这些机器都是临时的，但是按照现在的订阅账户来算，如果不使用这些机器完全就浪费掉了。所以我把公司的东京开发服务器的一系列工作流程平滑地迁徙到了一份云电脑兼容配置的版本上去。那通过这种方式，我觉得未来适应一段时间就可以把东京服务器完全做成构建和部署服务器，而去掉开发相关的工作。从长期来看，这个趋势个人计算设备其实并不是在增强，而是在减弱。它的地位越来越更像是作为一个显示屏和成果交付的一个终端设备而存在。做完这件事情之后，我会把我所有的 Mac mini 和 Mac Studio 全部作为 CI 电脑配置，将所有开发工作都迁移到这些订阅套餐提供的云电脑当中。&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;下午集中 review 了一波 Claude Code 和 Codex 自带的这个云环境，我发现这些云环境比我想象的要强大很多。虽然这些机器都是临时的，但是按照现在的订阅账户来算，如果不使用这些机器完全就浪费掉了。所以我把公司的东京开发服务器的一系列工作流程平滑地迁徙到了一份云电脑兼容配置的版本上去。那通过这种方式，我觉得未来适应一段时间就可以把东京服务器完全做成构建和部署服务器，而去掉开发相关的工作。从长期来看，这个趋势个人计算设备其实并不是在增强，而是在减弱。它的地位越来越更像是作为一个显示屏和成果交付的一个终端设备而存在。做完这件事情之后，我会把我所有的 Mac mini 和 Mac Studio 全部作为 CI 电脑配置，将所有开发工作都迁移到这些订阅套餐提供的云电脑当中。&lt;/p&gt;</content:encoded>
@@ -134,7 +134,7 @@
       <pubDate>Thu, 19 Nov 2026 08:25:27 +0000</pubDate>
     </item>
     <item>
-      <title>今天 Claude Code 的额度又没了。 这个礼拜因为大部分时间在外面旅游，刚回到东京，所以其实用得不是特别频繁，90% 以上的时间都是用手机操作云端环境的</title>
+      <title>今天 Claude Code 的额度又没了。 这个礼拜因为大部分时间在外面旅游，刚回到东京，所</title>
       <link>https://x.com/turingou/status/2123276231554548169</link>
       <description>&lt;p&gt;今天 Claude Code 的额度又没了。&lt;br/&gt;&lt;br/&gt;这个礼拜因为大部分时间在外面旅游，刚回到东京，所以其实用得不是特别频繁，90% 以上的时间都是用手机操作云端环境的项目来自动化执行的。&lt;br/&gt;&lt;br/&gt;我发现推理和计算放在一起的好处，就是 Claude Code 的云端环境基本上可以胜任 80% 到 90% 以上的自动化工作，而无需依赖任何权限、弹出任何卡片。而且它还有一个比较好的方式，是你可以将云端环境复制到其他的 Claude Code 账号。&lt;br/&gt;&lt;br/&gt;很久以前，我曾经用自己东京的服务器做主要的构建和开发机器，但切换到新的云端环境之后，它将大部分自动化工作都内化了。所以当它操作我的东京服务器时，要求的权限卡片甚至比直接在东京服务器上操作还要麻烦得多，所以我现在将大量的自动开发工作迁移到 Claude Code 内置的云端项目，也就是它的云环境当中。&lt;br/&gt;&lt;br/&gt;很多个人助理都内置一个云环境。这些云环境因为是共享机器，经常重建，但性能应该还是蛮强的，几乎可以安装任何你要求安装的东西，比如 Chrome 浏览器或者 Blender。&lt;br/&gt;&lt;br/&gt;通过这种方式，你可以在云环境的初始脚本里面去做自动化的备份和拉取。一旦云环境重建之后，就可以让它把你 Chrome 上登录的账号再 restore 回来。至于资源，比如说 Cloudflare 或者甚至是公司的 Stripe 的可读 Key，你都可以在云环境的密钥库当中进行配置。&lt;br/&gt;&lt;br/&gt;这样可以确保，无论你使用多少号的后端账号，都可以在不同的临时云环境当中，通过和 GitHub 项目的组合，来完成全自动化的公司产品开发、营销流转，以及根据商业化情况来实现的自动化实验。&lt;br/&gt;&lt;br/&gt;使用云环境还有一个非常好的潜在好处，就是刚才说到的推理和计算在同一处。&lt;br/&gt;&lt;br/&gt;推理完的结果不需要远渡重洋传到我的个人电脑上来计算、再把结果传回去。这样单次推理加计算比传统方式能节省数百毫秒，一天下来，累加起来的优势还是蛮大的。&lt;br/&gt;&lt;br/&gt;如果你订阅 Claude Code 或者是最高级的 Grok，而没有充分使用它的云环境的话，其实还是蛮浪费的。这就相当于给这些 SOTA 模型的订阅账户赠送了额外强大的计算空间。&lt;br/&gt;&lt;br/&gt;同时，像 OpenAI 和 Claude Code 还会为 $200 和 $500 的订阅账户赠送对应的 API 额度。这些 API 额度可以在他们的开发者平台创建 API Key，在云环境当中配置好之后，就能直接实现图像生成或者视频处理，完全不需要再经过额外的 CLI 工具就可以实现&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;今天 Claude Code 的额度又没了。&lt;br/&gt;&lt;br/&gt;这个礼拜因为大部分时间在外面旅游，刚回到东京，所以其实用得不是特别频繁，90% 以上的时间都是用手机操作云端环境的项目来自动化执行的。&lt;br/&gt;&lt;br/&gt;我发现推理和计算放在一起的好处，就是 Claude Code 的云端环境基本上可以胜任 80% 到 90% 以上的自动化工作，而无需依赖任何权限、弹出任何卡片。而且它还有一个比较好的方式，是你可以将云端环境复制到其他的 Claude Code 账号。&lt;br/&gt;&lt;br/&gt;很久以前，我曾经用自己东京的服务器做主要的构建和开发机器，但切换到新的云端环境之后，它将大部分自动化工作都内化了。所以当它操作我的东京服务器时，要求的权限卡片甚至比直接在东京服务器上操作还要麻烦得多，所以我现在将大量的自动开发工作迁移到 Claude Code 内置的云端项目，也就是它的云环境当中。&lt;br/&gt;&lt;br/&gt;很多个人助理都内置一个云环境。这些云环境因为是共享机器，经常重建，但性能应该还是蛮强的，几乎可以安装任何你要求安装的东西，比如 Chrome 浏览器或者 Blender。&lt;br/&gt;&lt;br/&gt;通过这种方式，你可以在云环境的初始脚本里面去做自动化的备份和拉取。一旦云环境重建之后，就可以让它把你 Chrome 上登录的账号再 restore 回来。至于资源，比如说 Cloudflare 或者甚至是公司的 Stripe 的可读 Key，你都可以在云环境的密钥库当中进行配置。&lt;br/&gt;&lt;br/&gt;这样可以确保，无论你使用多少号的后端账号，都可以在不同的临时云环境当中，通过和 GitHub 项目的组合，来完成全自动化的公司产品开发、营销流转，以及根据商业化情况来实现的自动化实验。&lt;br/&gt;&lt;br/&gt;使用云环境还有一个非常好的潜在好处，就是刚才说到的推理和计算在同一处。&lt;br/&gt;&lt;br/&gt;推理完的结果不需要远渡重洋传到我的个人电脑上来计算、再把结果传回去。这样单次推理加计算比传统方式能节省数百毫秒，一天下来，累加起来的优势还是蛮大的。&lt;br/&gt;&lt;br/&gt;如果你订阅 Claude Code 或者是最高级的 Grok，而没有充分使用它的云环境的话，其实还是蛮浪费的。这就相当于给这些 SOTA 模型的订阅账户赠送了额外强大的计算空间。&lt;br/&gt;&lt;br/&gt;同时，像 OpenAI 和 Claude Code 还会为 $200 和 $500 的订阅账户赠送对应的 API 额度。这些 API 额度可以在他们的开发者平台创建 API Key，在云环境当中配置好之后，就能直接实现图像生成或者视频处理，完全不需要再经过额外的 CLI 工具就可以实现&lt;/p&gt;</content:encoded>
@@ -176,7 +176,7 @@
       <pubDate>Wed, 18 Nov 2026 09:23:01 +0000</pubDate>
     </item>
     <item>
-      <title>本月单向街的活动将和大家分享一下最近这几个月我在个人助理方面所做的事情和产品。 我现在基本上已经使用 Grok bot 和 Muse，把我个人生活、企业管理和项</title>
+      <title>本月单向街的活动将和大家分享一下最近这几个月我在个人助理方面所做的事情和产品。 </title>
       <link>https://x.com/turingou/status/2122980037536432623</link>
       <description>&lt;p&gt;本月单向街的活动将和大家分享一下最近这几个月我在个人助理方面所做的事情和产品。&lt;br/&gt;&lt;br/&gt;我现在基本上已经使用 Grok bot 和 Muse，把我个人生活、企业管理和项目开发的所有东西都串在一起了。我相信通用个人助理和垂直化 agent 会是接下来几年 AI 应用的一个主线。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/OwspaceGinza828/status/2122575090525347922"&gt;@OwspaceGinza828&lt;/a&gt;&lt;/p&gt;&lt;p&gt;活动预告&lt;br/&gt;【AI分享专栏 Vol.5】&lt;br/&gt;下一个十年，软件为谁而写&lt;br/&gt;嘉宾：郭宇&lt;br/&gt;时间：2026年11月23（星期一）14:30-16:00&lt;br/&gt;地点：单向街书店・东京银座店&lt;br/&gt;形式：中文分享会・自由席（40席）&lt;br/&gt;费用：￥1,500｜会员免费&lt;br/&gt;活动详情：https://one-way-street.com/zh/event/ai-vol-5/&lt;br/&gt;报名网页：https://forms.gle/Lddq1sQfBQqQWnXs8&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTkw42bAAAK94n.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
@@ -196,7 +196,7 @@
       <pubDate>Wed, 18 Nov 2026 03:13:59 +0000</pubDate>
     </item>
     <item>
-      <title>今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方啊</title>
+      <title>今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方</title>
       <link>https://x.com/turingou/status/2122525656861069615</link>
       <description>&lt;p&gt;今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方啊&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zyybAAEEAR4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
@@ -220,7 +220,7 @@
       <pubDate>Tue, 17 Nov 2026 03:02:05 +0000</pubDate>
     </item>
     <item>
-      <title>经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一个 iOS 项目构建只要 38 秒，就可以自动被打包到 Test</title>
+      <title>经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一</title>
       <link>https://x.com/turingou/status/2122257927876829250</link>
       <description>&lt;p&gt;经过几天的调教，我的极速构建服务 hayabuild 终于几乎实现了 100% 的缓存命中率。一个 iOS 项目构建只要 38 秒，就可以自动被打包到 TestFlight 的内测版本，下一步就可以开放 slot 给大家用了&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXPGVjhbYAA60mx.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
@@ -230,7 +230,7 @@
       <pubDate>Mon, 16 Nov 2026 09:18:14 +0000</pubDate>
     </item>
     <item>
-      <title>晨浴 @ 幽谷の湯♨️昨天吃完晚饭八点多竟然就睡着了，半夜起来 vibe 发了几十个版本 hayabuild，然后又睡到现在🤣</title>
+      <title>晨浴 @ 幽谷の湯♨️昨天吃完晚饭八点多竟然就睡着了，半夜起来 vibe 发了几十个版本 ha</title>
       <link>https://x.com/turingou/status/2122110070591025419</link>
       <description>&lt;p&gt;晨浴 @ 幽谷の湯♨️昨天吃完晚饭八点多竟然就睡着了，半夜起来 vibe 发了几十个版本 hayabuild，然后又睡到现在🤣&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXM_2zEbcAAPde3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
@@ -252,7 +252,7 @@
       <pubDate>Sun, 15 Nov 2026 23:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>Wanman 现在已经比 Grok bot 还更好用了，在找乡下房子这件事情上，我自己的使用体验来说，24小时主动运行的个人助理，是未来所有垂直化个人助理的方向</title>
+      <title>Wanman 现在已经比 Grok bot 还更好用了，在找乡下房子这件事情上，我自己的使用体验</title>
       <link>https://x.com/turingou/status/2121905216350203948</link>
       <description>&lt;p&gt;Wanman 现在已经比 Grok bot 还更好用了，在找乡下房子这件事情上，我自己的使用体验来说，24小时主动运行的个人助理，是未来所有垂直化个人助理的方向。&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXKFjBcbQAAuqx3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
