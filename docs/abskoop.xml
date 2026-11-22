@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 03:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:26:14 +0000</lastBuildDate>
+    <item>
+      <title>下面那个是屏幕吗😶‍🌫️ 影射键盘的</title>
+      <link>https://x.com/abskoop/status/2124464467283173391</link>
+      <description>&lt;p&gt;下面那个是屏幕吗😶‍🌫️ 影射键盘的&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124464437679763456/img/lubewALzc4Yy9NJp.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;下面那个是屏幕吗😶‍🌫️ 影射键盘的&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124464437679763456/img/lubewALzc4Yy9NJp.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124464467283173391</guid>
+      <pubDate>Sun, 22 Nov 2026 11:26:14 +0000</pubDate>
+    </item>
     <item>
       <title>支付宝还推出了相亲名片😶‍🌫️</title>
       <link>https://x.com/abskoop/status/2124348896612946220</link>
@@ -214,18 +224,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXZovPqa8AAS_g4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2123000278593257833</guid>
       <pubDate>Wed, 18 Nov 2026 10:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>玩了一下这个DS Bot，搭配deepseek的最低档的模型 跑跑琐碎的任务流程 还是可以 不是</title>
-      <link>https://x.com/abskoop/status/2122975482362855896</link>
-      <description>&lt;p&gt;玩了一下这个DS Bot，搭配deepseek的最低档的模型 &lt;br/&gt;&lt;br/&gt;跑跑琐碎的任务流程  还是可以 不是很token&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXZOSDHagAEKrqB.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122604272638660966"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。&lt;br/&gt;&lt;br/&gt;基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持 Bot 群聊、@任务委派、Goal 目标管理、独立记忆和工作目录。&lt;br/&gt;&lt;br/&gt;还能接入已有的 Claude Code、Codex CLI、Cursor CLI 等本地编程 Agent。&lt;br/&gt;&lt;br/&gt;和偏向云端 AI 员工服务的 Grok Bot 不同，DS Bot 更侧重本地 Agent 的组织与协作，支持 Windows、macOS、Linux 桌面端及 Docker 自托管部署。&lt;br/&gt;&lt;br/&gt;Apache 2.0 开源，软件免费，模型费用自理，多 Bot 协作也可能增加 Token 消耗。&lt;br/&gt;&lt;br/&gt;适合已经在用多个 AI Agent，希望统一管理、分工执行任务的用户。&lt;br/&gt;&lt;br/&gt;👉 https://www.ahhhhfs.com/98625/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUAwdjbwAAKgX1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;玩了一下这个DS Bot，搭配deepseek的最低档的模型 &lt;br/&gt;&lt;br/&gt;跑跑琐碎的任务流程  还是可以 不是很token&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXZOSDHagAEKrqB.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2122604272638660966"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;DS Bot：把多个 AI Agent 组织成一个团队的开源协作工具。&lt;br/&gt;&lt;br/&gt;基于 DeepSeek Harness，通过 Chief 统一协调不同 AI 助手，支持 Bot 群聊、@任务委派、Goal 目标管理、独立记忆和工作目录。&lt;br/&gt;&lt;br/&gt;还能接入已有的 Claude Code、Codex CLI、Cursor CLI 等本地编程 Agent。&lt;br/&gt;&lt;br/&gt;和偏向云端 AI 员工服务的 Grok Bot 不同，DS Bot 更侧重本地 Agent 的组织与协作，支持 Windows、macOS、Linux 桌面端及 Docker 自托管部署。&lt;br/&gt;&lt;br/&gt;Apache 2.0 开源，软件免费，模型费用自理，多 Bot 协作也可能增加 Token 消耗。&lt;br/&gt;&lt;br/&gt;适合已经在用多个 AI Agent，希望统一管理、分工执行任务的用户。&lt;br/&gt;&lt;br/&gt;👉 https://www.ahhhhfs.com/98625/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXUAwdjbwAAKgX1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2122975482362855896</guid>
-      <pubDate>Wed, 18 Nov 2026 08:49:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

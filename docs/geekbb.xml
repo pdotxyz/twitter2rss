@@ -6,7 +6,29 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 02:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:30:13 +0000</lastBuildDate>
+    <item>
+      <title>用来找论文、做笔记和跟 Agent 一起读文献的科研工作台，解决传统文献管理工具与 AI </title>
+      <link>https://x.com/geekbb/status/2124450372475560367</link>
+      <description>&lt;p&gt;用来找论文、做笔记和跟 Agent 一起读文献的科研工作台，解决传统文献管理工具与 AI 对话工具之间上下文割裂的问题。&lt;br/&gt;&lt;br/&gt;https://github.com/poco-ai/Agentero&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuQQmNbwAATIIN.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;用来找论文、做笔记和跟 Agent 一起读文献的科研工作台，解决传统文献管理工具与 AI 对话工具之间上下文割裂的问题。&lt;br/&gt;&lt;br/&gt;https://github.com/poco-ai/Agentero&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuQQmNbwAATIIN.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124450372475560367</guid>
+      <pubDate>Sun, 22 Nov 2026 10:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>看评论区兄弟们说，这不是什么特权，这是官方认可的 Acp 模式。于是我让 Antigravity </title>
+      <link>https://x.com/geekbb/status/2124441005323882610</link>
+      <description>&lt;p&gt;看评论区兄弟们说，这不是什么特权，这是官方认可的 Acp 模式。于是我让 Antigravity 搜索了一下除了 T3 Code 还有哪些工具使用此模式，发现 Pi 也在列呀，大家赶紧接入 Pi 里面愉快的用起来吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuHSbObIAA1trE.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2124333956460167270"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永远不会被封禁。&lt;br/&gt;&lt;br/&gt;T3Code 是有什么背景吗？太牛了，Pi、Hermes、OpenCode、OpenBot 只能眼巴巴地看着。&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;看评论区兄弟们说，这不是什么特权，这是官方认可的 Acp 模式。于是我让 Antigravity 搜索了一下除了 T3 Code 还有哪些工具使用此模式，发现 Pi 也在列呀，大家赶紧接入 Pi 里面愉快的用起来吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuHSbObIAA1trE.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/geekbb/status/2124333956460167270"&gt;@geekbb&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永远不会被封禁。&lt;br/&gt;&lt;br/&gt;T3Code 是有什么背景吗？太牛了，Pi、Hermes、OpenCode、OpenBot 只能眼巴巴地看着。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124441005323882610</guid>
+      <pubDate>Sun, 22 Nov 2026 09:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google DeepMind 的软件工程师终于给 T3Code 认证，在 T3Code 中使用 Antigravity 永</title>
       <link>https://x.com/geekbb/status/2124333956460167270</link>
@@ -196,30 +218,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mizorewww/status/2123496975958237530"&gt;@mizorewww&lt;/a&gt;&lt;/p&gt;&lt;p&gt;antigravity的人已经沉浸在他们的艺术里无法自拔了&lt;br/&gt;&lt;br/&gt;我很好奇他们有没有用过别的harness&lt;br/&gt;&lt;br/&gt;他们不会不知道agy多难用吧&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123620337845969314</guid>
       <pubDate>Fri, 20 Nov 2026 03:31:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firecrawl Local ？ 本地轻量版 Firecrawl，直接在你电脑上抓网页转 Markdown、起本地</title>
-      <link>https://x.com/geekbb/status/2123613309337559468</link>
-      <description>&lt;p&gt;Firecrawl Local ？ &lt;br/&gt;&lt;br/&gt;本地轻量版 Firecrawl，直接在你电脑上抓网页转 Markdown、起本地 v2 API 服务，还能一键接进 Claude Code、Cursor 等 AI 客户端。&lt;br/&gt;&lt;br/&gt;https://docs.firecrawl.dev/quickstarts/firecrawl-local&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/firecrawl/status/2123096169630912637"&gt;@firecrawl&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Introducing Firecrawl Local.&lt;br/&gt;&lt;br/&gt;We rebuilt the Firecrawl repo so agents can scrape locally.&lt;br/&gt;&lt;br/&gt;- 37x faster rust based scrape primitive (vs self-hosted)&lt;br/&gt;- 230x less memory (11 MB idle)&lt;br/&gt;- 100% open source&lt;br/&gt;&lt;br/&gt;Compatible out of the box with all of our MCP &amp;amp; SDKs.&lt;br/&gt;&lt;br/&gt;https://github.com/firecrawl/firecrawl&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2123096147224936449/pu/img/YZiCCYt0HeSRdV2d.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Firecrawl Local ？ &lt;br/&gt;&lt;br/&gt;本地轻量版 Firecrawl，直接在你电脑上抓网页转 Markdown、起本地 v2 API 服务，还能一键接进 Claude Code、Cursor 等 AI 客户端。&lt;br/&gt;&lt;br/&gt;https://docs.firecrawl.dev/quickstarts/firecrawl-local&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/firecrawl/status/2123096169630912637"&gt;@firecrawl&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Introducing Firecrawl Local.&lt;br/&gt;&lt;br/&gt;We rebuilt the Firecrawl repo so agents can scrape locally.&lt;br/&gt;&lt;br/&gt;- 37x faster rust based scrape primitive (vs self-hosted)&lt;br/&gt;- 230x less memory (11 MB idle)&lt;br/&gt;- 100% open source&lt;br/&gt;&lt;br/&gt;Compatible out of the box with all of our MCP &amp;amp; SDKs.&lt;br/&gt;&lt;br/&gt;https://github.com/firecrawl/firecrawl&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2123096147224936449/pu/img/YZiCCYt0HeSRdV2d.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123613309337559468</guid>
-      <pubDate>Fri, 20 Nov 2026 03:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>哦，原来是对自己的 Antigravity 有点迷之自信了，哈哈哈。</title>
-      <link>https://x.com/geekbb/status/2123405780221333729</link>
-      <description>&lt;p&gt;哦，原来是对自己的 Antigravity 有点迷之自信了，哈哈哈。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaBuma8AAqLTV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaDNtaUAAA9Aa.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaHPPaQAAJrNv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;哦，原来是对自己的 Antigravity 有点迷之自信了，哈哈哈。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaBuma8AAqLTV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaDNtaUAAA9Aa.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfaHPPaQAAJrNv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123405780221333729</guid>
-      <pubDate>Thu, 19 Nov 2026 13:19:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
