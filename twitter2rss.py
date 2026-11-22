@@ -23,6 +23,7 @@ import argparse
 import html
 import re
 import sys
+import unicodedata
 from datetime import datetime, timezone
 
 import requests
@@ -86,7 +87,15 @@ def build_feed(user, statuses):
         entry.id(url)
         entry.link(href=url)
 
-        title = " ".join((status.get("text") or "").split())[:80] or "Media post"
+        # Cap by display width (CJK = 2) so Chinese titles stay short enough
+        # that mail clients don't truncate at the last space.
+        title, width = "", 0
+        for ch in " ".join((status.get("text") or "").split()):
+            width += 2 if unicodedata.east_asian_width(ch) in "WF" else 1
+            if width > 80:
+                break
+            title += ch
+        title = title or "Media post"
         if status.get("reposted_by"):
             title = f"RT: {title}"
         entry.title(title)
