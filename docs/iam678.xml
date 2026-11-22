@@ -6,7 +6,19 @@
     <description>Posts from x.com/iam678</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 02:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:43:31 +0000</lastBuildDate>
+    <item>
+      <title>还行， 美图基本能实现的功能80%都复刻实现了。 bug完善一下就考虑开源免费发布， 让p图APP无广告， 方便每一位热爱摄影的朋友。</title>
+      <link>https://x.com/iam678/status/2124363121968193998</link>
+      <description>&lt;p&gt;还行，&lt;br/&gt;美图基本能实现的功能80%都复刻实现了。&lt;br/&gt;bug完善一下就考虑开源免费发布，&lt;br/&gt;让p图APP无广告，&lt;br/&gt;方便每一位热爱摄影的朋友。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtA-lUakAAtwu5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtA-lTbIAACcSO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;还行，&lt;br/&gt;美图基本能实现的功能80%都复刻实现了。&lt;br/&gt;bug完善一下就考虑开源免费发布，&lt;br/&gt;让p图APP无广告，&lt;br/&gt;方便每一位热爱摄影的朋友。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtA-lUakAAtwu5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtA-lTbIAACcSO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/iam678/status/2124363121968193998</guid>
+      <pubDate>Sun, 22 Nov 2026 04:43:31 +0000</pubDate>
+    </item>
     <item>
       <title>实在受不了国内修图软件的各种广告了， 就干脆自己写了一个美图秀秀出来。 直接把各种AI的API复制进去， 就可以使用和美图秀秀等APP同等功能的AI修图功能。 </title>
       <link>https://x.com/iam678/status/2124324009911488515</link>
@@ -194,16 +206,6 @@
       <content:encoded>&lt;p&gt;给个小建议，&lt;br/&gt;用Codex制作个人履历网页的人，&lt;br/&gt;最好给你的履历做一下美化，&lt;br/&gt;现在每个搞IT的都能靠AI让我感觉他很懂技术，&lt;br/&gt;但到现在我没看到一个有审美的。&lt;br/&gt;技术平权时代，&lt;br/&gt;用心对待和审美培养开始变得尤为重要。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/iam678/status/2119638619535417779</guid>
       <pubDate>Mon, 09 Nov 2026 03:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>一个身材颜值都不错的妹子， 一直吐槽自己身高超过170在日本很不受欢迎... 说店里受欢迎的都是那些150左右的女孩子... 果然日本人格外中意矮个子女孩子..</title>
-      <link>https://x.com/iam678/status/2119287230569324762</link>
-      <description>&lt;p&gt;一个身材颜值都不错的妹子，&lt;br/&gt;一直吐槽自己身高超过170在日本很不受欢迎...&lt;br/&gt;说店里受欢迎的都是那些150左右的女孩子...&lt;br/&gt;果然日本人格外中意矮个子女孩子...&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HWk4fn2bkAAz6xM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;一个身材颜值都不错的妹子，&lt;br/&gt;一直吐槽自己身高超过170在日本很不受欢迎...&lt;br/&gt;说店里受欢迎的都是那些150左右的女孩子...&lt;br/&gt;果然日本人格外中意矮个子女孩子...&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HWk4fn2bkAAz6xM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/iam678/status/2119287230569324762</guid>
-      <pubDate>Sun, 08 Nov 2026 04:33:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

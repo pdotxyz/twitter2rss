@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 03:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:43:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2124362989843148946</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAgeGbgAAD_he.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnAgeGbgAAD_he.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2124362989843148946</guid>
+      <pubDate>Sun, 22 Nov 2026 04:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2124347890386837672</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm8_DfagAAKxSa.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2124087424217387029</guid>
       <pubDate>Sat, 21 Nov 2026 10:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>美国银行指出，中国化工股是表达中国工业活动、再通胀、商品价格及库存周期等宏观观点的高流动性工具。2010年至2025年底的历史数据显示，中证细分化工产业主题指数</title>
-      <link>https://x.com/fingraph66/status/2124076854650782133</link>
-      <description>&lt;p&gt;美国银行指出，中国化工股是表达中国工业活动、再通胀、商品价格及库存周期等宏观观点的高流动性工具。2010年至2025年底的历史数据显示，中证细分化工产业主题指数（SH000813）与中国生产者物价指数（PPI）同比增速之间存在高度同步的周期共振关系。尤其在价差驱动型化工子行业中，投资者通常会提前数月博弈开工率、库存与利润率的拐点，宏观再通胀预期往往比当期业绩更能决定板块的定价节奏。&lt;br/&gt;来源：美国银行（《中国化工行业投资入门：从商业模式到股票回报的框架》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnBKKpbMAAKXqF.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;美国银行指出，中国化工股是表达中国工业活动、再通胀、商品价格及库存周期等宏观观点的高流动性工具。2010年至2025年底的历史数据显示，中证细分化工产业主题指数（SH000813）与中国生产者物价指数（PPI）同比增速之间存在高度同步的周期共振关系。尤其在价差驱动型化工子行业中，投资者通常会提前数月博弈开工率、库存与利润率的拐点，宏观再通胀预期往往比当期业绩更能决定板块的定价节奏。&lt;br/&gt;来源：美国银行（《中国化工行业投资入门：从商业模式到股票回报的框架》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnBKKpbMAAKXqF.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2124076854650782133</guid>
-      <pubDate>Sat, 21 Nov 2026 09:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
