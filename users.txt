@@ -23,7 +23,7 @@ fingraph66
 LabSpeculation
 openmarket_xyz
 BlockBeatsAsia
-
+glassnode
 
 
 
