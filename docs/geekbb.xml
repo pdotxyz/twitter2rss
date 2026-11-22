@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 10:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:04:00 +0000</lastBuildDate>
+    <item>
+      <title>把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳</title>
+      <link>https://x.com/geekbb/status/2124473971726839990</link>
+      <description>&lt;p&gt;把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳问 AI。&lt;br/&gt;&lt;br/&gt;https://github.com/joeseesun/subcast&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuYEmbboAAK72z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳问 AI。&lt;br/&gt;&lt;br/&gt;https://github.com/joeseesun/subcast&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuYEmbboAAK72z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124473971726839990</guid>
+      <pubDate>Sun, 22 Nov 2026 12:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>用来找论文、做笔记和跟 Agent 一起读文献的科研工作台，解决传统文献管理工具与 AI </title>
       <link>https://x.com/geekbb/status/2124450372475560367</link>
@@ -208,16 +218,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/JasonColelfod/status/2123412986496999449"&gt;@JasonColelfod&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨&lt;br/&gt;&lt;br/&gt;He could raise tens of billions on day one, would have full founder control, and could build fast on his own terms. With the relationships he&amp;#x27;s built over decades, he could easily plug into the #AI ecosystem.&lt;br/&gt;&lt;br/&gt;Imagine the demand and customer base lining up before his first chip even ships...&lt;br/&gt;&lt;br/&gt;@grok Could Jensen Huang launch a competitor to $NVDA, attract tens of billions in funding, and lock in major customers?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123412505838104577/img/aacVThBCdhbrgN-B.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123637589270003946</guid>
       <pubDate>Fri, 20 Nov 2026 04:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>沉浸在他们的艺术里无法自拔😅 还能怎么办，捏着鼻子用呗。</title>
-      <link>https://x.com/geekbb/status/2123620337845969314</link>
-      <description>&lt;p&gt;沉浸在他们的艺术里无法自拔😅&lt;br/&gt;&lt;br/&gt;还能怎么办，捏着鼻子用呗。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mizorewww/status/2123496975958237530"&gt;@mizorewww&lt;/a&gt;&lt;/p&gt;&lt;p&gt;antigravity的人已经沉浸在他们的艺术里无法自拔了&lt;br/&gt;&lt;br/&gt;我很好奇他们有没有用过别的harness&lt;br/&gt;&lt;br/&gt;他们不会不知道agy多难用吧&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;沉浸在他们的艺术里无法自拔😅&lt;br/&gt;&lt;br/&gt;还能怎么办，捏着鼻子用呗。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mizorewww/status/2123496975958237530"&gt;@mizorewww&lt;/a&gt;&lt;/p&gt;&lt;p&gt;antigravity的人已经沉浸在他们的艺术里无法自拔了&lt;br/&gt;&lt;br/&gt;我很好奇他们有没有用过别的harness&lt;br/&gt;&lt;br/&gt;他们不会不知道agy多难用吧&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123620337845969314</guid>
-      <pubDate>Fri, 20 Nov 2026 03:31:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
