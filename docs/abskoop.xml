@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 05:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:59:36 +0000</lastBuildDate>
+    <item>
+      <title>我还以为它没事刷我token呢🥲</title>
+      <link>https://x.com/abskoop/status/2124759756997100027</link>
+      <description>&lt;p&gt;我还以为它没事刷我token呢🥲&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXypu0WaQAAzY1H.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;我还以为它没事刷我token呢🥲&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXypu0WaQAAzY1H.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124759756997100027</guid>
+      <pubDate>Mon, 23 Nov 2026 06:59:36 +0000</pubDate>
+    </item>
     <item>
       <title>Grok Bot额度用的快的 可以去调一下默认模型试试 我额度用完了🥲等重置了</title>
       <link>https://x.com/abskoop/status/2124730746481132002</link>
@@ -206,16 +216,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/abskoop/status/2123691321789694099"&gt;@abskoop&lt;/a&gt;&lt;/p&gt;&lt;p&gt;腾讯还有个 做一个小工具的 项目呢&lt;br/&gt;&lt;br/&gt;在电脑上用AI打磨灵感 做小工具&lt;br/&gt;&lt;br/&gt;目前还要报名 开放🤡&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXjdt-ub0AAvhpd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2123699874353016851</guid>
       <pubDate>Fri, 20 Nov 2026 08:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯还有个 做一个小工具的 项目呢 在电脑上用AI打磨灵感 做小工具 目前还要报名 开放</title>
-      <link>https://x.com/abskoop/status/2123691321789694099</link>
-      <description>&lt;p&gt;腾讯还有个 做一个小工具的 项目呢&lt;br/&gt;&lt;br/&gt;在电脑上用AI打磨灵感 做小工具&lt;br/&gt;&lt;br/&gt;目前还要报名 开放🤡&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXjdt-ub0AAvhpd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;腾讯还有个 做一个小工具的 项目呢&lt;br/&gt;&lt;br/&gt;在电脑上用AI打磨灵感 做小工具&lt;br/&gt;&lt;br/&gt;目前还要报名 开放🤡&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXjdt-ub0AAvhpd.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2123691321789694099</guid>
-      <pubDate>Fri, 20 Nov 2026 08:14:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
