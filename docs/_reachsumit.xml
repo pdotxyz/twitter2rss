@@ -6,7 +6,65 @@
     <description>Posts from x.com/_reachsumit</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 05:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:28:55 +0000</lastBuildDate>
+    <item>
+      <title>I published Vol. 183 of "Top Information Retrieval Papers of the Week" on Substa</title>
+      <link>https://x.com/_reachsumit/status/2124767134920372640</link>
+      <description>&lt;p&gt;I published Vol. 183 of &amp;quot;Top Information Retrieval Papers of the Week&amp;quot; on Substack.&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXywcS5bQAEhfBO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;I published Vol. 183 of &amp;quot;Top Information Retrieval Papers of the Week&amp;quot; on Substack.&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXywcS5bQAEhfBO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124767134920372640</guid>
+      <pubDate>Mon, 23 Nov 2026 07:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Search From the Start: Search-Native Pretraining for Language Models Proposes ad</title>
+      <link>https://x.com/_reachsumit/status/2124766776265417176</link>
+      <description>&lt;p&gt;Search From the Start: Search-Native Pretraining for Language Models&lt;br/&gt;&lt;br/&gt;Proposes adding web search queries and retrieved results to ordinary pretraining text so models learn to search from the start. The benefit persists after supervised fine-tuning.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Search From the Start: Search-Native Pretraining for Language Models&lt;br/&gt;&lt;br/&gt;Proposes adding web search queries and retrieved results to ordinary pretraining text so models learn to search from the start. The benefit persists after supervised fine-tuning.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766776265417176</guid>
+      <pubDate>Mon, 23 Nov 2026 07:27:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Search-RSI: Expanding Search Worlds Along Multimodal Agents’ Capability Frontier</title>
+      <link>https://x.com/_reachsumit/status/2124766683177046256</link>
+      <description>&lt;p&gt;Search-RSI: Expanding Search Worlds Along Multimodal Agents’ Capability Frontier&lt;br/&gt;&lt;br/&gt;Introduces a self-improvement loop for search agents that adds training tasks with the evidence they need, so correct searches aren&amp;#x27;t penalized for missing evidence.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Search-RSI: Expanding Search Worlds Along Multimodal Agents’ Capability Frontier&lt;br/&gt;&lt;br/&gt;Introduces a self-improvement loop for search agents that adds training tasks with the evidence they need, so correct searches aren&amp;#x27;t penalized for missing evidence.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766683177046256</guid>
+      <pubDate>Mon, 23 Nov 2026 07:27:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Depth-Linked Residual Tokens for Multimodal Retrieval and Generation Meta links </title>
+      <link>https://x.com/_reachsumit/status/2124766590243835978</link>
+      <description>&lt;p&gt;Depth-Linked Residual Tokens for Multimodal Retrieval and Generation&lt;br/&gt;&lt;br/&gt;Meta links learnable tokens through a lightweight residual recurrence so each token captures what earlier ones missed, all within a single forward pass.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Depth-Linked Residual Tokens for Multimodal Retrieval and Generation&lt;br/&gt;&lt;br/&gt;Meta links learnable tokens through a lightweight residual recurrence so each token captures what earlier ones missed, all within a single forward pass.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766590243835978</guid>
+      <pubDate>Mon, 23 Nov 2026 07:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval Google pres</title>
+      <link>https://x.com/_reachsumit/status/2124766454600044630</link>
+      <description>&lt;p&gt;ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval&lt;br/&gt;&lt;br/&gt;Google presents ERA, which lets a different embedding model query an existing vector index without re-embedding the corpus, and routes the hardest queries to the original model.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval&lt;br/&gt;&lt;br/&gt;Google presents ERA, which lets a different embedding model query an existing vector index without re-embedding the corpus, and routes the hardest queries to the original model.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766454600044630</guid>
+      <pubDate>Mon, 23 Nov 2026 07:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for</title>
+      <link>https://x.com/_reachsumit/status/2124766305219903983</link>
+      <description>&lt;p&gt;LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference&lt;br/&gt;&lt;br/&gt;Meituan introduces a sparse attention method that speeds up long-context LLM inference using a paged index that updates as tokens arrive.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference&lt;br/&gt;&lt;br/&gt;Meituan introduces a sparse attention method that speeds up long-context LLM inference using a paged index that updates as tokens arrive.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766305219903983</guid>
+      <pubDate>Mon, 23 Nov 2026 07:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Indust</title>
+      <link>https://x.com/_reachsumit/status/2124766110755234016</link>
+      <description>&lt;p&gt;Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking&lt;br/&gt;&lt;br/&gt;VK introduces a production ranker which learns feature ratios directly and removes hand-engineered ratio features.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking&lt;br/&gt;&lt;br/&gt;VK introduces a production ranker which learns feature ratios directly and removes hand-engineered ratio features.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766110755234016</guid>
+      <pubDate>Mon, 23 Nov 2026 07:24:51 +0000</pubDate>
+    </item>
     <item>
       <title>Intelligent Embedding Pruning for Large-Scale Recommendation Models Meta uses fe</title>
       <link>https://x.com/_reachsumit/status/2123657434376135092</link>
@@ -110,62 +168,6 @@
       <content:encoded>&lt;p&gt;RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t&lt;br/&gt;&lt;br/&gt;@Jingyu227 et al. show that simple RAG memory matches complex agentic memory on popular benchmarks, but no design wins everywhere.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960457145471318</guid>
       <pubDate>Wed, 18 Nov 2026 07:49:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>KVUse: Reusable-KV User Memory for Efficient LLM Recommenders Meta introduces a </title>
-      <link>https://x.com/_reachsumit/status/2122960136851603702</link>
-      <description>&lt;p&gt;KVUse: Reusable-KV User Memory for Efficient LLM Recommenders&lt;br/&gt;&lt;br/&gt;Meta introduces a method that stores user profiles as reusable KV caches instead of text, so LLM ranking calls skip re-reading them, raising throughput without hurting ranking quality.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.21920&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;KVUse: Reusable-KV User Memory for Efficient LLM Recommenders&lt;br/&gt;&lt;br/&gt;Meta introduces a method that stores user profiles as reusable KV caches instead of text, so LLM ranking calls skip re-reading them, raising throughput without hurting ranking quality.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.21920&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960136851603702</guid>
-      <pubDate>Wed, 18 Nov 2026 07:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIMQ: A Single Graph-based Index for Multi-Vector Query Introduces a single grap</title>
-      <link>https://x.com/_reachsumit/status/2122960030798610720</link>
-      <description>&lt;p&gt;SIMQ: A Single Graph-based Index for Multi-Vector Query&lt;br/&gt;&lt;br/&gt;Introduces a single graph index for multi-vector retrieval. It approximates MaxSim via per-token graph search over data-aware clusters, with no interaction matrix.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22079&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;SIMQ: A Single Graph-based Index for Multi-Vector Query&lt;br/&gt;&lt;br/&gt;Introduces a single graph index for multi-vector retrieval. It approximates MaxSim via per-token graph search over data-aware clusters, with no interaction matrix.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22079&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960030798610720</guid>
-      <pubDate>Wed, 18 Nov 2026 07:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommend</title>
-      <link>https://x.com/_reachsumit/status/2122959881674326115</link>
-      <description>&lt;p&gt;Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation&lt;br/&gt;&lt;br/&gt;Amazon adds a learned semantic cluster prior to item scores.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22163&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation&lt;br/&gt;&lt;br/&gt;Amazon adds a learned semantic cluster prior to item scores.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22163&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959881674326115</guid>
-      <pubDate>Wed, 18 Nov 2026 07:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Sha</title>
-      <link>https://x.com/_reachsumit/status/2122959495047664014</link>
-      <description>&lt;p&gt;Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Shared-Context Attention&lt;br/&gt;&lt;br/&gt;LinkedIn replaces Python constraint callbacks with a GPU-native ID trie and shares prompt attention across beams, speeding up wide-beam retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22309&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Efficient Wide-Beam Generative Retrieval with Model-Native Trie Decoding and Shared-Context Attention&lt;br/&gt;&lt;br/&gt;LinkedIn replaces Python constraint callbacks with a GPU-native ID trie and shares prompt attention across beams, speeding up wide-beam retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22309&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959495047664014</guid>
-      <pubDate>Wed, 18 Nov 2026 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deal With It: On Better Schedules for Listwise Reranking @bclavie et al. at Mixe</title>
-      <link>https://x.com/_reachsumit/status/2122959347663970526</link>
-      <description>&lt;p&gt;Deal With It: On Better Schedules for Listwise Reranking&lt;br/&gt;&lt;br/&gt;@bclavie et al. at Mixedbread show that dealing documents round-robin by retriever rank, like cards, is the best split for parallel LLM reranking calls.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22392&lt;br/&gt;👨🏽‍💻 https://github.com/mixedbread-ai/dealrank&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Deal With It: On Better Schedules for Listwise Reranking&lt;br/&gt;&lt;br/&gt;@bclavie et al. at Mixedbread show that dealing documents round-robin by retriever rank, like cards, is the best split for parallel LLM reranking calls.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22392&lt;br/&gt;👨🏽‍💻 https://github.com/mixedbread-ai/dealrank&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122959347663970526</guid>
-      <pubDate>Wed, 18 Nov 2026 07:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Than a Score: Reinforcement Learning with Verbalized Feedback for Generativ</title>
-      <link>https://x.com/_reachsumit/status/2122958936345358535</link>
-      <description>&lt;p&gt;More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation&lt;br/&gt;&lt;br/&gt;Tencent introduces a system where a simulated user critiques each recommendation in words and the model refines its picks, going beyond scalar rewards.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22410&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation&lt;br/&gt;&lt;br/&gt;Tencent introduces a system where a simulated user critiques each recommendation in words and the model refines its picks, going beyond scalar rewards.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22410&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122958936345358535</guid>
-      <pubDate>Wed, 18 Nov 2026 07:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Relevance to Utility: Rubric Alignment in Yuanbao Search Tencent proposes r</title>
-      <link>https://x.com/_reachsumit/status/2122958746880221532</link>
-      <description>&lt;p&gt;From Relevance to Utility: Rubric Alignment in Yuanbao Search&lt;br/&gt;&lt;br/&gt;Tencent proposes rubric-aligned search, which trains retrieval, ranking, and document selection against one per-query rubric so LLMs get useful document sets.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22503&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;From Relevance to Utility: Rubric Alignment in Yuanbao Search&lt;br/&gt;&lt;br/&gt;Tencent proposes rubric-aligned search, which trains retrieval, ranking, and document selection against one per-query rubric so LLMs get useful document sets.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22503&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122958746880221532</guid>
-      <pubDate>Wed, 18 Nov 2026 07:43:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

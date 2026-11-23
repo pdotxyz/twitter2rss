@@ -6,7 +6,27 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 03:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:51:00 +0000</lastBuildDate>
+    <item>
+      <title>在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔</title>
+      <link>https://x.com/geekbb/status/2124757590265782320</link>
+      <description>&lt;p&gt;在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔记应用，实现零服务器费用。&lt;br/&gt;&lt;br/&gt;编辑器支持 TanStack Markdown 与代码高亮、可勾选待办清单、置顶拖拽排序、8 种纸张颜色、标签与提醒，并支持拖拽导入 Obsidian、Google Keep、Evernote、Simplenote 与 Standard Notes 导出文件。&lt;br/&gt;&lt;br/&gt;https://github.com/homielab/noteflare&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxCbQa0AALQe-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔记应用，实现零服务器费用。&lt;br/&gt;&lt;br/&gt;编辑器支持 TanStack Markdown 与代码高亮、可勾选待办清单、置顶拖拽排序、8 种纸张颜色、标签与提醒，并支持拖拽导入 Obsidian、Google Keep、Evernote、Simplenote 与 Standard Notes 导出文件。&lt;br/&gt;&lt;br/&gt;https://github.com/homielab/noteflare&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxCbQa0AALQe-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124757590265782320</guid>
+      <pubDate>Mon, 23 Nov 2026 06:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>舒服了，大家赶紧用 Gemini 4 Neon 优化下你的 OpenWrt 吧。</title>
+      <link>https://x.com/geekbb/status/2124749223803703558</link>
+      <description>&lt;p&gt;舒服了，大家赶紧用 Gemini 4 Neon 优化下你的 OpenWrt 吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXygCL5acAAHgi6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;舒服了，大家赶紧用 Gemini 4 Neon 优化下你的 OpenWrt 吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXygCL5acAAHgi6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124749223803703558</guid>
+      <pubDate>Mon, 23 Nov 2026 06:17:45 +0000</pubDate>
+    </item>
     <item>
       <title>每次出新模型我就要把 OpenWrt 优化一遍，这次是 Orchestrator （Gemini 4 Neon High </title>
       <link>https://x.com/geekbb/status/2124707510384730409</link>
@@ -198,24 +218,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/0xQuit/status/2123878063113179514"&gt;@0xQuit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Never put all your eggs in one basket&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmHz-2bYAA1uk6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123965180484911146</guid>
       <pubDate>Sat, 21 Nov 2026 02:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。 在 Node、浏览器和 </title>
-      <link>https://x.com/geekbb/status/2123944131961733206</link>
-      <description>&lt;p&gt;做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。&lt;br/&gt;&lt;br/&gt;在 Node、浏览器和 Cloudflare Workers 中无需 Python 或原生依赖，直接用纯 JavaScript/TypeScript 复现 matplotlib 3.11.2 的像素级图表渲染。&lt;br/&gt;&lt;br/&gt;https://github.com/ivarvong/mpl&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnD0x2boAAR6r3.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;做服务端无头出图或者塞进 Cloudflare Worker 跑图表可以装一个。&lt;br/&gt;&lt;br/&gt;在 Node、浏览器和 Cloudflare Workers 中无需 Python 或原生依赖，直接用纯 JavaScript/TypeScript 复现 matplotlib 3.11.2 的像素级图表渲染。&lt;br/&gt;&lt;br/&gt;https://github.com/ivarvong/mpl&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnD0x2boAAR6r3.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123944131961733206</guid>
-      <pubDate>Sat, 21 Nov 2026 00:58:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>别人恐惧我贪婪 这句话是谁说来着</title>
-      <link>https://x.com/geekbb/status/2123933589486371143</link>
-      <description>&lt;p&gt;别人恐惧我贪婪  这句话是谁说来着&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;别人恐惧我贪婪  这句话是谁说来着&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123933589486371143</guid>
-      <pubDate>Sat, 21 Nov 2026 00:16:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
