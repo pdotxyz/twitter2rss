@@ -6,7 +6,17 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 14:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:38:22 +0000</lastBuildDate>
+    <item>
+      <title>“谢谢党哥”，评论区刷起来</title>
+      <link>https://x.com/lidangzzz/status/2124935604232171753</link>
+      <description>&lt;p&gt;“谢谢党哥”，评论区刷起来&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1Jq8_XIAAYsPp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;“谢谢党哥”，评论区刷起来&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1Jq8_XIAAYsPp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124935604232171753</guid>
+      <pubDate>Mon, 23 Nov 2026 18:38:22 +0000</pubDate>
+    </item>
     <item>
       <title>你们不打听打听，简中第一大V党哥是什么江湖地位，黄仁勋本人来了也得评论一句“谢谢党</title>
       <link>https://x.com/lidangzzz/status/2124875752223166478</link>
@@ -168,14 +178,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124664992679022592/img/t6EWuIyzbCT3RgJ5.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124665048417391054</guid>
       <pubDate>Mon, 23 Nov 2026 00:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI和Anthropic轮番解决fields、abel、wolf级别的数学问题，结果依然在热搜榜上被</title>
-      <link>https://x.com/lidangzzz/status/2124636774333116661</link>
-      <description>&lt;p&gt;OpenAI和Anthropic轮番解决fields、abel、wolf级别的数学问题，结果依然在热搜榜上被赵露思的成都甜品店，《后会友期》许飞厉娜彻底击败。&lt;br/&gt;&lt;br/&gt;人类可能不会记得黎曼猜想，也不会记得P vs NP，但一定会记得许飞和厉娜。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;OpenAI和Anthropic轮番解决fields、abel、wolf级别的数学问题，结果依然在热搜榜上被赵露思的成都甜品店，《后会友期》许飞厉娜彻底击败。&lt;br/&gt;&lt;br/&gt;人类可能不会记得黎曼猜想，也不会记得P vs NP，但一定会记得许飞和厉娜。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124636774333116661</guid>
-      <pubDate>Sun, 22 Nov 2026 22:50:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
