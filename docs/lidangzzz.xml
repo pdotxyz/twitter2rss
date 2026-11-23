@@ -6,7 +6,33 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 04:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:49:25 +0000</lastBuildDate>
+    <item>
+      <title>到了2030年，世界上每个人都应该平等地享有frontier model不限量API，128GB Mac Studi</title>
+      <link>https://x.com/lidangzzz/status/2124742091490328959</link>
+      <description>&lt;p&gt;到了2030年，世界上每个人都应该平等地享有frontier model不限量API，128GB Mac Studio，herman miller椅子，一台concept2划船机，吉他，滑板，架子鼓，以及热乎乎的油酥大饼卷满驴板肠驴肋条配上驴杂汤。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;到了2030年，世界上每个人都应该平等地享有frontier model不限量API，128GB Mac Studio，herman miller椅子，一台concept2划船机，吉他，滑板，架子鼓，以及热乎乎的油酥大饼卷满驴板肠驴肋条配上驴杂汤。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124742091490328959</guid>
+      <pubDate>Mon, 23 Nov 2026 05:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>你可别给小孩教坏了，lean语法有点难度的，连我都学了一天才入门，经过了整整一周才能</title>
+      <link>https://x.com/lidangzzz/status/2124739075349635576</link>
+      <description>&lt;p&gt;你可别给小孩教坏了，lean语法有点难度的，连我都学了一天才入门，经过了整整一周才能顺利高强度手敲code。&lt;br/&gt;&lt;br/&gt;lean的type和归纳根本不是初中小孩就能直接理解的，除非你已经有计算机基础和比较好的编程语言基础并且比较懂type。&lt;br/&gt;&lt;br/&gt;要是教小孩纯纯在codex里生成lean而不用手敲，有点投机取巧了。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mranti/status/2124737659017007186"&gt;@mranti&lt;/a&gt;&lt;/p&gt;&lt;p&gt;其实现在中国初中的奥数小组就可以教孩子们用lean证明数学命题。&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;你可别给小孩教坏了，lean语法有点难度的，连我都学了一天才入门，经过了整整一周才能顺利高强度手敲code。&lt;br/&gt;&lt;br/&gt;lean的type和归纳根本不是初中小孩就能直接理解的，除非你已经有计算机基础和比较好的编程语言基础并且比较懂type。&lt;br/&gt;&lt;br/&gt;要是教小孩纯纯在codex里生成lean而不用手敲，有点投机取巧了。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mranti/status/2124737659017007186"&gt;@mranti&lt;/a&gt;&lt;/p&gt;&lt;p&gt;其实现在中国初中的奥数小组就可以教孩子们用lean证明数学命题。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124739075349635576</guid>
+      <pubDate>Mon, 23 Nov 2026 05:37:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>我记得以前好多人说，胖东来买个榴莲如果臭了，当场整个给你直接退款，客服水平堪比co</title>
+      <link>https://x.com/lidangzzz/status/2124735343027270034</link>
+      <description>&lt;p&gt;我记得以前好多人说，胖东来买个榴莲如果臭了，当场整个给你直接退款，客服水平堪比costco，怎么这次不给买洗发水的顾客退款了？&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;我记得以前好多人说，胖东来买个榴莲如果臭了，当场整个给你直接退款，客服水平堪比costco，怎么这次不给买洗发水的顾客退款了？&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124735343027270034</guid>
+      <pubDate>Mon, 23 Nov 2026 05:22:36 +0000</pubDate>
+    </item>
     <item>
       <title>今年春晚节目预测： 1. 闪身步 2. 《旗帜上的中国》大合唱 3. 继续连轴播出机器人歌舞</title>
       <link>https://x.com/lidangzzz/status/2124722392177983998</link>
@@ -140,30 +166,6 @@
       <content:encoded>&lt;p&gt;其实最早用LLM Agent做数学证明的是Tony Feng，UC Berkeley Math AP，&lt;br/&gt;&lt;br/&gt;他去年正好赶上sabbatical leave，于是去了google gemini做了visiting professor，google gemini当时内部有一个超长reasoning的gemini pro ultra max版本，他证出来七八个erdus problem，同时first proof也解了几道题。&lt;br/&gt;&lt;br/&gt;可惜后来他很快又回到UC Berkeley教书去了，althesia这个工作做了一半就放弃了，没开源，没写过程，而且算力也不够，他根本没继续往下做，导致被OpenAI和Anthropic窃取了胜利果实。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124536361008971811</guid>
       <pubDate>Sun, 22 Nov 2026 16:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>傻逼传送门：@lianyu_official</title>
-      <link>https://x.com/lidangzzz/status/2124508029035147716</link>
-      <description>&lt;p&gt;傻逼传送门：@lianyu_official&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;傻逼传送门：@lianyu_official&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124508029035147716</guid>
-      <pubDate>Sun, 22 Nov 2026 14:19:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>总有人天天憋着刺激消费、刺激就业。 我经常说，泡沫经济时代的就业全是伪就业，也不</title>
-      <link>https://x.com/lidangzzz/status/2124478166232158579</link>
-      <description>&lt;p&gt;总有人天天憋着刺激消费、刺激就业。&lt;br/&gt;&lt;br/&gt;我经常说，泡沫经济时代的就业全是伪就业，也不看看他们挣的是什么黑钱。你保住这些大傻逼们的工作，普通人还他妈活不活了？&lt;br/&gt;&lt;br/&gt;举个简单的例子，搞土木都说，希望保住自己的工作。&lt;br/&gt;&lt;br/&gt;我说，你觉得各个省市再投几个项目，才能稳定住你一辈子的工作？&lt;br/&gt;&lt;br/&gt;这傻逼说，最好在上海再多修出来20条地铁，每个地级市修10条地铁，每个省份修50条高速公路，差不多全国再投100万亿，这样我们这个行业就有救了。&lt;br/&gt;&lt;br/&gt;我说，他妈的全国人民以极高的举债融资成本搞出来100万亿，继续大投项目，养你们这种土木蛀虫大傻逼们，给你们提供工作，老百姓他妈吃饱了撑的？&lt;br/&gt;&lt;br/&gt;还有房产中介跟我说，国家再不刺激房地产，我们这些房产中介就彻底没饭吃了。&lt;br/&gt;&lt;br/&gt;我说，你觉得国家怎么刺激房地产？&lt;br/&gt;&lt;br/&gt;房产中介说，国家必须动员起来，让每个人再掏200万~1000万，大家赶紧贷款买房，你们不买房，我们这些中介难道喝西北风去吗？&lt;br/&gt;&lt;br/&gt;我说，我可去你妈的，老百姓继续让土地财政吸血吃干抹净，为了让你们这些大傻逼蛀虫们每单子挣3%的中介费？你们活下去，老百姓还他妈活不活了？&lt;br/&gt;&lt;br/&gt;还有那些不愿意学工科，读个民办三本管理本科，进个消费零售公司，做奶茶、咖啡、烘焙，投流做网红护肤品，说赶紧刺激经济吧，不然我们要倒闭了。&lt;br/&gt;&lt;br/&gt;你问他怎么刺激消费，他说，全国人民必须都来吃我们人均150的火锅、人均30一杯的奶茶，70一杯的精品手磨咖啡，都给我来吃吃喝喝。&lt;br/&gt;&lt;br/&gt;我说，你不照照镜子，看看你那傻逼德性，你自己舍得花钱吃这种东西吗？还你妈刺激消费，你以为刺激消费就是为了让你们割韭菜的？&lt;br/&gt;&lt;br/&gt;还有那种高端餐饮，说现在经济不好干了，老百姓都不来吃吃喝喝了。&lt;br/&gt;&lt;br/&gt;你一翻他菜单，一条野生大黄鱼2万，一小盘酱牛肉100，一小碟河虾河鱼500多，完全往死里宰人。&lt;br/&gt;&lt;br/&gt;你猜猜来这种地方宴请的人，他们都是以什么目的来吃饭的？都是些什么生意？这种生意越多越好，还是越少越好？&lt;br/&gt;&lt;br/&gt;还有汽车销售中介，天天骂市场，你们怎么都不来买车了，国家必须给我刺激汽车消费，&lt;br/&gt;&lt;br/&gt;再一看这些dealer的抖音账号，40万的宝马，60万的沃尔沃，80万的奔驰，天天拿鼻孔看人，不给你好脸色，&lt;br/&gt;&lt;br/&gt;这些人还骂街，你们怎么不来买车，为什么都去买小米、特斯拉、蔚小理，都是什么杂牌子，这些穷逼车主们怎么不来给我们奔驰上供了？&lt;br/&gt;&lt;br/&gt;还有各大城市头部顶奢商场，天天看不起穷逼，拿鼻子眼看人，卖顶奢包包、护肤品、鞋、服装，现在也臊眉耷眼了。&lt;br/&gt;&lt;br/&gt;你天天光看一群大傻逼们喊刺激消费、保证就业，&lt;br/&gt;&lt;br/&gt;我说，刺激你妈呢，泡沫经济的消费就不该存在，泡沫经济的大部分工作就应该彻底消灭，让你们活着和存在，本身就是一种巨大的错误。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;总有人天天憋着刺激消费、刺激就业。&lt;br/&gt;&lt;br/&gt;我经常说，泡沫经济时代的就业全是伪就业，也不看看他们挣的是什么黑钱。你保住这些大傻逼们的工作，普通人还他妈活不活了？&lt;br/&gt;&lt;br/&gt;举个简单的例子，搞土木都说，希望保住自己的工作。&lt;br/&gt;&lt;br/&gt;我说，你觉得各个省市再投几个项目，才能稳定住你一辈子的工作？&lt;br/&gt;&lt;br/&gt;这傻逼说，最好在上海再多修出来20条地铁，每个地级市修10条地铁，每个省份修50条高速公路，差不多全国再投100万亿，这样我们这个行业就有救了。&lt;br/&gt;&lt;br/&gt;我说，他妈的全国人民以极高的举债融资成本搞出来100万亿，继续大投项目，养你们这种土木蛀虫大傻逼们，给你们提供工作，老百姓他妈吃饱了撑的？&lt;br/&gt;&lt;br/&gt;还有房产中介跟我说，国家再不刺激房地产，我们这些房产中介就彻底没饭吃了。&lt;br/&gt;&lt;br/&gt;我说，你觉得国家怎么刺激房地产？&lt;br/&gt;&lt;br/&gt;房产中介说，国家必须动员起来，让每个人再掏200万~1000万，大家赶紧贷款买房，你们不买房，我们这些中介难道喝西北风去吗？&lt;br/&gt;&lt;br/&gt;我说，我可去你妈的，老百姓继续让土地财政吸血吃干抹净，为了让你们这些大傻逼蛀虫们每单子挣3%的中介费？你们活下去，老百姓还他妈活不活了？&lt;br/&gt;&lt;br/&gt;还有那些不愿意学工科，读个民办三本管理本科，进个消费零售公司，做奶茶、咖啡、烘焙，投流做网红护肤品，说赶紧刺激经济吧，不然我们要倒闭了。&lt;br/&gt;&lt;br/&gt;你问他怎么刺激消费，他说，全国人民必须都来吃我们人均150的火锅、人均30一杯的奶茶，70一杯的精品手磨咖啡，都给我来吃吃喝喝。&lt;br/&gt;&lt;br/&gt;我说，你不照照镜子，看看你那傻逼德性，你自己舍得花钱吃这种东西吗？还你妈刺激消费，你以为刺激消费就是为了让你们割韭菜的？&lt;br/&gt;&lt;br/&gt;还有那种高端餐饮，说现在经济不好干了，老百姓都不来吃吃喝喝了。&lt;br/&gt;&lt;br/&gt;你一翻他菜单，一条野生大黄鱼2万，一小盘酱牛肉100，一小碟河虾河鱼500多，完全往死里宰人。&lt;br/&gt;&lt;br/&gt;你猜猜来这种地方宴请的人，他们都是以什么目的来吃饭的？都是些什么生意？这种生意越多越好，还是越少越好？&lt;br/&gt;&lt;br/&gt;还有汽车销售中介，天天骂市场，你们怎么都不来买车了，国家必须给我刺激汽车消费，&lt;br/&gt;&lt;br/&gt;再一看这些dealer的抖音账号，40万的宝马，60万的沃尔沃，80万的奔驰，天天拿鼻孔看人，不给你好脸色，&lt;br/&gt;&lt;br/&gt;这些人还骂街，你们怎么不来买车，为什么都去买小米、特斯拉、蔚小理，都是什么杂牌子，这些穷逼车主们怎么不来给我们奔驰上供了？&lt;br/&gt;&lt;br/&gt;还有各大城市头部顶奢商场，天天看不起穷逼，拿鼻子眼看人，卖顶奢包包、护肤品、鞋、服装，现在也臊眉耷眼了。&lt;br/&gt;&lt;br/&gt;你天天光看一群大傻逼们喊刺激消费、保证就业，&lt;br/&gt;&lt;br/&gt;我说，刺激你妈呢，泡沫经济的消费就不该存在，泡沫经济的大部分工作就应该彻底消灭，让你们活着和存在，本身就是一种巨大的错误。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124478166232158579</guid>
-      <pubDate>Sun, 22 Nov 2026 12:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>赶紧买房 https://x.com/i/spaces/1POBXblqzNMlyZ</title>
-      <link>https://x.com/lidangzzz/status/2124469493732876559</link>
-      <description>&lt;p&gt;赶紧买房 https://x.com/i/spaces/1POBXblqzNMlyZ&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;赶紧买房 https://x.com/i/spaces/1POBXblqzNMlyZ&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124469493732876559</guid>
-      <pubDate>Sun, 22 Nov 2026 11:46:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

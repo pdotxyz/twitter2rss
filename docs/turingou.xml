@@ -6,7 +6,19 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 14:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:20:54 +0000</lastBuildDate>
+    <item>
+      <title>今天我做的极速构建服务 hayabuild 终于正式上线了，前期有三台可用的 Mac 构建机，欢</title>
+      <link>https://x.com/turingou/status/2124719819249570045</link>
+      <description>&lt;p&gt;今天我做的极速构建服务 hayabuild 终于正式上线了，前期有三台可用的 Mac 构建机，欢迎大家使用！&lt;br/&gt;&lt;br/&gt;今天到明天的 24 小时之内，我会优先向订阅用户出售有限的配额；明天这个时间开始，就会开放给所有用户注册，这个订阅服务按秒计费，每月有高达 150 分钟的免费使用额度（类似 GitHub CI）如果大家不想排队，也可以直接购买它的专属并发，最低只要 $79 一个月，不限构建时间！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXyFW4ZagAAIxiM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXyFW4Xa0AEVRaw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今天我做的极速构建服务 hayabuild 终于正式上线了，前期有三台可用的 Mac 构建机，欢迎大家使用！&lt;br/&gt;&lt;br/&gt;今天到明天的 24 小时之内，我会优先向订阅用户出售有限的配额；明天这个时间开始，就会开放给所有用户注册，这个订阅服务按秒计费，每月有高达 150 分钟的免费使用额度（类似 GitHub CI）如果大家不想排队，也可以直接购买它的专属并发，最低只要 $79 一个月，不限构建时间！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXyFW4ZagAAIxiM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXyFW4Xa0AEVRaw.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2124719819249570045</guid>
+      <pubDate>Mon, 23 Nov 2026 04:20:54 +0000</pubDate>
+    </item>
     <item>
       <title>这个可灵 4.0 的视频编辑真的蛮搞笑的，是目前 video to video 我试过最严丝合缝的！</title>
       <link>https://x.com/turingou/status/2124512421809365019</link>
@@ -204,40 +216,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/OwspaceGinza828/status/2122575090525347922"&gt;@OwspaceGinza828&lt;/a&gt;&lt;/p&gt;&lt;p&gt;活动预告&lt;br/&gt;【AI分享专栏 Vol.5】&lt;br/&gt;下一个十年，软件为谁而写&lt;br/&gt;嘉宾：郭宇&lt;br/&gt;时间：2026年11月23（星期一）14:30-16:00&lt;br/&gt;地点：单向街书店・东京银座店&lt;br/&gt;形式：中文分享会・自由席（40席）&lt;br/&gt;费用：￥1,500｜会员免费&lt;br/&gt;活动详情：https://one-way-street.com/zh/event/ai-vol-5/&lt;br/&gt;报名网页：https://forms.gle/Lddq1sQfBQqQWnXs8&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTkw42bAAAK94n.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2122980037536432623</guid>
       <pubDate>Wed, 18 Nov 2026 09:07:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>这件事可能说明我的 agent 更难在全网买到托管在数据中心的 Mac 了…</title>
-      <link>https://x.com/turingou/status/2122891036959891908</link>
-      <description>&lt;p&gt;这件事可能说明我的 agent 更难在全网买到托管在数据中心的 Mac 了…&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ivanburazin/status/2122721729512628713"&gt;@ivanburazin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Your agents can finally use a Mac.&lt;br/&gt;&lt;br/&gt;macOS Sandboxes are now live on @daytonaio: M4, M4 Pro and M5 Pro.&lt;br/&gt;&lt;br/&gt;Spin one up at https://app.daytona.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122716339152261121/img/e88x-Wc9WS0Sg83O.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;这件事可能说明我的 agent 更难在全网买到托管在数据中心的 Mac 了…&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ivanburazin/status/2122721729512628713"&gt;@ivanburazin&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Your agents can finally use a Mac.&lt;br/&gt;&lt;br/&gt;macOS Sandboxes are now live on @daytonaio: M4, M4 Pro and M5 Pro.&lt;br/&gt;&lt;br/&gt;Spin one up at https://app.daytona.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122716339152261121/img/e88x-Wc9WS0Sg83O.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2122891036959891908</guid>
-      <pubDate>Wed, 18 Nov 2026 03:13:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方</title>
-      <link>https://x.com/turingou/status/2122525656861069615</link>
-      <description>&lt;p&gt;今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方啊&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zyybAAEEAR4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy7bMAAlwmj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zyoawAAnXjE.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy5a4AAUOAG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy3aUAAw_te.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy4a0AA6pOD.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy2bMAA7115.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy3bwAAQq9G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;今天终于泡上混浴了！♨️ 雨中温泉的氛围…九州的温泉乡就是这样人与自然融为一体的地方啊&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zyybAAEEAR4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy7bMAAlwmj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zyoawAAnXjE.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy5a4AAUOAG.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy3aUAAw_te.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy4a0AA6pOD.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy2bMAA7115.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXS5zy3bwAAQq9G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2122525656861069615</guid>
-      <pubDate>Tue, 17 Nov 2026 03:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
