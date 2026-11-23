@@ -6,7 +6,17 @@
     <description>Posts from x.com/markminervini</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 14:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:37:15 +0000</lastBuildDate>
+    <item>
+      <title>He's back!</title>
+      <link>https://x.com/markminervini/status/2124950425996501347</link>
+      <description>&lt;p&gt;He&amp;#x27;s back!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1XFQZWwAAewzM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;He&amp;#x27;s back!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1XFQZWwAAewzM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/markminervini/status/2124950425996501347</guid>
+      <pubDate>Mon, 23 Nov 2026 19:37:15 +0000</pubDate>
+    </item>
     <item>
       <title>RT: EXCLUSIVE EXPOSÉ - In-depth interview with MARK MINERVINI - 33,554% Return • 2-T</title>
       <link>https://x.com/markminervini/status/2118039720978792746</link>
@@ -150,16 +160,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXhDmZpXEAABv6X.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/markminervini/status/2123521588066918561</guid>
       <pubDate>Thu, 19 Nov 2026 20:59:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>My friend Mike Weiss stopped by my office. When we asked him to give us his valu</title>
-      <link>https://x.com/markminervini/status/2123514709920133439</link>
-      <description>&lt;p&gt;My friend Mike Weiss stopped by my office. When we asked him to give us his valuable insights on stocks, here&amp;#x27;s what he had to say. Lol! 😎&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123513271080599553/img/ZkT-FMygmrs8x0Tg.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;My friend Mike Weiss stopped by my office. When we asked him to give us his valuable insights on stocks, here&amp;#x27;s what he had to say. Lol! 😎&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123513271080599553/img/ZkT-FMygmrs8x0Tg.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/markminervini/status/2123514709920133439</guid>
-      <pubDate>Thu, 19 Nov 2026 20:32:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
