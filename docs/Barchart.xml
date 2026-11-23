@@ -6,7 +6,17 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 12:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:28:01 +0000</lastBuildDate>
+    <item>
+      <title>Did you miss me?</title>
+      <link>https://x.com/Barchart/status/2124887704743661711</link>
+      <description>&lt;p&gt;Did you miss me?&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX0eGxLWoAAITLP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Did you miss me?&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX0eGxLWoAAITLP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2124887704743661711</guid>
+      <pubDate>Mon, 23 Nov 2026 15:28:01 +0000</pubDate>
+    </item>
     <item>
       <title>Okay now you’ve gone too far Jensen 😂😂</title>
       <link>https://x.com/Barchart/status/2124837328233599318</link>
@@ -164,26 +174,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXl5RotWcAAGm4P.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2124175408417386513</guid>
       <pubDate>Sat, 21 Nov 2026 16:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia $NVDA Fear &amp; Greed Index 🚨👻</title>
-      <link>https://x.com/Barchart/status/2124094372275011937</link>
-      <description>&lt;p&gt;Nvidia $NVDA Fear &amp;amp; Greed Index 🚨👻&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXpMkrVXsAAVvF4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Nvidia $NVDA Fear &amp;amp; Greed Index 🚨👻&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXpMkrVXsAAVvF4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2124094372275011937</guid>
-      <pubDate>Sat, 21 Nov 2026 10:55:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>BREAKING 🚨: China Chinese Stock Market has traded red for 14 of the last 15 wee</title>
-      <link>https://x.com/Barchart/status/2124060609285067058</link>
-      <description>&lt;p&gt;BREAKING 🚨: China&lt;br/&gt;&lt;br/&gt;Chinese Stock Market has traded red for 14 of the last 15 weeks, the weakest period in its history 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXot3eyXEAAhQji.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BREAKING 🚨: China&lt;br/&gt;&lt;br/&gt;Chinese Stock Market has traded red for 14 of the last 15 weeks, the weakest period in its history 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXot3eyXEAAhQji.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2124060609285067058</guid>
-      <pubDate>Sat, 21 Nov 2026 08:41:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
