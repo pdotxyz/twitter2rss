@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 19:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:46:37 +0000</lastBuildDate>
+    <item>
+      <title>X 正在开发下拉刷新时间线后可一键撤销、恢复原位置的功能，这个功能太需要了，看到好</title>
+      <link>https://x.com/abskoop/status/2124711190576365672</link>
+      <description>&lt;p&gt;X 正在开发下拉刷新时间线后可一键撤销、恢复原位置的功能，这个功能太需要了，看到好看的推文不小心被刷新，这下可以撤销了。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXvyLQZWMAAt5w1.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;X 正在开发下拉刷新时间线后可一键撤销、恢复原位置的功能，这个功能太需要了，看到好看的推文不小心被刷新，这下可以撤销了。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXvyLQZWMAAt5w1.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124711190576365672</guid>
+      <pubDate>Mon, 23 Nov 2026 03:46:37 +0000</pubDate>
+    </item>
     <item>
       <title>Muse可以链接的app也有好一些 我现在还没怎么用起来 大家用muse干啥比较多</title>
       <link>https://x.com/abskoop/status/2124583694337786258</link>
@@ -210,18 +220,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXfKwIuaoAABzsI.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2123389330651779482</guid>
       <pubDate>Thu, 19 Nov 2026 12:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenMausBot 右边 还有一块屏幕的 可以看到bot操作网页本地电脑啥的 和grok bot的云电</title>
-      <link>https://x.com/abskoop/status/2123372525271007257</link>
-      <description>&lt;p&gt;OpenMausBot 右边 还有一块屏幕的 &lt;br/&gt;&lt;br/&gt;可以看到bot操作网页本地电脑啥的&lt;br/&gt;&lt;br/&gt;和grok bot的云电脑操作类似&lt;br/&gt;&lt;br/&gt;而且能链接的app 也挺多的 &lt;br/&gt;&lt;br/&gt;还支持grok bot一键搬家 &lt;br/&gt;&lt;br/&gt;下来体验一下看看和grok bot 有啥区别&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe8DczbwAAAZt0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe8DcvbkAAtgxZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;OpenMausBot 右边 还有一块屏幕的 &lt;br/&gt;&lt;br/&gt;可以看到bot操作网页本地电脑啥的&lt;br/&gt;&lt;br/&gt;和grok bot的云电脑操作类似&lt;br/&gt;&lt;br/&gt;而且能链接的app 也挺多的 &lt;br/&gt;&lt;br/&gt;还支持grok bot一键搬家 &lt;br/&gt;&lt;br/&gt;下来体验一下看看和grok bot 有啥区别&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe8DczbwAAAZt0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXe8DcvbkAAtgxZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2123372525271007257</guid>
-      <pubDate>Thu, 19 Nov 2026 11:07:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

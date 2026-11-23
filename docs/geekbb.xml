@@ -6,7 +6,37 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 23:59:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:32:00 +0000</lastBuildDate>
+    <item>
+      <title>每次出新模型我就要把 OpenWrt 优化一遍，这次是 Orchestrator （Gemini 4 Neon High </title>
+      <link>https://x.com/geekbb/status/2124707510384730409</link>
+      <description>&lt;p&gt;每次出新模型我就要把 OpenWrt 优化一遍，这次是 Orchestrator （Gemini 4 Neon High + Gemini 4 Hydrogen High） &lt;br/&gt;&lt;br/&gt;6 轮提问 / 93 次有效调用&lt;br/&gt;累计输入总量 25.61M，命中率 93.6%，5 小时配额耗费了我 34%，每周剩余配额还剩 83%。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxpbdwbUAAqOz9.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;每次出新模型我就要把 OpenWrt 优化一遍，这次是 Orchestrator （Gemini 4 Neon High + Gemini 4 Hydrogen High） &lt;br/&gt;&lt;br/&gt;6 轮提问 / 93 次有效调用&lt;br/&gt;累计输入总量 25.61M，命中率 93.6%，5 小时配额耗费了我 34%，每周剩余配额还剩 83%。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxpbdwbUAAqOz9.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124707510384730409</guid>
+      <pubDate>Mon, 23 Nov 2026 03:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>😅</title>
+      <link>https://x.com/geekbb/status/2124687399431421999</link>
+      <description>&lt;p&gt;😅&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/elonmusk/status/2124678745629790551"&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@SawyerMerritt Except in China, as Starlink is illegal there&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;😅&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/elonmusk/status/2124678745629790551"&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@SawyerMerritt Except in China, as Starlink is illegal there&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124687399431421999</guid>
+      <pubDate>Mon, 23 Nov 2026 02:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>你看，这不就明了了吗。 只有 T3 Code 可以 ✅ 你们是这个 👍</title>
+      <link>https://x.com/geekbb/status/2124673026210017624</link>
+      <description>&lt;p&gt;你看，这不就明了了吗。&lt;br/&gt;只有 T3 Code 可以 ✅&lt;br/&gt;你们是这个 👍&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/theo/status/2124665075638411641"&gt;@theo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Seeing a lot of confusion so let&amp;#x27;s make this very clear:&lt;br/&gt;&lt;br/&gt;You can only use your Gemini subscription in Antigravity. T3 Code uses Antigravity. Other harnesses (i.e. Pi) do not use Antigravity, so they are not allowed.&lt;br/&gt;&lt;br/&gt;T3 Code -&amp;gt; Antigravity binary -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt; (fake antigravity shim) -&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO this is pretty clear (same way that Claude subs work)&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;你看，这不就明了了吗。&lt;br/&gt;只有 T3 Code 可以 ✅&lt;br/&gt;你们是这个 👍&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/theo/status/2124665075638411641"&gt;@theo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Seeing a lot of confusion so let&amp;#x27;s make this very clear:&lt;br/&gt;&lt;br/&gt;You can only use your Gemini subscription in Antigravity. T3 Code uses Antigravity. Other harnesses (i.e. Pi) do not use Antigravity, so they are not allowed.&lt;br/&gt;&lt;br/&gt;T3 Code -&amp;gt; Antigravity binary -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt; (fake antigravity shim) -&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO this is pretty clear (same way that Claude subs work)&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124673026210017624</guid>
+      <pubDate>Mon, 23 Nov 2026 01:14:58 +0000</pubDate>
+    </item>
     <item>
       <title>我们用和 T3 一样的方式通过 ACP 构建了它🤭 有 Google 官方的人来背一下书吗？有的话</title>
       <link>https://x.com/geekbb/status/2124653984887816691</link>
@@ -186,36 +216,6 @@
       <content:encoded>&lt;p&gt;别人恐惧我贪婪  这句话是谁说来着&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123933589486371143</guid>
       <pubDate>Sat, 21 Nov 2026 00:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>这次 AI 如果真的是像 2000 年一样，这就发展到达顶峰了，开始走下坡路，就像但斌说的</title>
-      <link>https://x.com/geekbb/status/2123773524389339301</link>
-      <description>&lt;p&gt;这次 AI 如果真的是像 2000 年一样，这就发展到达顶峰了，开始走下坡路，就像但斌说的那样，跟 AI 的发展一起埋葬，我也认了，对这个世界的未来彻底失去信心。&lt;br/&gt;&lt;br/&gt;但这是不可能的！&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;这次 AI 如果真的是像 2000 年一样，这就发展到达顶峰了，开始走下坡路，就像但斌说的那样，跟 AI 的发展一起埋葬，我也认了，对这个世界的未来彻底失去信心。&lt;br/&gt;&lt;br/&gt;但这是不可能的！&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123773524389339301</guid>
-      <pubDate>Fri, 20 Nov 2026 13:40:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obsidian 被我用得越来越重了，试试这款笔记软件。</title>
-      <link>https://x.com/geekbb/status/2123747778589544767</link>
-      <description>&lt;p&gt;Obsidian 被我用得越来越重了，试试这款笔记软件。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/s1dashu/status/2123702832758997484"&gt;@s1dashu&lt;/a&gt;&lt;/p&gt;&lt;p&gt;我做的笔记应用 Quiet.md 开源了，免费，Mac、Windows、Linux 都能用。&lt;br/&gt;&lt;br/&gt;· 笔记就是你电脑上真实的文件夹和文件&lt;br/&gt;· Rust 原生、GPU 绘制，一篇 100 万字的笔记滚动每帧 4.4 毫秒&lt;br/&gt;· 笔记里的白板，放一万个图形照样跟手：拖一个形状每帧 1.4 毫秒，同样的场景比 Excalidraw 快 12 倍&lt;br/&gt;· 第一次打开就能一键导入 Obsidian 库&lt;br/&gt;&lt;br/&gt;GitHub：https://github.com/s1dashu/quiet-md&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123702430336503808/img/HUiiVB82FDtaoyO6.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Obsidian 被我用得越来越重了，试试这款笔记软件。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/s1dashu/status/2123702832758997484"&gt;@s1dashu&lt;/a&gt;&lt;/p&gt;&lt;p&gt;我做的笔记应用 Quiet.md 开源了，免费，Mac、Windows、Linux 都能用。&lt;br/&gt;&lt;br/&gt;· 笔记就是你电脑上真实的文件夹和文件&lt;br/&gt;· Rust 原生、GPU 绘制，一篇 100 万字的笔记滚动每帧 4.4 毫秒&lt;br/&gt;· 笔记里的白板，放一万个图形照样跟手：拖一个形状每帧 1.4 毫秒，同样的场景比 Excalidraw 快 12 倍&lt;br/&gt;· 第一次打开就能一键导入 Obsidian 库&lt;br/&gt;&lt;br/&gt;GitHub：https://github.com/s1dashu/quiet-md&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123702430336503808/img/HUiiVB82FDtaoyO6.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123747778589544767</guid>
-      <pubDate>Fri, 20 Nov 2026 11:58:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>还有这个，不知道谁做的，笑够了。</title>
-      <link>https://x.com/geekbb/status/2123728907937706147</link>
-      <description>&lt;p&gt;还有这个，不知道谁做的，笑够了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123728694716010496/img/FsRVINZMKMJpevGx.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Karl4456/status/2123669168121905373"&gt;@Karl4456&lt;/a&gt;&lt;/p&gt;&lt;p&gt;绝了&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXi8V_ybEAALVHh.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;还有这个，不知道谁做的，笑够了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2123728694716010496/img/FsRVINZMKMJpevGx.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Karl4456/status/2123669168121905373"&gt;@Karl4456&lt;/a&gt;&lt;/p&gt;&lt;p&gt;绝了&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXi8V_ybEAALVHh.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123728907937706147</guid>
-      <pubDate>Fri, 20 Nov 2026 10:43:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

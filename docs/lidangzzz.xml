@@ -6,7 +6,17 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 01:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:59:49 +0000</lastBuildDate>
+    <item>
+      <title>很多人问，当时天津为什么要从天津专区退出，继续成为直辖市，宁可放弃河北省会的机会</title>
+      <link>https://x.com/lidangzzz/status/2124714509738836334</link>
+      <description>&lt;p&gt;很多人问，当时天津为什么要从天津专区退出，继续成为直辖市，宁可放弃河北省会的机会，也要把沧州彻底永久踢出天津？&lt;br/&gt;&lt;br/&gt;答案就在这个视频里，沧州街头采访，带你们看看真实的沧州。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124714461877387264/img/SuvZUWIIwgd1TDDT.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;很多人问，当时天津为什么要从天津专区退出，继续成为直辖市，宁可放弃河北省会的机会，也要把沧州彻底永久踢出天津？&lt;br/&gt;&lt;br/&gt;答案就在这个视频里，沧州街头采访，带你们看看真实的沧州。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124714461877387264/img/SuvZUWIIwgd1TDDT.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124714509738836334</guid>
+      <pubDate>Mon, 23 Nov 2026 03:59:49 +0000</pubDate>
+    </item>
     <item>
       <title>年度最大的傻逼出现了， 跟我说生物医学工程比计算机好，说生物医学工程未来必将吊打</title>
       <link>https://x.com/lidangzzz/status/2124506172057100329</link>
@@ -164,14 +174,6 @@
       <content:encoded>&lt;p&gt;接下来anthropic的工作重心应该放在对驴的基因改造，让驴每胎生5个，肉料比达到1:1，让驴肉产量暴增50倍以上，让全人类享受到驴肋条、驴板肠、驴肝、驴肉火烧、驴杂汤的乐趣&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2124334027582697715</guid>
       <pubDate>Sun, 22 Nov 2026 02:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套</title>
-      <link>https://x.com/lidangzzz/status/2124297531794272328</link>
-      <description>&lt;p&gt;8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套build system再用Rust重构一遍，为了迎接P vs NP和黎曼猜想时代来临把infra做好。&lt;br/&gt;&lt;br/&gt;结果没等我干完，黎曼猜想和P vs NP已经结束了。&lt;br/&gt;&lt;br/&gt;作为陈省身的私淑继承者，我再一次悲壮地牺牲了。&lt;br/&gt;&lt;br/&gt;https://github.com/lidangzzz/Lean4-ts&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;8个月前，我实现了一个版本的lean4 in typescript，一旦重构成功，我将会把lake和整套build system再用Rust重构一遍，为了迎接P vs NP和黎曼猜想时代来临把infra做好。&lt;br/&gt;&lt;br/&gt;结果没等我干完，黎曼猜想和P vs NP已经结束了。&lt;br/&gt;&lt;br/&gt;作为陈省身的私淑继承者，我再一次悲壮地牺牲了。&lt;br/&gt;&lt;br/&gt;https://github.com/lidangzzz/Lean4-ts&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124297531794272328</guid>
-      <pubDate>Sun, 22 Nov 2026 00:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

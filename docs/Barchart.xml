@@ -6,7 +6,25 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 00:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:41:01 +0000</lastBuildDate>
+    <item>
+      <title>TEST 🚨: Do you see this post?</title>
+      <link>https://x.com/Barchart/status/2124709780874793317</link>
+      <description>&lt;p&gt;TEST 🚨: Do you see this post?&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;TEST 🚨: Do you see this post?&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2124709780874793317</guid>
+      <pubDate>Mon, 23 Nov 2026 03:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>BREAKING 🚨: South Korean Stock Market Timberrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr </title>
+      <link>https://x.com/Barchart/status/2124699272767516999</link>
+      <description>&lt;p&gt;BREAKING 🚨: South Korean Stock Market&lt;br/&gt;&lt;br/&gt;Timberrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 📉 📉&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxyutYXEAAInHF.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BREAKING 🚨: South Korean Stock Market&lt;br/&gt;&lt;br/&gt;Timberrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 📉 📉&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxyutYXEAAInHF.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2124699272767516999</guid>
+      <pubDate>Mon, 23 Nov 2026 02:59:16 +0000</pubDate>
+    </item>
     <item>
       <title>BREAKING 🚨: Nvidia Nvidia $NVDA being investigated for potential criminal viola</title>
       <link>https://x.com/Barchart/status/2124657743856373945</link>
@@ -164,36 +182,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnXxidW8AEV9FO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2123965947790700561</guid>
       <pubDate>Sat, 21 Nov 2026 02:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Michael Burry looking at the market this week:</title>
-      <link>https://x.com/Barchart/status/2123948544411459616</link>
-      <description>&lt;p&gt;Michael Burry looking at the market this week:&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnH8anWUAA41Ky.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Michael Burry looking at the market this week:&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnH8anWUAA41Ky.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123948544411459616</guid>
-      <pubDate>Sat, 21 Nov 2026 01:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>JUST IN 🚨: Nasdaq 100 $QQQ enters Bear Market 🐻 after plunging more than 20% f</title>
-      <link>https://x.com/Barchart/status/2123934123613995170</link>
-      <description>&lt;p&gt;JUST IN 🚨: Nasdaq 100 $QQQ enters Bear Market 🐻 after plunging more than 20% from its October all-time high 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm61ItW4AAYEVz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;JUST IN 🚨: Nasdaq 100 $QQQ enters Bear Market 🐻 after plunging more than 20% from its October all-time high 📉 📉&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm61ItW4AAYEVz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123934123613995170</guid>
-      <pubDate>Sat, 21 Nov 2026 00:18:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/Barchart/status/2123934260948344940</link>
-      <description>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm685hXwAAqQye.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXm685hXwAAqQye.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2123934260948344940</guid>
-      <pubDate>Sat, 21 Nov 2026 00:19:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
