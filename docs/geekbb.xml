@@ -6,7 +6,15 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 11:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:37:36 +0000</lastBuildDate>
+    <item>
+      <title>Antigravity 啥时候出 Bot 啊</title>
+      <link>https://x.com/geekbb/status/2124844817360535584</link>
+      <description>&lt;p&gt;Antigravity 啥时候出 Bot 啊&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Antigravity 啥时候出 Bot 啊&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124844817360535584</guid>
+      <pubDate>Mon, 23 Nov 2026 12:37:36 +0000</pubDate>
+    </item>
     <item>
       <title>用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编</title>
       <link>https://x.com/geekbb/status/2124830822721352062</link>
@@ -204,16 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1enWbsAADv-y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124140035935281501</guid>
       <pubDate>Sat, 21 Nov 2026 13:57:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>开源的咱就用用 👍</title>
-      <link>https://x.com/geekbb/status/2124120750554845669</link>
-      <description>&lt;p&gt;开源的咱就用用 👍&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/it_works_123/status/2124106873729421365"&gt;@it_works_123&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Pi Bot 开源了，Apache-2.0。&lt;br/&gt;&lt;br/&gt;Pi Bot 是一个在你自己电脑上干活的 AI 团队：一群有名字的 Bot，可以私聊，也可以拉进群里分工，做计划、跑命令、改文件、互相交接。&lt;br/&gt;&lt;br/&gt;从第一天起目的就是「大脑」跑在用户自己的电脑上：聊天、文件、记忆和密钥都留在本机，只有你选的模型服务商会看到你发出去的内容（追求极致数据隐私可使用自部署模型）。Bot 能调用的每个工具都要过同一套权限判断，有风险的步骤等你批准，命令在隔离环境里运行，审批和执行都记进本机的记录里，没有遥测。&lt;br/&gt;&lt;br/&gt;代码在 GitHub，内核用的是 pi。macOS、Windows、Linux 都能用，另有安卓 App。欢迎提 issue 和 PR；官方角色和群组模板单独放在 pibot-roles 仓库，也欢迎一起完善。&lt;br/&gt;&lt;br/&gt;明天会发 v0.0.3：群组能自己推进、随时暂停继续，Bot 做出来的文件一定送到对话里，Windows 安装包自带 Git，手机上也能看进度、暂停群组。&lt;br/&gt;&lt;br/&gt;代码：http://github.com/w01fb0ss/PiBot&lt;br/&gt;角色库：http://github.com/w01fb0ss/pibot-roles&lt;br/&gt;下载：http://pibot.space&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124106801998352384/img/8ZWgflSzb3oa5z9j.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;开源的咱就用用 👍&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/it_works_123/status/2124106873729421365"&gt;@it_works_123&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Pi Bot 开源了，Apache-2.0。&lt;br/&gt;&lt;br/&gt;Pi Bot 是一个在你自己电脑上干活的 AI 团队：一群有名字的 Bot，可以私聊，也可以拉进群里分工，做计划、跑命令、改文件、互相交接。&lt;br/&gt;&lt;br/&gt;从第一天起目的就是「大脑」跑在用户自己的电脑上：聊天、文件、记忆和密钥都留在本机，只有你选的模型服务商会看到你发出去的内容（追求极致数据隐私可使用自部署模型）。Bot 能调用的每个工具都要过同一套权限判断，有风险的步骤等你批准，命令在隔离环境里运行，审批和执行都记进本机的记录里，没有遥测。&lt;br/&gt;&lt;br/&gt;代码在 GitHub，内核用的是 pi。macOS、Windows、Linux 都能用，另有安卓 App。欢迎提 issue 和 PR；官方角色和群组模板单独放在 pibot-roles 仓库，也欢迎一起完善。&lt;br/&gt;&lt;br/&gt;明天会发 v0.0.3：群组能自己推进、随时暂停继续，Bot 做出来的文件一定送到对话里，Windows 安装包自带 Git，手机上也能看进度、暂停群组。&lt;br/&gt;&lt;br/&gt;代码：http://github.com/w01fb0ss/PiBot&lt;br/&gt;角色库：http://github.com/w01fb0ss/pibot-roles&lt;br/&gt;下载：http://pibot.space&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124106801998352384/img/8ZWgflSzb3oa5z9j.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124120750554845669</guid>
-      <pubDate>Sat, 21 Nov 2026 12:40:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
