@@ -8,6 +8,16 @@
     <generator>python-feedgen</generator>
     <lastBuildDate>Mon, 23 Nov 2026 03:53:45 +0000</lastBuildDate>
     <item>
+      <title>RT: Big down days and big up days tend to cluster together. We've seen plenty of dow</title>
+      <link>https://x.com/charliebilello/status/2124680608307908707</link>
+      <description>&lt;p&gt;Big down days and big up days tend to cluster together.&lt;br/&gt;&lt;br/&gt;We&amp;#x27;ve seen plenty of downside volatility lately, with the S&amp;amp;P 500 falling 4.4% on November 5 and 3.7% on November 20.&lt;br/&gt;&lt;br/&gt;Don&amp;#x27;t be surprised if a huge up day is coming.&lt;br/&gt;&lt;br/&gt;Video: https://www.youtube.com/watch?v=QYkUoZU48kk&amp;amp;t=39s&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxgMNpX0AA_cDy.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Big down days and big up days tend to cluster together.&lt;br/&gt;&lt;br/&gt;We&amp;#x27;ve seen plenty of downside volatility lately, with the S&amp;amp;P 500 falling 4.4% on November 5 and 3.7% on November 20.&lt;br/&gt;&lt;br/&gt;Don&amp;#x27;t be surprised if a huge up day is coming.&lt;br/&gt;&lt;br/&gt;Video: https://www.youtube.com/watch?v=QYkUoZU48kk&amp;amp;t=39s&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxgMNpX0AA_cDy.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/charliebilello/status/2124680608307908707</guid>
+      <pubDate>Mon, 23 Nov 2026 01:45:06 +0000</pubDate>
+    </item>
+    <item>
       <title>RT: BTC要反转了吗，还是只是空头回补的超跌反弹？ 昨天和今天BTC和ETH的反弹看起来都挺强</title>
       <link>https://x.com/dizhu818/status/2124712984434160056</link>
       <description>&lt;p&gt;BTC要反转了吗，还是只是空头回补的超跌反弹？&lt;br/&gt;&lt;br/&gt;昨天和今天BTC和ETH的反弹看起来都挺强势，刚刚BTC一度逼近62000&lt;br/&gt;&lt;br/&gt;但是不能忽视的另一个现象，其他多数山寨币的上涨动力并不太强，有一种被 bitcoin:native 和ETH连拉带拖的上涨&lt;br/&gt;&lt;br/&gt;究其原因，这轮反弹更多是“空头回补 + 清算后的技术性反弹”，BTC和ETH流动性好，杠杆仓位也多，发生连环清算的时候，更容易形成脉冲上涨。其他山寨币合约仓位则要少的很多，轧空的动力小的很多&lt;br/&gt;&lt;br/&gt;间接也说明，大资金还是偏向谨慎，还没有真正的进来抄底&lt;br/&gt;&lt;br/&gt;接下来需要的是BTC和ETH确认这一波反弹是稳的，大资金真正的进来了，山寨币才会行动起来。等山寨币真正的活跃起来了，才有概率看到真正的底部的形成了，才能看更大的反弹和反转&lt;/p&gt;
@@ -188,16 +198,6 @@
       <content:encoded>&lt;p&gt;我理解SaaS的逻辑，你要尽可能沟通协作，分享链接，添加人，一堆人七手八脚协同工作，一个流程要几个人分别走完，所以必须把infra撘到server上面去。&lt;br/&gt;&lt;br/&gt;我不懂personal AI Agent要上云的逻辑，都是私密的东西，藏着自己的密码、联系人、文件、信息、所有authentication，你几乎不可能跟任何人分享你的AI Agent接入端口，完全是你自己的专属禁脔。&lt;br/&gt;&lt;br/&gt;这玩意儿上云的唯一逻辑， 就是一个hosted container永远不断电，你自己的电脑有1%的概率断网或者断电，这样一些long horizon tasks可以24小时跑在上面。&lt;br/&gt;&lt;br/&gt;问题是，绝大多数人早就养成了自己电脑24小时不关机的习惯，这种任务放在本地完全正确，完全不用全塞进你给我管理的container里面。&lt;br/&gt;&lt;br/&gt;所以我说，muse和cue以及dots迟早会被反噬，迟早还会都放在本地跑，&lt;br/&gt;&lt;br/&gt;单纯一个原因，就是一个桌面级virtual machine非常昂贵，有OS license授权，有GPU，有额外的各种资源，整个OS巨大，不能像linux kernel一样裁剪到2GB左右运行，&lt;br/&gt;&lt;br/&gt;费钱，费CPU，费GPU，费内存，费硬盘，一切都费，跟你跑一个serverless、一个S3 storage或者某个巨大database instance或者专门request/response的EC2根本比不了，theoraticallly这东西的成本价就他妈压根降不下来，而运行的又是你自己的那点私密工作。&lt;br/&gt;&lt;br/&gt;所以我说，muse、cue、dots这个商业模式是彻底跑不通的，就是他妈太贵了，绝大多数人是受不了的，&lt;br/&gt;&lt;br/&gt;最后肯定还是跑在你本地，最实惠，最方便，最卫生。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2105401708771778685</guid>
       <pubDate>Wed, 30 Sep 2026 20:57:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: Databricks / MLflow stands out: MLflow (part of Databricks) went from 5.3% → 8.9</title>
-      <link>https://x.com/AznWeng/status/2104929228722479527</link>
-      <description>&lt;p&gt;Databricks / MLflow stands out: MLflow (part of Databricks) went from 5.3% → 8.9% of observability + LLM job postings over the last 2 years.&lt;br/&gt;&lt;br/&gt;Among public observability companies, $DDOG went 4.3% → 6.0%, while $DT went 1.4% → 2.4%. $DT is especially interesting because Arize, which it agreed to acquire, shows up in another ~2.1% of these postings today (tho share actually decreased from 2 yrs ago).&lt;br/&gt;&lt;br/&gt;The private AI tools are growing even quicker: LangSmith 1.8% → 5.2% and Langfuse 1.8% → 4.7%.&lt;br/&gt;&lt;br/&gt;Elsewhere, $ESTC fell 5.3% → 2.8% $CSCO Splunk fell 4.6% to 4.1%. $PD barely registers, appearing at roughly 0.6% of current LLM + observability postings.&lt;br/&gt;&lt;br/&gt;My takeaway: Databricks/MLflow has the strongest share and growth so far, while DDOG and DT look like the clearest public observability companies participating in the trend. (2/2)&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTY1-l1XYAAcoid.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Databricks / MLflow stands out: MLflow (part of Databricks) went from 5.3% → 8.9% of observability + LLM job postings over the last 2 years.&lt;br/&gt;&lt;br/&gt;Among public observability companies, $DDOG went 4.3% → 6.0%, while $DT went 1.4% → 2.4%. $DT is especially interesting because Arize, which it agreed to acquire, shows up in another ~2.1% of these postings today (tho share actually decreased from 2 yrs ago).&lt;br/&gt;&lt;br/&gt;The private AI tools are growing even quicker: LangSmith 1.8% → 5.2% and Langfuse 1.8% → 4.7%.&lt;br/&gt;&lt;br/&gt;Elsewhere, $ESTC fell 5.3% → 2.8% $CSCO Splunk fell 4.6% to 4.1%. $PD barely registers, appearing at roughly 0.6% of current LLM + observability postings.&lt;br/&gt;&lt;br/&gt;My takeaway: Databricks/MLflow has the strongest share and growth so far, while DDOG and DT look like the clearest public observability companies participating in the trend. (2/2)&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTY1-l1XYAAcoid.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/AznWeng/status/2104929228722479527</guid>
-      <pubDate>Tue, 29 Sep 2026 13:40:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
