@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 06:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:55:00 +0000</lastBuildDate>
+    <item>
+      <title>终极鹈鹕测试 完全通过代码在浏览器中实时生成画面与配乐，制作一部讲述鹈鹕骑自行车</title>
+      <link>https://x.com/geekbb/status/2124788795622990090</link>
+      <description>&lt;p&gt;终极鹈鹕测试&lt;br/&gt;&lt;br/&gt;完全通过代码在浏览器中实时生成画面与配乐，制作一部讲述鹈鹕骑自行车穿越二十个艺术史时代的 2 分 17 秒程序化动画短片。&lt;br/&gt;&lt;br/&gt;https://github.com/RoyceBella-commits/The-Pelican-Test&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxtvHawAAVp3S.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;终极鹈鹕测试&lt;br/&gt;&lt;br/&gt;完全通过代码在浏览器中实时生成画面与配乐，制作一部讲述鹈鹕骑自行车穿越二十个艺术史时代的 2 分 17 秒程序化动画短片。&lt;br/&gt;&lt;br/&gt;https://github.com/RoyceBella-commits/The-Pelican-Test&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxtvHawAAVp3S.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124788795622990090</guid>
+      <pubDate>Mon, 23 Nov 2026 08:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔</title>
       <link>https://x.com/geekbb/status/2124757590265782320</link>
@@ -206,18 +216,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnxSeJbQAAHwR0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2123994067084460376</guid>
       <pubDate>Sat, 21 Nov 2026 04:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>这就是资产配置的魅力，哈哈哈哈</title>
-      <link>https://x.com/geekbb/status/2123965180484911146</link>
-      <description>&lt;p&gt;这就是资产配置的魅力，哈哈哈哈&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnW_d7aAAA-YGO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/0xQuit/status/2123878063113179514"&gt;@0xQuit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Never put all your eggs in one basket&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmHz-2bYAA1uk6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;这就是资产配置的魅力，哈哈哈哈&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnW_d7aAAA-YGO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/0xQuit/status/2123878063113179514"&gt;@0xQuit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Never put all your eggs in one basket&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmHz-2bYAA1uk6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123965180484911146</guid>
-      <pubDate>Sat, 21 Nov 2026 02:22:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
