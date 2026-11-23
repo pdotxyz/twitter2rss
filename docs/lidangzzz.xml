@@ -6,7 +6,31 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 06:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:33:22 +0000</lastBuildDate>
+    <item>
+      <title>突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1brBBvgoBpkqkP</title>
+      <link>https://x.com/lidangzzz/status/2124813552582119624</link>
+      <description>&lt;p&gt;突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1brBBvgoBpkqkP&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;突发！赶紧买房（不要用蓝牙耳机） https://x.com/i/spaces/1brBBvgoBpkqkP&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124813552582119624</guid>
+      <pubDate>Mon, 23 Nov 2026 10:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>推特和整个互联网正在大量蔓延散播“黎曼猜想的整个证明是错的”这种垃圾民科级别谣言，</title>
+      <link>https://x.com/lidangzzz/status/2124813388379238619</link>
+      <description>&lt;p&gt;推特和整个互联网正在大量蔓延散播“黎曼猜想的整个证明是错的”这种垃圾民科级别谣言，&lt;br/&gt;&lt;br/&gt;以前你们看历史书，不理解为什么上个世纪会持续冒出来一群群大傻逼质疑人类登月，&lt;br/&gt;&lt;br/&gt;现在你们亲眼看到了，并且看得一清二楚这些人到底是谁，什么水平，质疑的点在哪里。&lt;br/&gt;&lt;br/&gt;一个open source lean4 project，都快扔你脸上了，比你亲爹DNA还真的东西，还能这么直眉瞪眼地质疑，服了。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;推特和整个互联网正在大量蔓延散播“黎曼猜想的整个证明是错的”这种垃圾民科级别谣言，&lt;br/&gt;&lt;br/&gt;以前你们看历史书，不理解为什么上个世纪会持续冒出来一群群大傻逼质疑人类登月，&lt;br/&gt;&lt;br/&gt;现在你们亲眼看到了，并且看得一清二楚这些人到底是谁，什么水平，质疑的点在哪里。&lt;br/&gt;&lt;br/&gt;一个open source lean4 project，都快扔你脸上了，比你亲爹DNA还真的东西，还能这么直眉瞪眼地质疑，服了。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124813388379238619</guid>
+      <pubDate>Mon, 23 Nov 2026 10:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>有没有像我一样，尝试下载过红果短剧，结果一部短剧都看不下去的？</title>
+      <link>https://x.com/lidangzzz/status/2124808239175115072</link>
+      <description>&lt;p&gt;有没有像我一样，尝试下载过红果短剧，结果一部短剧都看不下去的？&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;有没有像我一样，尝试下载过红果短剧，结果一部短剧都看不下去的？&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124808239175115072</guid>
+      <pubDate>Mon, 23 Nov 2026 10:12:15 +0000</pubDate>
+    </item>
     <item>
       <title>今年春晚节目预测： 1. 闪身步 2. 《旗帜上的中国》大合唱 3. 继续连轴播出机器人歌舞</title>
       <link>https://x.com/lidangzzz/status/2124722392177983998</link>
@@ -138,34 +162,6 @@
       <content:encoded>&lt;p&gt;半年来，我一直反复介绍的四个原则：&lt;br/&gt;&lt;br/&gt;原则1，AI时代的第一性原理：LLM一定会越来越聪明，benchmark越来越高，context window越来越大，reasoning越来越长，价格越来越便宜，inference速度越来越快，&lt;br/&gt;&lt;br/&gt;这是scaling law今天依然持续的具体方向，不用你质疑，这是你唯一的信仰和行业最大共识。&lt;br/&gt;&lt;br/&gt;原则2， 管理学设计红利：从我提出“自动编程机”、行业提出vibe coding、SWE-Agent以来，从cursor到manus到metaGPT到claude code，&lt;br/&gt;&lt;br/&gt;人们逐渐把LLM Agent抽象成人，把软件管理、工程管理、管理学等等所有方法论直接套在multi agent workflow上面，严格按照人类管理学的方式去拆分、review、执行、反馈、循环，&lt;br/&gt;&lt;br/&gt;这一波很快红利也吃完了，因为 a. LLM Agent毕竟不是人，存在着memory有限、执行力有限、function calling工具有限等等局限；b. 人类用于管理学的各种方法，直接套在LLM Agent上有利有弊，红利迅速挖掘完，剩下的弊端大量存在，比如过度交流、七手八脚、随时停工等等。&lt;br/&gt;&lt;br/&gt;原则3，LLM Agent的职位和定位：绝大多数人，把claude code当做一个工具，最终的产品是用工具来完成的，最终的代码也是人与SWE Agent一步一步interactively迭代产生、迭代review、迭代部署的，&lt;br/&gt;&lt;br/&gt;而我反复告诉过所有人，也是我又一条首次提出的原创观点，multi agent未来越来越会变成本身的一个runtime，这个runtime就运行在production里面，产品和面向的对象消费的，不只是软件或者SaaS本身，而是这个runtime实时产生的内容，&lt;br/&gt;&lt;br/&gt;所以claude code/opencode/codex/openclaw这些agent，本身将会越来越多地被嵌入到产品本身，在产品关键逻辑和决策中发挥作用，&lt;br/&gt;&lt;br/&gt;而绝对不仅仅停留在开发层面，把产品仅仅局限在SWE Agent单向产出和部署的代码和服务上。&lt;br/&gt;&lt;br/&gt;原则4，也是我一直强调的，就是当人们试用了SWE Agent这种强大工具之后，人们还有哪些low hanging fruits可以寻找？SWE Agent目前最适合解决哪类问题？&lt;br/&gt;&lt;br/&gt;我反复讲过的一点是，对于一个设计复杂、环境复杂、场景复杂、用户复杂、体量复杂、范式复杂、一切开放、一切无解的超级复杂系统，这并不是SWE Agent最擅长的领域，相反这些场景需要人去和环境、客户、场景、性能一点点迭代才能打磨好的产品，&lt;br/&gt;&lt;br/&gt;比如微信的100种功能，Facebook的一大堆功能模块和十几年来迭代出来的极其复杂的infra，支付宝后面成千上万的基金和风控，这些都不是AI Agent能一次性解决的问题，相反这些场景和问题不仅高度开放，更高度依赖人的观察、人的设计、人的反馈、人的定义。&lt;br/&gt;&lt;br/&gt;AI Agent最适合的场景，甚至是我原创提出goal driven（https://github.com/lidangzzz/goal-driven/）设计的最适合场景，在不考虑token使用量和时长的条件下（参照第一性原理，这些成本必然会越来越低），必然同时具有如下特点：&lt;br/&gt;&lt;br/&gt;a. 定义简单、干净、封闭（一道数学系、一个确定性最小系统、一个编译器、一种算法、一个lean证明、一个电路或者信号模拟、蛋白质模拟和预测、CAD设计与仿真、游戏关卡测试、行为经济学仿真，都是well-defined problems，都有非常明确且封闭的边界）&lt;br/&gt;&lt;br/&gt;b. 解决问题的搜索空间巨大（可能有100~10万种天马行空的解决方案，并且绝大多数都是错的）&lt;br/&gt;&lt;br/&gt;c. 容易验证，容易verify，验证的成本是设计成本的千分之一（比如编译器，设计可能需要几万行甚至几十万行，验证只需要2000个test case全面覆盖，或者一道数学题，解决需要100步，验证答案只需要带入或者lean编译这一步）&lt;br/&gt;&lt;br/&gt;当然，写一段简单的代码，定义一个封闭、完整、定义完全的编程问题，符合上面这些定义，&lt;br/&gt;&lt;br/&gt;但是设计一套巨大、复杂、开放、与现实世界深度绑定、高度耦合的系统，让这个系统复杂迭代、添加功能、沟通、review、工程管理、产品管理，这些问题都远远超出这个范畴，很明显是不符合这个要求的。&lt;br/&gt;&lt;br/&gt;人们未来探索这些multi agent产品和场景的最关键出路，在于继续挖掘这一类问题，而不是盲目把agent比作一个人，乱套各种管理学方法。&lt;br/&gt;&lt;br/&gt;原则5，这一点我先保密，之后我再讲。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2052574396704038940</guid>
       <pubDate>Fri, 08 May 2026 02:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: fiapp 做了几天的 feed 流，感觉效果很不错。</title>
-      <link>https://x.com/fiapp_pro/status/2124336521323163982</link>
-      <description>&lt;p&gt;fiapp 做了几天的 feed 流，感觉效果很不错。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsot2gbcAIa9jA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;fiapp 做了几天的 feed 流，感觉效果很不错。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsot2gbcAIa9jA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fiapp_pro/status/2124336521323163982</guid>
-      <pubDate>Sun, 22 Nov 2026 02:57:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>黎曼猜想的这行lean确实爆出来了一个大漏洞， 爆出来一群连lean基本语法都看不懂就炒</title>
-      <link>https://x.com/lidangzzz/status/2124540979697135644</link>
-      <description>&lt;p&gt;黎曼猜想的这行lean确实爆出来了一个大漏洞，&lt;br/&gt;&lt;br/&gt;爆出来一群连lean基本语法都看不懂就炒作大新闻的大傻逼们自己的智商漏洞，&lt;br/&gt;&lt;br/&gt;比如这个⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Zhongyeli777/status/2124388473079783832"&gt;@Zhongyeli777&lt;/a&gt;&lt;/p&gt;&lt;p&gt;昨天刚认证，今天就被扒出一个True，黎曼这个瓜还有下半场&lt;br/&gt;周五Alpöge说他跟Claude证出了黎曼猜想，我昨天的态度是先别吹爆、等验证。结果验证来得飞快：Lean和Mathlib社区昨天发联合声明，175,187个模块全部编译通过，几个独立内核都收了那个61GB的导出文件，原话是完全相信证明正确&lt;br/&gt;瓜还没吃完，今天又有人扒源码：一篇质疑论文说，证明里一个叫anyGeometry的几何谓词，定义直接写成 fun _ _ _ =&amp;gt; True，对所有输入都放行，这行东西在24个文件里出现。意思就是，几何这关等于没设卡&lt;br/&gt;但先别急着喊造假。扒源码那位自己写了，最关键的一步他没查完：主定理那条依赖链，到底走不走这个谓词。走，这事就大了；不走，它就是17万个文件角落里的一段死代码，伤不到主定理&lt;br/&gt;内核能验的是每步推导对不对，验不了你起的定义是不是名副其实。AI证明时代的新功课大概就是这个：代码机器能查，定义还得人一行行读&lt;br/&gt;我先蹲Alpöge和社区的回应，这事估计很快有下文&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtYDfTbkAA56J2.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;黎曼猜想的这行lean确实爆出来了一个大漏洞，&lt;br/&gt;&lt;br/&gt;爆出来一群连lean基本语法都看不懂就炒作大新闻的大傻逼们自己的智商漏洞，&lt;br/&gt;&lt;br/&gt;比如这个⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Zhongyeli777/status/2124388473079783832"&gt;@Zhongyeli777&lt;/a&gt;&lt;/p&gt;&lt;p&gt;昨天刚认证，今天就被扒出一个True，黎曼这个瓜还有下半场&lt;br/&gt;周五Alpöge说他跟Claude证出了黎曼猜想，我昨天的态度是先别吹爆、等验证。结果验证来得飞快：Lean和Mathlib社区昨天发联合声明，175,187个模块全部编译通过，几个独立内核都收了那个61GB的导出文件，原话是完全相信证明正确&lt;br/&gt;瓜还没吃完，今天又有人扒源码：一篇质疑论文说，证明里一个叫anyGeometry的几何谓词，定义直接写成 fun _ _ _ =&amp;gt; True，对所有输入都放行，这行东西在24个文件里出现。意思就是，几何这关等于没设卡&lt;br/&gt;但先别急着喊造假。扒源码那位自己写了，最关键的一步他没查完：主定理那条依赖链，到底走不走这个谓词。走，这事就大了；不走，它就是17万个文件角落里的一段死代码，伤不到主定理&lt;br/&gt;内核能验的是每步推导对不对，验不了你起的定义是不是名副其实。AI证明时代的新功课大概就是这个：代码机器能查，定义还得人一行行读&lt;br/&gt;我先蹲Alpöge和社区的回应，这事估计很快有下文&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXtYDfTbkAA56J2.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124540979697135644</guid>
-      <pubDate>Sun, 22 Nov 2026 16:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>其实最早用LLM Agent做数学证明的是Tony Feng，UC Berkeley Math AP， 他去年正好赶上</title>
-      <link>https://x.com/lidangzzz/status/2124536361008971811</link>
-      <description>&lt;p&gt;其实最早用LLM Agent做数学证明的是Tony Feng，UC Berkeley Math AP，&lt;br/&gt;&lt;br/&gt;他去年正好赶上sabbatical leave，于是去了google gemini做了visiting professor，google gemini当时内部有一个超长reasoning的gemini pro ultra max版本，他证出来七八个erdus problem，同时first proof也解了几道题。&lt;br/&gt;&lt;br/&gt;可惜后来他很快又回到UC Berkeley教书去了，althesia这个工作做了一半就放弃了，没开源，没写过程，而且算力也不够，他根本没继续往下做，导致被OpenAI和Anthropic窃取了胜利果实。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;其实最早用LLM Agent做数学证明的是Tony Feng，UC Berkeley Math AP，&lt;br/&gt;&lt;br/&gt;他去年正好赶上sabbatical leave，于是去了google gemini做了visiting professor，google gemini当时内部有一个超长reasoning的gemini pro ultra max版本，他证出来七八个erdus problem，同时first proof也解了几道题。&lt;br/&gt;&lt;br/&gt;可惜后来他很快又回到UC Berkeley教书去了，althesia这个工作做了一半就放弃了，没开源，没写过程，而且算力也不够，他根本没继续往下做，导致被OpenAI和Anthropic窃取了胜利果实。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124536361008971811</guid>
-      <pubDate>Sun, 22 Nov 2026 16:11:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
