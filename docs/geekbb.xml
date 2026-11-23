@@ -6,7 +6,37 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 08:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:42:00 +0000</lastBuildDate>
+    <item>
+      <title>用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编</title>
+      <link>https://x.com/geekbb/status/2124830822721352062</link>
+      <description>&lt;p&gt;用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编程代理配合审片标注快速制作和修改视频。&lt;br/&gt;&lt;br/&gt;https://github.com/staryone/motlab&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HXx8m_daQAAWp5l.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编程代理配合审片标注快速制作和修改视频。&lt;br/&gt;&lt;br/&gt;https://github.com/staryone/motlab&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HXx8m_daQAAWp5l.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124830822721352062</guid>
+      <pubDate>Mon, 23 Nov 2026 11:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统</title>
+      <link>https://x.com/geekbb/status/2124814213235540098</link>
+      <description>&lt;p&gt;基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统。&lt;br/&gt;&lt;br/&gt;https://github.com/flameshot-org/flameshot&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx7Ks5b0AAsr1N.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统。&lt;br/&gt;&lt;br/&gt;https://github.com/flameshot-org/flameshot&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx7Ks5b0AAsr1N.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124814213235540098</guid>
+      <pubDate>Mon, 23 Nov 2026 10:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地</title>
+      <link>https://x.com/geekbb/status/2124802133685895626</link>
+      <description>&lt;p&gt;让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地图和 MapLibre 2D+3D 叠加工程，同时支持 Vue 和原生 React。&lt;br/&gt;&lt;br/&gt;https://github.com/songsummer920-dazzle/three-scope-map-skill&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx1a4tawAAmfnl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地图和 MapLibre 2D+3D 叠加工程，同时支持 Vue 和原生 React。&lt;br/&gt;&lt;br/&gt;https://github.com/songsummer920-dazzle/three-scope-map-skill&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx1a4tawAAmfnl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124802133685895626</guid>
+      <pubDate>Mon, 23 Nov 2026 09:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>终极鹈鹕测试 完全通过代码在浏览器中实时生成画面与配乐，制作一部讲述鹈鹕骑自行车</title>
       <link>https://x.com/geekbb/status/2124788795622990090</link>
@@ -184,38 +214,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/it_works_123/status/2124106873729421365"&gt;@it_works_123&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Pi Bot 开源了，Apache-2.0。&lt;br/&gt;&lt;br/&gt;Pi Bot 是一个在你自己电脑上干活的 AI 团队：一群有名字的 Bot，可以私聊，也可以拉进群里分工，做计划、跑命令、改文件、互相交接。&lt;br/&gt;&lt;br/&gt;从第一天起目的就是「大脑」跑在用户自己的电脑上：聊天、文件、记忆和密钥都留在本机，只有你选的模型服务商会看到你发出去的内容（追求极致数据隐私可使用自部署模型）。Bot 能调用的每个工具都要过同一套权限判断，有风险的步骤等你批准，命令在隔离环境里运行，审批和执行都记进本机的记录里，没有遥测。&lt;br/&gt;&lt;br/&gt;代码在 GitHub，内核用的是 pi。macOS、Windows、Linux 都能用，另有安卓 App。欢迎提 issue 和 PR；官方角色和群组模板单独放在 pibot-roles 仓库，也欢迎一起完善。&lt;br/&gt;&lt;br/&gt;明天会发 v0.0.3：群组能自己推进、随时暂停继续，Bot 做出来的文件一定送到对话里，Windows 安装包自带 Git，手机上也能看进度、暂停群组。&lt;br/&gt;&lt;br/&gt;代码：http://github.com/w01fb0ss/PiBot&lt;br/&gt;角色库：http://github.com/w01fb0ss/pibot-roles&lt;br/&gt;下载：http://pibot.space&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124106801998352384/img/8ZWgflSzb3oa5z9j.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124120750554845669</guid>
       <pubDate>Sat, 21 Nov 2026 12:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: Antigravity 2.34.0 is out. Google fixed a caching issue and reset everyone's Gem</title>
-      <link>https://x.com/hqmank/status/2124094331120402552</link>
-      <description>&lt;p&gt;Antigravity 2.34.0 is out.&lt;br/&gt;&lt;br/&gt;Google fixed a caching issue and reset everyone&amp;#x27;s Gemini quota. By their numbers, the same quota now goes about 22% further.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/_mohansolo/status/2124070033534161407"&gt;@_mohansolo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Reset everyone’s Gemini quota on Antigravity.&lt;br/&gt;&lt;br/&gt;The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Antigravity 2.34.0 is out.&lt;br/&gt;&lt;br/&gt;Google fixed a caching issue and reset everyone&amp;#x27;s Gemini quota. By their numbers, the same quota now goes about 22% further.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/_mohansolo/status/2124070033534161407"&gt;@_mohansolo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Reset everyone’s Gemini quota on Antigravity.&lt;br/&gt;&lt;br/&gt;The caching improvements have increased the amount you can get done in quota by 22%. Enjoy building with Neon over the weekend!&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hqmank/status/2124094331120402552</guid>
-      <pubDate>Sat, 21 Nov 2026 10:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>我已经有 4 个 Google Al Pro，都是在优惠之前拿下的，现在纠结要不要以五折的优惠价</title>
-      <link>https://x.com/geekbb/status/2124056057903522214</link>
-      <description>&lt;p&gt;我已经有 4 个 Google Al Pro，都是在优惠之前拿下的，现在纠结要不要以五折的优惠价再拿一个……&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/interjc/status/2124045403637338213"&gt;@interjc&lt;/a&gt;&lt;/p&gt;&lt;p&gt;温馨提示：&lt;br/&gt;&lt;br/&gt;Google AI Pro 的半价优惠，正在年付过程中的朋友是显示不出来的，必须切换到月付，之后提示切换回年付就变成半价了&lt;br/&gt;&lt;br/&gt;切换过程中会有各种付款和退款的过程，不用担心，Google 精算还是很准确的&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXof4-WbIAAemVP.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;我已经有 4 个 Google Al Pro，都是在优惠之前拿下的，现在纠结要不要以五折的优惠价再拿一个……&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/interjc/status/2124045403637338213"&gt;@interjc&lt;/a&gt;&lt;/p&gt;&lt;p&gt;温馨提示：&lt;br/&gt;&lt;br/&gt;Google AI Pro 的半价优惠，正在年付过程中的朋友是显示不出来的，必须切换到月付，之后提示切换回年付就变成半价了&lt;br/&gt;&lt;br/&gt;切换过程中会有各种付款和退款的过程，不用担心，Google 精算还是很准确的&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXof4-WbIAAemVP.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124056057903522214</guid>
-      <pubDate>Sat, 21 Nov 2026 08:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>两种使用 Agy 的方法： - Open WebUI 支持 Open Terminal，通过它调用调用终端环境中</title>
-      <link>https://x.com/geekbb/status/2123994067084460376</link>
-      <description>&lt;p&gt;两种使用 Agy 的方法：&lt;br/&gt;&lt;br/&gt;- Open WebUI 支持 Open Terminal，通过它调用调用终端环境中的 agy CLI，这样做不违反谷歌的政策吧。&lt;br/&gt;&lt;br/&gt;- OpenBot run 里面可以连接 Gemini 使用，之前被暂停 Antigravity 的试试，有惊喜，但不知道会不会彻底封号。&lt;br/&gt;&lt;br/&gt;- 捏着鼻子用 Antigravity，再等两周，官方说要迈出第一步，看看会不会放开使用。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnwRnFaIAAaRa7.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnxSeJbQAAHwR0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;两种使用 Agy 的方法：&lt;br/&gt;&lt;br/&gt;- Open WebUI 支持 Open Terminal，通过它调用调用终端环境中的 agy CLI，这样做不违反谷歌的政策吧。&lt;br/&gt;&lt;br/&gt;- OpenBot run 里面可以连接 Gemini 使用，之前被暂停 Antigravity 的试试，有惊喜，但不知道会不会彻底封号。&lt;br/&gt;&lt;br/&gt;- 捏着鼻子用 Antigravity，再等两周，官方说要迈出第一步，看看会不会放开使用。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnwRnFaIAAaRa7.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnxSeJbQAAHwR0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2123994067084460376</guid>
-      <pubDate>Sat, 21 Nov 2026 04:17:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
