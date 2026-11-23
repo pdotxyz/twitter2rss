@@ -6,7 +6,27 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 12:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:50:52 +0000</lastBuildDate>
+    <item>
+      <title>差一步美满</title>
+      <link>https://x.com/geekbb/status/2124878354486894949</link>
+      <description>&lt;p&gt;差一步美满&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX0Vj5fboAAjMrs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;差一步美满&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX0Vj5fboAAjMrs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124878354486894949</guid>
+      <pubDate>Mon, 23 Nov 2026 14:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>官宣老黄回归！ NVIDIA 董事会正式让 Jensen Huang 官复原职，同时用独立调查和新的合</title>
+      <link>https://x.com/geekbb/status/2124871416466272657</link>
+      <description>&lt;p&gt;官宣老黄回归！&lt;br/&gt;&lt;br/&gt;NVIDIA 董事会正式让 Jensen Huang 官复原职，同时用独立调查和新的合规委员会回应外界对其国家安全风险的质疑。&lt;br/&gt;&lt;br/&gt;股价正在暴力拉升&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/nvidianewsroom/status/2124865060397019480"&gt;@nvidianewsroom&lt;/a&gt;&lt;/p&gt;&lt;p&gt;NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.&lt;br/&gt;&lt;br/&gt;Read the release: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;官宣老黄回归！&lt;br/&gt;&lt;br/&gt;NVIDIA 董事会正式让 Jensen Huang 官复原职，同时用独立调查和新的合规委员会回应外界对其国家安全风险的质疑。&lt;br/&gt;&lt;br/&gt;股价正在暴力拉升&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/nvidianewsroom/status/2124865060397019480"&gt;@nvidianewsroom&lt;/a&gt;&lt;/p&gt;&lt;p&gt;NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.&lt;br/&gt;&lt;br/&gt;Read the release: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2124871416466272657</guid>
+      <pubDate>Mon, 23 Nov 2026 14:23:18 +0000</pubDate>
+    </item>
     <item>
       <title>Antigravity 啥时候出 Bot 啊</title>
       <link>https://x.com/geekbb/status/2124844817360535584</link>
@@ -188,30 +208,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UnslothAI/status/2123873656069877899"&gt;@UnslothAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.&lt;br/&gt;&lt;br/&gt;Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch &amp;amp; scores 48.2% on DeepSWE v1.1, the best for size.&lt;br/&gt;&lt;br/&gt;Run on Unsloth, llama.cpp&lt;br/&gt;&lt;br/&gt;GGUF: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF&lt;br/&gt;Guide: https://unsloth.ai/docs/models/inkling-2-mini&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmCJVrawAAtnD5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124322710318874919</guid>
       <pubDate>Sun, 22 Nov 2026 02:02:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>X 是懂我的，只要是好项目，总能推给我。 有了这个小插件，Antigravity 中文界面汉化</title>
-      <link>https://x.com/geekbb/status/2124149049360265275</link>
-      <description>&lt;p&gt;X 是懂我的，只要是好项目，总能推给我。&lt;br/&gt;&lt;br/&gt;有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现了，对 Antigravity 好感度+1。&lt;br/&gt;&lt;br/&gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp9UdLboAAFn6X.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/shehxuhxjx66088/status/2123800656595271981"&gt;@shehxuhxjx66088&lt;/a&gt;&lt;/p&gt;&lt;p&gt;这两天看大家都在吐槽 Antigravity 缓存命中，刚跑完一轮 Gemini 4 Neon (XHigh) 直接给我看舒服了：&lt;br/&gt;·上下文 244k / 512k（48%）&lt;br/&gt;·单轮连跑 11 步，累计输入 2.61M，读缓存 2.58M&lt;br/&gt;·缓存命中率 98.8%，新增输入才 30k&lt;br/&gt;·流式输出 204 tok/s&lt;br/&gt;这套大上下文 + 高缓存命中 + 200 tok/s 的组合，用起来是真的不肉疼。（图里这个纯白 Codex 主题 + 汉化 + 每轮悬浮统计卡是我自己开源的 Antigravity 桌面端插件，仓库放评论区 👇）&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlBS6obYAAKTTv.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;X 是懂我的，只要是好项目，总能推给我。&lt;br/&gt;&lt;br/&gt;有了这个小插件，Antigravity 中文界面汉化、Codex 昼夜主题、实时会话状态与用量统计、一些实用修复都实现了，对 Antigravity 好感度+1。&lt;br/&gt;&lt;br/&gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp9UdLboAAFn6X.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/shehxuhxjx66088/status/2123800656595271981"&gt;@shehxuhxjx66088&lt;/a&gt;&lt;/p&gt;&lt;p&gt;这两天看大家都在吐槽 Antigravity 缓存命中，刚跑完一轮 Gemini 4 Neon (XHigh) 直接给我看舒服了：&lt;br/&gt;·上下文 244k / 512k（48%）&lt;br/&gt;·单轮连跑 11 步，累计输入 2.61M，读缓存 2.58M&lt;br/&gt;·缓存命中率 98.8%，新增输入才 30k&lt;br/&gt;·流式输出 204 tok/s&lt;br/&gt;这套大上下文 + 高缓存命中 + 200 tok/s 的组合，用起来是真的不肉疼。（图里这个纯白 Codex 主题 + 汉化 + 每轮悬浮统计卡是我自己开源的 Antigravity 桌面端插件，仓库放评论区 👇）&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXlBS6obYAAKTTv.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124149049360265275</guid>
-      <pubDate>Sat, 21 Nov 2026 14:32:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着</title>
-      <link>https://x.com/geekbb/status/2124140035935281501</link>
-      <description>&lt;p&gt;哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着你，捡到的纸片和点亮的灯还能自动记下来。&lt;br/&gt;&lt;br/&gt;https://github.com/xikhar/papertrails&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1cWqaQAAXB8u.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1enWbsAADv-y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;哈哈，做的真棒啊，打开网页就能进入一本走不完的折纸立体书，靠近有些小动物它会躲着你，捡到的纸片和点亮的灯还能自动记下来。&lt;br/&gt;&lt;br/&gt;https://github.com/xikhar/papertrails&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1cWqaQAAXB8u.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXp1enWbsAADv-y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124140035935281501</guid>
-      <pubDate>Sat, 21 Nov 2026 13:57:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
