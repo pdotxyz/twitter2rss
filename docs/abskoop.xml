@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 08:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:34:00 +0000</lastBuildDate>
+    <item>
+      <title>Tesla FSD V15这个可视化有点酷 国内能用这个版本的话 就有意思了</title>
+      <link>https://x.com/abskoop/status/2124798610629935555</link>
+      <description>&lt;p&gt;Tesla FSD V15这个可视化有点酷&lt;br/&gt;&lt;br/&gt;国内能用这个版本的话 就有意思了&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124597405790199808/img/51VlXtQHY5WEgTgZ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Tesla FSD V15这个可视化有点酷&lt;br/&gt;&lt;br/&gt;国内能用这个版本的话 就有意思了&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124597405790199808/img/51VlXtQHY5WEgTgZ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2124798610629935555</guid>
+      <pubDate>Mon, 23 Nov 2026 09:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>哈哈哈哈 AI剧情已经发展到大佬门身上了</title>
       <link>https://x.com/abskoop/status/2124781045937737999</link>
@@ -200,18 +210,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXoyFkfbAAAP1R6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2124065257316659217</guid>
       <pubDate>Sat, 21 Nov 2026 08:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Space 干啥的？刚刚更新完客户端 给我推送了 把玩了一会发现，类似于AI 协作</title>
-      <link>https://x.com/abskoop/status/2124062761625784817</link>
-      <description>&lt;p&gt;ChatGPT Space 干啥的？刚刚更新完客户端 给我推送了&lt;br/&gt;&lt;br/&gt;把玩了一会发现，类似于AI 协作工作空间，集文档编辑、文件管理、PPT 制作和团队协作于一体，相当于内置 AI 的 Notion + Google Docs&lt;br/&gt;&lt;br/&gt;而且还有回收站 ，现在AI账号用的越久，账号资产越重了，善待&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXohBcqbMAAAGE3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXohBcga0AAQew6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;ChatGPT Space 干啥的？刚刚更新完客户端 给我推送了&lt;br/&gt;&lt;br/&gt;把玩了一会发现，类似于AI 协作工作空间，集文档编辑、文件管理、PPT 制作和团队协作于一体，相当于内置 AI 的 Notion + Google Docs&lt;br/&gt;&lt;br/&gt;而且还有回收站 ，现在AI账号用的越久，账号资产越重了，善待&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXohBcqbMAAAGE3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXohBcga0AAQew6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2124062761625784817</guid>
-      <pubDate>Sat, 21 Nov 2026 08:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
