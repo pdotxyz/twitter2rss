@@ -6,7 +6,19 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 14:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Google YYDS! 重置了，Pro 用户也有 Carbon 了，没有什么阻挡能你订阅 Google AI Pro</title>
+      <link>https://x.com/geekbb/status/2125009154976997459</link>
+      <description>&lt;p&gt;Google YYDS!&lt;br/&gt;重置了，Pro 用户也有 Carbon 了，没有什么阻挡能你订阅 Google AI Pro！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX2MBSCaUAARLjl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/_mohansolo/status/2124960419429458207"&gt;@_mohansolo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Resetting Gemini quotas for everyone on Antigravity because we’re upgrading models across tiers!&lt;br/&gt;&lt;br/&gt;Paid Pro users will now have access to Carbon and Hydrogen will be available to all users as promised!&lt;br/&gt;&lt;br/&gt;And as always, keep swarming with Neon 🚀&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;Google YYDS!&lt;br/&gt;重置了，Pro 用户也有 Carbon 了，没有什么阻挡能你订阅 Google AI Pro！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX2MBSCaUAARLjl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/_mohansolo/status/2124960419429458207"&gt;@_mohansolo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Resetting Gemini quotas for everyone on Antigravity because we’re upgrading models across tiers!&lt;br/&gt;&lt;br/&gt;Paid Pro users will now have access to Carbon and Hydrogen will be available to all users as promised!&lt;br/&gt;&lt;br/&gt;And as always, keep swarming with Neon 🚀&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125009154976997459</guid>
+      <pubDate>Mon, 23 Nov 2026 23:30:37 +0000</pubDate>
+    </item>
     <item>
       <title>差一步美满</title>
       <link>https://x.com/geekbb/status/2124878354486894949</link>
@@ -196,18 +208,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PatrickToulme/status/2124265732540387418"&gt;@PatrickToulme&lt;/a&gt;&lt;/p&gt;&lt;p&gt;I’m also very tired of this misinformation. I’ll say it very clear&lt;br/&gt;&lt;br/&gt;You will NOT be banned ever for using Antigravity in T3Code.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124333956460167270</guid>
       <pubDate>Sun, 22 Nov 2026 02:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模</title>
-      <link>https://x.com/geekbb/status/2124322710318874919</link>
-      <description>&lt;p&gt;今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模型的曙光。&lt;br/&gt;&lt;br/&gt;然后刷到这个网友在 7 月份就预测了昨天黎曼猜想被攻克，神奇的是时间都对上了，其他的我都不在乎，最重要的是明年 2 月 10 号，全息编码大幅降低训练和推理的内存开销，Fable 7 可以运行在你的手机上！我嘞个豆哦，想想就激动。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsa_ViaMAA_IOs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UnslothAI/status/2123873656069877899"&gt;@UnslothAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.&lt;br/&gt;&lt;br/&gt;Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch &amp;amp; scores 48.2% on DeepSWE v1.1, the best for size.&lt;br/&gt;&lt;br/&gt;Run on Unsloth, llama.cpp&lt;br/&gt;&lt;br/&gt;GGUF: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF&lt;br/&gt;Guide: https://unsloth.ai/docs/models/inkling-2-mini&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmCJVrawAAtnD5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;今天的风头莫过于 Inkling 2 Mini，26B 的参数强得一批，我仿佛又看到了本地部署大模型的曙光。&lt;br/&gt;&lt;br/&gt;然后刷到这个网友在 7 月份就预测了昨天黎曼猜想被攻克，神奇的是时间都对上了，其他的我都不在乎，最重要的是明年 2 月 10 号，全息编码大幅降低训练和推理的内存开销，Fable 7 可以运行在你的手机上！我嘞个豆哦，想想就激动。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsa_ViaMAA_IOs.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UnslothAI/status/2123873656069877899"&gt;@UnslothAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.&lt;br/&gt;&lt;br/&gt;Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch &amp;amp; scores 48.2% on DeepSWE v1.1, the best for size.&lt;br/&gt;&lt;br/&gt;Run on Unsloth, llama.cpp&lt;br/&gt;&lt;br/&gt;GGUF: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF&lt;br/&gt;Guide: https://unsloth.ai/docs/models/inkling-2-mini&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXmCJVrawAAtnD5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124322710318874919</guid>
-      <pubDate>Sun, 22 Nov 2026 02:02:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
