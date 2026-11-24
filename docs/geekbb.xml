@@ -6,7 +6,15 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 05:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:41:48 +0000</lastBuildDate>
+    <item>
+      <title>我不相信现阶段 AI 有泡沫，像我这样的人都开始实打实付费用 AI 了，你知道这有多难吗</title>
+      <link>https://x.com/geekbb/status/2125178062040093159</link>
+      <description>&lt;p&gt;我不相信现阶段 AI 有泡沫，像我这样的人都开始实打实付费用 AI 了，你知道这有多难吗。&lt;br/&gt;&lt;br/&gt;顺便说一下，自从 Google AI 的套餐被锁死在 Antigravity 上使用（我花了钱肯定使劲蹬），我就没有打开过其他的 Agent，什么 Pi、Hermes、OpenBot、OMP、OpenCode……谷歌是不是在下一盘大棋呀。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;我不相信现阶段 AI 有泡沫，像我这样的人都开始实打实付费用 AI 了，你知道这有多难吗。&lt;br/&gt;&lt;br/&gt;顺便说一下，自从 Google AI 的套餐被锁死在 Antigravity 上使用（我花了钱肯定使劲蹬），我就没有打开过其他的 Agent，什么 Pi、Hermes、OpenBot、OMP、OpenCode……谷歌是不是在下一盘大棋呀。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125178062040093159</guid>
+      <pubDate>Tue, 24 Nov 2026 10:41:48 +0000</pubDate>
+    </item>
     <item>
       <title>又懵逼了，从这张图的数据来看，我平时用的 Hydrogen medium 其实应该改为 Neon low，</title>
       <link>https://x.com/geekbb/status/2125099832666931399</link>
@@ -194,16 +202,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuca8faYAAFsCD.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124493600646189090</guid>
       <pubDate>Sun, 22 Nov 2026 13:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳</title>
-      <link>https://x.com/geekbb/status/2124473971726839990</link>
-      <description>&lt;p&gt;把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳问 AI。&lt;br/&gt;&lt;br/&gt;https://github.com/joeseesun/subcast&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuYEmbboAAK72z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;把两三小时的海外播客和 YouTube 节目变成中文双语字幕，边听边对照，不懂就点时间戳问 AI。&lt;br/&gt;&lt;br/&gt;https://github.com/joeseesun/subcast&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuYEmbboAAK72z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124473971726839990</guid>
-      <pubDate>Sun, 22 Nov 2026 12:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

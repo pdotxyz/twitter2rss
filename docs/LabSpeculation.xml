@@ -6,7 +6,27 @@
     <description>Posts from x.com/LabSpeculation</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 04:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:44:12 +0000</lastBuildDate>
+    <item>
+      <title>抄底大市值股票或者比特币，有两个非常好用的技巧，一个是看价格跌了多大比例，比如跌</title>
+      <link>https://x.com/LabSpeculation/status/2125178665487196220</link>
+      <description>&lt;p&gt;抄底大市值股票或者比特币，有两个非常好用的技巧，一个是看价格跌了多大比例，比如跌了50%到70%就可以分批接了。&lt;br/&gt;&lt;br/&gt;另一个就是威科夫努力与结果概念，也就是大的成交量应该对应大的价格变动，量价不协调，往往说明走势异常很难持续😘🤑&lt;br/&gt;&lt;br/&gt;你看我做的这图就知道了。&lt;br/&gt;&lt;br/&gt;我们先加三个免费的 TradingView 指标。&lt;br/&gt;&lt;br/&gt;第一个是 RedK EVEREX，努力与结果探测。它把每根 K 线的成交量和价格叠成一根堆叠带，上面是价下面是量，成交量很大，价格波动却比较小，就是一个早期预警，越接近关键区域，这个反转信号越可靠。&lt;br/&gt;&lt;br/&gt;它一定要和其他的动量指标和价格指标一起用，做确认。&lt;br/&gt;&lt;br/&gt;设置里把 MA Type 改成 EMA，RROF Smooth 这条主线改成白色加粗，其他参数默认。再加 30 和负 30 两条参考线。&lt;br/&gt;&lt;br/&gt;白线和橙线都在负 30 下方，白线向上穿过橙线就是金叉，白线和蓝线都在 30 上方，白线向下穿过蓝线就是死叉。&lt;br/&gt;&lt;br/&gt;第二个是 MACD。样式里把 MACD 线和信号线勾掉，只留柱子。&lt;br/&gt;&lt;br/&gt;第三个是 Volume Based Support，基于成交量的支撑阻力。打开时间框架 1 和 2，1 设黄色，2 设蓝色，3 和 4 关掉，时间框架 2 的周期，至少要比 1 大 4 倍以上。&lt;br/&gt;&lt;br/&gt;做多要两个条件同时满足。&lt;br/&gt;&lt;br/&gt;第一是MACD 和价格出现协调的底背离。价格创新低，柱子的低点却没跟着更低，大峰和小峰最好在 2 比 1 或者 3 比 1 左右。&lt;br/&gt;&lt;br/&gt;第二是底背离形成的过程中，EVEREX 在负 30 下方出现金叉，金叉对应的那根就是关键 K 线，它的收盘价就是入场位置。&lt;br/&gt;&lt;br/&gt;止损放在 VS 显示的下方最近的支撑附近，止盈分批止，风险回报比 1 比 1 先出一部分，剩下的拿到前高附近的阻力位，或者用固定的止盈比例。&lt;br/&gt;&lt;br/&gt;做空正相反，协调的顶背离，加上 EVEREX 在 30 上方死叉，死叉那根的收盘价入场，止损放在 VS 显示的最近阻力附近。&lt;br/&gt;&lt;br/&gt;用之前一定要在常做的品种和时间周期上回测复盘，至少 100 次以上的交易机会，这样对策略近期的运行情况心中有数。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4mk_Kb0AAFeUW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;抄底大市值股票或者比特币，有两个非常好用的技巧，一个是看价格跌了多大比例，比如跌了50%到70%就可以分批接了。&lt;br/&gt;&lt;br/&gt;另一个就是威科夫努力与结果概念，也就是大的成交量应该对应大的价格变动，量价不协调，往往说明走势异常很难持续😘🤑&lt;br/&gt;&lt;br/&gt;你看我做的这图就知道了。&lt;br/&gt;&lt;br/&gt;我们先加三个免费的 TradingView 指标。&lt;br/&gt;&lt;br/&gt;第一个是 RedK EVEREX，努力与结果探测。它把每根 K 线的成交量和价格叠成一根堆叠带，上面是价下面是量，成交量很大，价格波动却比较小，就是一个早期预警，越接近关键区域，这个反转信号越可靠。&lt;br/&gt;&lt;br/&gt;它一定要和其他的动量指标和价格指标一起用，做确认。&lt;br/&gt;&lt;br/&gt;设置里把 MA Type 改成 EMA，RROF Smooth 这条主线改成白色加粗，其他参数默认。再加 30 和负 30 两条参考线。&lt;br/&gt;&lt;br/&gt;白线和橙线都在负 30 下方，白线向上穿过橙线就是金叉，白线和蓝线都在 30 上方，白线向下穿过蓝线就是死叉。&lt;br/&gt;&lt;br/&gt;第二个是 MACD。样式里把 MACD 线和信号线勾掉，只留柱子。&lt;br/&gt;&lt;br/&gt;第三个是 Volume Based Support，基于成交量的支撑阻力。打开时间框架 1 和 2，1 设黄色，2 设蓝色，3 和 4 关掉，时间框架 2 的周期，至少要比 1 大 4 倍以上。&lt;br/&gt;&lt;br/&gt;做多要两个条件同时满足。&lt;br/&gt;&lt;br/&gt;第一是MACD 和价格出现协调的底背离。价格创新低，柱子的低点却没跟着更低，大峰和小峰最好在 2 比 1 或者 3 比 1 左右。&lt;br/&gt;&lt;br/&gt;第二是底背离形成的过程中，EVEREX 在负 30 下方出现金叉，金叉对应的那根就是关键 K 线，它的收盘价就是入场位置。&lt;br/&gt;&lt;br/&gt;止损放在 VS 显示的下方最近的支撑附近，止盈分批止，风险回报比 1 比 1 先出一部分，剩下的拿到前高附近的阻力位，或者用固定的止盈比例。&lt;br/&gt;&lt;br/&gt;做空正相反，协调的顶背离，加上 EVEREX 在 30 上方死叉，死叉那根的收盘价入场，止损放在 VS 显示的最近阻力附近。&lt;br/&gt;&lt;br/&gt;用之前一定要在常做的品种和时间周期上回测复盘，至少 100 次以上的交易机会，这样对策略近期的运行情况心中有数。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4mk_Kb0AAFeUW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2125178665487196220</guid>
+      <pubDate>Tue, 24 Nov 2026 10:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI做这种产品太简单了，就缺怎么赚钱的方法，这个赚钱思路挺值得借鉴的。 Umberto 做</title>
+      <link>https://x.com/LabSpeculation/status/2125162743305273347</link>
+      <description>&lt;p&gt;AI做这种产品太简单了，就缺怎么赚钱的方法，这个赚钱思路挺值得借鉴的。&lt;br/&gt;&lt;br/&gt;Umberto 做了一个还没完全做完的 App，上线第一天，24 小时就卖了 12 万美元，这还是一款只服务瑜伽老师和练习者的小众应用，现在成了他很稳定的收入😘🤑&lt;br/&gt;&lt;br/&gt;不是看他产品怎么样，也不是一天赚了 12 万，是他做事的顺序我们可以看看，很多人都是反着做，那就很难赚到钱。&lt;br/&gt;&lt;br/&gt;很多人做 App 一上来先埋头开发，功能不够多不敢上线，页面不够漂亮不敢收费，用户不够多不敢曝光，他很清楚，真正重要的不是先把东西做完，而是先确认有没有人愿意付钱。所以他先验证，先预热，先卖，先拿钱先拿反馈，再继续把产品做好。&lt;br/&gt;&lt;br/&gt;第一步只做一个非常窄的人群。不服务所有健身人群，只做瑜伽老师和瑜伽爱好者，人群一具体，文案写给谁，邮件发给谁，页面讲什么，怎么定价就都清楚了。&lt;br/&gt;&lt;br/&gt;第二步不先追求完整，先做一个能卖的版本。前端 Flutter，后端 Firebase，教学视频放 Vimeo，好处就是快，不会开发半年几个月，市场一点反馈都没有。&lt;br/&gt;&lt;br/&gt;第三步最关键，开发和销售同步进行，正式开卖前先预热了差不多一个月。&lt;br/&gt;&lt;br/&gt;潜在用户主要来自三处，他自己就是瑜伽爱好者，有社群，上线前用页面和社交媒体收集邮箱，还有以前做瑜伽品牌积累的人脉和受众。&lt;br/&gt;&lt;br/&gt;预热主要靠邮件，而且一封都不报价格。一上来就报价，用户只剩贵不贵，他要让用户只想值不值。&lt;br/&gt;&lt;br/&gt;第一封先把受众卡死，告诉对方这是专门给瑜伽老师和瑜伽爱好者的。第二封讲问题不急着讲功能，放大你现在的方式有多低效。&lt;br/&gt;&lt;br/&gt;第三封讲愿景，第四封讲使用场景，第五封继续加热还是不报价。开卖当天才第一次亮价格，之后持续追单。&lt;br/&gt;&lt;br/&gt;24 小时卖到 12 万美元，靠三个设计。&lt;br/&gt;&lt;br/&gt;第一个是冷启动不用月付订阅，直接上 LTD，也就是一次付费终身使用。不只是先把现金流拿到手，更重要的是第一批用户会更有参与感，给的是现金流，反馈和传播。&lt;br/&gt;&lt;br/&gt;第二个是三档价格，109，199，349 美元。低价档接住犹豫的人，中间档做对比，高价档把客单价往上抬，让更高的价格显得合理。&lt;br/&gt;&lt;br/&gt;第三个是把上线做成一个事件，开卖前他做了一个月左右的邮件序列，用户是提前一批批收进邮箱，慢慢养熟的。开卖那天收入不是一点一点进，而是集中爆发。&lt;br/&gt;&lt;br/&gt;24 小时 12 万本质上不是当天突然发生的，是前面的预热，定价和定位在那一天一起兑现。&lt;br/&gt;&lt;br/&gt;首批用户买断，拿到第一批现金流和反馈后，他就改回了常见的订阅模式。LTD 更像冷启动火箭，不是长期唯一的商业模式。&lt;br/&gt;&lt;br/&gt;如果只记一句话，一人公司创业，一定要先赚钱，而不是把产品做得多完整，应该很早就知道什么东西值得被市场买单。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4Xxd3aIAAZtMp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;AI做这种产品太简单了，就缺怎么赚钱的方法，这个赚钱思路挺值得借鉴的。&lt;br/&gt;&lt;br/&gt;Umberto 做了一个还没完全做完的 App，上线第一天，24 小时就卖了 12 万美元，这还是一款只服务瑜伽老师和练习者的小众应用，现在成了他很稳定的收入😘🤑&lt;br/&gt;&lt;br/&gt;不是看他产品怎么样，也不是一天赚了 12 万，是他做事的顺序我们可以看看，很多人都是反着做，那就很难赚到钱。&lt;br/&gt;&lt;br/&gt;很多人做 App 一上来先埋头开发，功能不够多不敢上线，页面不够漂亮不敢收费，用户不够多不敢曝光，他很清楚，真正重要的不是先把东西做完，而是先确认有没有人愿意付钱。所以他先验证，先预热，先卖，先拿钱先拿反馈，再继续把产品做好。&lt;br/&gt;&lt;br/&gt;第一步只做一个非常窄的人群。不服务所有健身人群，只做瑜伽老师和瑜伽爱好者，人群一具体，文案写给谁，邮件发给谁，页面讲什么，怎么定价就都清楚了。&lt;br/&gt;&lt;br/&gt;第二步不先追求完整，先做一个能卖的版本。前端 Flutter，后端 Firebase，教学视频放 Vimeo，好处就是快，不会开发半年几个月，市场一点反馈都没有。&lt;br/&gt;&lt;br/&gt;第三步最关键，开发和销售同步进行，正式开卖前先预热了差不多一个月。&lt;br/&gt;&lt;br/&gt;潜在用户主要来自三处，他自己就是瑜伽爱好者，有社群，上线前用页面和社交媒体收集邮箱，还有以前做瑜伽品牌积累的人脉和受众。&lt;br/&gt;&lt;br/&gt;预热主要靠邮件，而且一封都不报价格。一上来就报价，用户只剩贵不贵，他要让用户只想值不值。&lt;br/&gt;&lt;br/&gt;第一封先把受众卡死，告诉对方这是专门给瑜伽老师和瑜伽爱好者的。第二封讲问题不急着讲功能，放大你现在的方式有多低效。&lt;br/&gt;&lt;br/&gt;第三封讲愿景，第四封讲使用场景，第五封继续加热还是不报价。开卖当天才第一次亮价格，之后持续追单。&lt;br/&gt;&lt;br/&gt;24 小时卖到 12 万美元，靠三个设计。&lt;br/&gt;&lt;br/&gt;第一个是冷启动不用月付订阅，直接上 LTD，也就是一次付费终身使用。不只是先把现金流拿到手，更重要的是第一批用户会更有参与感，给的是现金流，反馈和传播。&lt;br/&gt;&lt;br/&gt;第二个是三档价格，109，199，349 美元。低价档接住犹豫的人，中间档做对比，高价档把客单价往上抬，让更高的价格显得合理。&lt;br/&gt;&lt;br/&gt;第三个是把上线做成一个事件，开卖前他做了一个月左右的邮件序列，用户是提前一批批收进邮箱，慢慢养熟的。开卖那天收入不是一点一点进，而是集中爆发。&lt;br/&gt;&lt;br/&gt;24 小时 12 万本质上不是当天突然发生的，是前面的预热，定价和定位在那一天一起兑现。&lt;br/&gt;&lt;br/&gt;首批用户买断，拿到第一批现金流和反馈后，他就改回了常见的订阅模式。LTD 更像冷启动火箭，不是长期唯一的商业模式。&lt;br/&gt;&lt;br/&gt;如果只记一句话，一人公司创业，一定要先赚钱，而不是把产品做得多完整，应该很早就知道什么东西值得被市场买单。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4Xxd3aIAAZtMp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2125162743305273347</guid>
+      <pubDate>Tue, 24 Nov 2026 09:40:56 +0000</pubDate>
+    </item>
     <item>
       <title>币圈黑帮的坐牢也挺惨的，被抓后，狱友说这人在牢里被人用钳子拔了四颗门牙😂 骗走 2.</title>
       <link>https://x.com/LabSpeculation/status/2125079025290969564</link>
@@ -192,24 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsefAZagAAZKkJ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/buffermorex/status/2124325187076370633</guid>
       <pubDate>Sun, 22 Nov 2026 02:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>三年前的今天，OpenAI 官宣奥特曼回来当 CEO，离他被开不到 5 天，现在他也联系了黄仁</title>
-      <link>https://x.com/LabSpeculation/status/2124324284076322914</link>
-      <description>&lt;p&gt;三年前的今天，OpenAI 官宣奥特曼回来当 CEO，离他被开不到 5 天，现在他也联系了黄仁勋，奥特曼说自己比一般人更能体会这事😂&lt;br/&gt;&lt;br/&gt;但老黄这边，签名要他回来的英伟达员工只有四分之一。&lt;br/&gt;&lt;br/&gt;Business Insider 周六报了一圈联系过黄仁勋的大佬，转述出来的原话里，喊他打回英伟达的只有 Uber 创始人 Kalanick 一个。&lt;br/&gt;&lt;br/&gt;都在传老黄接这些电话是在盘算回英伟达，我把转述这篇的原文翻了一遍，他们说的跟这个不太一样。&lt;br/&gt;&lt;br/&gt;川普说他打过去，就是看看老黄还好不好。&lt;br/&gt;&lt;br/&gt;Brockman 说就是陪陪他。&lt;br/&gt;&lt;br/&gt;纳德拉说这事他说了不算，得英伟达董事会定，后来又说这事挺惨的。&lt;br/&gt;&lt;br/&gt;投资人 Gavin Baker 说，他一直劝老黄去健身看日出、每天睡 8 小时，身体好了脑子才清楚。&lt;br/&gt;&lt;br/&gt;只有 Kalanick 说要拿一个镶满晶圆的大喇叭去英伟达总部，为对的事去争，英伟达董事长美东 11 月 17 号在财报电话会一开头就说了，董事会不打算让他回来当 CEO，到现在没改口😮‍💨&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdq3naYAA8kf_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;三年前的今天，OpenAI 官宣奥特曼回来当 CEO，离他被开不到 5 天，现在他也联系了黄仁勋，奥特曼说自己比一般人更能体会这事😂&lt;br/&gt;&lt;br/&gt;但老黄这边，签名要他回来的英伟达员工只有四分之一。&lt;br/&gt;&lt;br/&gt;Business Insider 周六报了一圈联系过黄仁勋的大佬，转述出来的原话里，喊他打回英伟达的只有 Uber 创始人 Kalanick 一个。&lt;br/&gt;&lt;br/&gt;都在传老黄接这些电话是在盘算回英伟达，我把转述这篇的原文翻了一遍，他们说的跟这个不太一样。&lt;br/&gt;&lt;br/&gt;川普说他打过去，就是看看老黄还好不好。&lt;br/&gt;&lt;br/&gt;Brockman 说就是陪陪他。&lt;br/&gt;&lt;br/&gt;纳德拉说这事他说了不算，得英伟达董事会定，后来又说这事挺惨的。&lt;br/&gt;&lt;br/&gt;投资人 Gavin Baker 说，他一直劝老黄去健身看日出、每天睡 8 小时，身体好了脑子才清楚。&lt;br/&gt;&lt;br/&gt;只有 Kalanick 说要拿一个镶满晶圆的大喇叭去英伟达总部，为对的事去争，英伟达董事长美东 11 月 17 号在财报电话会一开头就说了，董事会不打算让他回来当 CEO，到现在没改口😮‍💨&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsdq3naYAA8kf_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124324284076322914</guid>
-      <pubDate>Sun, 22 Nov 2026 02:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>看到很多人说 5 字头的比特币现在就是底，再不买就买不着了🤑🤔 我有点想知道现在真抄</title>
-      <link>https://x.com/LabSpeculation/status/2124322214946488819</link>
-      <description>&lt;p&gt;看到很多人说 5 字头的比特币现在就是底，再不买就买不着了🤑🤔&lt;br/&gt;&lt;br/&gt;我有点想知道现在真抄底的人占比例多少？&lt;br/&gt;&lt;br/&gt;没有真抄底的不要投票啊，小仓位试仓的也不要投，感谢。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;看到很多人说 5 字头的比特币现在就是底，再不买就买不着了🤑🤔&lt;br/&gt;&lt;br/&gt;我有点想知道现在真抄底的人占比例多少？&lt;br/&gt;&lt;br/&gt;没有真抄底的不要投票啊，小仓位试仓的也不要投，感谢。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124322214946488819</guid>
-      <pubDate>Sun, 22 Nov 2026 02:00:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

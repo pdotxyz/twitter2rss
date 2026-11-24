@@ -6,7 +6,7 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 08:46:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:00:26 +0000</lastBuildDate>
     <item>
       <title>Mass Panic at Nvidia Headquarters after Jim Cramer says $NVDA price is headed hi</title>
       <link>https://x.com/Barchart/status/2125148947760959983</link>
@@ -16,6 +16,16 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4LtPtXQAACypL.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2125148947760959983</guid>
       <pubDate>Tue, 24 Nov 2026 08:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/Barchart/status/2125152552677441923</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4O-0zXgAEOTN_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4O-0zXgAEOTN_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2125152552677441923</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:26 +0000</pubDate>
     </item>
     <item>
       <title>BREAKING 🚨: Argentina Argentina Bonds hit distressed levels for the first time </title>
@@ -186,16 +196,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1GxP5WwAA7DN-.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2124932476988436967</guid>
       <pubDate>Mon, 23 Nov 2026 18:25:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Look as Nvidia $NVDA CEO Jensen Huang saves humanity</title>
-      <link>https://x.com/Barchart/status/2124925348181594485</link>
-      <description>&lt;p&gt;Live Look as Nvidia $NVDA CEO Jensen Huang saves humanity &lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/1793374650686406656/img/4rRqjS4-HmJblmDD.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Live Look as Nvidia $NVDA CEO Jensen Huang saves humanity &lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/1793374650686406656/img/4rRqjS4-HmJblmDD.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2124925348181594485</guid>
-      <pubDate>Mon, 23 Nov 2026 17:57:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

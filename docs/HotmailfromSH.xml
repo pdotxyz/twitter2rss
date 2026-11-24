@@ -6,7 +6,17 @@
     <description>Posts from x.com/HotmailfromSH</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 09:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:33:27 +0000</lastBuildDate>
+    <item>
+      <title>定期看海🌊</title>
+      <link>https://x.com/HotmailfromSH/status/2125175961012637981</link>
+      <description>&lt;p&gt;定期看海🌊&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4kPqKbUAAAy8z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;定期看海🌊&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4kPqKbUAAAy8z.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/HotmailfromSH/status/2125175961012637981</guid>
+      <pubDate>Tue, 24 Nov 2026 10:33:27 +0000</pubDate>
+    </item>
     <item>
       <title>今天（11月24日）泰北过的是天灯节，全泰国过的是水灯节，印度在过排灯节，老挝是塔銮</title>
       <link>https://x.com/HotmailfromSH/status/2125153947644236084</link>
@@ -214,16 +224,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXnBa7ObgAAbd0j.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/HotmailfromSH/status/2123941374919913897</guid>
       <pubDate>Sat, 21 Nov 2026 00:47:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>「医学科普：冠状动脉支架(心脏支架）PCI介入治疗」</title>
-      <link>https://x.com/HotmailfromSH/status/2123745013242662985</link>
-      <description>&lt;p&gt;「医学科普：冠状动脉支架(心脏支架）PCI介入治疗」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2003038143747137536/img/RAtT6RsISibfaXU-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;「医学科普：冠状动脉支架(心脏支架）PCI介入治疗」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2003038143747137536/img/RAtT6RsISibfaXU-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/HotmailfromSH/status/2123745013242662985</guid>
-      <pubDate>Fri, 20 Nov 2026 11:47:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

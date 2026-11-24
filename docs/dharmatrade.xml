@@ -6,7 +6,27 @@
     <description>Posts from x.com/dharmatrade</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 16:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:44:41 +0000</lastBuildDate>
+    <item>
+      <title>Schevana A Lisp Machine-style desktop that lives inside one host window and is w</title>
+      <link>https://x.com/dharmatrade/status/2117868308418769362</link>
+      <description>&lt;p&gt;Schevana&lt;br/&gt;&lt;br/&gt;A Lisp Machine-style desktop that lives inside one host window and is written entirely in Chez Scheme.&lt;br/&gt;&lt;br/&gt;By @PavelUvarov&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2117865287735529472/img/IufSHsy88-o1m19X.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Schevana&lt;br/&gt;&lt;br/&gt;A Lisp Machine-style desktop that lives inside one host window and is written entirely in Chez Scheme.&lt;br/&gt;&lt;br/&gt;By @PavelUvarov&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2117865287735529472/img/IufSHsy88-o1m19X.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/dharmatrade/status/2117868308418769362</guid>
+      <pubDate>Wed, 04 Nov 2026 06:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@PavelUvarov Schevana V2</title>
+      <link>https://x.com/dharmatrade/status/2125178789491855584</link>
+      <description>&lt;p&gt;@PavelUvarov Schevana V2&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PavelUvarov/status/2125119375439167753"&gt;@PavelUvarov&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Schevana v2 &amp;quot;library-edition&amp;quot; is here.&lt;br/&gt;&lt;br/&gt;Schevana has morphed into a stack of R6RS libraries. &lt;br/&gt;&lt;br/&gt;It also gained Springies demo app and OPEN LOOK theme by @dharmatrade; got a new experimental pacer; and two games.&lt;br/&gt;&lt;br/&gt;Check it out:&lt;br/&gt;&lt;br/&gt;https://github.com/paveluv/Schevana/releases/tag/v2&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;@PavelUvarov Schevana V2&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/PavelUvarov/status/2125119375439167753"&gt;@PavelUvarov&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Schevana v2 &amp;quot;library-edition&amp;quot; is here.&lt;br/&gt;&lt;br/&gt;Schevana has morphed into a stack of R6RS libraries. &lt;br/&gt;&lt;br/&gt;It also gained Springies demo app and OPEN LOOK theme by @dharmatrade; got a new experimental pacer; and two games.&lt;br/&gt;&lt;br/&gt;Check it out:&lt;br/&gt;&lt;br/&gt;https://github.com/paveluv/Schevana/releases/tag/v2&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/dharmatrade/status/2125178789491855584</guid>
+      <pubDate>Tue, 24 Nov 2026 10:44:41 +0000</pubDate>
+    </item>
     <item>
       <title>It's become fashionable to say: "coding is solved" "we don't need to care about </title>
       <link>https://x.com/dharmatrade/status/2111036561701978561</link>
@@ -92,16 +112,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/dharmatrade/status/2117868308418769362"&gt;@dharmatrade&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Schevana&lt;br/&gt;&lt;br/&gt;A Lisp Machine-style desktop that lives inside one host window and is written entirely in Chez Scheme.&lt;br/&gt;&lt;br/&gt;By @PavelUvarov&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2117865287735529472/img/IufSHsy88-o1m19X.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/dharmatrade/status/2122909258681594341</guid>
       <pubDate>Wed, 18 Nov 2026 04:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schevana A Lisp Machine-style desktop that lives inside one host window and is w</title>
-      <link>https://x.com/dharmatrade/status/2117868308418769362</link>
-      <description>&lt;p&gt;Schevana&lt;br/&gt;&lt;br/&gt;A Lisp Machine-style desktop that lives inside one host window and is written entirely in Chez Scheme.&lt;br/&gt;&lt;br/&gt;By @PavelUvarov&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2117865287735529472/img/IufSHsy88-o1m19X.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Schevana&lt;br/&gt;&lt;br/&gt;A Lisp Machine-style desktop that lives inside one host window and is written entirely in Chez Scheme.&lt;br/&gt;&lt;br/&gt;By @PavelUvarov&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2117865287735529472/img/IufSHsy88-o1m19X.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/dharmatrade/status/2117868308418769362</guid>
-      <pubDate>Wed, 04 Nov 2026 06:35:27 +0000</pubDate>
     </item>
     <item>
       <title>Schevana v1 has been released. In Schevana V0, everything was drawn by Cairo. No</title>
@@ -204,16 +214,6 @@
       <content:encoded>&lt;p&gt;Project:&lt;br/&gt;&lt;br/&gt;https://github.com/paveluv/Schevana&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/dharmatrade/status/2117868422776361356</guid>
       <pubDate>Wed, 04 Nov 2026 06:35:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Adam and The New Eve</title>
-      <link>https://x.com/dharmatrade/status/2114893209180799448</link>
-      <description>&lt;p&gt;The New Adam and The New Eve&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HVmb-SGagAAPUV8.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;The New Adam and The New Eve&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HVmb-SGagAAPUV8.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/dharmatrade/status/2114893209180799448</guid>
-      <pubDate>Tue, 27 Oct 2026 01:33:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
