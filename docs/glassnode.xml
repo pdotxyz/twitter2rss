@@ -6,7 +6,17 @@
     <description>Posts from x.com/glassnode</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 16:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:44:39 +0000</lastBuildDate>
+    <item>
+      <title>The last rush into puts like this was June 2022. Bitcoin was near $20K, in the m</title>
+      <link>https://x.com/glassnode/status/2125314676364058946</link>
+      <description>&lt;p&gt;The last rush into puts like this was June 2022.&lt;br/&gt;&lt;br/&gt;Bitcoin was near $20K, in the middle of the capitulation. The final low came five months later, below $17K.&lt;br/&gt;&lt;br/&gt;An extreme in bearishness showed heavy stress then, and the low still took time.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/anti_fragile/status/2125313818775486856"&gt;@anti_fragile&lt;/a&gt;&lt;/p&gt;&lt;p&gt;bitcoin:native options traders are extremely bearish.&lt;br/&gt;&lt;br/&gt;They have rushed into puts at a pace last seen during the 2022 capitulation. Open positions agree, with the most puts per call since 2021.&lt;br/&gt;&lt;br/&gt;Readings this extreme are rare, and reflect a market bracing for downside.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX6gVlXXQAAiMOZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;The last rush into puts like this was June 2022.&lt;br/&gt;&lt;br/&gt;Bitcoin was near $20K, in the middle of the capitulation. The final low came five months later, below $17K.&lt;br/&gt;&lt;br/&gt;An extreme in bearishness showed heavy stress then, and the low still took time.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/anti_fragile/status/2125313818775486856"&gt;@anti_fragile&lt;/a&gt;&lt;/p&gt;&lt;p&gt;bitcoin:native options traders are extremely bearish.&lt;br/&gt;&lt;br/&gt;They have rushed into puts at a pace last seen during the 2022 capitulation. Open positions agree, with the most puts per call since 2021.&lt;br/&gt;&lt;br/&gt;Readings this extreme are rare, and reflect a market bracing for downside.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX6gVlXXQAAiMOZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/glassnode/status/2125314676364058946</guid>
+      <pubDate>Tue, 24 Nov 2026 19:44:39 +0000</pubDate>
+    </item>
     <item>
       <title>Bitcoin losses are the heaviest since FTX. Set against the money that flowed int</title>
       <link>https://x.com/glassnode/status/2125266811273052520</link>
@@ -206,16 +216,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/glassnode/status/2122731152418951461"&gt;@glassnode&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Bitcoin crashed to $62K this week, and realized losses reached levels seen only near past cycle lows.&lt;br/&gt;&lt;br/&gt;Our latest Week On-chain report contains twelve more analyses, including the August support block, the liquidation map, stablecoin supply and much more. https://x.com/i/article/2122728639053602816&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/glassnode/status/2123095203212898529</guid>
       <pubDate>Wed, 18 Nov 2026 16:45:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>In our new research, we introduce Book Churn, a metric that counts how often the</title>
-      <link>https://x.com/glassnode/status/2123075759669739742</link>
-      <description>&lt;p&gt;In our new research, we introduce Book Churn, a metric that counts how often the order book is rewritten. &lt;br/&gt;&lt;br/&gt;We look at what depth and spread miss, and test churn as a volatility signal on BTC and ETH perpetuals.&lt;br/&gt;&lt;br/&gt;Full research article 👇&lt;br/&gt;https://glassno.de/book-churn&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXai2uiXsAAUdQK.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;In our new research, we introduce Book Churn, a metric that counts how often the order book is rewritten. &lt;br/&gt;&lt;br/&gt;We look at what depth and spread miss, and test churn as a volatility signal on BTC and ETH perpetuals.&lt;br/&gt;&lt;br/&gt;Full research article 👇&lt;br/&gt;https://glassno.de/book-churn&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXai2uiXsAAUdQK.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/glassnode/status/2123075759669739742</guid>
-      <pubDate>Wed, 18 Nov 2026 15:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

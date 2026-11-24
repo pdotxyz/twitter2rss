@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 18:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:55:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2125317278870937757</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX57nypbIAAzq7t.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX57nypbIAAzq7t.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2125317278870937757</guid>
+      <pubDate>Tue, 24 Nov 2026 19:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2125301926770413683</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX3UF6gaMAAgeN-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2125087809472241834</guid>
       <pubDate>Tue, 24 Nov 2026 04:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>2000年3月纳斯达克综合指数见顶后的长达两年半熊市中，市场并非单边阴跌，而是先后爆</title>
-      <link>https://x.com/fingraph66/status/2125084242338013608</link>
-      <description>&lt;p&gt;2000年3月纳斯达克综合指数见顶后的长达两年半熊市中，市场并非单边阴跌，而是先后爆发了多达12次幅度超过10%的剧烈“熊市反弹”。因此，泡沫退潮期的高波动反弹往往极富迷惑性，仍需警惕“死猫跳”陷阱。&lt;br/&gt;来源：美国银行&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX21amFacAAcuX2.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;2000年3月纳斯达克综合指数见顶后的长达两年半熊市中，市场并非单边阴跌，而是先后爆发了多达12次幅度超过10%的剧烈“熊市反弹”。因此，泡沫退潮期的高波动反弹往往极富迷惑性，仍需警惕“死猫跳”陷阱。&lt;br/&gt;来源：美国银行&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX21amFacAAcuX2.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2125084242338013608</guid>
-      <pubDate>Tue, 24 Nov 2026 04:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
