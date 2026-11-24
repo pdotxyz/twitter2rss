@@ -6,7 +6,27 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 15:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:30:02 +0000</lastBuildDate>
+    <item>
+      <title>虚假的天津文化：听相声、听戏、听京韵大鼓、看海河跳水、逛五大道和古文化街 真正的</title>
+      <link>https://x.com/lidangzzz/status/2125265697135845673</link>
+      <description>&lt;p&gt;虚假的天津文化：听相声、听戏、听京韵大鼓、看海河跳水、逛五大道和古文化街&lt;br/&gt;&lt;br/&gt;真正的天津文化：接大芃芃&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125265660922023936/img/w7XnqkD2SkNuQxtd.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;虚假的天津文化：听相声、听戏、听京韵大鼓、看海河跳水、逛五大道和古文化街&lt;br/&gt;&lt;br/&gt;真正的天津文化：接大芃芃&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125265660922023936/img/w7XnqkD2SkNuQxtd.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125265697135845673</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>精妙的结尾</title>
+      <link>https://x.com/lidangzzz/status/2125264024593969440</link>
+      <description>&lt;p&gt;精妙的结尾&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX50XdVXYAAAMXE.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;精妙的结尾&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX50XdVXYAAAMXE.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125264024593969440</guid>
+      <pubDate>Tue, 24 Nov 2026 16:23:23 +0000</pubDate>
+    </item>
     <item>
       <title>韩正会回来临时接任上海市委书记吗？</title>
       <link>https://x.com/lidangzzz/status/2125251660830089452</link>
@@ -154,24 +174,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX3GHdHWEAACj8G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125072434642751525</guid>
       <pubDate>Tue, 24 Nov 2026 03:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: Stupid things I did: 1. 250,000+ pages was a joke guys!, I find big number extre</title>
-      <link>https://x.com/__alpoge__/status/2124987173439209561</link>
-      <description>&lt;p&gt;Stupid things I did:&lt;br/&gt;1. 250,000+ pages was a joke guys!, I find big number extremely hilarious. I tried to make it clear by the level of pedantry of the reals total ordered statement in the main theorem, but people ran with it unfortunately and I didn’t feel like talking on social media in the days after the announcement, though I did have a good time with the memes. Sorry!!! (Similarly with our YM4 existence I found it extremely funny that we were slowly working through 60,000 pages of slop, though the committee asking for Lean made me feel dumb about wasting our time with that. But 60,000 funny.) Tao advises to not joke in papers, see also the Big Lebowski reference I shoehorned, I now understand why… I didn’t feel comfortable having any slop writeup attached to this problem, and I figured I can’t produce anything readable anyway, so I went off the Lean to lengthmaxx.&lt;br/&gt;2. The Lean is full of garbage obviously, but compiles, but all criticism of such garbage is totally reasonable and accepted, I should have cleaned it up but it was randomly difficult to for various strange reasons. Mea culpa…&lt;br/&gt;3. @scottnarmstrong clocked me, indeed even as a student there were theorems that took me the better part of a decade to write up, but with this one I should hopefully be more responsible. (I really was yoloing a lot in there, I bet most is unnecessary in the end, admittedly the lazy thing to do would be to wait because it’ll simplify massively…)&lt;br/&gt;4. I forgot to emphasize what I think is the point. Arguments like these, cool, but they are the raw inputs when interpolating definitions. We don’t have the / an “H^1 object” over number fields, and probably for a layperson the fact that we fight hard for these arguments for the purpose of definitions is not clear a priori (that’s at least my philosophy). Just like I knew I must fight for an utterly simple Weil / Deligne, I feel Riemann should be easy, and any real difficulty is an indication our setup is just dumb at the moment.&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Stupid things I did:&lt;br/&gt;1. 250,000+ pages was a joke guys!, I find big number extremely hilarious. I tried to make it clear by the level of pedantry of the reals total ordered statement in the main theorem, but people ran with it unfortunately and I didn’t feel like talking on social media in the days after the announcement, though I did have a good time with the memes. Sorry!!! (Similarly with our YM4 existence I found it extremely funny that we were slowly working through 60,000 pages of slop, though the committee asking for Lean made me feel dumb about wasting our time with that. But 60,000 funny.) Tao advises to not joke in papers, see also the Big Lebowski reference I shoehorned, I now understand why… I didn’t feel comfortable having any slop writeup attached to this problem, and I figured I can’t produce anything readable anyway, so I went off the Lean to lengthmaxx.&lt;br/&gt;2. The Lean is full of garbage obviously, but compiles, but all criticism of such garbage is totally reasonable and accepted, I should have cleaned it up but it was randomly difficult to for various strange reasons. Mea culpa…&lt;br/&gt;3. @scottnarmstrong clocked me, indeed even as a student there were theorems that took me the better part of a decade to write up, but with this one I should hopefully be more responsible. (I really was yoloing a lot in there, I bet most is unnecessary in the end, admittedly the lazy thing to do would be to wait because it’ll simplify massively…)&lt;br/&gt;4. I forgot to emphasize what I think is the point. Arguments like these, cool, but they are the raw inputs when interpolating definitions. We don’t have the / an “H^1 object” over number fields, and probably for a layperson the fact that we fight hard for these arguments for the purpose of definitions is not clear a priori (that’s at least my philosophy). Just like I knew I must fight for an utterly simple Weil / Deligne, I feel Riemann should be easy, and any real difficulty is an indication our setup is just dumb at the moment.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/__alpoge__/status/2124987173439209561</guid>
-      <pubDate>Mon, 23 Nov 2026 22:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>“谢谢党哥”，评论区刷起来</title>
-      <link>https://x.com/lidangzzz/status/2124935604232171753</link>
-      <description>&lt;p&gt;“谢谢党哥”，评论区刷起来&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1Jq8_XIAAYsPp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;“谢谢党哥”，评论区刷起来&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1Jq8_XIAAYsPp.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2124935604232171753</guid>
-      <pubDate>Mon, 23 Nov 2026 18:38:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
