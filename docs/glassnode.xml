@@ -6,7 +6,17 @@
     <description>Posts from x.com/glassnode</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 20:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:30:22 +0000</lastBuildDate>
+    <item>
+      <title>bitcoin:native miners are switching machines off. The hash rate sits 8% below la</title>
+      <link>https://x.com/glassnode/status/2125220482144186707</link>
+      <description>&lt;p&gt;bitcoin:native miners are switching machines off.&lt;br/&gt;&lt;br/&gt;The hash rate sits 8% below last year&amp;#x27;s level, the first annual decline since the 2021 China ban.&lt;br/&gt;&lt;br/&gt;That drop was forced by policy; this one is price-driven, with hash price at an all-time low.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5MakNWkAAQYSf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;bitcoin:native miners are switching machines off.&lt;br/&gt;&lt;br/&gt;The hash rate sits 8% below last year&amp;#x27;s level, the first annual decline since the 2021 China ban.&lt;br/&gt;&lt;br/&gt;That drop was forced by policy; this one is price-driven, with hash price at an all-time low.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5MakNWkAAQYSf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/glassnode/status/2125220482144186707</guid>
+      <pubDate>Tue, 24 Nov 2026 13:30:22 +0000</pubDate>
+    </item>
     <item>
       <title>The short term holder cost basis cluster has now turned into resistance. $BTC pu</title>
       <link>https://x.com/glassnode/status/2124968063241969666</link>
@@ -210,14 +220,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/glassnode/status/2122731152418951461"&gt;@glassnode&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Bitcoin crashed to $62K this week, and realized losses reached levels seen only near past cycle lows.&lt;br/&gt;&lt;br/&gt;Our latest Week On-chain report contains twelve more analyses, including the August support block, the liquidation map, stablecoin supply and much more. https://x.com/i/article/2122728639053602816&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/glassnode/status/2122733325635006948</guid>
       <pubDate>Tue, 17 Nov 2026 16:47:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin crashed to $62K this week, and realized losses reached levels seen only </title>
-      <link>https://x.com/glassnode/status/2122731152418951461</link>
-      <description>&lt;p&gt;Bitcoin crashed to $62K this week, and realized losses reached levels seen only near past cycle lows.&lt;br/&gt;&lt;br/&gt;Our latest Week On-chain report contains twelve more analyses, including the August support block, the liquidation map, stablecoin supply and much more. https://x.com/i/article/2122728639053602816&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Bitcoin crashed to $62K this week, and realized losses reached levels seen only near past cycle lows.&lt;br/&gt;&lt;br/&gt;Our latest Week On-chain report contains twelve more analyses, including the August support block, the liquidation map, stablecoin supply and much more. https://x.com/i/article/2122728639053602816&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/glassnode/status/2122731152418951461</guid>
-      <pubDate>Tue, 17 Nov 2026 16:38:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
