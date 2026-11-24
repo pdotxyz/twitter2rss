@@ -6,7 +6,15 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 14:58:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:07:31 +0000</lastBuildDate>
+    <item>
+      <title>我实在太依赖云环境了，能不在我的本地电脑上跑的我就不想在我本地电脑上跑，看到文件</title>
+      <link>https://x.com/turingou/status/2125244933078692028</link>
+      <description>&lt;p&gt;我实在太依赖云环境了，能不在我的本地电脑上跑的我就不想在我本地电脑上跑，看到文件夹那些乱七八糟的分支和 worktree 就烦，在云电脑上我就不烦了，反正我也不需要去看&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;我实在太依赖云环境了，能不在我的本地电脑上跑的我就不想在我本地电脑上跑，看到文件夹那些乱七八糟的分支和 worktree 就烦，在云电脑上我就不烦了，反正我也不需要去看&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2125244933078692028</guid>
+      <pubDate>Tue, 24 Nov 2026 15:07:31 +0000</pubDate>
+    </item>
     <item>
       <title>为什么 magpie 不做成 t3code 那样？我觉得会做的更好，完成度高的多得多</title>
       <link>https://x.com/turingou/status/2125242578534854747</link>
@@ -188,16 +196,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/tonychang430/status/2123106480194826389"&gt;@tonychang430&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The sandbox market is CROWDED AF &lt;br/&gt;&lt;br/&gt;But I still think we&amp;#x27;re early in figuring out what compute (and even infrastructure) should look like for agents.&lt;br/&gt;&lt;br/&gt;Compute is finite and agent demand isn’t slowing down.&lt;br/&gt;&lt;br/&gt;The first step is figuring out how to orchestrate containers and microVMs more intelligently. Better resource sharing, higher utilization, faster startup, and tighter control over the infrastructure underneath our sandboxes.&lt;br/&gt;&lt;br/&gt;But that’s only the tip of the iceberg.&lt;br/&gt;&lt;br/&gt;I want to go deeper: Kernels, networking, storage, operating systems. Every layer of the stack deserves to be rethought for agents.&lt;br/&gt;&lt;br/&gt;Competing mainly on price feels like a trap to me. A slightly lower price can just mean a smaller margin, without changing what the infrastructure can do.&lt;br/&gt;&lt;br/&gt;I’m much more interested in unlocking things that aren’t practical today.&lt;br/&gt;&lt;br/&gt;Imagine one agent forking its live sandbox into a million isolated environments in seconds, each inheriting its memory and execution state.&lt;br/&gt;&lt;br/&gt;Now imagine those forks spawning more forks. Millions becoming billions. Each branch exploring a different path, preserving its own state, and sharing discoveries through agent-to-agent (A2A) communication.&lt;br/&gt;&lt;br/&gt;I don&amp;#x27;t think anyone has figured out the winning approach yet...&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXbKF1NXQAAfhnU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2123426189692039675</guid>
       <pubDate>Thu, 19 Nov 2026 14:40:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>几个月之前《润日》的作者去美国做访问学者之前的采访视频，今天终于发布了！</title>
-      <link>https://x.com/turingou/status/2123420515134218640</link>
-      <description>&lt;p&gt;几个月之前《润日》的作者去美国做访问学者之前的采访视频，今天终于发布了！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/hiromocean/status/2123341761582158244"&gt;@hiromocean&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【動画更新】TikTokの開発に初期段階から関わっていらっしゃった郭宇 (@turingou) さんに、ご自身の生い立ち、東京に移住してきた理由、ByteDance社の当時の雰囲気、最近の暮らしぶり、友人と定期開催している読書会の模様などについて詳しくお話をうかがいました。https://www.youtube.com/watch?v=e0CShik0rJM&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuqWEAAYrjx.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuzWcAA1LnX.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuusWwAA8_Hk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuhXAAAIrrM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;几个月之前《润日》的作者去美国做访问学者之前的采访视频，今天终于发布了！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/hiromocean/status/2123341761582158244"&gt;@hiromocean&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【動画更新】TikTokの開発に初期段階から関わっていらっしゃった郭宇 (@turingou) さんに、ご自身の生い立ち、東京に移住してきた理由、ByteDance社の当時の雰囲気、最近の暮らしぶり、友人と定期開催している読書会の模様などについて詳しくお話をうかがいました。https://www.youtube.com/watch?v=e0CShik0rJM&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuqWEAAYrjx.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuzWcAA1LnX.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuusWwAA8_Hk.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXVmuuhXAAAIrrM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2123420515134218640</guid>
-      <pubDate>Thu, 19 Nov 2026 14:17:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
