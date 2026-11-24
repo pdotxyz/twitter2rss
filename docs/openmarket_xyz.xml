@@ -6,7 +6,17 @@
     <description>Posts from x.com/openmarket_xyz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 15:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:15:07 +0000</lastBuildDate>
+    <item>
+      <title>You can now chart and trade CFDs on OpenMarket via cTrader. Stream your broker's</title>
+      <link>https://x.com/openmarket_xyz/status/2125292143656960474</link>
+      <description>&lt;p&gt;You can now chart and trade CFDs on OpenMarket via cTrader.&lt;br/&gt;&lt;br/&gt;Stream your broker&amp;#x27;s live prices and execute forex, indices, metals, oil, and crypto right into OpenMarket. &lt;br/&gt;&lt;br/&gt;Connect once to trade live or demo with Pepperstone, IC Markets, BlackBull Markets, and more.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX6NasAaYAAkBLL.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;You can now chart and trade CFDs on OpenMarket via cTrader.&lt;br/&gt;&lt;br/&gt;Stream your broker&amp;#x27;s live prices and execute forex, indices, metals, oil, and crypto right into OpenMarket. &lt;br/&gt;&lt;br/&gt;Connect once to trade live or demo with Pepperstone, IC Markets, BlackBull Markets, and more.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX6NasAaYAAkBLL.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2125292143656960474</guid>
+      <pubDate>Tue, 24 Nov 2026 18:15:07 +0000</pubDate>
+    </item>
     <item>
       <title>Pocket-sized terminal. OpenMarket is now on iPhone Duo. Split the fold between p</title>
       <link>https://x.com/openmarket_xyz/status/2124894129679437928</link>
@@ -188,14 +198,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HVzS6rraoAAC1XW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2115797961095680129</guid>
       <pubDate>Thu, 29 Oct 2026 13:28:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can now chart every Variational market on OpenMarket. • 433 crypto perps • 1</title>
-      <link>https://x.com/openmarket_xyz/status/2115083657736323552</link>
-      <description>&lt;p&gt;You can now chart every Variational market on OpenMarket.&lt;br/&gt;&lt;br/&gt;• 433 crypto perps&lt;br/&gt;• 100 stock perps, from NVDA and TSLA to pre-IPO OpenAI and Anthropic&lt;br/&gt;• 17 ETFs, plus gold, silver and oil&lt;br/&gt;• 18 swaps on indices and commodities: US500, US100, gold, Brent&lt;br/&gt;&lt;br/&gt;Live prices, funding and open interest.&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;You can now chart every Variational market on OpenMarket.&lt;br/&gt;&lt;br/&gt;• 433 crypto perps&lt;br/&gt;• 100 stock perps, from NVDA and TSLA to pre-IPO OpenAI and Anthropic&lt;br/&gt;• 17 ETFs, plus gold, silver and oil&lt;br/&gt;• 18 swaps on indices and commodities: US500, US100, gold, Brent&lt;br/&gt;&lt;br/&gt;Live prices, funding and open interest.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2115083657736323552</guid>
-      <pubDate>Tue, 27 Oct 2026 14:10:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
