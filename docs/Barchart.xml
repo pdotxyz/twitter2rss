@@ -6,7 +6,17 @@
     <description>Posts from x.com/Barchart</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 21:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:32:23 +0000</lastBuildDate>
+    <item>
+      <title>Nvidia Insider Trading Alert 🚨 Timothy Teter, General Counsel for Nvidia, just </title>
+      <link>https://x.com/Barchart/status/2125371986570273214</link>
+      <description>&lt;p&gt;Nvidia Insider Trading Alert 🚨&lt;br/&gt;&lt;br/&gt;Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA shares&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7WhFvWgAAianQ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Nvidia Insider Trading Alert 🚨&lt;br/&gt;&lt;br/&gt;Timothy Teter, General Counsel for Nvidia, just sold $4.5 million worth of $NVDA shares&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7WhFvWgAAianQ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Barchart/status/2125371986570273214</guid>
+      <pubDate>Tue, 24 Nov 2026 23:32:23 +0000</pubDate>
+    </item>
     <item>
       <title>JUST IN 🚨: Coffee falls to lowest price since June 📉 ☕ Congrats everyone, we </title>
       <link>https://x.com/Barchart/status/2125334488511025577</link>
@@ -164,16 +174,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX3_BtiXoAAjDm4.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Barchart/status/2125135005768647007</guid>
       <pubDate>Tue, 24 Nov 2026 07:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silver has fallen to its most oversold level since Covid 🚨 🚨</title>
-      <link>https://x.com/Barchart/status/2125128749809107317</link>
-      <description>&lt;p&gt;Silver has fallen to its most oversold level since Covid 🚨 🚨&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX35Vi-W0AAOQd4.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Silver has fallen to its most oversold level since Covid 🚨 🚨&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX35Vi-W0AAOQd4.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Barchart/status/2125128749809107317</guid>
-      <pubDate>Tue, 24 Nov 2026 07:25:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
