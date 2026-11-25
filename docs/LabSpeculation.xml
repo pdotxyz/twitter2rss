@@ -6,7 +6,21 @@
     <description>Posts from x.com/LabSpeculation</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 07:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:51:00 +0000</lastBuildDate>
+    <item>
+      <title>RT: 英伟达一有大消息，除了股价，期权也被推上了讨论区。 OKX 简易期权，四种操作简单上</title>
+      <link>https://x.com/okxchinese/status/2125497465252036979</link>
+      <description>&lt;p&gt;英伟达一有大消息，除了股价，期权也被推上了讨论区。&lt;br/&gt;&lt;br/&gt;OKX 简易期权，四种操作简单上手。&lt;br/&gt;&lt;br/&gt;7×24 交易，从你的需求出发，先看权利金、盈亏平衡价和可能盈亏，再确认下单。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX857L8bkAAUVdT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX85-wUaEAAjYM0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2125032633575084510"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;黄仁勋回英伟单的前两天，6 美元还能买一张英伟达的看涨期权，回英伟达的消息一出，英伟达一天涨了 31%，一张期权就能赚 519 美元。&lt;br/&gt;&lt;br/&gt;都传有个人直接几百万翻了80多倍，赚了几个亿🥸😘&lt;br/&gt;&lt;br/&gt;这玩意得学啊，期权做好了是比普通买卖机会更多，两头收钱，中间还能吃利息，我们可以跟段永平学学，他就很会做这个。&lt;br/&gt;&lt;br/&gt;比如他之前买SpaceX时候的手法就很清楚，我们结合图一起看。&lt;br/&gt;&lt;br/&gt;先说 call，call 就是一张锁死买入价的券。&lt;br/&gt;&lt;br/&gt;你手里有股票，本来就想在某个价卖掉，一般做法是挂个卖单干等，他的做法是卖一张这个价的 call，当场先收一笔钱。&lt;br/&gt;&lt;br/&gt;到期没涨到，券作废，钱白拿，股票还是你的。涨过了，就按这个价交出去，实际到手还要加上那笔钱。&lt;br/&gt;&lt;br/&gt;所以卖 call，就是有人倒给你钱，求你挂的卖单。&lt;br/&gt;&lt;br/&gt;再说 put，put 就是一张锁死卖出价的券。&lt;br/&gt;&lt;br/&gt;你看中一只股票，跌到某个价就很乐意买，他的做法是卖一张这个价的 put，先收一笔权利金，账户里压着足额现金，这叫现金担保。&lt;br/&gt;&lt;br/&gt;没跌到，券作废，钱白拿，跌破了你就必须按这个价接货，实际成本是这个价减掉那笔钱。&lt;br/&gt;&lt;br/&gt;所以卖 put，就是有人付钱让你挂的限价买单。卖 put 的人恰恰不看跌，是在卖保险，他管这叫开保险公司，他手上基本不留闲钱，只有拿什么去换的问题，苹果出，AI 进。&lt;br/&gt;&lt;br/&gt;苹果贵了就卖 call，被 call 走以后股票变成现金。现金先买美国短期国债吃利息，同一笔现金再当担保，去卖 AI 票的 put。&lt;br/&gt;&lt;br/&gt;没跌破就白收保费，到期接着卖。跌破了就按心仪的价格接货。&lt;br/&gt;&lt;br/&gt;同一笔钱从贵的资产流向便宜的资产，两头收钱，中间吃利息。&lt;br/&gt;&lt;br/&gt;他卖 put 是为了建仓，不是收租，挂的是真打算买的价，手里接近八成的苹果就是这么买来的。&lt;br/&gt;&lt;br/&gt;他立过三条规矩，必须是自己看得懂的公司，绝对不能用杠杆，特别便宜的时候最好别卖 put，因为很可能赚了一点蝇头小利，就失去了大机会。真到了特别便宜，他是直接买，而且下重手。&lt;br/&gt;&lt;br/&gt;很重要但没完全看懂的东西，他会先用很小的仓位卖 put，他的解法看起来是，用仓位大小去匹配看懂的程度，仓位大小就是信心的刻度。&lt;br/&gt;&lt;br/&gt;卖 put 是他的常规动作，按他的规矩，特别便宜就不该卖 put。&lt;br/&gt;&lt;br/&gt;最后说风险，收了权利金就等于签了字，跌得再深也得按行权价接货，这是义务，不是选择，中途反悔要花钱把合约买回来，那时只会更贵。美式期权还能提前行权。&lt;br/&gt;&lt;br/&gt;他敢这么做，有三个前提，全现金担保，被行权掏得出全款，行权价是他真心认的价，接了货能拿十年。这笔只占他万分之六，就算归零也不影响睡觉。&lt;br/&gt;&lt;br/&gt;一般人去做，通常三条全破，用保证金放大，卖在压根不想长期持有的票上，浮亏一来就扛不住割了。&lt;br/&gt;&lt;br/&gt;一用杠杆，卖 put 就不是开保险公司了，你承保着同样的下跌，却没有赔付的能力，这就是在压路机前面捡硬币。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX2ekRybwAATgOc.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;英伟达一有大消息，除了股价，期权也被推上了讨论区。&lt;br/&gt;&lt;br/&gt;OKX 简易期权，四种操作简单上手。&lt;br/&gt;&lt;br/&gt;7×24 交易，从你的需求出发，先看权利金、盈亏平衡价和可能盈亏，再确认下单。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX857L8bkAAUVdT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX85-wUaEAAjYM0.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/LabSpeculation/status/2125032633575084510"&gt;@LabSpeculation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;黄仁勋回英伟单的前两天，6 美元还能买一张英伟达的看涨期权，回英伟达的消息一出，英伟达一天涨了 31%，一张期权就能赚 519 美元。&lt;br/&gt;&lt;br/&gt;都传有个人直接几百万翻了80多倍，赚了几个亿🥸😘&lt;br/&gt;&lt;br/&gt;这玩意得学啊，期权做好了是比普通买卖机会更多，两头收钱，中间还能吃利息，我们可以跟段永平学学，他就很会做这个。&lt;br/&gt;&lt;br/&gt;比如他之前买SpaceX时候的手法就很清楚，我们结合图一起看。&lt;br/&gt;&lt;br/&gt;先说 call，call 就是一张锁死买入价的券。&lt;br/&gt;&lt;br/&gt;你手里有股票，本来就想在某个价卖掉，一般做法是挂个卖单干等，他的做法是卖一张这个价的 call，当场先收一笔钱。&lt;br/&gt;&lt;br/&gt;到期没涨到，券作废，钱白拿，股票还是你的。涨过了，就按这个价交出去，实际到手还要加上那笔钱。&lt;br/&gt;&lt;br/&gt;所以卖 call，就是有人倒给你钱，求你挂的卖单。&lt;br/&gt;&lt;br/&gt;再说 put，put 就是一张锁死卖出价的券。&lt;br/&gt;&lt;br/&gt;你看中一只股票，跌到某个价就很乐意买，他的做法是卖一张这个价的 put，先收一笔权利金，账户里压着足额现金，这叫现金担保。&lt;br/&gt;&lt;br/&gt;没跌到，券作废，钱白拿，跌破了你就必须按这个价接货，实际成本是这个价减掉那笔钱。&lt;br/&gt;&lt;br/&gt;所以卖 put，就是有人付钱让你挂的限价买单。卖 put 的人恰恰不看跌，是在卖保险，他管这叫开保险公司，他手上基本不留闲钱，只有拿什么去换的问题，苹果出，AI 进。&lt;br/&gt;&lt;br/&gt;苹果贵了就卖 call，被 call 走以后股票变成现金。现金先买美国短期国债吃利息，同一笔现金再当担保，去卖 AI 票的 put。&lt;br/&gt;&lt;br/&gt;没跌破就白收保费，到期接着卖。跌破了就按心仪的价格接货。&lt;br/&gt;&lt;br/&gt;同一笔钱从贵的资产流向便宜的资产，两头收钱，中间吃利息。&lt;br/&gt;&lt;br/&gt;他卖 put 是为了建仓，不是收租，挂的是真打算买的价，手里接近八成的苹果就是这么买来的。&lt;br/&gt;&lt;br/&gt;他立过三条规矩，必须是自己看得懂的公司，绝对不能用杠杆，特别便宜的时候最好别卖 put，因为很可能赚了一点蝇头小利，就失去了大机会。真到了特别便宜，他是直接买，而且下重手。&lt;br/&gt;&lt;br/&gt;很重要但没完全看懂的东西，他会先用很小的仓位卖 put，他的解法看起来是，用仓位大小去匹配看懂的程度，仓位大小就是信心的刻度。&lt;br/&gt;&lt;br/&gt;卖 put 是他的常规动作，按他的规矩，特别便宜就不该卖 put。&lt;br/&gt;&lt;br/&gt;最后说风险，收了权利金就等于签了字，跌得再深也得按行权价接货，这是义务，不是选择，中途反悔要花钱把合约买回来，那时只会更贵。美式期权还能提前行权。&lt;br/&gt;&lt;br/&gt;他敢这么做，有三个前提，全现金担保，被行权掏得出全款，行权价是他真心认的价，接了货能拿十年。这笔只占他万分之六，就算归零也不影响睡觉。&lt;br/&gt;&lt;br/&gt;一般人去做，通常三条全破，用保证金放大，卖在压根不想长期持有的票上，浮亏一来就扛不住割了。&lt;br/&gt;&lt;br/&gt;一用杠杆，卖 put 就不是开保险公司了，你承保着同样的下跌，却没有赔付的能力，这就是在压路机前面捡硬币。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX2ekRybwAATgOc.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/okxchinese/status/2125497465252036979</guid>
+      <pubDate>Wed, 25 Nov 2026 07:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>接到去徒步的朋友家女儿发来的视频通话。 “爸爸，还是要亲近大自然啊，东北的大山太漂</title>
       <link>https://x.com/LabSpeculation/status/2125489515548770406</link>
@@ -198,18 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuV9Rja0AALgBi.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124456789416812871</guid>
       <pubDate>Sun, 22 Nov 2026 10:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: 周末传出孙正义想花 1 万亿美元把海力士整个买下来。软银周五收盘整个公司才值 1100 </title>
-      <link>https://x.com/buffermorex/status/2124452200470716902</link>
-      <description>&lt;p&gt;周末传出孙正义想花 1 万亿美元把海力士整个买下来。软银周五收盘整个公司才值 1100 亿美元左右，这个价是它自己的 9 倍😂&lt;br/&gt;&lt;br/&gt;消息是刚出来的，韩国媒体转述说他去找了美国几家大投行，问这笔钱怎么凑。投行到底谈没谈，没人证实。&lt;br/&gt;&lt;br/&gt;软银的回应就一句，公司会看各种机会，这一笔已经不在积极考虑的范围里了。&lt;br/&gt;&lt;br/&gt;不在积极考虑，那就是认真想过。&lt;br/&gt;&lt;br/&gt;海力士从 9 月 21 号的最高点到周五跌了四成，现在市值 5700 多亿美元。&lt;br/&gt;&lt;br/&gt;1 万亿比它现在的市值还高七成多。&lt;br/&gt;&lt;br/&gt;软银自己也没好到哪去，10 月初到周五股价跌掉一半多，周五一天就跌了 14.5%。&lt;br/&gt;&lt;br/&gt;自己腰斩了，还想买一家市值是自己 5 倍的公司，太敢想了这人。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuRw8cakAA2xLW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuR2udawAAfHug.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;周末传出孙正义想花 1 万亿美元把海力士整个买下来。软银周五收盘整个公司才值 1100 亿美元左右，这个价是它自己的 9 倍😂&lt;br/&gt;&lt;br/&gt;消息是刚出来的，韩国媒体转述说他去找了美国几家大投行，问这笔钱怎么凑。投行到底谈没谈，没人证实。&lt;br/&gt;&lt;br/&gt;软银的回应就一句，公司会看各种机会，这一笔已经不在积极考虑的范围里了。&lt;br/&gt;&lt;br/&gt;不在积极考虑，那就是认真想过。&lt;br/&gt;&lt;br/&gt;海力士从 9 月 21 号的最高点到周五跌了四成，现在市值 5700 多亿美元。&lt;br/&gt;&lt;br/&gt;1 万亿比它现在的市值还高七成多。&lt;br/&gt;&lt;br/&gt;软银自己也没好到哪去，10 月初到周五股价跌掉一半多，周五一天就跌了 14.5%。&lt;br/&gt;&lt;br/&gt;自己腰斩了，还想买一家市值是自己 5 倍的公司，太敢想了这人。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuRw8cakAA2xLW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXuR2udawAAfHug.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/buffermorex/status/2124452200470716902</guid>
-      <pubDate>Sun, 22 Nov 2026 10:37:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
