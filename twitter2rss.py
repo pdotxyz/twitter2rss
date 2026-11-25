@@ -56,8 +56,32 @@ def text_html(text):
     return "<p>" + html.escape(text or "").replace("\n", "<br/>") + "</p>"
 
 
-def build_description(status):
-    parts = [text_html(status.get("text"))]
+def translate_zh(status):
+    """Chinese translation of an English post's text, or None."""
+    text = status.get("text")
+    if status.get("lang") != "en" or not text:
+        return None
+    try:
+        response = requests.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={"client": "gtx", "sl": "en", "tl": "zh-CN", "dt": "t", "q": text},
+            timeout=20,
+        )
+        response.raise_for_status()
+        return "".join(seg[0] for seg in response.json()[0] if seg[0]) or None
+    except Exception as error:
+        print(f"translation failed, keeping English only: {error}", file=sys.stderr)
+        return None
+
+
+def bilingual_html(status, zh):
+    """ZH first, then the original text."""
+    original = text_html(status.get("text"))
+    return text_html(zh) + original if zh else original
+
+
+def build_description(status, zh=None):
+    parts = [bilingual_html(status, zh)]
     parts += media_html(status.get("media"))
 
     quote = status.get("quote")
@@ -66,7 +90,7 @@ def build_description(status):
         link = html.escape(quote.get("url", ""), quote=True)
         parts.append(
             f'<blockquote><p><a href="{link}">@{who}</a></p>'
-            f"{text_html(quote.get('text'))}{''.join(media_html(quote.get('media')))}</blockquote>"
+            f"{bilingual_html(quote, translate_zh(quote))}{''.join(media_html(quote.get('media')))}</blockquote>"
         )
 
     return "\n".join(parts)
@@ -89,8 +113,9 @@ def build_feed(user, statuses):
 
         # Cap by display width (CJK = 2) so Chinese titles stay short enough
         # that mail clients don't truncate at the last space.
+        zh = translate_zh(status)
         title, width = "", 0
-        for ch in " ".join((status.get("text") or "").split()):
+        for ch in " ".join((zh or status.get("text") or "").split()):
             width += 2 if unicodedata.east_asian_width(ch) in "WF" else 1
             if width > 80:
                 break
@@ -100,7 +125,7 @@ def build_feed(user, statuses):
             title = f"RT: {title}"
         entry.title(title)
 
-        description = build_description(status)
+        description = build_description(status, zh)
         entry.description(description)
         entry.content(description, type="html")
 
