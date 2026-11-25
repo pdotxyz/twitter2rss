@@ -23,6 +23,7 @@ import argparse
 import html
 import re
 import sys
+import time
 import unicodedata
 from datetime import datetime, timezone
 
@@ -56,22 +57,30 @@ def text_html(text):
     return "<p>" + html.escape(text or "").replace("\n", "<br/>") + "</p>"
 
 
-def translate_zh(status):
-    """Chinese translation of an English post's text, or None."""
-    text = status.get("text")
-    if status.get("lang") != "en" or not text:
-        return None
-    try:
-        response = requests.get(
-            "https://translate.googleapis.com/translate_a/single",
-            params={"client": "gtx", "sl": "en", "tl": "zh-CN", "dt": "t", "q": text},
-            timeout=20,
-        )
-        response.raise_for_status()
-        return "".join(seg[0] for seg in response.json()[0] if seg[0]) or None
-    except Exception as error:
-        print(f"translation failed, keeping English only: {error}", file=sys.stderr)
-        return None
+def translate_zh(statuses):
+    """Translate English posts to Chinese in one request.
+
+    Returns {id(status): chinese_text}; empty if translation fails.
+    """
+    english = [s for s in statuses if s and s.get("lang") == "en" and s.get("text")]
+    if not english:
+        return {}
+    for attempt in range(3):
+        if attempt:
+            time.sleep(10 * attempt)
+        try:
+            response = requests.post(
+                "https://translate.googleapis.com/translate_a/t",
+                params={"client": "gtx", "sl": "en", "tl": "zh-CN"},
+                data={"q": [s["text"] for s in english]},
+                timeout=30,
+            )
+            response.raise_for_status()
+            return {id(s): zh for s, zh in zip(english, response.json()) if zh}
+        except Exception as error:
+            print(f"translation failed (attempt {attempt + 1}): {error}", file=sys.stderr)
+    print("keeping English only", file=sys.stderr)
+    return {}
 
 
 def bilingual_html(status, zh):
@@ -80,8 +89,8 @@ def bilingual_html(status, zh):
     return text_html(zh) + original if zh else original
 
 
-def build_description(status, zh=None):
-    parts = [bilingual_html(status, zh)]
+def build_description(status, translations):
+    parts = [bilingual_html(status, translations.get(id(status)))]
     parts += media_html(status.get("media"))
 
     quote = status.get("quote")
@@ -90,7 +99,7 @@ def build_description(status, zh=None):
         link = html.escape(quote.get("url", ""), quote=True)
         parts.append(
             f'<blockquote><p><a href="{link}">@{who}</a></p>'
-            f"{bilingual_html(quote, translate_zh(quote))}{''.join(media_html(quote.get('media')))}</blockquote>"
+            f"{bilingual_html(quote, translations.get(id(quote)))}{''.join(media_html(quote.get('media')))}</blockquote>"
         )
 
     return "\n".join(parts)
@@ -101,6 +110,8 @@ def build_feed(user, statuses):
     feed.title(f"@{user}")
     feed.link(href=f"https://x.com/{user}")
     feed.description(f"Posts from x.com/{user}")
+
+    translations = translate_zh(statuses + [s.get("quote") for s in statuses])
 
     for status in statuses:
         url = status.get("url")
@@ -113,7 +124,7 @@ def build_feed(user, statuses):
 
         # Cap by display width (CJK = 2) so Chinese titles stay short enough
         # that mail clients don't truncate at the last space.
-        zh = translate_zh(status)
+        zh = translations.get(id(status))
         title, width = "", 0
         for ch in " ".join((zh or status.get("text") or "").split()):
             width += 2 if unicodedata.east_asian_width(ch) in "WF" else 1
@@ -125,7 +136,7 @@ def build_feed(user, statuses):
             title = f"RT: {title}"
         entry.title(title)
 
-        description = build_description(status, zh)
+        description = build_description(status, translations)
         entry.description(description)
         entry.content(description, type="html")
 
