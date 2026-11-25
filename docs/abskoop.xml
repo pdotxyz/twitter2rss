@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 11:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:46:58 +0000</lastBuildDate>
+    <item>
+      <title>这么说 还是澳门的抽得少 Apple普通开发者默认也是 25%</title>
+      <link>https://x.com/abskoop/status/2125451154826117254</link>
+      <description>&lt;p&gt;这么说 还是澳门的抽得少&lt;br/&gt;&lt;br/&gt;Apple普通开发者默认也是 25%&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8ejggagAApTS6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;这么说 还是澳门的抽得少&lt;br/&gt;&lt;br/&gt;Apple普通开发者默认也是 25%&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8ejggagAApTS6.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2125451154826117254</guid>
+      <pubDate>Wed, 25 Nov 2026 04:46:58 +0000</pubDate>
+    </item>
     <item>
       <title>看到大家都在玩国内的 小豆 豆包旗下 AI 个人助理 我赶紧下载一个 竟然还要邀请码🥲</title>
       <link>https://x.com/abskoop/status/2125183830458044787</link>
@@ -202,16 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXpCSKWbwAAIelV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2124083064347496469</guid>
       <pubDate>Sat, 21 Nov 2026 10:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️</title>
-      <link>https://x.com/abskoop/status/2124066766985052559</link>
-      <description>&lt;p&gt;原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXozdhAaAAAWoXn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;原来我平常有时候这么多的回复都发送失败了呀😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXozdhAaAAAWoXn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2124066766985052559</guid>
-      <pubDate>Sat, 21 Nov 2026 09:05:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

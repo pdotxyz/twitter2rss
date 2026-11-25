@@ -6,14 +6,24 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 02:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:06:43 +0000</lastBuildDate>
+    <item>
+      <title>这是真朋友，非酒肉朋友可比！</title>
+      <link>https://x.com/geekbb/status/2125441023996580029</link>
+      <description>&lt;p&gt;这是真朋友，非酒肉朋友可比！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TheTeslaBull/status/2125407904379424887"&gt;@TheTeslaBull&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看看谁在 Nvidia 总部闲逛……❤️&lt;/p&gt;&lt;p&gt;Look who is hanging out at Nvidia HQ… ❤️&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX73OZ6XcAAJDBy.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;这是真朋友，非酒肉朋友可比！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TheTeslaBull/status/2125407904379424887"&gt;@TheTeslaBull&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看看谁在 Nvidia 总部闲逛……❤️&lt;/p&gt;&lt;p&gt;Look who is hanging out at Nvidia HQ… ❤️&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX73OZ6XcAAJDBy.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125441023996580029</guid>
+      <pubDate>Wed, 25 Nov 2026 04:06:43 +0000</pubDate>
+    </item>
     <item>
       <title>开源 Adobe 还是挺牛逼的 https://github.com/storytold/artcraft</title>
       <link>https://x.com/geekbb/status/2125415834420199794</link>
       <description>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
       <content:encoded>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125415834420199794</guid>
       <pubDate>Wed, 25 Nov 2026 02:26:37 +0000</pubDate>
     </item>
@@ -194,16 +204,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxpbdwbUAAqOz9.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124707510384730409</guid>
       <pubDate>Mon, 23 Nov 2026 03:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>😅</title>
-      <link>https://x.com/geekbb/status/2124687399431421999</link>
-      <description>&lt;p&gt;😅&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/elonmusk/status/2124678745629790551"&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@SawyerMerritt 除了在中国，因为星链在那里是非法的&lt;/p&gt;&lt;p&gt;@SawyerMerritt Except in China, as Starlink is illegal there&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;😅&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/elonmusk/status/2124678745629790551"&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@SawyerMerritt 除了在中国，因为星链在那里是非法的&lt;/p&gt;&lt;p&gt;@SawyerMerritt Except in China, as Starlink is illegal there&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124687399431421999</guid>
-      <pubDate>Mon, 23 Nov 2026 02:12:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
