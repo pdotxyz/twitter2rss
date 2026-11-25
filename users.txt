@@ -37,3 +37,4 @@ Placer_ai
 fxtrader
 NextBullReady
 LizAnnSonders
+charliebilello
