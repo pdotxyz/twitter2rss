@@ -6,7 +6,17 @@
     <description>Posts from x.com/openmarket_xyz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 18:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:28:48 +0000</lastBuildDate>
+    <item>
+      <title>现在所有人都可以免费使用自定义间隔 18m、90m、3h、2d、2w 和 40 多个以上，覆盖所有</title>
+      <link>https://x.com/openmarket_xyz/status/2125597577001517326</link>
+      <description>&lt;p&gt;现在所有人都可以免费使用自定义间隔&lt;br/&gt;&lt;br/&gt;18m、90m、3h、2d、2w 和 40 多个以上，覆盖所有市场&lt;br/&gt;&lt;br/&gt;加密货币、期货、股票、外汇&lt;/p&gt;&lt;p&gt;Custom intervals are now available for all for free&lt;br/&gt;&lt;br/&gt;18m, 90m, 3h, 2d, 2w and 40+ more across all markets&lt;br/&gt;&lt;br/&gt;crypto, futures, stocks, forex&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-eYTYaYAE6rBj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;现在所有人都可以免费使用自定义间隔&lt;br/&gt;&lt;br/&gt;18m、90m、3h、2d、2w 和 40 多个以上，覆盖所有市场&lt;br/&gt;&lt;br/&gt;加密货币、期货、股票、外汇&lt;/p&gt;&lt;p&gt;Custom intervals are now available for all for free&lt;br/&gt;&lt;br/&gt;18m, 90m, 3h, 2d, 2w and 40+ more across all markets&lt;br/&gt;&lt;br/&gt;crypto, futures, stocks, forex&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-eYTYaYAE6rBj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2125597577001517326</guid>
+      <pubDate>Wed, 25 Nov 2026 14:28:48 +0000</pubDate>
+    </item>
     <item>
       <title>您现在可以通过 cTrader 在 OpenMarket 上绘制差价合约图表并进行交易。 将经纪商的实</title>
       <link>https://x.com/openmarket_xyz/status/2125292143656960474</link>
@@ -188,16 +198,6 @@
       <content:encoded>&lt;p&gt;您现在可以通过 Rithmic 直接在 OpenMarket 上交易期货。&lt;br/&gt;&lt;br/&gt;使用您的 Apex、Topstep、AMP 或 Ironbeam 帐户登录。根据足迹、订单簿热图、DOM 和交易量概况，从图表中交易 ES、NQ、CL 和 GC。&lt;/p&gt;&lt;p&gt;You can now trade futures directly on OpenMarket via Rithmic.&lt;br/&gt;&lt;br/&gt;Log in with your Apex, Topstep, AMP or Ironbeam account. Trade ES, NQ, CL and GC from the chart, on top of footprints, order book heatmap, DOM and volume profile.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2117247532854321253</guid>
       <pubDate>Mon, 02 Nov 2026 13:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>介绍经销商流程 GEX。 大多数 GEX 图表根据未平仓合约猜测谁买入和谁卖出。在 SPY 的</title>
-      <link>https://x.com/openmarket_xyz/status/2115797961095680129</link>
-      <description>&lt;p&gt;介绍经销商流程 GEX。&lt;br/&gt;&lt;br/&gt;大多数 GEX 图表根据未平仓合约猜测谁买入和谁卖出。在 SPY 的前两个月，我们的流量数据显示 60% 的未平仓合约出现相反情况。&lt;br/&gt;&lt;br/&gt;摩根大通已将其伽玛模型转移到流动中。瑞银使用期权流分析来了解经销商的定位。&lt;br/&gt;&lt;br/&gt;OpenMarket 的 GEX 现在在经销商流程上运行。每笔美国期权交易都为你的墙和伽玛翻转背后的模型提供支持。&lt;/p&gt;&lt;p&gt;Introducing dealer-flow GEX.&lt;br/&gt;&lt;br/&gt;Most GEX charts guess who bought and who sold based on open interest. On SPY’s front two months, our flow data shows the opposite across 60% of open interest.&lt;br/&gt;&lt;br/&gt;JPMorgan has moved its gamma model to flow. UBS uses options-flow analysis to understand dealer positioning.&lt;br/&gt;&lt;br/&gt;OpenMarket’s GEX now runs on dealer flow. Every US options trade feeds the model behind your walls and gamma flip.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HVzS6rraoAAC1XW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;介绍经销商流程 GEX。&lt;br/&gt;&lt;br/&gt;大多数 GEX 图表根据未平仓合约猜测谁买入和谁卖出。在 SPY 的前两个月，我们的流量数据显示 60% 的未平仓合约出现相反情况。&lt;br/&gt;&lt;br/&gt;摩根大通已将其伽玛模型转移到流动中。瑞银使用期权流分析来了解经销商的定位。&lt;br/&gt;&lt;br/&gt;OpenMarket 的 GEX 现在在经销商流程上运行。每笔美国期权交易都为你的墙和伽玛翻转背后的模型提供支持。&lt;/p&gt;&lt;p&gt;Introducing dealer-flow GEX.&lt;br/&gt;&lt;br/&gt;Most GEX charts guess who bought and who sold based on open interest. On SPY’s front two months, our flow data shows the opposite across 60% of open interest.&lt;br/&gt;&lt;br/&gt;JPMorgan has moved its gamma model to flow. UBS uses options-flow analysis to understand dealer positioning.&lt;br/&gt;&lt;br/&gt;OpenMarket’s GEX now runs on dealer flow. Every US options trade feeds the model behind your walls and gamma flip.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HVzS6rraoAAC1XW.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/openmarket_xyz/status/2115797961095680129</guid>
-      <pubDate>Thu, 29 Oct 2026 13:28:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
