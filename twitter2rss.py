@@ -32,11 +32,17 @@ from feedgen.feed import FeedGenerator
 
 
 def fetch_statuses(user):
-    response = requests.get(
-        f"https://api.fxtwitter.com/2/profile/{user}/statuses",
-        timeout=20,
-        headers={"User-Agent": "twitter2rss"},
-    )
+    # fxtwitter returns spurious 404s now and then; retry before giving up.
+    for attempt in range(3):
+        if attempt:
+            time.sleep(5 * attempt)
+        response = requests.get(
+            f"https://api.fxtwitter.com/2/profile/{user}/statuses",
+            timeout=20,
+            headers={"User-Agent": "twitter2rss"},
+        )
+        if response.ok:
+            break
     response.raise_for_status()
     return response.json().get("results") or []
 
