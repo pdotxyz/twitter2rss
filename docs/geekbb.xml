@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 05:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:41:08 +0000</lastBuildDate>
+    <item>
+      <title>家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码</title>
+      <link>https://x.com/geekbb/status/2125479882495066480</link>
+      <description>&lt;p&gt;家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码库、群聊和 AI 助手全塞进一台本地 Docker 服务器。&lt;br/&gt;&lt;br/&gt;https://github.com/tristenlammi/Promptly&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84icfacAAm3R1.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码库、群聊和 AI 助手全塞进一台本地 Docker 服务器。&lt;br/&gt;&lt;br/&gt;https://github.com/tristenlammi/Promptly&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84icfacAAm3R1.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125479882495066480</guid>
+      <pubDate>Wed, 25 Nov 2026 06:41:08 +0000</pubDate>
+    </item>
     <item>
       <title>太好了～</title>
       <link>https://x.com/geekbb/status/2125468579361693954</link>
@@ -41,9 +51,9 @@
       <title>开源 Adobe 还是挺牛逼的 https://github.com/storytold/artcraft</title>
       <link>https://x.com/geekbb/status/2125415834420199794</link>
       <description>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
       <content:encoded>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125415834420199794</guid>
       <pubDate>Wed, 25 Nov 2026 02:26:37 +0000</pubDate>
     </item>
@@ -194,16 +204,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxtvHawAAVp3S.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124788795622990090</guid>
       <pubDate>Mon, 23 Nov 2026 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔</title>
-      <link>https://x.com/geekbb/status/2124757590265782320</link>
-      <description>&lt;p&gt;在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔记应用，实现零服务器费用。&lt;br/&gt;&lt;br/&gt;编辑器支持 TanStack Markdown 与代码高亮、可勾选待办清单、置顶拖拽排序、8 种纸张颜色、标签与提醒，并支持拖拽导入 Obsidian、Google Keep、Evernote、Simplenote 与 Standard Notes 导出文件。&lt;br/&gt;&lt;br/&gt;https://github.com/homielab/noteflare&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxCbQa0AALQe-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;在赛博菩萨 Cloudflare 免费套餐 Workers 与 D1 上自托管端到端加密 Markdown 个人笔记应用，实现零服务器费用。&lt;br/&gt;&lt;br/&gt;编辑器支持 TanStack Markdown 与代码高亮、可勾选待办清单、置顶拖拽排序、8 种纸张颜色、标签与提醒，并支持拖拽导入 Obsidian、Google Keep、Evernote、Simplenote 与 Standard Notes 导出文件。&lt;br/&gt;&lt;br/&gt;https://github.com/homielab/noteflare&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXxxCbQa0AALQe-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124757590265782320</guid>
-      <pubDate>Mon, 23 Nov 2026 06:51:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
