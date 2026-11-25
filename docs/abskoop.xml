@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 13:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:04:22 +0000</lastBuildDate>
+    <item>
+      <title>Muse的logo动画有点过分可爱了吧</title>
+      <link>https://x.com/abskoop/status/2125606528774541484</link>
+      <description>&lt;p&gt;Muse的logo动画有点过分可爱了吧&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-qeKda4AAVQKs.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Muse的logo动画有点过分可爱了吧&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-qeKda4AAVQKs.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2125606528774541484</guid>
+      <pubDate>Wed, 25 Nov 2026 15:04:22 +0000</pubDate>
+    </item>
     <item>
       <title>又发现一个不错备用网站😶‍🌫️低调用</title>
       <link>https://x.com/abskoop/status/2125584287357669381</link>
@@ -200,16 +210,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXs0DrMakAAWQ9B.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2124348896612946220</guid>
       <pubDate>Sun, 22 Nov 2026 03:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>我发誓 再也不买VPS了 买了好多用不完 主力的够用就行了 其他的都闲置吃灰了😶‍🌫️</title>
-      <link>https://x.com/abskoop/status/2124194882273284167</link>
-      <description>&lt;p&gt;我发誓 再也不买VPS了  买了好多用不完&lt;br/&gt;&lt;br/&gt; 主力的够用就行了 其他的都闲置吃灰了😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqZCrXaYAAsVsT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;我发誓 再也不买VPS了  买了好多用不完&lt;br/&gt;&lt;br/&gt; 主力的够用就行了 其他的都闲置吃灰了😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXqZCrXaYAAsVsT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2124194882273284167</guid>
-      <pubDate>Sat, 21 Nov 2026 17:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
