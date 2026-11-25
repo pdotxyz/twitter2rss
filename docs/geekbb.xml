@@ -6,7 +6,29 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 13:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:26:37 +0000</lastBuildDate>
+    <item>
+      <title>开源 Adobe 还是挺牛逼的 https://github.com/storytold/artcraft</title>
+      <link>https://x.com/geekbb/status/2125415834420199794</link>
+      <description>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125415834420199794</guid>
+      <pubDate>Wed, 25 Nov 2026 02:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>好看，一套 Nord 配色补充高对比度的浅色方案，避免亮背景下的文字发虚或色调跑偏。 </title>
+      <link>https://x.com/geekbb/status/2125400067477832127</link>
+      <description>&lt;p&gt;好看，一套 Nord 配色补充高对比度的浅色方案，避免亮背景下的文字发虚或色调跑偏。&lt;br/&gt;&lt;br/&gt;涵盖 Ghostty、kitty、Zed、VS Code、Neovim、bat、Codex CLI、yazi、Starship、btop、Claude Code、常用 zsh 工具以及 Reveal.js / Quarto 幻灯片。&lt;br/&gt;&lt;br/&gt;https://github.com/miskiewiczm/foxberry&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7vOvpawAA2aCT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7vU03agAEKJqh.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;好看，一套 Nord 配色补充高对比度的浅色方案，避免亮背景下的文字发虚或色调跑偏。&lt;br/&gt;&lt;br/&gt;涵盖 Ghostty、kitty、Zed、VS Code、Neovim、bat、Codex CLI、yazi、Starship、btop、Claude Code、常用 zsh 工具以及 Reveal.js / Quarto 幻灯片。&lt;br/&gt;&lt;br/&gt;https://github.com/miskiewiczm/foxberry&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7vOvpawAA2aCT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX7vU03agAEKJqh.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125400067477832127</guid>
+      <pubDate>Wed, 25 Nov 2026 01:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>好消息是我以前在闲鱼上买的两个 Google AI Pro 会员到现在还没被回收，也不知道是什</title>
       <link>https://x.com/geekbb/status/2125225496237789512</link>
@@ -182,26 +204,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/elonmusk/status/2124678745629790551"&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@SawyerMerritt 除了在中国，因为星链在那里是非法的&lt;/p&gt;&lt;p&gt;@SawyerMerritt Except in China, as Starlink is illegal there&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124687399431421999</guid>
       <pubDate>Mon, 23 Nov 2026 02:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>你看，这不就明了了吗。 只有 T3 Code 可以 ✅ 你们是这个 👍</title>
-      <link>https://x.com/geekbb/status/2124673026210017624</link>
-      <description>&lt;p&gt;你看，这不就明了了吗。&lt;br/&gt;只有 T3 Code 可以 ✅&lt;br/&gt;你们是这个 👍&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/theo/status/2124665075638411641"&gt;@theo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看到很多混乱，所以让我们澄清一下：&lt;br/&gt;&lt;br/&gt;您只能在《反重力》中使用您的 Gemini 订阅。 T3 代码使用反重力。其他安全带（即 Pi）不使用反重力，因此不允许使用。&lt;br/&gt;&lt;br/&gt;T3 代码 -&amp;gt; 反重力二进制 -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt;（假反重力垫片）-&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO 这很清楚（与克劳德潜艇的工作方式相同）&lt;/p&gt;&lt;p&gt;Seeing a lot of confusion so let&amp;#x27;s make this very clear:&lt;br/&gt;&lt;br/&gt;You can only use your Gemini subscription in Antigravity. T3 Code uses Antigravity. Other harnesses (i.e. Pi) do not use Antigravity, so they are not allowed.&lt;br/&gt;&lt;br/&gt;T3 Code -&amp;gt; Antigravity binary -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt; (fake antigravity shim) -&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO this is pretty clear (same way that Claude subs work)&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;你看，这不就明了了吗。&lt;br/&gt;只有 T3 Code 可以 ✅&lt;br/&gt;你们是这个 👍&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/theo/status/2124665075638411641"&gt;@theo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看到很多混乱，所以让我们澄清一下：&lt;br/&gt;&lt;br/&gt;您只能在《反重力》中使用您的 Gemini 订阅。 T3 代码使用反重力。其他安全带（即 Pi）不使用反重力，因此不允许使用。&lt;br/&gt;&lt;br/&gt;T3 代码 -&amp;gt; 反重力二进制 -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt;（假反重力垫片）-&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO 这很清楚（与克劳德潜艇的工作方式相同）&lt;/p&gt;&lt;p&gt;Seeing a lot of confusion so let&amp;#x27;s make this very clear:&lt;br/&gt;&lt;br/&gt;You can only use your Gemini subscription in Antigravity. T3 Code uses Antigravity. Other harnesses (i.e. Pi) do not use Antigravity, so they are not allowed.&lt;br/&gt;&lt;br/&gt;T3 Code -&amp;gt; Antigravity binary -&amp;gt; Google API ✅&lt;br/&gt;Pi -&amp;gt; (fake antigravity shim) -&amp;gt; Google API ❌&lt;br/&gt;&lt;br/&gt;IMO this is pretty clear (same way that Claude subs work)&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124673026210017624</guid>
-      <pubDate>Mon, 23 Nov 2026 01:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>我们用和 T3 一样的方式通过 ACP 构建了它🤭 有 Google 官方的人来背一下书吗？有的话</title>
-      <link>https://x.com/geekbb/status/2124653984887816691</link>
-      <description>&lt;p&gt;我们用和 T3 一样的方式通过 ACP 构建了它🤭&lt;br/&gt;&lt;br/&gt;有 Google 官方的人来背一下书吗？有的话我马上转 mausbot。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/milindlabs/status/2124514008997007815"&gt;@milindlabs&lt;/a&gt;&lt;/p&gt;&lt;p&gt;我只是需要一些保证，如果使用 @mausbot_ 的反重力的人不会被禁止&lt;br/&gt;&lt;br/&gt;我们以与 T3 相同的方式通过 ACP 构建它&lt;br/&gt;&lt;br/&gt;希望每个人都能通过 MausBot 获得 Neon 体验&lt;br/&gt;&lt;br/&gt;@OfficialLoganK @Google&lt;/p&gt;&lt;p&gt;I just need some assurance if people using Antigravity with @mausbot_ wont be banned&lt;br/&gt;&lt;br/&gt;we built it the same way T3 did, through ACP&lt;br/&gt;&lt;br/&gt;would love for everyone to have the Neon Experience through MausBot&lt;br/&gt;&lt;br/&gt;@OfficialLoganK @Google&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;我们用和 T3 一样的方式通过 ACP 构建了它🤭&lt;br/&gt;&lt;br/&gt;有 Google 官方的人来背一下书吗？有的话我马上转 mausbot。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/milindlabs/status/2124514008997007815"&gt;@milindlabs&lt;/a&gt;&lt;/p&gt;&lt;p&gt;我只是需要一些保证，如果使用 @mausbot_ 的反重力的人不会被禁止&lt;br/&gt;&lt;br/&gt;我们以与 T3 相同的方式通过 ACP 构建它&lt;br/&gt;&lt;br/&gt;希望每个人都能通过 MausBot 获得 Neon 体验&lt;br/&gt;&lt;br/&gt;@OfficialLoganK @Google&lt;/p&gt;&lt;p&gt;I just need some assurance if people using Antigravity with @mausbot_ wont be banned&lt;br/&gt;&lt;br/&gt;we built it the same way T3 did, through ACP&lt;br/&gt;&lt;br/&gt;would love for everyone to have the Neon Experience through MausBot&lt;br/&gt;&lt;br/&gt;@OfficialLoganK @Google&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124653984887816691</guid>
-      <pubDate>Sun, 22 Nov 2026 23:59:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
