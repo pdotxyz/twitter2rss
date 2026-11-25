@@ -6,16 +6,44 @@
     <description>Posts from x.com/bboczeng</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 19:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:48:32 +0000</lastBuildDate>
     <item>
-      <title>从下跌的速度与惨烈程度，以及这几天的技术新高来看，确实是基本到底部了 反正我确实</title>
-      <link>https://x.com/bboczeng/status/2125669622599065735</link>
-      <description>&lt;p&gt;从下跌的速度与惨烈程度，以及这几天的技术新高来看，确实是基本到底部了&lt;br/&gt;&lt;br/&gt;反正我确实按照baseline I的计划抄底了&lt;br/&gt;&lt;br/&gt;有本事年底再跌20%？&lt;br/&gt;&lt;br/&gt;那就真的是系统性危机和长期熊市&lt;br/&gt;&lt;br/&gt;黄仁勋、特朗普、贝森特&lt;br/&gt;&lt;br/&gt;有这个本事？&lt;br/&gt;&lt;br/&gt;😅😅😅&lt;/p&gt;
+      <title>自美国宣布限制中国企业通过海外数据中心获取先进 AI 芯片的新规以来，市场上转售的英</title>
+      <link>https://x.com/bboczeng/status/2125693137918271563</link>
+      <description>&lt;p&gt;自美国宣布限制中国企业通过海外数据中心获取先进 AI 芯片的新规以来，市场上转售的英伟达（$NVDA）B300 GPU 数量异常庞大。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/liquidtrading/status/2125646373617914300"&gt;@liquidtrading&lt;/a&gt;&lt;/p&gt;&lt;p&gt;刚刚报道：自美国宣布对中国公司通过海外数据中心获取先进人工智能芯片实施新限制以来，大量 Nvidia ($NVDA) B300 GPU 被转售。&lt;/p&gt;&lt;p&gt;JUST IN: An unusually large volume of Nvidia ($NVDA) B300 GPUs has been offered for resale since the U.S. announced new restrictions on Chinese companies’ access to advanced AI chips through overseas data centers.&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;自美国宣布限制中国企业通过海外数据中心获取先进 AI 芯片的新规以来，市场上转售的英伟达（$NVDA）B300 GPU 数量异常庞大。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/liquidtrading/status/2125646373617914300"&gt;@liquidtrading&lt;/a&gt;&lt;/p&gt;&lt;p&gt;刚刚报道：自美国宣布对中国公司通过海外数据中心获取先进人工智能芯片实施新限制以来，大量 Nvidia ($NVDA) B300 GPU 被转售。&lt;/p&gt;&lt;p&gt;JUST IN: An unusually large volume of Nvidia ($NVDA) B300 GPUs has been offered for resale since the U.S. announced new restrictions on Chinese companies’ access to advanced AI chips through overseas data centers.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/bboczeng/status/2125693137918271563</guid>
+      <pubDate>Wed, 25 Nov 2026 20:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>和ChatGPT相比，Claude真的很快，我都不知道是为什么 我的ChatGPT还是付费用户 经常是</title>
+      <link>https://x.com/bboczeng/status/2125692736565350411</link>
+      <description>&lt;p&gt;和ChatGPT相比，Claude真的很快，我都不知道是为什么&lt;br/&gt;&lt;br/&gt;我的ChatGPT还是付费用户&lt;br/&gt;&lt;br/&gt;经常是卡的要死，&lt;br/&gt;&lt;br/&gt;OpenAI是不是真的没钱了？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bboczeng/status/2125692499964678279"&gt;@bboczeng&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Anthropic 称，在将其 Messages API 从 Python 迁移到 Rust 之后，每个请求的 CPU 使用量下降了约 70%，内存使用量下降了 80% 以上，而迁移中大部分代码由 Claude 编写。&lt;br/&gt;&lt;br/&gt;据 Anthropic 工程博客的一篇文章介绍，首个 token 的响应时间中位数也缩短了约 20%。整个切换过程中，服务始终保持在线。&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;和ChatGPT相比，Claude真的很快，我都不知道是为什么&lt;br/&gt;&lt;br/&gt;我的ChatGPT还是付费用户&lt;br/&gt;&lt;br/&gt;经常是卡的要死，&lt;br/&gt;&lt;br/&gt;OpenAI是不是真的没钱了？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bboczeng/status/2125692499964678279"&gt;@bboczeng&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Anthropic 称，在将其 Messages API 从 Python 迁移到 Rust 之后，每个请求的 CPU 使用量下降了约 70%，内存使用量下降了 80% 以上，而迁移中大部分代码由 Claude 编写。&lt;br/&gt;&lt;br/&gt;据 Anthropic 工程博客的一篇文章介绍，首个 token 的响应时间中位数也缩短了约 20%。整个切换过程中，服务始终保持在线。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/bboczeng/status/2125692736565350411</guid>
+      <pubDate>Wed, 25 Nov 2026 20:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 称，在将其 Messages API 从 Python 迁移到 Rust 之后，每个请求的 CPU 使</title>
+      <link>https://x.com/bboczeng/status/2125692499964678279</link>
+      <description>&lt;p&gt;Anthropic 称，在将其 Messages API 从 Python 迁移到 Rust 之后，每个请求的 CPU 使用量下降了约 70%，内存使用量下降了 80% 以上，而迁移中大部分代码由 Claude 编写。&lt;br/&gt;&lt;br/&gt;据 Anthropic 工程博客的一篇文章介绍，首个 token 的响应时间中位数也缩短了约 20%。整个切换过程中，服务始终保持在线。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Anthropic 称，在将其 Messages API 从 Python 迁移到 Rust 之后，每个请求的 CPU 使用量下降了约 70%，内存使用量下降了 80% 以上，而迁移中大部分代码由 Claude 编写。&lt;br/&gt;&lt;br/&gt;据 Anthropic 工程博客的一篇文章介绍，首个 token 的响应时间中位数也缩短了约 20%。整个切换过程中，服务始终保持在线。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/bboczeng/status/2125692499964678279</guid>
+      <pubDate>Wed, 25 Nov 2026 20:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>从下跌的速度与惨烈程度，以及这几天的技术形态来看，确实是基本到底了 反正我已经按</title>
+      <link>https://x.com/bboczeng/status/2125685591732089165</link>
+      <description>&lt;p&gt;从下跌的速度与惨烈程度，以及这几天的技术形态来看，确实是基本到底了&lt;br/&gt;&lt;br/&gt;反正我已经按照baseline I设定的比例抄底了&lt;br/&gt;&lt;br/&gt;有本事年底再跌个20%？&lt;br/&gt;&lt;br/&gt;那就真的是一次系统性危机和长期熊市&lt;br/&gt;&lt;br/&gt;难道黄仁勋、特朗普和贝森特&lt;br/&gt;&lt;br/&gt;还有这个本事？&lt;br/&gt;&lt;br/&gt;这可真是天大的大喜事啊&lt;br/&gt;&lt;br/&gt;😅😅😅&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TrendSpider/status/2125658276197228812"&gt;@TrendSpider&lt;/a&gt;&lt;/p&gt;&lt;p&gt;“当别人贪婪时我恐惧，当别人恐惧时我贪婪”&lt;br/&gt;&lt;br/&gt;——沃伦·巴菲特&lt;br/&gt;$间谍&lt;/p&gt;&lt;p&gt;&amp;quot;Be fearful when others are greedy and greedy when others are fearful&amp;quot;&lt;br/&gt;&lt;br/&gt;- Warren Buffett&lt;br/&gt;$SPY&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX_NnPIX0AAMI7G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;从下跌的速度与惨烈程度，以及这几天的技术新高来看，确实是基本到底部了&lt;br/&gt;&lt;br/&gt;反正我确实按照baseline I的计划抄底了&lt;br/&gt;&lt;br/&gt;有本事年底再跌20%？&lt;br/&gt;&lt;br/&gt;那就真的是系统性危机和长期熊市&lt;br/&gt;&lt;br/&gt;黄仁勋、特朗普、贝森特&lt;br/&gt;&lt;br/&gt;有这个本事？&lt;br/&gt;&lt;br/&gt;😅😅😅&lt;/p&gt;
+      <content:encoded>&lt;p&gt;从下跌的速度与惨烈程度，以及这几天的技术形态来看，确实是基本到底了&lt;br/&gt;&lt;br/&gt;反正我已经按照baseline I设定的比例抄底了&lt;br/&gt;&lt;br/&gt;有本事年底再跌个20%？&lt;br/&gt;&lt;br/&gt;那就真的是一次系统性危机和长期熊市&lt;br/&gt;&lt;br/&gt;难道黄仁勋、特朗普和贝森特&lt;br/&gt;&lt;br/&gt;还有这个本事？&lt;br/&gt;&lt;br/&gt;这可真是天大的大喜事啊&lt;br/&gt;&lt;br/&gt;😅😅😅&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TrendSpider/status/2125658276197228812"&gt;@TrendSpider&lt;/a&gt;&lt;/p&gt;&lt;p&gt;“当别人贪婪时我恐惧，当别人恐惧时我贪婪”&lt;br/&gt;&lt;br/&gt;——沃伦·巴菲特&lt;br/&gt;$间谍&lt;/p&gt;&lt;p&gt;&amp;quot;Be fearful when others are greedy and greedy when others are fearful&amp;quot;&lt;br/&gt;&lt;br/&gt;- Warren Buffett&lt;br/&gt;$SPY&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX_NnPIX0AAMI7G.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/bboczeng/status/2125669622599065735</guid>
-      <pubDate>Wed, 25 Nov 2026 19:15:05 +0000</pubDate>
+      <guid isPermaLink="false">https://x.com/bboczeng/status/2125685591732089165</guid>
+      <pubDate>Wed, 25 Nov 2026 20:18:33 +0000</pubDate>
     </item>
     <item>
       <title>美光股价较峰值暴跌 45%，需求忧虑升温 美光盘中跌至约 560 美元，较前收盘价 629.79 </title>
@@ -72,14 +100,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Evangasukidesu/status/2125638945451172117"&gt;@Evangasukidesu&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@bboczeng 我不知你为什么会觉得熊市到了中后期 这才刚开始，你宏观有变化吗 通胀有下降吗 新云还没破产，现在评级机构都在死撑不下跳，投行都在抛售你去接盘？crwv的借款利率去到18%，春节前必破产&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/bboczeng/status/2125642003413336235</guid>
       <pubDate>Wed, 25 Nov 2026 17:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>现在就是熊市，AI熊市，半导体熊市，AI刺破，半导体崩盘 还有人否认吗？ 谢谢大家</title>
-      <link>https://x.com/bboczeng/status/2125640713035813175</link>
-      <description>&lt;p&gt;现在就是熊市，AI熊市，半导体熊市，AI刺破，半导体崩盘&lt;br/&gt;&lt;br/&gt;还有人否认吗？&lt;br/&gt;&lt;br/&gt;谢谢大家&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;现在就是熊市，AI熊市，半导体熊市，AI刺破，半导体崩盘&lt;br/&gt;&lt;br/&gt;还有人否认吗？&lt;br/&gt;&lt;br/&gt;谢谢大家&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/bboczeng/status/2125640713035813175</guid>
-      <pubDate>Wed, 25 Nov 2026 17:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
