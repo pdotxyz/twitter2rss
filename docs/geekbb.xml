@@ -6,7 +6,29 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 10:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:53:54 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信</title>
+      <link>https://x.com/geekbb/status/2125573692218642903</link>
+      <description>&lt;p&gt;Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信域名，并通过 Workers 绑定、REST API 或 SMTP 向账户内已验证的目标地址免费发送邮件。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CloudflareDev/status/2125564566755291247"&gt;@CloudflareDev&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Workers Free 计划现已提供电子邮件发送功能&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;Email Sending is now available on the Workers Free plan&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125564439919525888/img/VUvgOZCqiCjSHdxQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信域名，并通过 Workers 绑定、REST API 或 SMTP 向账户内已验证的目标地址免费发送邮件。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CloudflareDev/status/2125564566755291247"&gt;@CloudflareDev&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Workers Free 计划现已提供电子邮件发送功能&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;Email Sending is now available on the Workers Free plan&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125564439919525888/img/VUvgOZCqiCjSHdxQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125573692218642903</guid>
+      <pubDate>Wed, 25 Nov 2026 12:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>为 Google Antigravity 桌面端、IDE 和 CLI 用户提供本地实时的 Token 消耗、上下文构</title>
+      <link>https://x.com/geekbb/status/2125562521772040274</link>
+      <description>&lt;p&gt;为 Google Antigravity 桌面端、IDE 和 CLI 用户提供本地实时的 Token 消耗、上下文构成、生成速度与配额监控面板。&lt;br/&gt;&lt;br/&gt;https://github.com/yuhuan-dev/antigravity-usage-monitor&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-DrzrakAAb86w.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-D1Y8bMAA_V1T.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;为 Google Antigravity 桌面端、IDE 和 CLI 用户提供本地实时的 Token 消耗、上下文构成、生成速度与配额监控面板。&lt;br/&gt;&lt;br/&gt;https://github.com/yuhuan-dev/antigravity-usage-monitor&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-DrzrakAAb86w.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-D1Y8bMAA_V1T.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125562521772040274</guid>
+      <pubDate>Wed, 25 Nov 2026 12:09:30 +0000</pubDate>
+    </item>
     <item>
       <title>他辞职那天我就想到了这张图🤣</title>
       <link>https://x.com/geekbb/status/2125538963771539884</link>
@@ -184,26 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HXx8m_daQAAWp5l.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124830822721352062</guid>
       <pubDate>Mon, 23 Nov 2026 11:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统</title>
-      <link>https://x.com/geekbb/status/2124814213235540098</link>
-      <description>&lt;p&gt;基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统。&lt;br/&gt;&lt;br/&gt;https://github.com/flameshot-org/flameshot&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx7Ks5b0AAsr1N.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;基于 C++ 与 Qt6 开发的跨平台开源截图软件，支持 GNU/Linux、Windows 与 macOS 系统。&lt;br/&gt;&lt;br/&gt;https://github.com/flameshot-org/flameshot&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx7Ks5b0AAsr1N.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124814213235540098</guid>
-      <pubDate>Mon, 23 Nov 2026 10:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地</title>
-      <link>https://x.com/geekbb/status/2124802133685895626</link>
-      <description>&lt;p&gt;让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地图和 MapLibre 2D+3D 叠加工程，同时支持 Vue 和原生 React。&lt;br/&gt;&lt;br/&gt;https://github.com/songsummer920-dazzle/three-scope-map-skill&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx1a4tawAAmfnl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;让 AI 编程助手或开发者用一条指令生成可运行的 Three.js 3D 地球、中国行政区下钻地图和 MapLibre 2D+3D 叠加工程，同时支持 Vue 和原生 React。&lt;br/&gt;&lt;br/&gt;https://github.com/songsummer920-dazzle/three-scope-map-skill&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXx1a4tawAAmfnl.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124802133685895626</guid>
-      <pubDate>Mon, 23 Nov 2026 09:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
