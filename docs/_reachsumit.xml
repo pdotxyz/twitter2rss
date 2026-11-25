@@ -6,7 +6,79 @@
     <description>Posts from x.com/_reachsumit</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 07:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:15:19 +0000</lastBuildDate>
+    <item>
+      <title>搜索代理可以纠正自己的错误吗？评估检索、证据交付和答案完成 测试搜索代理为何保留</title>
+      <link>https://x.com/_reachsumit/status/2125428090172268731</link>
+      <description>&lt;p&gt;搜索代理可以纠正自己的错误吗？评估检索、证据交付和答案完成&lt;br/&gt;&lt;br/&gt;测试搜索代理为何保留较早的错误答案（缺少来源、未阅读该段落或未修改并完成答案）。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.30243&lt;/p&gt;&lt;p&gt;Can Search Agents Correct Their Own Errors? Evaluating Retrieval, Evidence Delivery, and Answer Completion&lt;br/&gt;&lt;br/&gt;Tests why search agents keep an earlier wrong answer (missing the source, not reading the passage, or not revising and finishing the answer).&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.30243&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;搜索代理可以纠正自己的错误吗？评估检索、证据交付和答案完成&lt;br/&gt;&lt;br/&gt;测试搜索代理为何保留较早的错误答案（缺少来源、未阅读该段落或未修改并完成答案）。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.30243&lt;/p&gt;&lt;p&gt;Can Search Agents Correct Their Own Errors? Evaluating Retrieval, Evidence Delivery, and Answer Completion&lt;br/&gt;&lt;br/&gt;Tests why search agents keep an earlier wrong answer (missing the source, not reading the passage, or not revising and finishing the answer).&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.30243&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125428090172268731</guid>
+      <pubDate>Wed, 25 Nov 2026 03:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>abc 索引：学习稀疏表示的精确检索 @rventurini_ 提出了学习稀疏检索的精确索引，该索</title>
+      <link>https://x.com/_reachsumit/status/2125427940372754728</link>
+      <description>&lt;p&gt;abc 索引：学习稀疏表示的精确检索&lt;br/&gt;&lt;br/&gt;@rventurini_ 提出了学习稀疏检索的精确索引，该索引基于经典 IR 技术构建并针对现代 CPU 进行了调整。它比其他精确索引更快。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28555&lt;/p&gt;&lt;p&gt;The abc index: Exact Retrieval for Learned Sparse Representations&lt;br/&gt;&lt;br/&gt;@rventurini_ presents an exact index for learned sparse retrieval, built from classic IR techniques &amp;amp; tuned for modern CPUs. It is faster than other exact indexes.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28555&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;abc 索引：学习稀疏表示的精确检索&lt;br/&gt;&lt;br/&gt;@rventurini_ 提出了学习稀疏检索的精确索引，该索引基于经典 IR 技术构建并针对现代 CPU 进行了调整。它比其他精确索引更快。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28555&lt;/p&gt;&lt;p&gt;The abc index: Exact Retrieval for Learned Sparse Representations&lt;br/&gt;&lt;br/&gt;@rventurini_ presents an exact index for learned sparse retrieval, built from classic IR techniques &amp;amp; tuned for modern CPUs. It is faster than other exact indexes.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28555&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125427940372754728</guid>
+      <pubDate>Wed, 25 Nov 2026 03:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>PROSPER：法学硕士作为第一阶段产品搜索的稀疏检索器 引入了基于 LLM 的稀疏检索器用</title>
+      <link>https://x.com/_reachsumit/status/2125427592438407467</link>
+      <description>&lt;p&gt;PROSPER：法学硕士作为第一阶段产品搜索的稀疏检索器&lt;br/&gt;&lt;br/&gt;引入了基于 LLM 的稀疏检索器用于产品搜索，可防止品牌名称和型号被扩展的术语所掩盖。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.28645&lt;/p&gt;&lt;p&gt;PROSPER: LLMs as Sparse Retrievers for First-Stage Product Search&lt;br/&gt;&lt;br/&gt;Introduces an LLM-based sparse retriever for product search that keeps brand names and model numbers from being overshadowed by expanded terms.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.28645&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;PROSPER：法学硕士作为第一阶段产品搜索的稀疏检索器&lt;br/&gt;&lt;br/&gt;引入了基于 LLM 的稀疏检索器用于产品搜索，可防止品牌名称和型号被扩展的术语所掩盖。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.28645&lt;/p&gt;&lt;p&gt;PROSPER: LLMs as Sparse Retrievers for First-Stage Product Search&lt;br/&gt;&lt;br/&gt;Introduces an LLM-based sparse retriever for product search that keeps brand names and model numbers from being overshadowed by expanded terms.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.28645&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125427592438407467</guid>
+      <pubDate>Wed, 25 Nov 2026 03:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>S2LMR：有监督的顺序长上下文多步检索器 引入了一种简单、低成本的监督检索器，用于长</title>
+      <link>https://x.com/_reachsumit/status/2125427392378466449</link>
+      <description>&lt;p&gt;S2LMR：有监督的顺序长上下文多步检索器&lt;br/&gt;&lt;br/&gt;引入了一种简单、低成本的监督检索器，用于长上下文多步骤检索，通过将训练与推理相结合来匹配基于 RL 的方法。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28995&lt;br/&gt;👨🏽‍💻https://fujump.github.io/s2lmr_page/&lt;/p&gt;&lt;p&gt;S2LMR: Supervised Sequential Long-Context Multi-Step Retriever&lt;br/&gt;&lt;br/&gt;Introduces a simple, low-cost supervised retriever for long-context multi-step retrieval that matches RL-based methods by aligning training with inference.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28995&lt;br/&gt;👨🏽‍💻https://fujump.github.io/s2lmr_page/&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;S2LMR：有监督的顺序长上下文多步检索器&lt;br/&gt;&lt;br/&gt;引入了一种简单、低成本的监督检索器，用于长上下文多步骤检索，通过将训练与推理相结合来匹配基于 RL 的方法。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28995&lt;br/&gt;👨🏽‍💻https://fujump.github.io/s2lmr_page/&lt;/p&gt;&lt;p&gt;S2LMR: Supervised Sequential Long-Context Multi-Step Retriever&lt;br/&gt;&lt;br/&gt;Introduces a simple, low-cost supervised retriever for long-context multi-step retrieval that matches RL-based methods by aligning training with inference.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.28995&lt;br/&gt;👨🏽‍💻https://fujump.github.io/s2lmr_page/&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125427392378466449</guid>
+      <pubDate>Wed, 25 Nov 2026 03:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zarc：在几秒钟内精确计算十亿个向量的最近邻 @realDonZhao 提出了一个用于精确最近邻</title>
+      <link>https://x.com/_reachsumit/status/2125427254763368917</link>
+      <description>&lt;p&gt;Zarc：在几秒钟内精确计算十亿个向量的最近邻&lt;br/&gt;&lt;br/&gt;@realDonZhao 提出了一个用于精确最近邻搜索的 GPU 系统，该系统通过廉价的半精度边界和检查跳过大多数向量。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.29252&lt;br/&gt;👨🏽‍💻https://github.com/hpdic/libcertex&lt;/p&gt;&lt;p&gt;Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds&lt;br/&gt;&lt;br/&gt;@realDonZhao presents a GPU system for exact nearest neighbor search that skips most vectors with cheap half-precision bounds and checks.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.29252&lt;br/&gt;👨🏽‍💻https://github.com/hpdic/libcertex&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Zarc：在几秒钟内精确计算十亿个向量的最近邻&lt;br/&gt;&lt;br/&gt;@realDonZhao 提出了一个用于精确最近邻搜索的 GPU 系统，该系统通过廉价的半精度边界和检查跳过大多数向量。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.29252&lt;br/&gt;👨🏽‍💻https://github.com/hpdic/libcertex&lt;/p&gt;&lt;p&gt;Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds&lt;br/&gt;&lt;br/&gt;@realDonZhao presents a GPU system for exact nearest neighbor search that skips most vectors with cheap half-precision bounds and checks.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.29252&lt;br/&gt;👨🏽‍💻https://github.com/hpdic/libcertex&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125427254763368917</guid>
+      <pubDate>Wed, 25 Nov 2026 03:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>权重编码：通过使用 LLM 代理进行直接权重编辑来发展 Web 规模的推荐系统 Pinterest </title>
+      <link>https://x.com/_reachsumit/status/2125426982976655422</link>
+      <description>&lt;p&gt;权重编码：通过使用 LLM 代理进行直接权重编辑来发展 Web 规模的推荐系统&lt;br/&gt;&lt;br/&gt;Pinterest 提出了权重编码，其中 LLM 代理通过编辑其权重而不是重新训练来改进生产推荐器，且无需更改服务。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.29613&lt;/p&gt;&lt;p&gt;Weight Coding: Evolving Web-Scale Recommenders through Direct Weight Edits with LLM Agents&lt;br/&gt;&lt;br/&gt;Pinterest presents weight coding, where an LLM agent improves a production recommender by editing its weights instead of retraining, with no serving changes.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.29613&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;权重编码：通过使用 LLM 代理进行直接权重编辑来发展 Web 规模的推荐系统&lt;br/&gt;&lt;br/&gt;Pinterest 提出了权重编码，其中 LLM 代理通过编辑其权重而不是重新训练来改进生产推荐器，且无需更改服务。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.29613&lt;/p&gt;&lt;p&gt;Weight Coding: Evolving Web-Scale Recommenders through Direct Weight Edits with LLM Agents&lt;br/&gt;&lt;br/&gt;Pinterest presents weight coding, where an LLM agent improves a production recommender by editing its weights instead of retraining, with no serving changes.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.29613&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426982976655422</guid>
+      <pubDate>Wed, 25 Nov 2026 03:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>代理时代的检索增强一代：传统、现在与前景 对 RAG 的整个生命周期（从索引到编排）进</title>
+      <link>https://x.com/_reachsumit/status/2125426862143017143</link>
+      <description>&lt;p&gt;代理时代的检索增强一代：传统、现在与前景&lt;br/&gt;&lt;br/&gt;对 RAG 的整个生命周期（从索引到编排）进行了调查，将代理工作流程视为自己的范例，还涵盖了评估。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect&lt;br/&gt;&lt;br/&gt;Surveys RAG across its full lifecycle, from indexing to orchestration, treats agentic workflows as a paradigm of their own, also covers evaluation.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;代理时代的检索增强一代：传统、现在与前景&lt;br/&gt;&lt;br/&gt;对 RAG 的整个生命周期（从索引到编排）进行了调查，将代理工作流程视为自己的范例，还涵盖了评估。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect&lt;br/&gt;&lt;br/&gt;Surveys RAG across its full lifecycle, from indexing to orchestration, treats agentic workflows as a paradigm of their own, also covers evaluation.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426862143017143</guid>
+      <pubDate>Wed, 25 Nov 2026 03:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>为长期代理制定独立的内存提取和检索策略 表明，单独提炼为 3B 模型的记忆写入和检索</title>
+      <link>https://x.com/_reachsumit/status/2125426670639382632</link>
+      <description>&lt;p&gt;为长期代理制定独立的内存提取和检索策略&lt;br/&gt;&lt;br/&gt;表明，单独提炼为 3B 模型的记忆写入和检索策略可以在无需联合训练的情况下进行组合，并且性能优于 RL 训练的组合。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;&lt;p&gt;Composing Independently Distilled Memory and Retrieval Policies for Long-Term Agents&lt;br/&gt;&lt;br/&gt;Shows that memory-writing and retrieval policies distilled separately into 3B models can be combined without joint training and outperform RL-trained compositions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;为长期代理制定独立的内存提取和检索策略&lt;br/&gt;&lt;br/&gt;表明，单独提炼为 3B 模型的记忆写入和检索策略可以在无需联合训练的情况下进行组合，并且性能优于 RL 训练的组合。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;&lt;p&gt;Composing Independently Distilled Memory and Retrieval Policies for Long-Term Agents&lt;br/&gt;&lt;br/&gt;Shows that memory-writing and retrieval policies distilled separately into 3B models can be combined without joint training and outperform RL-trained compositions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426670639382632</guid>
+      <pubDate>Wed, 25 Nov 2026 03:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理 @cramraj8 等人。提出了</title>
+      <link>https://x.com/_reachsumit/status/2125426575885943075</link>
+      <description>&lt;p&gt;CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理&lt;br/&gt;&lt;br/&gt;@cramraj8 等人。提出了一种在推理、搜索决策、查询生成和答案提取方面分割搜索代理的 RL 增益的方法。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;&lt;p&gt;CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting&lt;br/&gt;&lt;br/&gt;@cramraj8 et al. present a method to split RL gains in search agents across reasoning, search decisions, query generation, and answer extraction.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理&lt;br/&gt;&lt;br/&gt;@cramraj8 等人。提出了一种在推理、搜索决策、查询生成和答案提取方面分割搜索代理的 RL 增益的方法。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;&lt;p&gt;CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting&lt;br/&gt;&lt;br/&gt;@cramraj8 et al. present a method to split RL gains in search agents across reasoning, search decisions, query generation, and answer extraction.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426575885943075</guid>
+      <pubDate>Wed, 25 Nov 2026 03:09:18 +0000</pubDate>
+    </item>
     <item>
       <title>我出版了卷。 Substack 上的“本周热门信息检索论文”第 183 篇。 🔗 https://recsys.su</title>
       <link>https://x.com/_reachsumit/status/2124767134920372640</link>
@@ -96,78 +168,6 @@
       <content:encoded>&lt;p&gt;适用于舰队规模排名模型的成本感知代理特征优化系统&lt;br/&gt;&lt;br/&gt;Meta 提出了一个 LLM 代理系统，该系统可以为整个广告排名模型选择功能，同时将服务成本和共享功能管道成本保持在预算范围内。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;&lt;p&gt;Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models&lt;br/&gt;&lt;br/&gt;Meta presents an LLM agent system that selects features for a whole fleet of ads ranking models while keeping serving cost and shared feature pipeline cost within budget.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657020238897532</guid>
       <pubDate>Fri, 20 Nov 2026 05:57:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>搜索增强语言模型的基于证据的信用分配 引入仅限训练的奖励，根据检索到的文档提高正</title>
-      <link>https://x.com/_reachsumit/status/2123594955902067155</link>
-      <description>&lt;p&gt;搜索增强语言模型的基于证据的信用分配&lt;br/&gt;&lt;br/&gt;引入仅限训练的奖励，根据检索到的文档提高正确答案的可能性的程度来奖励每次搜索，因此即使所有部署都失败，代理也可以学习。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;&lt;p&gt;Evidence-Based Credit Assignment for Search-Augmented Language Models&lt;br/&gt;&lt;br/&gt;Introduces a training-only reward crediting each search by how much its retrieved documents raise the likelihood of the correct answer, so agents learn even when all rollouts fail.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;搜索增强语言模型的基于证据的信用分配&lt;br/&gt;&lt;br/&gt;引入仅限训练的奖励，根据检索到的文档提高正确答案的可能性的程度来奖励每次搜索，因此即使所有部署都失败，代理也可以学习。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;&lt;p&gt;Evidence-Based Credit Assignment for Search-Augmented Language Models&lt;br/&gt;&lt;br/&gt;Introduces a training-only reward crediting each search by how much its retrieved documents raise the likelihood of the correct answer, so agents learn even when all rollouts fail.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23824&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594955902067155</guid>
-      <pubDate>Fri, 20 Nov 2026 01:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>先优化 Cob，然后优化内核：优化 Beam Search 以实现生成推荐推理 与 Ascend NPU 上的</title>
-      <link>https://x.com/_reachsumit/status/2123594811248902513</link>
-      <description>&lt;p&gt;先优化 Cob，然后优化内核：优化 Beam Search 以实现生成推荐推理&lt;br/&gt;&lt;br/&gt;与 Ascend NPU 上的 vLLM 相比，华为通过优化整个管道而不是编写自定义内核，减少了生成推荐推理延迟。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;&lt;p&gt;Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference&lt;br/&gt;&lt;br/&gt;Huawei cuts generative recommendation inference latency versus vLLM on Ascend NPUs by optimizing the whole pipeline rather than writing custom kernels.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;先优化 Cob，然后优化内核：优化 Beam Search 以实现生成推荐推理&lt;br/&gt;&lt;br/&gt;与 Ascend NPU 上的 vLLM 相比，华为通过优化整个管道而不是编写自定义内核，减少了生成推荐推理延迟。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;&lt;p&gt;Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference&lt;br/&gt;&lt;br/&gt;Huawei cuts generative recommendation inference latency versus vLLM on Ascend NPUs by optimizing the whole pipeline rather than writing custom kernels.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23339&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594811248902513</guid>
-      <pubDate>Fri, 20 Nov 2026 01:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>MLE 代理：大规模推荐系统中的自主 ML 工程 Meta 使用 LLM 代理在工程师的指导下提出</title>
-      <link>https://x.com/_reachsumit/status/2123594735571087713</link>
-      <description>&lt;p&gt;MLE 代理：大规模推荐系统中的自主 ML 工程&lt;br/&gt;&lt;br/&gt;Meta 使用 LLM 代理在工程师的指导下提出、训练和评估对大型搜索排名器的更改。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;&lt;p&gt;MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems&lt;br/&gt;&lt;br/&gt;Meta uses LLM agents that propose, train, and evaluate changes to a large search ranker, guided by engineers.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;MLE 代理：大规模推荐系统中的自主 ML 工程&lt;br/&gt;&lt;br/&gt;Meta 使用 LLM 代理在工程师的指导下提出、训练和评估对大型搜索排名器的更改。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;&lt;p&gt;MLE Agents: Autonomous ML Engineering in Large-scale Recommendation Systems&lt;br/&gt;&lt;br/&gt;Meta uses LLM agents that propose, train, and evaluate changes to a large search ranker, guided by engineers.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23910&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594735571087713</guid>
-      <pubDate>Fri, 20 Nov 2026 01:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>CONCORD-Rec：用于语义 ID 扩散的目录条件模态实用程序建议 腾讯提出了一种扩散推荐器</title>
-      <link>https://x.com/_reachsumit/status/2123594517068845155</link>
-      <description>&lt;p&gt;CONCORD-Rec：用于语义 ID 扩散的目录条件模态实用程序建议&lt;br/&gt;&lt;br/&gt;腾讯提出了一种扩散推荐器，可以学习每种内容形式的信任程度，因此丢失或冲突的音频、视频、图像或文本造成的伤害较小。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;&lt;p&gt;CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation&lt;br/&gt;&lt;br/&gt;Tencent proposes a diffusion recommender that learns how much to trust each content modality, so missing or conflicting audio, video, image or text hurts less.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;CONCORD-Rec：用于语义 ID 扩散的目录条件模态实用程序建议&lt;br/&gt;&lt;br/&gt;腾讯提出了一种扩散推荐器，可以学习每种内容形式的信任程度，因此丢失或冲突的音频、视频、图像或文本造成的伤害较小。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;&lt;p&gt;CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation&lt;br/&gt;&lt;br/&gt;Tencent proposes a diffusion recommender that learns how much to trust each content modality, so missing or conflicting audio, video, image or text hurts less.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.23710&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594517068845155</guid>
-      <pubDate>Fri, 20 Nov 2026 01:49:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>火星技术报告 淘宝推出了一种 LLM 代理，可以在整个推荐管道中定期设置特定于用户的检</title>
-      <link>https://x.com/_reachsumit/status/2123594414501331219</link>
-      <description>&lt;p&gt;火星技术报告&lt;br/&gt;&lt;br/&gt;淘宝推出了一种 LLM 代理，可以在整个推荐管道中定期设置特定于用户的检索配额、模型选择和评分融合权重，取代所有用户共享的固定配置。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;&lt;p&gt;MARS Technical Report&lt;br/&gt;&lt;br/&gt;Taobao presents an LLM agent that periodically sets user-specific retrieval quotas, model choices and score fusion weights across the whole recommendation pipeline, replacing one fixed configuration shared by all users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;火星技术报告&lt;br/&gt;&lt;br/&gt;淘宝推出了一种 LLM 代理，可以在整个推荐管道中定期设置特定于用户的检索配额、模型选择和评分融合权重，取代所有用户共享的固定配置。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;&lt;p&gt;MARS Technical Report&lt;br/&gt;&lt;br/&gt;Taobao presents an LLM agent that periodically sets user-specific retrieval quotas, model choices and score fusion weights across the whole recommendation pipeline, replacing one fixed configuration shared by all users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24006&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594414501331219</guid>
-      <pubDate>Fri, 20 Nov 2026 01:48:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>X-split Argus：学习可重复使用的历史令牌以进行高效的点击率预测 Yandex 推出了一个</title>
-      <link>https://x.com/_reachsumit/status/2123594281533514187</link>
-      <description>&lt;p&gt;X-split Argus：学习可重复使用的历史令牌以进行高效的点击率预测&lt;br/&gt;&lt;br/&gt;Yandex 推出了一个广告 CTR 排名器，它将长期用户历史压缩为可重复使用的离线令牌，然后通过对这些令牌和最近事件的交叉关注来对广告进行评分。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;&lt;p&gt;X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction&lt;br/&gt;&lt;br/&gt;Yandex presents an ad CTR ranker that compresses long user histories into reusable offline tokens, then scores ads with cross-attention to those tokens and recent events.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;X-split Argus：学习可重复使用的历史令牌以进行高效的点击率预测&lt;br/&gt;&lt;br/&gt;Yandex 推出了一个广告 CTR 排名器，它将长期用户历史压缩为可重复使用的离线令牌，然后通过对这些令牌和最近事件的交叉关注来对广告进行评分。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;&lt;p&gt;X-split Argus: Learning Reusable History Tokens for Efficient CTR Prediction&lt;br/&gt;&lt;br/&gt;Yandex presents an ad CTR ranker that compresses long user histories into reusable offline tokens, then scores ads with cross-attention to those tokens and recent events.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.24283&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123594281533514187</guid>
-      <pubDate>Fri, 20 Nov 2026 01:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>动态自纠交互网络 提出了一种动态交互网络，可以过滤掉过去对用户和项目无用的交互，</title>
-      <link>https://x.com/_reachsumit/status/2122960713077739776</link>
-      <description>&lt;p&gt;动态自纠交互网络&lt;br/&gt;&lt;br/&gt;提出了一种动态交互网络，可以过滤掉过去对用户和项目无用的交互，对新交互的负面影响进行建模，并处理冷启动用户和项目。&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;&lt;p&gt;Dynamic Self-correcting Interaction Network&lt;br/&gt;&lt;br/&gt;Proposes a dynamic interaction network that filters out unhelpful past interactions for both users and items, models the negative effect of new interactions, and handles cold-start users and items.&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;动态自纠交互网络&lt;br/&gt;&lt;br/&gt;提出了一种动态交互网络，可以过滤掉过去对用户和项目无用的交互，对新交互的负面影响进行建模，并处理冷启动用户和项目。&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;&lt;p&gt;Dynamic Self-correcting Interaction Network&lt;br/&gt;&lt;br/&gt;Proposes a dynamic interaction network that filters out unhelpful past interactions for both users and items, models the negative effect of new interactions, and handles cold-start users and items.&lt;br/&gt;&lt;br/&gt;📝 https://doi.org/10.1145/3862331&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960713077739776</guid>
-      <pubDate>Wed, 18 Nov 2026 07:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Errpedia：您的精确 k-NN 向量搜索真的精确吗？ 引入了用于测试精确 k-NN 搜索的数值</title>
-      <link>https://x.com/_reachsumit/status/2122960581582110907</link>
-      <description>&lt;p&gt;Errpedia：您的精确 k-NN 向量搜索真的精确吗？&lt;br/&gt;&lt;br/&gt;引入了用于测试精确 k-NN 搜索的数值正确性的数据集；每个测试的库和数据库在某些查询上都会返回错误的前 10 个结果。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;&lt;p&gt;Errpedia: Is Your Exact k-NN Vector Search Really Exact?&lt;br/&gt;&lt;br/&gt;Introduces a dataset for testing numerical correctness of exact k-NN search; every tested library and database returns wrong top-10 results on some queries.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Errpedia：您的精确 k-NN 向量搜索真的精确吗？&lt;br/&gt;&lt;br/&gt;引入了用于测试精确 k-NN 搜索的数值正确性的数据集；每个测试的库和数据库在某些查询上都会返回错误的前 10 个结果。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;&lt;p&gt;Errpedia: Is Your Exact k-NN Vector Search Really Exact?&lt;br/&gt;&lt;br/&gt;Introduces a dataset for testing numerical correctness of exact k-NN search; every tested library and database returns wrong top-10 results on some queries.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22474&lt;br/&gt;👨🏽‍💻 https://github.com/dynos01/errpedia&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960581582110907</guid>
-      <pubDate>Wed, 18 Nov 2026 07:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>穿风衣的 RAG：何时最小内存足以支持代理系统，何时不能 @Jingyu227等人。结果表明，</title>
-      <link>https://x.com/_reachsumit/status/2122960457145471318</link>
-      <description>&lt;p&gt;穿风衣的 RAG：何时最小内存足以支持代理系统，何时不能&lt;br/&gt;&lt;br/&gt;@Jingyu227等人。结果表明，在流行的基准测试中，简单的 RAG 内存可以与复杂的代理内存相匹配，但没有一种设计能够在所有地方获胜。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;&lt;p&gt;RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t&lt;br/&gt;&lt;br/&gt;@Jingyu227 et al. show that simple RAG memory matches complex agentic memory on popular benchmarks, but no design wins everywhere.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;穿风衣的 RAG：何时最小内存足以支持代理系统，何时不能&lt;br/&gt;&lt;br/&gt;@Jingyu227等人。结果表明，在流行的基准测试中，简单的 RAG 内存可以与复杂的代理内存相匹配，但没有一种设计能够在所有地方获胜。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;&lt;p&gt;RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t&lt;br/&gt;&lt;br/&gt;@Jingyu227 et al. show that simple RAG memory matches complex agentic memory on popular benchmarks, but no design wins everywhere.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.22179&lt;br/&gt;👨🏽‍💻 https://github.com/Jingyu6/rag-in-a-trenchcoat&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2122960457145471318</guid>
-      <pubDate>Wed, 18 Nov 2026 07:49:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,25 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 02:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:59:22 +0000</lastBuildDate>
+    <item>
+      <title>今年上半年，有至少五个在top 20 CS&amp;math AP跟我聊，从erdos和firstproof开始，抢着做</title>
+      <link>https://x.com/lidangzzz/status/2125439175415517512</link>
+      <description>&lt;p&gt;今年上半年，有至少五个在top 20 CS&amp;amp;math AP跟我聊，从erdos和firstproof开始，抢着做点手头能做的工作，抢在OpenAI和Google之前完成（当时althesia还是领跑者），我还在尝试帮他们搭建lemma DAG。&lt;br/&gt;&lt;br/&gt;然后他们刚拍脑袋准备下手，或者刚准备了一个todo list，OpenAI已经瞬间把所有橙色传说全抽到手了。&lt;br/&gt;&lt;br/&gt;这一年给我们几个人最大的一个教训，就是在已知OpenAI内部有无限抽卡资源的前提下，还在自己掏钱竞争抽卡，都是在浪费时间。&lt;br/&gt;&lt;br/&gt;另一个教训是，整个2026年，留给非OpenAI的这些人，唯一的一个大机会，就是发挥自己聪明才智去用agent爆破已有猜想，这是唯一一个OpenAI不太能涉足的领域。&lt;br/&gt;&lt;br/&gt;因为OpenAI意识到了自己目前最大的优势是用frontier model去大规模搜索lean4 project证明，这是一个可以批量产出in parallel的工作，而找反例爆破conjecture恰恰是普通人能在2026年上半年还能发挥出最后一点小机灵的机会。&lt;br/&gt;&lt;br/&gt;OK，以上就是我的一点点观察。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今年上半年，有至少五个在top 20 CS&amp;amp;math AP跟我聊，从erdos和firstproof开始，抢着做点手头能做的工作，抢在OpenAI和Google之前完成（当时althesia还是领跑者），我还在尝试帮他们搭建lemma DAG。&lt;br/&gt;&lt;br/&gt;然后他们刚拍脑袋准备下手，或者刚准备了一个todo list，OpenAI已经瞬间把所有橙色传说全抽到手了。&lt;br/&gt;&lt;br/&gt;这一年给我们几个人最大的一个教训，就是在已知OpenAI内部有无限抽卡资源的前提下，还在自己掏钱竞争抽卡，都是在浪费时间。&lt;br/&gt;&lt;br/&gt;另一个教训是，整个2026年，留给非OpenAI的这些人，唯一的一个大机会，就是发挥自己聪明才智去用agent爆破已有猜想，这是唯一一个OpenAI不太能涉足的领域。&lt;br/&gt;&lt;br/&gt;因为OpenAI意识到了自己目前最大的优势是用frontier model去大规模搜索lean4 project证明，这是一个可以批量产出in parallel的工作，而找反例爆破conjecture恰恰是普通人能在2026年上半年还能发挥出最后一点小机灵的机会。&lt;br/&gt;&lt;br/&gt;OK，以上就是我的一点点观察。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125439175415517512</guid>
+      <pubDate>Wed, 25 Nov 2026 03:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了</title>
+      <link>https://x.com/lidangzzz/status/2125429361847230701</link>
+      <description>&lt;p&gt;牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/rrwilliams/status/2125393802554757618"&gt;@rrwilliams&lt;/a&gt;&lt;/p&gt;&lt;p&gt;显然施特拉森是对的：矩阵乘法指数是（精确地）2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;p&gt;Apparently Strassen was right: the matrix mult exponent is (exactly) 2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/rrwilliams/status/2125393802554757618"&gt;@rrwilliams&lt;/a&gt;&lt;/p&gt;&lt;p&gt;显然施特拉森是对的：矩阵乘法指数是（精确地）2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;p&gt;Apparently Strassen was right: the matrix mult exponent is (exactly) 2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125429361847230701</guid>
+      <pubDate>Wed, 25 Nov 2026 03:20:23 +0000</pubDate>
+    </item>
     <item>
       <title>只能证明你丝毫没有任何品味，上海AI Lab所有工作全部加起来，还不如我随手写的一个go</title>
       <link>https://x.com/lidangzzz/status/2125418160719311039</link>
@@ -134,22 +152,6 @@
       <content:encoded>&lt;p&gt;紧急救火接任的上海市委书记可能是：&lt;br/&gt;1. 正部级周祖翼、许昆林、信长星、赵一德、陈刚中的一个人&lt;br/&gt;2. 朱忠明接任&lt;br/&gt;3. 政治局委员石泰峰、刘国中、张国清、陈一新、李干杰、陈敏尔、尹力、黄坤明、何立峰之一临时兼任，直到二十一大&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125222036750348702</guid>
       <pubDate>Tue, 24 Nov 2026 13:36:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>RT: 今天看到了一堆 tradingview 的替代品，我的评价是，打败 tradingview 的一定不是和它</title>
-      <link>https://x.com/fiapp_pro/status/2125166589788229985</link>
-      <description>&lt;p&gt;今天看到了一堆 tradingview 的替代品，我的评价是，打败 tradingview 的一定不是和它长得一样的兄弟。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;今天看到了一堆 tradingview 的替代品，我的评价是，打败 tradingview 的一定不是和它长得一样的兄弟。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fiapp_pro/status/2125166589788229985</guid>
-      <pubDate>Tue, 24 Nov 2026 09:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>陈吉宁这件事基本告一段落。 现在当务之急是，二十一大之前，上海不会一直空着，可能</title>
-      <link>https://x.com/lidangzzz/status/2125210029179515204</link>
-      <description>&lt;p&gt;陈吉宁这件事基本告一段落。&lt;br/&gt;&lt;br/&gt;现在当务之急是，二十一大之前，上海不会一直空着，可能直接让朱忠明兼任书记，也可能会紧急调任一个愿意并且已经长期培养考核的干部，来担任上海市委书记，这个人可能在下届入局并且担任重要职务。&lt;br/&gt;&lt;br/&gt;现在的问题是：1. 朱忠明会任代书记，还是直接升为书记；&lt;br/&gt;&lt;br/&gt;2. 如果不是朱忠明（因为年龄和资历原因），那么调任上海市委书记的人将会是谁；&lt;br/&gt;&lt;br/&gt;3. 有没有可能上海市委书记一直空缺到二十一大。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;陈吉宁这件事基本告一段落。&lt;br/&gt;&lt;br/&gt;现在当务之急是，二十一大之前，上海不会一直空着，可能直接让朱忠明兼任书记，也可能会紧急调任一个愿意并且已经长期培养考核的干部，来担任上海市委书记，这个人可能在下届入局并且担任重要职务。&lt;br/&gt;&lt;br/&gt;现在的问题是：1. 朱忠明会任代书记，还是直接升为书记；&lt;br/&gt;&lt;br/&gt;2. 如果不是朱忠明（因为年龄和资历原因），那么调任上海市委书记的人将会是谁；&lt;br/&gt;&lt;br/&gt;3. 有没有可能上海市委书记一直空缺到二十一大。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125210029179515204</guid>
-      <pubDate>Tue, 24 Nov 2026 12:48:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
