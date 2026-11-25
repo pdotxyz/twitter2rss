@@ -6,7 +6,17 @@
     <description>Posts from x.com/fxtrader</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 00:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:44:21 +0000</lastBuildDate>
+    <item>
+      <title>这也能刻舟求剑？</title>
+      <link>https://x.com/fxtrader/status/2125405193978454157</link>
+      <description>&lt;p&gt;这也能刻舟求剑？&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX70qzzaEAAPhJL.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;这也能刻舟求剑？&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX70qzzaEAAPhJL.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fxtrader/status/2125405193978454157</guid>
+      <pubDate>Wed, 25 Nov 2026 01:44:21 +0000</pubDate>
+    </item>
     <item>
       <title>综合WIRED等传媒报道，黄仁勋在重返英伟达后的首次全员大会上，对近期发生的事作出一</title>
       <link>https://x.com/fxtrader/status/2125389574247686529</link>
@@ -174,18 +184,6 @@
       <content:encoded>&lt;p&gt;#数据 工信部：截至9月底，中国智能算力规模达2592 EFLOPS，同比增长146%，&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fxtrader/status/2125060191049978314</guid>
       <pubDate>Tue, 24 Nov 2026 02:53:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>黄仁勋的回归，又多了一层中美竞争叙事。 路透引述消息人士的话报道，特朗普与副总统</title>
-      <link>https://x.com/fxtrader/status/2125058434446082400</link>
-      <description>&lt;p&gt;黄仁勋的回归，又多了一层中美竞争叙事。&lt;br/&gt;&lt;br/&gt;路透引述消息人士的话报道，特朗普与副总统万斯在上周末亲自干预了黄仁勋重返英伟达CEO职位的决定，因为他们确信只有黄仁勋才能保护美国制造的开源AI模型。&lt;br/&gt;&lt;br/&gt;上周，美国政府正在考虑要求美国公司公开披露其对中国AI模型的使用情况 。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX24cC1bYAA3zzK.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/fxtrader/status/2124887837359419715"&gt;@fxtrader&lt;/a&gt;&lt;/p&gt;&lt;p&gt;特朗普：副总统万斯参与了英伟达的相关决策。&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;黄仁勋的回归，又多了一层中美竞争叙事。&lt;br/&gt;&lt;br/&gt;路透引述消息人士的话报道，特朗普与副总统万斯在上周末亲自干预了黄仁勋重返英伟达CEO职位的决定，因为他们确信只有黄仁勋才能保护美国制造的开源AI模型。&lt;br/&gt;&lt;br/&gt;上周，美国政府正在考虑要求美国公司公开披露其对中国AI模型的使用情况 。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX24cC1bYAA3zzK.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/fxtrader/status/2124887837359419715"&gt;@fxtrader&lt;/a&gt;&lt;/p&gt;&lt;p&gt;特朗普：副总统万斯参与了英伟达的相关决策。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fxtrader/status/2125058434446082400</guid>
-      <pubDate>Tue, 24 Nov 2026 02:46:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
