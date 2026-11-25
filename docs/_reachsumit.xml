@@ -6,7 +6,87 @@
     <description>Posts from x.com/_reachsumit</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 03:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:58:49 +0000</lastBuildDate>
+    <item>
+      <title>代理系统需要多次运行评估：已部署企业 RAG 系统中检索和响应可变性的研究 Adobe 发现</title>
+      <link>https://x.com/_reachsumit/status/2125665528119509415</link>
+      <description>&lt;p&gt;代理系统需要多次运行评估：已部署企业 RAG 系统中检索和响应可变性的研究&lt;br/&gt;&lt;br/&gt;Adobe 发现单次运行测试可以隐藏代理 RAG 中的可靠性问题，重复运行在检索时最常出现分歧。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31266&lt;/p&gt;&lt;p&gt;Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System&lt;br/&gt;&lt;br/&gt;Adobe finds single-run tests can hide reliability issues in agentic RAG, with repeated runs diverging most often at retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31266&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;代理系统需要多次运行评估：已部署企业 RAG 系统中检索和响应可变性的研究&lt;br/&gt;&lt;br/&gt;Adobe 发现单次运行测试可以隐藏代理 RAG 中的可靠性问题，重复运行在检索时最常出现分歧。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31266&lt;/p&gt;&lt;p&gt;Agentic Systems Need Multi-Run Evaluation: A Study of Retrieval and Response Variability in a Deployed Enterprise RAG System&lt;br/&gt;&lt;br/&gt;Adobe finds single-run tests can hide reliability issues in agentic RAG, with repeated runs diverging most often at retrieval.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31266&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125665528119509415</guid>
+      <pubDate>Wed, 25 Nov 2026 18:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>ModernELECTRA：用于分类和嵌入的紧凑型编码器的带有边界窗口重建的替换令牌检测 @bio</title>
+      <link>https://x.com/_reachsumit/status/2125665433269535041</link>
+      <description>&lt;p&gt;ModernELECTRA：用于分类和嵌入的紧凑型编码器的带有边界窗口重建的替换令牌检测&lt;br/&gt;&lt;br/&gt;@bioMikeee 等人。向 ELECTRA 添加令牌重建，以构建可分类和嵌入的小型编码器。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31495&lt;br/&gt;🤗 https://huggingface.co/knowledgator/EdgeCoder-31M&lt;/p&gt;&lt;p&gt;ModernELECTRA: Replaced-Token Detection with Boundary-Window Reconstruction for Compact Encoders that Classify and Embed&lt;br/&gt;&lt;br/&gt;@bioMikeee et al. add token reconstruction to ELECTRA to build small encoders that classify and embed.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31495&lt;br/&gt;🤗 https://huggingface.co/knowledgator/EdgeCoder-31M&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ModernELECTRA：用于分类和嵌入的紧凑型编码器的带有边界窗口重建的替换令牌检测&lt;br/&gt;&lt;br/&gt;@bioMikeee 等人。向 ELECTRA 添加令牌重建，以构建可分类和嵌入的小型编码器。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31495&lt;br/&gt;🤗 https://huggingface.co/knowledgator/EdgeCoder-31M&lt;/p&gt;&lt;p&gt;ModernELECTRA: Replaced-Token Detection with Boundary-Window Reconstruction for Compact Encoders that Classify and Embed&lt;br/&gt;&lt;br/&gt;@bioMikeee et al. add token reconstruction to ELECTRA to build small encoders that classify and embed.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31495&lt;br/&gt;🤗 https://huggingface.co/knowledgator/EdgeCoder-31M&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125665433269535041</guid>
+      <pubDate>Wed, 25 Nov 2026 18:58:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>BRAG：贝叶斯检索增强生成 Apple 引入了一种贝叶斯方法，该方法可以从使用情况中了解</title>
+      <link>https://x.com/_reachsumit/status/2125665150837694590</link>
+      <description>&lt;p&gt;BRAG：贝叶斯检索增强生成&lt;br/&gt;&lt;br/&gt;Apple 引入了一种贝叶斯方法，该方法可以从使用情况中了解哪些内存块很重要以及它们回答哪些查询，从而帮助 RAG 检索替换旧事实的新事实。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31656&lt;/p&gt;&lt;p&gt;BRAG: Bayesian Retrieval Augmented Generation&lt;br/&gt;&lt;br/&gt;Apple introduces a Bayesian method that learns from usage which memory chunks matter and what queries they answer, helping RAG retrieve new facts that replace old ones.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31656&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BRAG：贝叶斯检索增强生成&lt;br/&gt;&lt;br/&gt;Apple 引入了一种贝叶斯方法，该方法可以从使用情况中了解哪些内存块很重要以及它们回答哪些查询，从而帮助 RAG 检索替换旧事实的新事实。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31656&lt;/p&gt;&lt;p&gt;BRAG: Bayesian Retrieval Augmented Generation&lt;br/&gt;&lt;br/&gt;Apple introduces a Bayesian method that learns from usage which memory chunks matter and what queries they answer, helping RAG retrieve new facts that replace old ones.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31656&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125665150837694590</guid>
+      <pubDate>Wed, 25 Nov 2026 18:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>推荐系统多个基础模型的用户自适应融合 通过加权每个用户的分数来融合文本和视觉基础</title>
+      <link>https://x.com/_reachsumit/status/2125665033153892564</link>
+      <description>&lt;p&gt;推荐系统多个基础模型的用户自适应融合&lt;br/&gt;&lt;br/&gt;通过加权每个用户的分数来融合文本和视觉基础模型以进行推荐，因为不同的模型可以帮助不同的用户。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31951&lt;br/&gt;👨🏽‍💻 https://github.com/kswoo97/UFFO&lt;/p&gt;&lt;p&gt;User-Adaptive Fusion of Multiple Foundation Models for Recommender Systems&lt;br/&gt;&lt;br/&gt;Fuses text and vision foundation models for recommendation by weighting their scores per user, since different models help different users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31951&lt;br/&gt;👨🏽‍💻 https://github.com/kswoo97/UFFO&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;推荐系统多个基础模型的用户自适应融合&lt;br/&gt;&lt;br/&gt;通过加权每个用户的分数来融合文本和视觉基础模型以进行推荐，因为不同的模型可以帮助不同的用户。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31951&lt;br/&gt;👨🏽‍💻 https://github.com/kswoo97/UFFO&lt;/p&gt;&lt;p&gt;User-Adaptive Fusion of Multiple Foundation Models for Recommender Systems&lt;br/&gt;&lt;br/&gt;Fuses text and vision foundation models for recommendation by weighting their scores per user, since different models help different users.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31951&lt;br/&gt;👨🏽‍💻 https://github.com/kswoo97/UFFO&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125665033153892564</guid>
+      <pubDate>Wed, 25 Nov 2026 18:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>OmniEVIE：用于多模态检索的证据向量知情嵌入 腾讯提出了一种多模式检索器，它存储每</title>
+      <link>https://x.com/_reachsumit/status/2125664935816675677</link>
+      <description>&lt;p&gt;OmniEVIE：用于多模态检索的证据向量知情嵌入&lt;br/&gt;&lt;br/&gt;腾讯提出了一种多模式检索器，它存储每个项目的一小组压缩向量，并定位匹配的页面区域或视频片段。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32203&lt;br/&gt;🤗 https://huggingface.co/tencent/OmniEVIE-4B&lt;/p&gt;&lt;p&gt;OmniEVIE: Evidence-Vector-Informed Embedding for Multi-modal Retrieval&lt;br/&gt;&lt;br/&gt;Tencent presents a multimodal retriever that stores a small set of compressed vectors per item and locates matching page regions or video segments.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32203&lt;br/&gt;🤗 https://huggingface.co/tencent/OmniEVIE-4B&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;OmniEVIE：用于多模态检索的证据向量知情嵌入&lt;br/&gt;&lt;br/&gt;腾讯提出了一种多模式检索器，它存储每个项目的一小组压缩向量，并定位匹配的页面区域或视频片段。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32203&lt;br/&gt;🤗 https://huggingface.co/tencent/OmniEVIE-4B&lt;/p&gt;&lt;p&gt;OmniEVIE: Evidence-Vector-Informed Embedding for Multi-modal Retrieval&lt;br/&gt;&lt;br/&gt;Tencent presents a multimodal retriever that stores a small set of compressed vectors per item and locates matching page regions or video segments.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32203&lt;br/&gt;🤗 https://huggingface.co/tencent/OmniEVIE-4B&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125664935816675677</guid>
+      <pubDate>Wed, 25 Nov 2026 18:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>查看答案，学习嵌入：事后学习通用多模态嵌入 训练老师看到正确的匹配，然后将其提炼</title>
+      <link>https://x.com/_reachsumit/status/2125664631641502142</link>
+      <description>&lt;p&gt;查看答案，学习嵌入：事后学习通用多模态嵌入&lt;br/&gt;&lt;br/&gt;训练老师看到正确的匹配，然后将其提炼成不需要此类推理暗示的多模态嵌入器。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32439&lt;br/&gt;👨🏽‍💻 https://yoonkicho.github.io/HEME&lt;/p&gt;&lt;p&gt;See the Answer, Learn to Embed: Learning Universal Multimodal Embeddings from Hindsight&lt;br/&gt;&lt;br/&gt;Trains a teacher that sees the correct match, then distills it into a multimodal embedder that needs no such hint at inference.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32439&lt;br/&gt;👨🏽‍💻 https://yoonkicho.github.io/HEME&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;查看答案，学习嵌入：事后学习通用多模态嵌入&lt;br/&gt;&lt;br/&gt;训练老师看到正确的匹配，然后将其提炼成不需要此类推理暗示的多模态嵌入器。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32439&lt;br/&gt;👨🏽‍💻 https://yoonkicho.github.io/HEME&lt;/p&gt;&lt;p&gt;See the Answer, Learn to Embed: Learning Universal Multimodal Embeddings from Hindsight&lt;br/&gt;&lt;br/&gt;Trains a teacher that sees the correct match, then distills it into a multimodal embedder that needs no such hint at inference.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32439&lt;br/&gt;👨🏽‍💻 https://yoonkicho.github.io/HEME&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125664631641502142</guid>
+      <pubDate>Wed, 25 Nov 2026 18:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>LazUnirec：多场景行业推荐统一检索排序 阿里巴巴将检索和排名统一在一个 Transformer</title>
+      <link>https://x.com/_reachsumit/status/2125664365777244602</link>
+      <description>&lt;p&gt;LazUnirec：多场景行业推荐统一检索排序&lt;br/&gt;&lt;br/&gt;阿里巴巴将检索和排名统一在一个 Transformer 中，添加特定于任务的部分，以减少两者在不同方向拉动共享权重时的冲突。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32590&lt;/p&gt;&lt;p&gt;LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation&lt;br/&gt;&lt;br/&gt;Alibaba unifies retrieval and ranking in one Transformer, adding task-specific parts to reduce clashes when the two pull shared weights in different directions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32590&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;LazUnirec：多场景行业推荐统一检索排序&lt;br/&gt;&lt;br/&gt;阿里巴巴将检索和排名统一在一个 Transformer 中，添加特定于任务的部分，以减少两者在不同方向拉动共享权重时的冲突。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32590&lt;/p&gt;&lt;p&gt;LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation&lt;br/&gt;&lt;br/&gt;Alibaba unifies retrieval and ranking in one Transformer, adding task-specific parts to reduce clashes when the two pull shared weights in different directions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32590&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125664365777244602</guid>
+      <pubDate>Wed, 25 Nov 2026 18:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于语义 ID 的生成推荐的推测解码 Etsy 推出了一种解码器，它使用草稿候选来查找和验</title>
+      <link>https://x.com/_reachsumit/status/2125664260080767177</link>
+      <description>&lt;p&gt;基于语义 ID 的生成推荐的推测解码&lt;br/&gt;&lt;br/&gt;Etsy 推出了一种解码器，它使用草稿候选来查找和验证模型的准确前 K 个项目，并且比波束搜索需要更少的模型调用或更少的内存。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32855&lt;/p&gt;&lt;p&gt;Speculative Decoding for Semantic-ID-Based Generative Recommendations&lt;br/&gt;&lt;br/&gt;Etsy introduces a decoder that uses draft candidates to find and certify a model&amp;#x27;s exact top-K items, and can need fewer model calls or less memory than beam search.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32855&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;基于语义 ID 的生成推荐的推测解码&lt;br/&gt;&lt;br/&gt;Etsy 推出了一种解码器，它使用草稿候选来查找和验证模型的准确前 K 个项目，并且比波束搜索需要更少的模型调用或更少的内存。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32855&lt;/p&gt;&lt;p&gt;Speculative Decoding for Semantic-ID-Based Generative Recommendations&lt;br/&gt;&lt;br/&gt;Etsy introduces a decoder that uses draft candidates to find and certify a model&amp;#x27;s exact top-K items, and can need fewer model calls or less memory than beam search.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32855&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125664260080767177</guid>
+      <pubDate>Wed, 25 Nov 2026 18:53:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOARS：系统一辅助代理搜索重新排名 @amin_bigdelii 等人。引入一种免训练方法，使用</title>
+      <link>https://x.com/_reachsumit/status/2125664109815595183</link>
+      <description>&lt;p&gt;SOARS：系统一辅助代理搜索重新排名&lt;br/&gt;&lt;br/&gt;@amin_bigdelii 等人。引入一种免训练方法，使用快速的 System One 模型在每次代理搜索时对结果进行重新排序，从而通过更少的搜索来提高准确性。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32917&lt;/p&gt;&lt;p&gt;SOARS: System One Assisted Reranking for Agentic Search&lt;br/&gt;&lt;br/&gt;@amin_bigdelii et al. introduce a training-free method using a fast System One model to rerank results each time an agent searches, improving accuracy with fewer searches.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32917&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;SOARS：系统一辅助代理搜索重新排名&lt;br/&gt;&lt;br/&gt;@amin_bigdelii 等人。引入一种免训练方法，使用快速的 System One 模型在每次代理搜索时对结果进行重新排序，从而通过更少的搜索来提高准确性。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32917&lt;/p&gt;&lt;p&gt;SOARS: System One Assisted Reranking for Agentic Search&lt;br/&gt;&lt;br/&gt;@amin_bigdelii et al. introduce a training-free method using a fast System One model to rerank results each time an agent searches, improving accuracy with fewer searches.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.32917&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125664109815595183</guid>
+      <pubDate>Wed, 25 Nov 2026 18:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAG-Mem-1.0技术报告 引入了一个聊天记忆框架，保留原始对话，不需要法学硕士来建立记</title>
+      <link>https://x.com/_reachsumit/status/2125663938868371750</link>
+      <description>&lt;p&gt;SAG-Mem-1.0技术报告&lt;br/&gt;&lt;br/&gt;引入了一个聊天记忆框架，保留原始对话，不需要法学硕士来建立记忆，并使用有用证据中的术语再次搜索相关事实。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33124&lt;br/&gt;👨🏽‍💻 https://github.com/Zleap-AI/SAG-Mem-Benchmark&lt;/p&gt;&lt;p&gt;SAG-Mem-1.0 Technical Report&lt;br/&gt;&lt;br/&gt;Introduces a chat memory framework that keeps the original dialogue, needs no LLM to build memory, and uses terms from useful evidence to search again for related facts.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33124&lt;br/&gt;👨🏽‍💻 https://github.com/Zleap-AI/SAG-Mem-Benchmark&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;SAG-Mem-1.0技术报告&lt;br/&gt;&lt;br/&gt;引入了一个聊天记忆框架，保留原始对话，不需要法学硕士来建立记忆，并使用有用证据中的术语再次搜索相关事实。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33124&lt;br/&gt;👨🏽‍💻 https://github.com/Zleap-AI/SAG-Mem-Benchmark&lt;/p&gt;&lt;p&gt;SAG-Mem-1.0 Technical Report&lt;br/&gt;&lt;br/&gt;Introduces a chat memory framework that keeps the original dialogue, needs no LLM to build memory, and uses terms from useful evidence to search again for related facts.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33124&lt;br/&gt;👨🏽‍💻 https://github.com/Zleap-AI/SAG-Mem-Benchmark&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125663938868371750</guid>
+      <pubDate>Wed, 25 Nov 2026 18:52:30 +0000</pubDate>
+    </item>
     <item>
       <title>搜索代理可以纠正自己的错误吗？评估检索、证据交付和答案完成 测试搜索代理为何保留</title>
       <link>https://x.com/_reachsumit/status/2125428090172268731</link>
@@ -88,86 +168,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXywcS5bQAEhfBO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/_reachsumit/status/2124767134920372640</guid>
       <pubDate>Mon, 23 Nov 2026 07:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>从头开始搜索：语言模型的搜索本机预训练 建议将网络搜索查询和检索结果添加到普通预</title>
-      <link>https://x.com/_reachsumit/status/2124766776265417176</link>
-      <description>&lt;p&gt;从头开始搜索：语言模型的搜索本机预训练&lt;br/&gt;&lt;br/&gt;建议将网络搜索查询和检索结果添加到普通预训练文本中，以便模型从一开始就学会搜索。经过监督微调后，这种好处仍然存在。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;&lt;p&gt;Search From the Start: Search-Native Pretraining for Language Models&lt;br/&gt;&lt;br/&gt;Proposes adding web search queries and retrieved results to ordinary pretraining text so models learn to search from the start. The benefit persists after supervised fine-tuning.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;从头开始搜索：语言模型的搜索本机预训练&lt;br/&gt;&lt;br/&gt;建议将网络搜索查询和检索结果添加到普通预训练文本中，以便模型从一开始就学会搜索。经过监督微调后，这种好处仍然存在。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;&lt;p&gt;Search From the Start: Search-Native Pretraining for Language Models&lt;br/&gt;&lt;br/&gt;Proposes adding web search queries and retrieved results to ordinary pretraining text so models learn to search from the start. The benefit persists after supervised fine-tuning.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26809&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766776265417176</guid>
-      <pubDate>Mon, 23 Nov 2026 07:27:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Search-RSI：沿着多模式代理的能力前沿扩展搜索世界 为搜索代理引入了一个自我改进循</title>
-      <link>https://x.com/_reachsumit/status/2124766683177046256</link>
-      <description>&lt;p&gt;Search-RSI：沿着多模式代理的能力前沿扩展搜索世界&lt;br/&gt;&lt;br/&gt;为搜索代理引入了一个自我改进循环，该循环添加了带有所需证据的培训任务，因此正确的搜索不会因缺少证据而受到惩罚。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;&lt;p&gt;Search-RSI: Expanding Search Worlds Along Multimodal Agents’ Capability Frontier&lt;br/&gt;&lt;br/&gt;Introduces a self-improvement loop for search agents that adds training tasks with the evidence they need, so correct searches aren&amp;#x27;t penalized for missing evidence.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Search-RSI：沿着多模式代理的能力前沿扩展搜索世界&lt;br/&gt;&lt;br/&gt;为搜索代理引入了一个自我改进循环，该循环添加了带有所需证据的培训任务，因此正确的搜索不会因缺少证据而受到惩罚。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;&lt;p&gt;Search-RSI: Expanding Search Worlds Along Multimodal Agents’ Capability Frontier&lt;br/&gt;&lt;br/&gt;Introduces a self-improvement loop for search agents that adds training tasks with the evidence they need, so correct searches aren&amp;#x27;t penalized for missing evidence.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27780&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766683177046256</guid>
-      <pubDate>Mon, 23 Nov 2026 07:27:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>用于多模式检索和生成的深度链接剩余令牌 元通过轻量级残差循环将可学习的标记链接起</title>
-      <link>https://x.com/_reachsumit/status/2124766590243835978</link>
-      <description>&lt;p&gt;用于多模式检索和生成的深度链接剩余令牌&lt;br/&gt;&lt;br/&gt;元通过轻量级残差循环将可学习的标记链接起来，因此每个标记都可以在一次前向传递中捕获早期标记错过的内容。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;&lt;p&gt;Depth-Linked Residual Tokens for Multimodal Retrieval and Generation&lt;br/&gt;&lt;br/&gt;Meta links learnable tokens through a lightweight residual recurrence so each token captures what earlier ones missed, all within a single forward pass.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;用于多模式检索和生成的深度链接剩余令牌&lt;br/&gt;&lt;br/&gt;元通过轻量级残差循环将可学习的标记链接起来，因此每个标记都可以在一次前向传递中捕获早期标记错过的内容。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;&lt;p&gt;Depth-Linked Residual Tokens for Multimodal Retrieval and Generation&lt;br/&gt;&lt;br/&gt;Meta links learnable tokens through a lightweight residual recurrence so each token captures what earlier ones missed, all within a single forward pass.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26752&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766590243835978</guid>
-      <pubDate>Mon, 23 Nov 2026 07:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ERA：嵌入、路由、适应冷启动跨模型潜在检索 谷歌推出了 ERA，它允许不同的嵌入模型查</title>
-      <link>https://x.com/_reachsumit/status/2124766454600044630</link>
-      <description>&lt;p&gt;ERA：嵌入、路由、适应冷启动跨模型潜在检索&lt;br/&gt;&lt;br/&gt;谷歌推出了 ERA，它允许不同的嵌入模型查询现有的向量索引，而无需重新嵌入语料库，并将最难的查询路由到原始模型。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;&lt;p&gt;ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval&lt;br/&gt;&lt;br/&gt;Google presents ERA, which lets a different embedding model query an existing vector index without re-embedding the corpus, and routes the hardest queries to the original model.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;ERA：嵌入、路由、适应冷启动跨模型潜在检索&lt;br/&gt;&lt;br/&gt;谷歌推出了 ERA，它允许不同的嵌入模型查询现有的向量索引，而无需重新嵌入语料库，并将最难的查询路由到原始模型。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;&lt;p&gt;ERA: Embed, Route, Adapt for Cold-Start Cross-Model Latent Retrieval&lt;br/&gt;&lt;br/&gt;Google presents ERA, which lets a different embedding model query an existing vector index without re-embedding the corpus, and routes the hardest queries to the original model.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26919&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766454600044630</guid>
-      <pubDate>Mon, 23 Nov 2026 07:26:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>LongCat Recall 稀疏注意力：共同设计长上下文推理的关键组织和检索 美团引入了一种稀</title>
-      <link>https://x.com/_reachsumit/status/2124766305219903983</link>
-      <description>&lt;p&gt;LongCat Recall 稀疏注意力：共同设计长上下文推理的关键组织和检索&lt;br/&gt;&lt;br/&gt;美团引入了一种稀疏注意力方法，该方法使用随着令牌到达而更新的分页索引来加速长上下文 LLM 推理。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;&lt;p&gt;LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference&lt;br/&gt;&lt;br/&gt;Meituan introduces a sparse attention method that speeds up long-context LLM inference using a paged index that updates as tokens arrive.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;LongCat Recall 稀疏注意力：共同设计长上下文推理的关键组织和检索&lt;br/&gt;&lt;br/&gt;美团引入了一种稀疏注意力方法，该方法使用随着令牌到达而更新的分页索引来加速长上下文 LLM 推理。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;&lt;p&gt;LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference&lt;br/&gt;&lt;br/&gt;Meituan introduces a sparse attention method that speeds up long-context LLM inference using a paged index that updates as tokens arrive.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27233&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766305219903983</guid>
-      <pubDate>Mon, 23 Nov 2026 07:25:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>工业排名中产品与比率特征交互的深度跨部门网络 VK 引入了一个生产排名器，它直接学习</title>
-      <link>https://x.com/_reachsumit/status/2124766110755234016</link>
-      <description>&lt;p&gt;工业排名中产品与比率特征交互的深度跨部门网络&lt;br/&gt;&lt;br/&gt;VK 引入了一个生产排名器，它直接学习特征比率并删除手工设计的比率特征。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;&lt;p&gt;Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking&lt;br/&gt;&lt;br/&gt;VK introduces a production ranker which learns feature ratios directly and removes hand-engineered ratio features.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;工业排名中产品与比率特征交互的深度跨部门网络&lt;br/&gt;&lt;br/&gt;VK 引入了一个生产排名器，它直接学习特征比率并删除手工设计的比率特征。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;&lt;p&gt;Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking&lt;br/&gt;&lt;br/&gt;VK introduces a production ranker which learns feature ratios directly and removes hand-engineered ratio features.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.27514&lt;br/&gt;👨🏽‍💻 https://github.com/rw404/DCDN&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124766110755234016</guid>
-      <pubDate>Mon, 23 Nov 2026 07:24:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>大规模推荐模型的智能嵌入剪枝 Meta 使用特征重要性来决定大型推荐模型中每个嵌入表的</title>
-      <link>https://x.com/_reachsumit/status/2123657434376135092</link>
-      <description>&lt;p&gt;大规模推荐模型的智能嵌入剪枝&lt;br/&gt;&lt;br/&gt;Meta 使用特征重要性来决定大型推荐模型中每个嵌入表的修剪量，与基于大小的修剪相比，在相同或更好的精度下可以节省更多的内存。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;&lt;p&gt;Intelligent Embedding Pruning for Large-Scale Recommendation Models&lt;br/&gt;&lt;br/&gt;Meta uses feature importance to decide how much to prune each embedding table in large recommendation models, cutting more memory than size-based pruning at equal or better accuracy.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;大规模推荐模型的智能嵌入剪枝&lt;br/&gt;&lt;br/&gt;Meta 使用特征重要性来决定大型推荐模型中每个嵌入表的修剪量，与基于大小的修剪相比，在相同或更好的精度下可以节省更多的内存。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;&lt;p&gt;Intelligent Embedding Pruning for Large-Scale Recommendation Models&lt;br/&gt;&lt;br/&gt;Meta uses feature importance to decide how much to prune each embedding table in large recommendation models, cutting more memory than size-based pruning at equal or better accuracy.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25288&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657434376135092</guid>
-      <pubDate>Fri, 20 Nov 2026 05:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>LQ-Rec：顺序推荐的后期量化 提出了一种推荐器，将项目存储为语义 ID，但将编码器保持</title>
-      <link>https://x.com/_reachsumit/status/2123657292285681830</link>
-      <description>&lt;p&gt;LQ-Rec：顺序推荐的后期量化&lt;br/&gt;&lt;br/&gt;提出了一种推荐器，将项目存储为语义 ID，但将编码器保持在连续空间中，因此较长的 ID 可以提高排名，并且一个模型支持随时压缩。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;&lt;p&gt;LQ-Rec: Late Quantization for Sequential Recommendation&lt;br/&gt;&lt;br/&gt;Proposes a recommender that stores items as semantic IDs but keeps the encoder in continuous space, so longer IDs improve ranking and one model supports anytime compression.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;LQ-Rec：顺序推荐的后期量化&lt;br/&gt;&lt;br/&gt;提出了一种推荐器，将项目存储为语义 ID，但将编码器保持在连续空间中，因此较长的 ID 可以提高排名，并且一个模型支持随时压缩。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;&lt;p&gt;LQ-Rec: Late Quantization for Sequential Recommendation&lt;br/&gt;&lt;br/&gt;Proposes a recommender that stores items as semantic IDs but keeps the encoder in continuous space, so longer IDs improve ranking and one model supports anytime compression.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25256&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657292285681830</guid>
-      <pubDate>Fri, 20 Nov 2026 05:58:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutoRAGBench：LLM 代理自动化 RAG 系统开发的基准 引入了一个基准测试，用于测试 LLM</title>
-      <link>https://x.com/_reachsumit/status/2123657153596772768</link>
-      <description>&lt;p&gt;AutoRAGBench：LLM 代理自动化 RAG 系统开发的基准&lt;br/&gt;&lt;br/&gt;引入了一个基准测试，用于测试 LLM 代理从头开始构建 RAG 系统并通过九个任务的迭代来改进它们的能力。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;&lt;p&gt;AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development&lt;br/&gt;&lt;br/&gt;Introduces a benchmark that tests how well LLM agents can build RAG systems from scratch and improve them through iteration across nine tasks.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;AutoRAGBench：LLM 代理自动化 RAG 系统开发的基准&lt;br/&gt;&lt;br/&gt;引入了一个基准测试，用于测试 LLM 代理从头开始构建 RAG 系统并通过九个任务的迭代来改进它们的能力。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;&lt;p&gt;AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development&lt;br/&gt;&lt;br/&gt;Introduces a benchmark that tests how well LLM agents can build RAG systems from scratch and improve them through iteration across nine tasks.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.25582&lt;br/&gt;👨🏽‍💻 https://github.com/ZhanGHanG9991/AutoRAGBench&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657153596772768</guid>
-      <pubDate>Fri, 20 Nov 2026 05:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>适用于舰队规模排名模型的成本感知代理特征优化系统 Meta 提出了一个 LLM 代理系统，</title>
-      <link>https://x.com/_reachsumit/status/2123657020238897532</link>
-      <description>&lt;p&gt;适用于舰队规模排名模型的成本感知代理特征优化系统&lt;br/&gt;&lt;br/&gt;Meta 提出了一个 LLM 代理系统，该系统可以为整个广告排名模型选择功能，同时将服务成本和共享功能管道成本保持在预算范围内。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;&lt;p&gt;Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models&lt;br/&gt;&lt;br/&gt;Meta presents an LLM agent system that selects features for a whole fleet of ads ranking models while keeping serving cost and shared feature pipeline cost within budget.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;适用于舰队规模排名模型的成本感知代理特征优化系统&lt;br/&gt;&lt;br/&gt;Meta 提出了一个 LLM 代理系统，该系统可以为整个广告排名模型选择功能，同时将服务成本和共享功能管道成本保持在预算范围内。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;&lt;p&gt;Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models&lt;br/&gt;&lt;br/&gt;Meta presents an LLM agent system that selects features for a whole fleet of ads ranking models while keeping serving cost and shared feature pipeline cost within budget.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.26531&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2123657020238897532</guid>
-      <pubDate>Fri, 20 Nov 2026 05:57:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
