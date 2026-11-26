@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 07:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:19:45 +0000</lastBuildDate>
+    <item>
+      <title>今天 Antigravity 重置后马上用 Orchestrator 模式给 OpenWrt 升级了 Passwall 和 Sin</title>
+      <link>https://x.com/geekbb/status/2125897288837222781</link>
+      <description>&lt;p&gt;今天 Antigravity 重置后马上用 Orchestrator 模式给 OpenWrt 升级了 Passwall 和 Sing-Box 版本(小设备自己不好操作)，再修了一下节点 VLESS-REALITY，5 小时用掉 22%，一周的 6%，供大家参考。&lt;br/&gt;&lt;br/&gt;Orchestrator 模式好像并不太省，我还是用 Hydrogen 吧，顺便说一下，梯子 TCP 端口解封了。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCy6pObsAABCAq.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今天 Antigravity 重置后马上用 Orchestrator 模式给 OpenWrt 升级了 Passwall 和 Sing-Box 版本(小设备自己不好操作)，再修了一下节点 VLESS-REALITY，5 小时用掉 22%，一周的 6%，供大家参考。&lt;br/&gt;&lt;br/&gt;Orchestrator 模式好像并不太省，我还是用 Hydrogen 吧，顺便说一下，梯子 TCP 端口解封了。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCy6pObsAABCAq.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125897288837222781</guid>
+      <pubDate>Thu, 26 Nov 2026 10:19:45 +0000</pubDate>
+    </item>
     <item>
       <title>现在是 Antigravity 时间~ 用着用着就重置了</title>
       <link>https://x.com/geekbb/status/2125855612097765575</link>
@@ -147,9 +157,9 @@
       <title>开源 Adobe 还是挺牛逼的 https://github.com/storytold/artcraft</title>
       <link>https://x.com/geekbb/status/2125415834420199794</link>
       <description>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
       <content:encoded>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125415834420199794</guid>
       <pubDate>Wed, 25 Nov 2026 02:26:37 +0000</pubDate>
     </item>
@@ -202,14 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1TjwTWkAAowo-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125099832666931399</guid>
       <pubDate>Tue, 24 Nov 2026 05:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>又可以接收到 X 的通知了，这次终于修好了吗。</title>
-      <link>https://x.com/geekbb/status/2125093498567512545</link>
-      <description>&lt;p&gt;又可以接收到 X 的通知了，这次终于修好了吗。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;又可以接收到 X 的通知了，这次终于修好了吗。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125093498567512545</guid>
-      <pubDate>Tue, 24 Nov 2026 05:05:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
