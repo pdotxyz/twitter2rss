@@ -6,7 +6,23 @@
     <description>Posts from x.com/foxshuo</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 03:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:05:44 +0000</lastBuildDate>
+    <item>
+      <title>今日份的AI作业。</title>
+      <link>https://x.com/foxshuo/status/2125878660737695871</link>
+      <description>&lt;p&gt;今日份的AI作业。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCi9mXa4AEYKN4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCi_Dcb0AAW2eU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCjOGQagAAlU0p.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCjPQEaYAAsLAT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今日份的AI作业。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCi9mXa4AEYKN4.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCi_Dcb0AAW2eU.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCjOGQagAAlU0p.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCjPQEaYAAsLAT.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/foxshuo/status/2125878660737695871</guid>
+      <pubDate>Thu, 26 Nov 2026 09:05:44 +0000</pubDate>
+    </item>
     <item>
       <title>这是哪里的节目？</title>
       <link>https://x.com/foxshuo/status/2125790395498168571</link>
@@ -176,16 +192,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXTE_INbEAApCxm.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/foxshuo/status/2122679900427759807</guid>
       <pubDate>Tue, 17 Nov 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>这灯闪得，是不是奥特曼能量不足了？</title>
-      <link>https://x.com/foxshuo/status/2122627051551351004</link>
-      <description>&lt;p&gt;这灯闪得，是不是奥特曼能量不足了？&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122535800495890432/img/xDPoL4P0q_5rmsZq.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;这灯闪得，是不是奥特曼能量不足了？&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2122535800495890432/img/xDPoL4P0q_5rmsZq.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/foxshuo/status/2122627051551351004</guid>
-      <pubDate>Tue, 17 Nov 2026 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
