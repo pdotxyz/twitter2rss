@@ -6,7 +6,17 @@
     <description>Posts from x.com/fxtrader</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 03:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:11:27 +0000</lastBuildDate>
+    <item>
+      <title>美国联邦通信委员会（FCC）发布正式决定，有条件地批准SpaceX部署最多100万颗轨道计算</title>
+      <link>https://x.com/fxtrader/status/2125804602486607961</link>
+      <description>&lt;p&gt;美国联邦通信委员会（FCC）发布正式决定，有条件地批准SpaceX部署最多100万颗轨道计算卫星。SpaceX需要在2035年11月25日完成10%（10万颗）的部署，2040年完成全部100万颗部署。&lt;br/&gt;&lt;br/&gt;🗒️今年8月SpaceX宣布与英伟达合作设计Starmind卫星计算载荷。成熟的大运力、低成本、可重复使用的火箭运输技术， 是马斯克太空AI算力产业蓝图的关键门槛。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBeXYDbIAA8as7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;美国联邦通信委员会（FCC）发布正式决定，有条件地批准SpaceX部署最多100万颗轨道计算卫星。SpaceX需要在2035年11月25日完成10%（10万颗）的部署，2040年完成全部100万颗部署。&lt;br/&gt;&lt;br/&gt;🗒️今年8月SpaceX宣布与英伟达合作设计Starmind卫星计算载荷。成熟的大运力、低成本、可重复使用的火箭运输技术， 是马斯克太空AI算力产业蓝图的关键门槛。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBeXYDbIAA8as7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fxtrader/status/2125804602486607961</guid>
+      <pubDate>Thu, 26 Nov 2026 04:11:27 +0000</pubDate>
+    </item>
     <item>
       <title>韩国央行：预计今年芯片企业营业利润达700万亿韩元（约5200亿美元）。</title>
       <link>https://x.com/fxtrader/status/2125794465835335748</link>
@@ -200,14 +210,6 @@
       <content:encoded>&lt;p&gt;#行情 日韩股市低开低走，韩国KOSPI指数跌幅扩大至5%，韩国交易所对KOSPI指数启动Sidecar机制，暂停程序化交易5分钟。三星电子与SK海力士跌超7%。&lt;br/&gt;&lt;br/&gt;日经225指数跌超2%。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fxtrader/status/2125382766485467610</guid>
       <pubDate>Wed, 25 Nov 2026 00:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>#行情 英伟达跌幅扩大至近8%，Anthropic跌超10%。 $NVDA $ANT</title>
-      <link>https://x.com/fxtrader/status/2125254949479276825</link>
-      <description>&lt;p&gt;#行情 英伟达跌幅扩大至近8%，Anthropic跌超10%。&lt;br/&gt;$NVDA  $ANT&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;#行情 英伟达跌幅扩大至近8%，Anthropic跌超10%。&lt;br/&gt;$NVDA  $ANT&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fxtrader/status/2125254949479276825</guid>
-      <pubDate>Tue, 24 Nov 2026 15:47:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

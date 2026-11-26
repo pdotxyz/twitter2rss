@@ -6,7 +6,17 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 03:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:31:54 +0000</lastBuildDate>
+    <item>
+      <title>好好好，够一个前AI时代的数学PhD学位了</title>
+      <link>https://x.com/lidangzzz/status/2125809750843814064</link>
+      <description>&lt;p&gt;好好好，够一个前AI时代的数学PhD学位了&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/MingfeiGuo/status/2125801328727425496"&gt;@MingfeiGuo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;z1 = 8431544402365682340068164569237&lt;br/&gt;z2 = 514110463898890370094084334091774&lt;br/&gt;z3 = 34980380235456818779149506079944992&lt;br/&gt;&lt;br/&gt;z2**2 &amp;lt; z1*z3, so matroid Z-polynomials are not always log-concave&lt;br/&gt;&lt;br/&gt;Found with Claude&lt;br/&gt;https://github.com/guoriyue/z123&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;好好好，够一个前AI时代的数学PhD学位了&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/MingfeiGuo/status/2125801328727425496"&gt;@MingfeiGuo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;z1 = 8431544402365682340068164569237&lt;br/&gt;z2 = 514110463898890370094084334091774&lt;br/&gt;z3 = 34980380235456818779149506079944992&lt;br/&gt;&lt;br/&gt;z2**2 &amp;lt; z1*z3, so matroid Z-polynomials are not always log-concave&lt;br/&gt;&lt;br/&gt;Found with Claude&lt;br/&gt;https://github.com/guoriyue/z123&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125809750843814064</guid>
+      <pubDate>Thu, 26 Nov 2026 04:31:54 +0000</pubDate>
+    </item>
     <item>
       <title>如果我是陈吉宁，清华干完以后，我100%选择去港科大，一秒钟都不带犹豫的。 港科大财</title>
       <link>https://x.com/lidangzzz/status/2125794583208464513</link>
@@ -180,14 +190,6 @@
       <content:encoded>&lt;p&gt;2027年，我只希望周杰伦和田馥甄能有机会再发一波糖&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125445898465673246</guid>
       <pubDate>Wed, 25 Nov 2026 04:26:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>今年上半年，有至少五个在top 20 CS&amp;math AP跟我聊，从erdos和firstproof开始，抢着做</title>
-      <link>https://x.com/lidangzzz/status/2125439175415517512</link>
-      <description>&lt;p&gt;今年上半年，有至少五个在top 20 CS&amp;amp;math AP跟我聊，从erdos和firstproof开始，抢着做点手头能做的工作，抢在OpenAI和Google之前完成（当时althesia还是领跑者），我还在尝试帮他们搭建lemma DAG。&lt;br/&gt;&lt;br/&gt;然后他们刚拍脑袋准备下手，或者刚准备了一个todo list，OpenAI已经瞬间把所有橙色传说全抽到手了。&lt;br/&gt;&lt;br/&gt;这一年给我们几个人最大的一个教训，就是在已知OpenAI内部有无限抽卡资源的前提下，还在自己掏钱竞争抽卡，都是在浪费时间。&lt;br/&gt;&lt;br/&gt;另一个教训是，整个2026年，留给非OpenAI的这些人，唯一的一个大机会，就是发挥自己聪明才智去用agent爆破已有猜想，这是唯一一个OpenAI不太能涉足的领域。&lt;br/&gt;&lt;br/&gt;因为OpenAI意识到了自己目前最大的优势是用frontier model去大规模搜索lean4 project证明，这是一个可以批量产出in parallel的工作，而找反例爆破conjecture恰恰是普通人能在2026年上半年还能发挥出最后一点小机灵的机会。&lt;br/&gt;&lt;br/&gt;OK，以上就是我的一点点观察。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;今年上半年，有至少五个在top 20 CS&amp;amp;math AP跟我聊，从erdos和firstproof开始，抢着做点手头能做的工作，抢在OpenAI和Google之前完成（当时althesia还是领跑者），我还在尝试帮他们搭建lemma DAG。&lt;br/&gt;&lt;br/&gt;然后他们刚拍脑袋准备下手，或者刚准备了一个todo list，OpenAI已经瞬间把所有橙色传说全抽到手了。&lt;br/&gt;&lt;br/&gt;这一年给我们几个人最大的一个教训，就是在已知OpenAI内部有无限抽卡资源的前提下，还在自己掏钱竞争抽卡，都是在浪费时间。&lt;br/&gt;&lt;br/&gt;另一个教训是，整个2026年，留给非OpenAI的这些人，唯一的一个大机会，就是发挥自己聪明才智去用agent爆破已有猜想，这是唯一一个OpenAI不太能涉足的领域。&lt;br/&gt;&lt;br/&gt;因为OpenAI意识到了自己目前最大的优势是用frontier model去大规模搜索lean4 project证明，这是一个可以批量产出in parallel的工作，而找反例爆破conjecture恰恰是普通人能在2026年上半年还能发挥出最后一点小机灵的机会。&lt;br/&gt;&lt;br/&gt;OK，以上就是我的一点点观察。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125439175415517512</guid>
-      <pubDate>Wed, 25 Nov 2026 03:59:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
