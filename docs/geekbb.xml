@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 13:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:23:54 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic 应该是 Claude 参与封吧，要不然怎么会这么快识别。😅</title>
+      <link>https://x.com/geekbb/status/2125973831089299728</link>
+      <description>&lt;p&gt;Anthropic 应该是 Claude 参与封吧，要不然怎么会这么快识别。😅&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCahysaUAAp9QM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Anthropic 应该是 Claude 参与封吧，要不然怎么会这么快识别。😅&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYCahysaUAAp9QM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125973831089299728</guid>
+      <pubDate>Thu, 26 Nov 2026 15:23:54 +0000</pubDate>
+    </item>
     <item>
       <title>建议跑步时听听 秋步凌枫 用 AI 辅助生成的大提琴音乐，边听边跑，当你高兴配速比平时</title>
       <link>https://x.com/geekbb/status/2125937892992360754</link>
@@ -202,18 +212,6 @@
       <content:encoded>&lt;p&gt;好消息是我以前在闲鱼上买的两个 Google AI Pro 会员到现在还没被回收，也不知道是什么渠道&lt;br/&gt;&lt;br/&gt;坏消息是我接到 Pi 里面使用，违反条例两个号都被禁用 Antigravity 了。&lt;br/&gt;&lt;br/&gt;好消息是通过仅有一次的申诉机会，找回来了其中一个。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125225496237789512</guid>
       <pubDate>Tue, 24 Nov 2026 13:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>交给 AI 了，有效，也就是说现在 Apple 通知推送也上梯了。</title>
-      <link>https://x.com/geekbb/status/2125196979663958024</link>
-      <description>&lt;p&gt;交给 AI 了，有效，也就是说现在 Apple 通知推送也上梯了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX42z-_aUAAXZ1a.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mackt_ma/status/2125137860710072734"&gt;@mackt_ma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@geekbb 梯子加个规则吧：https://mack.ma/posts/apns-via-surge/&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;交给 AI 了，有效，也就是说现在 Apple 通知推送也上梯了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX42z-_aUAAXZ1a.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/mackt_ma/status/2125137860710072734"&gt;@mackt_ma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;@geekbb 梯子加个规则吧：https://mack.ma/posts/apns-via-surge/&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125196979663958024</guid>
-      <pubDate>Tue, 24 Nov 2026 11:56:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
