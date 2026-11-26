@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:21:37 +0000</lastBuildDate>
+    <item>
+      <title>从来没有质疑过孙哥的实力，我的实力只允许我用 DeepSeek-V4.1-Flash-1017 跑 2 个小</title>
+      <link>https://x.com/geekbb/status/2125927958124941779</link>
+      <description>&lt;p&gt;从来没有质疑过孙哥的实力，我的实力只允许我用 DeepSeek-V4.1-Flash-1017 跑  2 个小时，但是蜜雪冰城我可以全款拿下。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/justinsuntron/status/2125919748391334067"&gt;@justinsuntron&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看到小红书上有人质疑我的财富量级。就这么说吧：昨天我写代码做任务，敢让Claude Fable 5.2 Ultracode 跑了 11 个小时。&lt;br/&gt;&lt;br/&gt;开的是 API，按量计费。&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;从来没有质疑过孙哥的实力，我的实力只允许我用 DeepSeek-V4.1-Flash-1017 跑  2 个小时，但是蜜雪冰城我可以全款拿下。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/justinsuntron/status/2125919748391334067"&gt;@justinsuntron&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看到小红书上有人质疑我的财富量级。就这么说吧：昨天我写代码做任务，敢让Claude Fable 5.2 Ultracode 跑了 11 个小时。&lt;br/&gt;&lt;br/&gt;开的是 API，按量计费。&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125927958124941779</guid>
+      <pubDate>Thu, 26 Nov 2026 12:21:37 +0000</pubDate>
+    </item>
     <item>
       <title>今天 Antigravity 重置后马上用 Orchestrator 模式给 OpenWrt 升级了 Passwall 和 Sin</title>
       <link>https://x.com/geekbb/status/2125897288837222781</link>
@@ -157,9 +167,9 @@
       <title>开源 Adobe 还是挺牛逼的 https://github.com/storytold/artcraft</title>
       <link>https://x.com/geekbb/status/2125415834420199794</link>
       <description>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</description>
       <content:encoded>&lt;p&gt;开源 Adobe 还是挺牛逼的&lt;br/&gt;&lt;br/&gt;https://github.com/storytold/artcraft&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每一个应用程序都是免费和开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/echelon/status/2125275896831484250"&gt;@echelon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;50 天前，我们通过开源 Adob​​e Suite 推出了 ArtCraft (@get_artcraft)。&lt;br/&gt;&lt;br/&gt;从那时起，我们有了：&lt;br/&gt;&lt;br/&gt;- 51M 下载量&lt;br/&gt;- 31 万 GitHub 星星&lt;br/&gt;- 23 万 Discord 用户&lt;br/&gt;- 合并了 32,000 个 PR，打开了 51,000 个 PR，发布了 35,000 个问题&lt;br/&gt;- 18 个应用程序（Adobe、Microsoft Office、Figma、Craft Anything）&lt;br/&gt;- 98% 生锈&lt;br/&gt;- 57+% 功能均等（到目前为止）&lt;br/&gt;- 零软件订阅&lt;br/&gt;&lt;br/&gt;感谢我们令人难以置信的开发者、用户、模组以及所有支持该项目的其他人的社区。&lt;br/&gt;&lt;br/&gt;直到您使用的每个应用程序都是免费且开源的，我们才会停止。&lt;/p&gt;&lt;p&gt;50 days ago we launched ArtCraft (@get_artcraft) by open sourcing the Adobe Suite.&lt;br/&gt;&lt;br/&gt;Since then, we&amp;#x27;ve had:&lt;br/&gt;&lt;br/&gt;- 51M downloads&lt;br/&gt;- 310k GitHub stars&lt;br/&gt;- 230k Discord users&lt;br/&gt;- 32k PRs merged, 51k opened, 35k issues&lt;br/&gt;- 18 apps (Adobe, Microsoft Office, Figma, Craft Anything)&lt;br/&gt;- 98% Rust&lt;br/&gt;- 57+% feature parity (so far)&lt;br/&gt;- Zero software subscriptions&lt;br/&gt;&lt;br/&gt;Thank you to our incredible community of developers, users, mods and everyone else who has supported this project.&lt;br/&gt;&lt;br/&gt;We will not stop until every single application you use is free and open source.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125415834420199794</guid>
       <pubDate>Wed, 25 Nov 2026 02:26:37 +0000</pubDate>
     </item>
@@ -202,16 +212,6 @@
       <content:encoded>&lt;p&gt;我不相信现阶段 AI 有泡沫，像我这样的人都开始实打实付费用 AI 了，你知道这有多难吗。&lt;br/&gt;&lt;br/&gt;顺便说一下，自从 Google AI 的套餐被锁死在 Antigravity 上使用（我花了钱肯定使劲蹬），我就没有打开过其他的 Agent，什么 Pi、Hermes、OpenBot、OMP、OpenCode……谷歌是不是在下一盘大棋呀。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125178062040093159</guid>
       <pubDate>Tue, 24 Nov 2026 10:41:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>又懵逼了，从这张图的数据来看，我平时用的 Hydrogen medium 其实应该改为 Neon low，</title>
-      <link>https://x.com/geekbb/status/2125099832666931399</link>
-      <description>&lt;p&gt;又懵逼了，从这张图的数据来看，我平时用的 Hydrogen medium 其实应该改为 Neon low，高出 3 分，还省一点点？&lt;br/&gt;&lt;br/&gt;整条曲线上 Neon 几乎全面压制了 Hydrogen，如果平时实际体验下来觉得 Neon low 速度够快，那直接用 Neon low 替代 Hydrogen medium 是更好的选择。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1TjwTWkAAowo-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;又懵逼了，从这张图的数据来看，我平时用的 Hydrogen medium 其实应该改为 Neon low，高出 3 分，还省一点点？&lt;br/&gt;&lt;br/&gt;整条曲线上 Neon 几乎全面压制了 Hydrogen，如果平时实际体验下来觉得 Neon low 速度够快，那直接用 Neon low 替代 Hydrogen medium 是更好的选择。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX1TjwTWkAAowo-.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125099832666931399</guid>
-      <pubDate>Tue, 24 Nov 2026 05:30:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
