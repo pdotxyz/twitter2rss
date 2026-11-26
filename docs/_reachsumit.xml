@@ -6,7 +6,31 @@
     <description>Posts from x.com/_reachsumit</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 18:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:51:03 +0000</lastBuildDate>
+    <item>
+      <title>当重新排名者一起工作时：无需联合训练即可更好更快地重新排名 研究单独训练的重新排</title>
+      <link>https://x.com/_reachsumit/status/2125844769322795165</link>
+      <description>&lt;p&gt;当重新排名者一起工作时：无需联合训练即可更好更快地重新排名&lt;br/&gt;&lt;br/&gt;研究单独训练的重新排名器的 RAG 级联，发现添加轻量级第一阶段评分器可以提高准确性和速度，尽管增益因设置而异。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33844&lt;/p&gt;&lt;p&gt;When Rerankers Work Together: Better and Faster Reranking without Joint Training&lt;br/&gt;&lt;br/&gt;Studies RAG cascades of separately trained rerankers and finds that adding a lightweight first-stage scorer can improve accuracy and speed, though gains vary by setup.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33844&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;当重新排名者一起工作时：无需联合训练即可更好更快地重新排名&lt;br/&gt;&lt;br/&gt;研究单独训练的重新排名器的 RAG 级联，发现添加轻量级第一阶段评分器可以提高准确性和速度，尽管增益因设置而异。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33844&lt;/p&gt;&lt;p&gt;When Rerankers Work Together: Better and Faster Reranking without Joint Training&lt;br/&gt;&lt;br/&gt;Studies RAG cascades of separately trained rerankers and finds that adding a lightweight first-stage scorer can improve accuracy and speed, though gains vary by setup.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.33844&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125844769322795165</guid>
+      <pubDate>Thu, 26 Nov 2026 06:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OneQuery：用于多语言电子商务查询理解的统一序列到结构生成 阿里巴巴为 AliExpress </title>
+      <link>https://x.com/_reachsumit/status/2125844652213583929</link>
+      <description>&lt;p&gt;OneQuery：用于多语言电子商务查询理解的统一序列到结构生成&lt;br/&gt;&lt;br/&gt;阿里巴巴为 AliExpress 搜索提供了一个 LLM 框架，可以在单个输出中处理语言 ID、拼写更正、翻译和查询标记。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.33653&lt;/p&gt;&lt;p&gt;OneQuery: Unified Sequence-to-Structure Generation for Multilingual E-commerce Query Understanding&lt;br/&gt;&lt;br/&gt;Alibaba presents an LLM framework for AliExpress search that handles language ID, spelling correction, translation, and query tagging in a single output.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.33653&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;OneQuery：用于多语言电子商务查询理解的统一序列到结构生成&lt;br/&gt;&lt;br/&gt;阿里巴巴为 AliExpress 搜索提供了一个 LLM 框架，可以在单个输出中处理语言 ID、拼写更正、翻译和查询标记。&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.33653&lt;/p&gt;&lt;p&gt;OneQuery: Unified Sequence-to-Structure Generation for Multilingual E-commerce Query Understanding&lt;br/&gt;&lt;br/&gt;Alibaba presents an LLM framework for AliExpress search that handles language ID, spelling correction, translation, and query tagging in a single output.&lt;br/&gt;&lt;br/&gt;📝https://arxiv.org/abs/2611.33653&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125844652213583929</guid>
+      <pubDate>Thu, 26 Nov 2026 06:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ConTra：通过前缀生成进行有效上下文检索的训练框架 使用 RL 来训练小型法学硕士，为</title>
+      <link>https://x.com/_reachsumit/status/2125844517475791211</link>
+      <description>&lt;p&gt;ConTra：通过前缀生成进行有效上下文检索的训练框架&lt;br/&gt;&lt;br/&gt;使用 RL 来训练小型法学硕士，为块添加简短的上下文，奖励检索和重新排名质量、事实支持和简洁性。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.34366&lt;br/&gt;👨🏽‍💻 https://github.com/SStan1/ConTra&lt;/p&gt;&lt;p&gt;ConTra: A Training Framework for Effective Contextual Retrieval via Prefix Generation&lt;br/&gt;&lt;br/&gt;Uses RL to train small LLMs that add short context to chunks, rewarding retrieval and reranking quality, factual support, and brevity.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.34366&lt;br/&gt;👨🏽‍💻 https://github.com/SStan1/ConTra&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;ConTra：通过前缀生成进行有效上下文检索的训练框架&lt;br/&gt;&lt;br/&gt;使用 RL 来训练小型法学硕士，为块添加简短的上下文，奖励检索和重新排名质量、事实支持和简洁性。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.34366&lt;br/&gt;👨🏽‍💻 https://github.com/SStan1/ConTra&lt;/p&gt;&lt;p&gt;ConTra: A Training Framework for Effective Contextual Retrieval via Prefix Generation&lt;br/&gt;&lt;br/&gt;Uses RL to train small LLMs that add short context to chunks, rewarding retrieval and reranking quality, factual support, and brevity.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.34366&lt;br/&gt;👨🏽‍💻 https://github.com/SStan1/ConTra&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125844517475791211</guid>
+      <pubDate>Thu, 26 Nov 2026 06:50:03 +0000</pubDate>
+    </item>
     <item>
       <title>代理系统需要多次运行评估：已部署企业 RAG 系统中检索和响应可变性的研究 Adobe 发现</title>
       <link>https://x.com/_reachsumit/status/2125665528119509415</link>
@@ -142,32 +166,6 @@
       <content:encoded>&lt;p&gt;代理时代的检索增强一代：传统、现在与前景&lt;br/&gt;&lt;br/&gt;对 RAG 的整个生命周期（从索引到编排）进行了调查，将代理工作流程视为自己的范例，还涵盖了评估。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;&lt;p&gt;Retrieval-Augmented Generation in the Agentic Era: Tradition, Present, and Prospect&lt;br/&gt;&lt;br/&gt;Surveys RAG across its full lifecycle, from indexing to orchestration, treats agentic workflows as a paradigm of their own, also covers evaluation.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30181&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426862143017143</guid>
       <pubDate>Wed, 25 Nov 2026 03:10:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>为长期代理制定独立的内存提取和检索策略 表明，单独提炼为 3B 模型的记忆写入和检索</title>
-      <link>https://x.com/_reachsumit/status/2125426670639382632</link>
-      <description>&lt;p&gt;为长期代理制定独立的内存提取和检索策略&lt;br/&gt;&lt;br/&gt;表明，单独提炼为 3B 模型的记忆写入和检索策略可以在无需联合训练的情况下进行组合，并且性能优于 RL 训练的组合。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;&lt;p&gt;Composing Independently Distilled Memory and Retrieval Policies for Long-Term Agents&lt;br/&gt;&lt;br/&gt;Shows that memory-writing and retrieval policies distilled separately into 3B models can be combined without joint training and outperform RL-trained compositions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;为长期代理制定独立的内存提取和检索策略&lt;br/&gt;&lt;br/&gt;表明，单独提炼为 3B 模型的记忆写入和检索策略可以在无需联合训练的情况下进行组合，并且性能优于 RL 训练的组合。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;&lt;p&gt;Composing Independently Distilled Memory and Retrieval Policies for Long-Term Agents&lt;br/&gt;&lt;br/&gt;Shows that memory-writing and retrieval policies distilled separately into 3B models can be combined without joint training and outperform RL-trained compositions.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.30230&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426670639382632</guid>
-      <pubDate>Wed, 25 Nov 2026 03:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理 @cramraj8 等人。提出了</title>
-      <link>https://x.com/_reachsumit/status/2125426575885943075</link>
-      <description>&lt;p&gt;CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理&lt;br/&gt;&lt;br/&gt;@cramraj8 等人。提出了一种在推理、搜索决策、查询生成和答案提取方面分割搜索代理的 RL 增益的方法。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;&lt;p&gt;CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting&lt;br/&gt;&lt;br/&gt;@cramraj8 et al. present a method to split RL gains in search agents across reasoning, search decisions, query generation, and answer extraction.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;CO-Graft：通过角色级策略嫁接将强化学习收益归因于搜索代理&lt;br/&gt;&lt;br/&gt;@cramraj8 等人。提出了一种在推理、搜索决策、查询生成和答案提取方面分割搜索代理的 RL 增益的方法。&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;&lt;p&gt;CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting&lt;br/&gt;&lt;br/&gt;@cramraj8 et al. present a method to split RL gains in search agents across reasoning, search decisions, query generation, and answer extraction.&lt;br/&gt;&lt;br/&gt;📝 https://arxiv.org/abs/2611.31185&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2125426575885943075</guid>
-      <pubDate>Wed, 25 Nov 2026 03:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>我出版了卷。 Substack 上的“本周热门信息检索论文”第 183 篇。 🔗 https://recsys.su</title>
-      <link>https://x.com/_reachsumit/status/2124767134920372640</link>
-      <description>&lt;p&gt;我出版了卷。 Substack 上的“本周热门信息检索论文”第 183 篇。&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;&lt;p&gt;I published Vol. 183 of &amp;quot;Top Information Retrieval Papers of the Week&amp;quot; on Substack.&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXywcS5bQAEhfBO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;我出版了卷。 Substack 上的“本周热门信息检索论文”第 183 篇。&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;&lt;p&gt;I published Vol. 183 of &amp;quot;Top Information Retrieval Papers of the Week&amp;quot; on Substack.&lt;br/&gt;🔗 https://recsys.substack.com/p/when-does-dense-retrieval-beat-grep&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXywcS5bQAEhfBO.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_reachsumit/status/2124767134920372640</guid>
-      <pubDate>Mon, 23 Nov 2026 07:28:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
