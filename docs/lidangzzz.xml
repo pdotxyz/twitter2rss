@@ -6,7 +6,15 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 04:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:29:44 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic都把git给完整掀摊儿了，居然还在折腾python到rust的code refactoring。 按</title>
+      <link>https://x.com/lidangzzz/status/2125824303971127470</link>
+      <description>&lt;p&gt;Anthropic都把git给完整掀摊儿了，居然还在折腾python到rust的code refactoring。&lt;br/&gt;&lt;br/&gt;按照我的理解，这不应该继续掀摊儿，让1000个agent不断设计新的完整语法，再让10万个agent在sandbox里跑coding tasks，从1000个新的语言里跑出一个agent理解力、编译、运行全部拉满的顶级agent-native编程语言？&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Anthropic都把git给完整掀摊儿了，居然还在折腾python到rust的code refactoring。&lt;br/&gt;&lt;br/&gt;按照我的理解，这不应该继续掀摊儿，让1000个agent不断设计新的完整语法，再让10万个agent在sandbox里跑coding tasks，从1000个新的语言里跑出一个agent理解力、编译、运行全部拉满的顶级agent-native编程语言？&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125824303971127470</guid>
+      <pubDate>Thu, 26 Nov 2026 05:29:44 +0000</pubDate>
+    </item>
     <item>
       <title>好好好，够一个前AI时代的数学PhD学位了</title>
       <link>https://x.com/lidangzzz/status/2125809750843814064</link>
@@ -182,14 +190,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8cx-dWMAAVnmt.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125449198107562204</guid>
       <pubDate>Wed, 25 Nov 2026 04:39:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027年，我只希望周杰伦和田馥甄能有机会再发一波糖</title>
-      <link>https://x.com/lidangzzz/status/2125445898465673246</link>
-      <description>&lt;p&gt;2027年，我只希望周杰伦和田馥甄能有机会再发一波糖&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;2027年，我只希望周杰伦和田馥甄能有机会再发一波糖&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125445898465673246</guid>
-      <pubDate>Wed, 25 Nov 2026 04:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
