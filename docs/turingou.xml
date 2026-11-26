@@ -6,7 +6,23 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 16:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:23:48 +0000</lastBuildDate>
+    <item>
+      <title>Cloud Duet 的权限管制太严格了，它既不能作为一个统一的协调者来管理我其他各处的 Cl</title>
+      <link>https://x.com/turingou/status/2126001002965061829</link>
+      <description>&lt;p&gt;Cloud Duet 的权限管制太严格了，它既不能作为一个统一的协调者来管理我其他各处的 Claude Code 的协同开发工作，也不太方便作为个人助理来替代我的 Grok bot。&lt;br/&gt;&lt;br/&gt;我用了两个小时之后，实在不知道要如何去定位它&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Cloud Duet 的权限管制太严格了，它既不能作为一个统一的协调者来管理我其他各处的 Claude Code 的协同开发工作，也不太方便作为个人助理来替代我的 Grok bot。&lt;br/&gt;&lt;br/&gt;我用了两个小时之后，实在不知道要如何去定位它&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2126001002965061829</guid>
+      <pubDate>Thu, 26 Nov 2026 17:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>好处是它可以作为单一协调者，来管理同一个账户下面的云端项目。 但是如果涉及到多个 </title>
+      <link>https://x.com/turingou/status/2126004002966089904</link>
+      <description>&lt;p&gt;好处是它可以作为单一协调者，来管理同一个账户下面的云端项目。&lt;br/&gt;&lt;br/&gt;但是如果涉及到多个 Cloud 账户就无法管理了：因为添加其他账户会导致 Duet 切换并登出，而且大部分其他账户都没有 Duet 的内测权限&lt;br/&gt;&lt;br/&gt;它的云电脑当中浏览器限制过于严格：没有办法安装 Tailscale，也不推荐我安装 Tailscale 并把我家中电脑当做出口节点来代理流量。这就意味着大量网站它其实无法帮我登录&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;好处是它可以作为单一协调者，来管理同一个账户下面的云端项目。&lt;br/&gt;&lt;br/&gt;但是如果涉及到多个 Cloud 账户就无法管理了：因为添加其他账户会导致 Duet 切换并登出，而且大部分其他账户都没有 Duet 的内测权限&lt;br/&gt;&lt;br/&gt;它的云电脑当中浏览器限制过于严格：没有办法安装 Tailscale，也不推荐我安装 Tailscale 并把我家中电脑当做出口节点来代理流量。这就意味着大量网站它其实无法帮我登录&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2126004002966089904</guid>
+      <pubDate>Thu, 26 Nov 2026 17:23:48 +0000</pubDate>
+    </item>
     <item>
       <title>这其中有一个问题：智能到底是不是分层的？ 普通人利用个人助理能够完成的事情，仅仅</title>
       <link>https://x.com/turingou/status/2125991049734787449</link>
@@ -192,26 +208,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ypatil125/status/2124637749911458241"&gt;@ypatil125&lt;/a&gt;&lt;/p&gt;&lt;p&gt;如果您看好人工智能，您应该相信服务业务可以像软件一样扩展。&lt;/p&gt;&lt;p&gt;If you’re bullish on AI, you should believe services businesses can scale like software.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2125240305914155252</guid>
       <pubDate>Tue, 24 Nov 2026 14:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>这两年真是创造者的黄金时代！</title>
-      <link>https://x.com/turingou/status/2125232089784357360</link>
-      <description>&lt;p&gt;这两年真是创造者的黄金时代！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/dhh/status/2125170678781403465"&gt;@dhh&lt;/a&gt;&lt;/p&gt;&lt;p&gt;你来这里是为了一个新纪元的诞生。细细品味吧永远不会感觉这种新奇和刺激。&lt;/p&gt;&lt;p&gt;You&amp;#x27;re here for the birth of a new epoch. Savor it. It won&amp;#x27;t feel this novel and exciting forever.&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;这两年真是创造者的黄金时代！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/dhh/status/2125170678781403465"&gt;@dhh&lt;/a&gt;&lt;/p&gt;&lt;p&gt;你来这里是为了一个新纪元的诞生。细细品味吧永远不会感觉这种新奇和刺激。&lt;/p&gt;&lt;p&gt;You&amp;#x27;re here for the birth of a new epoch. Savor it. It won&amp;#x27;t feel this novel and exciting forever.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2125232089784357360</guid>
-      <pubDate>Tue, 24 Nov 2026 14:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>尝试用 T3 Code 调用 Antigravity 的 cli 去利用 Neon 模型（High）来 review 代码，</title>
-      <link>https://x.com/turingou/status/2125212422172782679</link>
-      <description>&lt;p&gt;尝试用 T3 Code 调用 Antigravity 的 cli 去利用 Neon 模型（High）来 review 代码，结果代码 review 完还没写完 PR，5 小时额度就没了。我觉得现在还限制 5 小时消耗的套餐未免太吝啬了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5FbEMa0AAChd7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;尝试用 T3 Code 调用 Antigravity 的 cli 去利用 Neon 模型（High）来 review 代码，结果代码 review 完还没写完 PR，5 小时额度就没了。我觉得现在还限制 5 小时消耗的套餐未免太吝啬了。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5FbEMa0AAChd7.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2125212422172782679</guid>
-      <pubDate>Tue, 24 Nov 2026 12:58:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
