@@ -6,7 +6,15 @@
     <description>Posts from x.com/sunnyfinance1</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 13:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:00:55 +0000</lastBuildDate>
+    <item>
+      <title>美股：早盘大跌，吓出了大底？【2026-11-25】https://www.youtube.com/watch?v=EkYWOM</title>
+      <link>https://x.com/sunnyfinance1/status/2125756652594864361</link>
+      <description>&lt;p&gt;美股：早盘大跌，吓出了大底？【2026-11-25】https://www.youtube.com/watch?v=EkYWOMgyTLM&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;美股：早盘大跌，吓出了大底？【2026-11-25】https://www.youtube.com/watch?v=EkYWOMgyTLM&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sunnyfinance1/status/2125756652594864361</guid>
+      <pubDate>Thu, 26 Nov 2026 01:00:55 +0000</pubDate>
+    </item>
     <item>
       <title>盘前大跌，2027算力支出增速放缓？</title>
       <link>https://x.com/sunnyfinance1/status/2125587027764621470</link>
@@ -164,14 +172,6 @@
       <content:encoded>&lt;p&gt;轮到AMD祭天，空头最近凶残。【2026-11-19】https://www.youtube.com/watch?v=z7DnxTvKuIc&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/sunnyfinance1/status/2123582003547349067</guid>
       <pubDate>Fri, 20 Nov 2026 00:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD 今天盘中一度翻红 11%，最低 470 美元，昨天刚涨 5.3%。导火索是 Hunterbrook 做</title>
-      <link>https://x.com/sunnyfinance1/status/2123468573704143347</link>
-      <description>&lt;p&gt;AMD 今天盘中一度翻红 11%，最低 470 美元，昨天刚涨 5.3%。导火索是 Hunterbrook 做空报告：被美国拉黑的中国服务器商 IEIT，拉黑后还在 BIOS 更新里用 AMD 新固件，至少 6 个版本。但报告自己也承认：没证据证明 AMD 违规，也不知道代码怎么流过去的。空头报告先砸盘，真相后核实。&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;AMD 今天盘中一度翻红 11%，最低 470 美元，昨天刚涨 5.3%。导火索是 Hunterbrook 做空报告：被美国拉黑的中国服务器商 IEIT，拉黑后还在 BIOS 更新里用 AMD 新固件，至少 6 个版本。但报告自己也承认：没证据证明 AMD 违规，也不知道代码怎么流过去的。空头报告先砸盘，真相后核实。&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sunnyfinance1/status/2123468573704143347</guid>
-      <pubDate>Thu, 19 Nov 2026 17:28:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

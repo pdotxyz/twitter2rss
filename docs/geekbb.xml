@@ -6,7 +6,15 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 12:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:10:34 +0000</lastBuildDate>
+    <item>
+      <title>Proxmox VE 9.3 正式发布 底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEM</title>
+      <link>https://x.com/geekbb/status/2125759083139747982</link>
+      <description>&lt;p&gt;Proxmox VE 9.3 正式发布&lt;br/&gt;&lt;br/&gt;底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEMU 11.1 + ZFS 2.4&lt;br/&gt;&lt;br/&gt;最值得关心的 5 个更新&lt;br/&gt;- 装机省事了，安装界面里终于能直接给管理网配网卡绑定（Bond）和 VLAN，不用装完系统再去手改网络配置。&lt;br/&gt;- 网页后台更实用，系统日志按严重级别标了颜色，还新加了 API 访问记录和 APT 更新历史，排查问题少开很多终端；HA 的节点维护模式也能直接在网页上开关了，第三方存储插件也不用再去配置文件里硬写。&lt;br/&gt;- 几个之前在测试的功能转正了，LVM 的链式快照、基于 nftables 的新版防火墙现在都可以正式在生产环境用；存储这边还新加了 SAN 管理视图和原生 NVMe-oF 支持。&lt;br/&gt;- 每台虚拟机和容器现在都有一个固定的全局 ID，就算改了 VMID 或者迁到别的集群，备份软件也能认出是同一台；集群证书快到期也会自己续期。&lt;br/&gt;- 网页上可以直接看到 WireGuard 的握手和流量状态，SDN 的简单网络也支持单独做路由隔离了。&lt;br/&gt;&lt;br/&gt;https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-3&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Proxmox VE 9.3 正式发布&lt;br/&gt;&lt;br/&gt;底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEMU 11.1 + ZFS 2.4&lt;br/&gt;&lt;br/&gt;最值得关心的 5 个更新&lt;br/&gt;- 装机省事了，安装界面里终于能直接给管理网配网卡绑定（Bond）和 VLAN，不用装完系统再去手改网络配置。&lt;br/&gt;- 网页后台更实用，系统日志按严重级别标了颜色，还新加了 API 访问记录和 APT 更新历史，排查问题少开很多终端；HA 的节点维护模式也能直接在网页上开关了，第三方存储插件也不用再去配置文件里硬写。&lt;br/&gt;- 几个之前在测试的功能转正了，LVM 的链式快照、基于 nftables 的新版防火墙现在都可以正式在生产环境用；存储这边还新加了 SAN 管理视图和原生 NVMe-oF 支持。&lt;br/&gt;- 每台虚拟机和容器现在都有一个固定的全局 ID，就算改了 VMID 或者迁到别的集群，备份软件也能认出是同一台；集群证书快到期也会自己续期。&lt;br/&gt;- 网页上可以直接看到 WireGuard 的握手和流量状态，SDN 的简单网络也支持单独做路由隔离了。&lt;br/&gt;&lt;br/&gt;https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-3&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2125759083139747982</guid>
+      <pubDate>Thu, 26 Nov 2026 01:10:34 +0000</pubDate>
+    </item>
     <item>
       <title>Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信</title>
       <link>https://x.com/geekbb/status/2125573692218642903</link>
@@ -196,16 +204,6 @@
       <content:encoded>&lt;p&gt;Antigravity 啥时候出 Bot 啊&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2124844817360535584</guid>
       <pubDate>Mon, 23 Nov 2026 12:37:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编</title>
-      <link>https://x.com/geekbb/status/2124830822721352062</link>
-      <description>&lt;p&gt;用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编程代理配合审片标注快速制作和修改视频。&lt;br/&gt;&lt;br/&gt;https://github.com/staryone/motlab&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HXx8m_daQAAWp5l.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;用代码编写 Canvas 场景并在无头 Chrome 中通过 WebCodecs 渲染为 MP4 视频，让 AI 编程代理配合审片标注快速制作和修改视频。&lt;br/&gt;&lt;br/&gt;https://github.com/staryone/motlab&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HXx8m_daQAAWp5l.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2124830822721352062</guid>
-      <pubDate>Mon, 23 Nov 2026 11:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

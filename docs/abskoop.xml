@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 18:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:15:00 +0000</lastBuildDate>
+    <item>
+      <title>小龙虾🦞一周年了呀 AI发展真的是太快了</title>
+      <link>https://x.com/abskoop/status/2125760196886532604</link>
+      <description>&lt;p&gt;小龙虾🦞一周年了呀 AI发展真的是太快了&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125272525844385792/img/QLg01CaTqGtp0U3W.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;小龙虾🦞一周年了呀 AI发展真的是太快了&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125272525844385792/img/QLg01CaTqGtp0U3W.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2125760196886532604</guid>
+      <pubDate>Thu, 26 Nov 2026 01:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>已经体会到本地小主机搭建AI工具 、Agent、服务器 然后再通过 Tailscale 组网 远程也</title>
       <link>https://x.com/abskoop/status/2125664632140701772</link>
@@ -210,18 +220,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124464437679763456/img/lubewALzc4Yy9NJp.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2124464467283173391</guid>
       <pubDate>Sun, 22 Nov 2026 11:26:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>支付宝还推出了相亲名片😶‍🌫️</title>
-      <link>https://x.com/abskoop/status/2124348896612946220</link>
-      <description>&lt;p&gt;支付宝还推出了相亲名片😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsxF5uaoAA_bOo.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXs0DrMakAAWQ9B.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;支付宝还推出了相亲名片😶‍🌫️&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXsxF5uaoAA_bOo.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXs0DrMakAAWQ9B.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2124348896612946220</guid>
-      <pubDate>Sun, 22 Nov 2026 03:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

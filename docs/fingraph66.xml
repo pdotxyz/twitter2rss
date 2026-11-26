@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 00:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:38:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2125765984669901215</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-zqlxa0AAiv62.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-zqlxa0AAiv62.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2125765984669901215</guid>
+      <pubDate>Thu, 26 Nov 2026 01:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2125750885011644893</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84ZQ0bIAACQK8.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2125539743928607086</guid>
       <pubDate>Wed, 25 Nov 2026 10:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>截至2026年11月24日，标普500指数收于7201点，年内累计涨幅仅5%，较7600点的华尔街投</title>
-      <link>https://x.com/fingraph66/status/2125524392746668120</link>
-      <description>&lt;p&gt;截至2026年11月24日，标普500指数收于7201点，年内累计涨幅仅5%，较7600点的华尔街投行与研究机构去年底给出的平均目标价低出400点。&lt;br/&gt;来源：边际Lab x FinGraph财经图集&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84KqrbgAAzEFC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;截至2026年11月24日，标普500指数收于7201点，年内累计涨幅仅5%，较7600点的华尔街投行与研究机构去年底给出的平均目标价低出400点。&lt;br/&gt;来源：边际Lab x FinGraph财经图集&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84KqrbgAAzEFC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2125524392746668120</guid>
-      <pubDate>Wed, 25 Nov 2026 09:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
