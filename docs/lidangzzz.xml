@@ -6,7 +6,15 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 01:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:27:34 +0000</lastBuildDate>
+    <item>
+      <title>听完鲁社长的直播，我个人理解，这次算是龚正和陈吉宁两败俱伤，本来想各打五十大板，</title>
+      <link>https://x.com/lidangzzz/status/2125778460908069367</link>
+      <description>&lt;p&gt;听完鲁社长的直播，我个人理解，这次算是龚正和陈吉宁两败俱伤，本来想各打五十大板，结果一边集结实力反扑，推波助澜，另一边撑不住了，debuff叠满后开始滑向深渊。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;听完鲁社长的直播，我个人理解，这次算是龚正和陈吉宁两败俱伤，本来想各打五十大板，结果一边集结实力反扑，推波助澜，另一边撑不住了，debuff叠满后开始滑向深渊。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125778460908069367</guid>
+      <pubDate>Thu, 26 Nov 2026 02:27:34 +0000</pubDate>
+    </item>
     <item>
       <title>按照鲁社长的思路，陈的下策是去上海当市委书记，中策是去国务院当副总理主管科教文卫</title>
       <link>https://x.com/lidangzzz/status/2125766537504260306</link>
@@ -170,16 +178,6 @@
       <content:encoded>&lt;p&gt;今年上半年，有至少五个在top 20 CS&amp;amp;math AP跟我聊，从erdos和firstproof开始，抢着做点手头能做的工作，抢在OpenAI和Google之前完成（当时althesia还是领跑者），我还在尝试帮他们搭建lemma DAG。&lt;br/&gt;&lt;br/&gt;然后他们刚拍脑袋准备下手，或者刚准备了一个todo list，OpenAI已经瞬间把所有橙色传说全抽到手了。&lt;br/&gt;&lt;br/&gt;这一年给我们几个人最大的一个教训，就是在已知OpenAI内部有无限抽卡资源的前提下，还在自己掏钱竞争抽卡，都是在浪费时间。&lt;br/&gt;&lt;br/&gt;另一个教训是，整个2026年，留给非OpenAI的这些人，唯一的一个大机会，就是发挥自己聪明才智去用agent爆破已有猜想，这是唯一一个OpenAI不太能涉足的领域。&lt;br/&gt;&lt;br/&gt;因为OpenAI意识到了自己目前最大的优势是用frontier model去大规模搜索lean4 project证明，这是一个可以批量产出in parallel的工作，而找反例爆破conjecture恰恰是普通人能在2026年上半年还能发挥出最后一点小机灵的机会。&lt;br/&gt;&lt;br/&gt;OK，以上就是我的一点点观察。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125439175415517512</guid>
       <pubDate>Wed, 25 Nov 2026 03:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了</title>
-      <link>https://x.com/lidangzzz/status/2125429361847230701</link>
-      <description>&lt;p&gt;牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/rrwilliams/status/2125393802554757618"&gt;@rrwilliams&lt;/a&gt;&lt;/p&gt;&lt;p&gt;显然施特拉森是对的：矩阵乘法指数是（精确地）2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;p&gt;Apparently Strassen was right: the matrix mult exponent is (exactly) 2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;牛逼，一周一个原子弹，我操了，黎曼猜想证明已经成垃圾了&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/rrwilliams/status/2125393802554757618"&gt;@rrwilliams&lt;/a&gt;&lt;/p&gt;&lt;p&gt;显然施特拉森是对的：矩阵乘法指数是（精确地）2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;p&gt;Apparently Strassen was right: the matrix mult exponent is (exactly) 2.25 &lt;br/&gt;https://github.com/openai/math/tree/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125429361847230701</guid>
-      <pubDate>Wed, 25 Nov 2026 03:20:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
