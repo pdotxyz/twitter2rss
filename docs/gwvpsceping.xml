@@ -6,7 +6,17 @@
     <description>Posts from x.com/gwvpsceping</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 02:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:30:01 +0000</lastBuildDate>
+    <item>
+      <title>🇭🇰 http://QQG.NET 香港 CF 三网精品 VPS 实测：CN2 GIA + 联通 AS10099 + CMIN2，内</title>
+      <link>https://x.com/gwvpsceping/status/2125794175748608359</link>
+      <description>&lt;p&gt;🇭🇰 http://QQG.NET 香港 CF 三网精品 VPS 实测：CN2 GIA + 联通 AS10099 + CMIN2，内地平均延迟约43ms！&lt;br/&gt;&lt;br/&gt;这次测试的是 http://QQG.NET 新推出的香港 CF 高防 VPS，接入 Cloudflare 高防，官方宣称最高支持 5600G 峰值防御清洗能力。&lt;br/&gt;&lt;br/&gt;网络配置比较有意思：&lt;br/&gt;- 电信：去程、回程 CN2 GIA&lt;br/&gt;- 联通：实际去程、回程 AS10099（并非宣传的 AS9929）&lt;br/&gt;- 移动：去程、回程 CMIN2&lt;br/&gt;- 国际方向：1Gbps&lt;br/&gt;- 中国内地方向：30Mbps&lt;br/&gt;- Cloudflare 高防接入&lt;br/&gt;&lt;br/&gt;🔥 套餐价格（使用优惠码后）：&lt;br/&gt;&lt;br/&gt;大带宽流量型&lt;br/&gt;- 1核2G / 10GB / 100GB流量：$14.9/月&lt;br/&gt;- 2核2G / 20GB / 200GB流量：$24.9/月&lt;br/&gt;- 4核4G / 80GB / 500GB流量：$54.9/月&lt;br/&gt;- 8核8G / 160GB / 1TB流量：$99.9/月&lt;br/&gt;- 16核16G / 300GB / 2TB流量：$199.9/月&lt;br/&gt;&lt;br/&gt;小带宽不限流量&lt;br/&gt;- 2核2G / 50GB / 2Mbps：$24.9/月&lt;br/&gt;- 4核4G / 80GB / 3Mbps：$54.9/月&lt;br/&gt;- 8核8G / 160GB / 5Mbps：$99.9/月&lt;br/&gt;- 16核16G / 300GB / 7Mbps：$199.9/月&lt;br/&gt;&lt;br/&gt;🎟️ 优惠码：QQGNET5zc&lt;br/&gt;&lt;br/&gt;📊 本次实测重点：&lt;br/&gt;- 内地平均延迟约43ms。&lt;br/&gt;- 海外上传速度最高约950Mbps。&lt;br/&gt;- 内地多线程下载约30Mbps。&lt;br/&gt;- YouTube速度约3万+，4K基本流畅。&lt;br/&gt;- CPU：Intel Xeon Platinum 8163。&lt;br/&gt;- 硬盘平均读写约351MB/s。&lt;br/&gt;- 香港原生机房IP，非住宅IP。&lt;br/&gt;- TCP 25端口开放，可用于邮件服务测试。&lt;br/&gt;- 支持 Linux、Windows，付款支持支付宝和USDT。&lt;br/&gt;&lt;br/&gt;⚠️ 几个需要注意的问题：&lt;br/&gt;&lt;br/&gt;1. 联通实际走 AS10099，并非宣传的 AS9929。&lt;br/&gt;2. 内地单线程下载表现一般，部分节点速度较低。&lt;br/&gt;3. 大包回程测试中，电信和移动丢包接近40%，网络稳定性仍需关注。&lt;br/&gt;4. 不同IP检测平台对风险评价存在差异。&lt;br/&gt;&lt;br/&gt;总体来看，这款机器的卖点是香港机房、三网优化线路和 Cloudflare 高防，比较适合面向内地及海外用户的普通网站、企业站和中小型业务。&lt;br/&gt;&lt;br/&gt;但如果对持续高速传输、网络稳定性要求较高，建议先测试再购买。&lt;br/&gt;&lt;br/&gt;🛒 购买地址：https://www.qqg.net/recommend/6hLsmyp60d2U?aff_group=1&amp;amp;fpg_id=1&amp;amp;spg_id=23&lt;br/&gt;&lt;br/&gt;🎟️ 优惠码：QQGNET5zc&lt;br/&gt;&lt;br/&gt;#QQGNET #香港VPS #香港高防 #CN2GIA #CMIN2 #VPS测评&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX_EQALasAAIa_K.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;🇭🇰 http://QQG.NET 香港 CF 三网精品 VPS 实测：CN2 GIA + 联通 AS10099 + CMIN2，内地平均延迟约43ms！&lt;br/&gt;&lt;br/&gt;这次测试的是 http://QQG.NET 新推出的香港 CF 高防 VPS，接入 Cloudflare 高防，官方宣称最高支持 5600G 峰值防御清洗能力。&lt;br/&gt;&lt;br/&gt;网络配置比较有意思：&lt;br/&gt;- 电信：去程、回程 CN2 GIA&lt;br/&gt;- 联通：实际去程、回程 AS10099（并非宣传的 AS9929）&lt;br/&gt;- 移动：去程、回程 CMIN2&lt;br/&gt;- 国际方向：1Gbps&lt;br/&gt;- 中国内地方向：30Mbps&lt;br/&gt;- Cloudflare 高防接入&lt;br/&gt;&lt;br/&gt;🔥 套餐价格（使用优惠码后）：&lt;br/&gt;&lt;br/&gt;大带宽流量型&lt;br/&gt;- 1核2G / 10GB / 100GB流量：$14.9/月&lt;br/&gt;- 2核2G / 20GB / 200GB流量：$24.9/月&lt;br/&gt;- 4核4G / 80GB / 500GB流量：$54.9/月&lt;br/&gt;- 8核8G / 160GB / 1TB流量：$99.9/月&lt;br/&gt;- 16核16G / 300GB / 2TB流量：$199.9/月&lt;br/&gt;&lt;br/&gt;小带宽不限流量&lt;br/&gt;- 2核2G / 50GB / 2Mbps：$24.9/月&lt;br/&gt;- 4核4G / 80GB / 3Mbps：$54.9/月&lt;br/&gt;- 8核8G / 160GB / 5Mbps：$99.9/月&lt;br/&gt;- 16核16G / 300GB / 7Mbps：$199.9/月&lt;br/&gt;&lt;br/&gt;🎟️ 优惠码：QQGNET5zc&lt;br/&gt;&lt;br/&gt;📊 本次实测重点：&lt;br/&gt;- 内地平均延迟约43ms。&lt;br/&gt;- 海外上传速度最高约950Mbps。&lt;br/&gt;- 内地多线程下载约30Mbps。&lt;br/&gt;- YouTube速度约3万+，4K基本流畅。&lt;br/&gt;- CPU：Intel Xeon Platinum 8163。&lt;br/&gt;- 硬盘平均读写约351MB/s。&lt;br/&gt;- 香港原生机房IP，非住宅IP。&lt;br/&gt;- TCP 25端口开放，可用于邮件服务测试。&lt;br/&gt;- 支持 Linux、Windows，付款支持支付宝和USDT。&lt;br/&gt;&lt;br/&gt;⚠️ 几个需要注意的问题：&lt;br/&gt;&lt;br/&gt;1. 联通实际走 AS10099，并非宣传的 AS9929。&lt;br/&gt;2. 内地单线程下载表现一般，部分节点速度较低。&lt;br/&gt;3. 大包回程测试中，电信和移动丢包接近40%，网络稳定性仍需关注。&lt;br/&gt;4. 不同IP检测平台对风险评价存在差异。&lt;br/&gt;&lt;br/&gt;总体来看，这款机器的卖点是香港机房、三网优化线路和 Cloudflare 高防，比较适合面向内地及海外用户的普通网站、企业站和中小型业务。&lt;br/&gt;&lt;br/&gt;但如果对持续高速传输、网络稳定性要求较高，建议先测试再购买。&lt;br/&gt;&lt;br/&gt;🛒 购买地址：https://www.qqg.net/recommend/6hLsmyp60d2U?aff_group=1&amp;amp;fpg_id=1&amp;amp;spg_id=23&lt;br/&gt;&lt;br/&gt;🎟️ 优惠码：QQGNET5zc&lt;br/&gt;&lt;br/&gt;#QQGNET #香港VPS #香港高防 #CN2GIA #CMIN2 #VPS测评&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX_EQALasAAIa_K.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gwvpsceping/status/2125794175748608359</guid>
+      <pubDate>Thu, 26 Nov 2026 03:30:01 +0000</pubDate>
+    </item>
     <item>
       <title>UCloud国际站（优刻得旗下，科创板上市公司，股票代码688158）推出 ULightHost 轻量云</title>
       <link>https://x.com/gwvpsceping/status/2125783500288909709</link>
@@ -196,14 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125621688411058176/img/kqzPkifcaxisos1u.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/gwvpsceping/status/2125622067676729842</guid>
       <pubDate>Wed, 25 Nov 2026 16:06:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://x.com/i/article/2125608648173031425</title>
-      <link>https://x.com/gwvpsceping/status/2125609336256999874</link>
-      <description>&lt;p&gt;https://x.com/i/article/2125608648173031425&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;https://x.com/i/article/2125608648173031425&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/gwvpsceping/status/2125609336256999874</guid>
-      <pubDate>Wed, 25 Nov 2026 15:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

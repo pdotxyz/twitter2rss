@@ -6,7 +6,17 @@
     <description>Posts from x.com/xzzzjpl</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 01:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:19:32 +0000</lastBuildDate>
+    <item>
+      <title>儿童作品:《墙》。</title>
+      <link>https://x.com/xzzzjpl/status/2125791537024098570</link>
+      <description>&lt;p&gt;儿童作品:《墙》。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBUIM5bEAAk07y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;儿童作品:《墙》。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBUIM5bEAAk07y.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/xzzzjpl/status/2125791537024098570</guid>
+      <pubDate>Thu, 26 Nov 2026 03:19:32 +0000</pubDate>
+    </item>
     <item>
       <title>中国的遗产税，早晚还得开征吧？</title>
       <link>https://x.com/xzzzjpl/status/2125760421391147102</link>
@@ -186,16 +196,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/Alex_perception/status/2122662112334078173"&gt;@Alex_perception&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2122659532438745088&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/xzzzjpl/status/2123041029817565672</guid>
       <pubDate>Wed, 18 Nov 2026 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>此时无声胜有声！</title>
-      <link>https://x.com/xzzzjpl/status/2122994188832911710</link>
-      <description>&lt;p&gt;此时无声胜有声！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXZj9ksaIAEEGX5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;此时无声胜有声！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXZj9ksaIAEEGX5.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/xzzzjpl/status/2122994188832911710</guid>
-      <pubDate>Wed, 18 Nov 2026 10:03:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
