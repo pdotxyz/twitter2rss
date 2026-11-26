@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 23:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:38:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2125750885011644893</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-zn_ybcAAOm_r.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-zn_ybcAAOm_r.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2125750885011644893</guid>
+      <pubDate>Thu, 26 Nov 2026 00:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>每天仅1元，解锁高质量图文资讯与深度研报大礼包。 加入知识星球《财经图集》1年会员</title>
       <link>https://x.com/fingraph66/status/2125735534391599129</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84KqrbgAAzEFC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2125524392746668120</guid>
       <pubDate>Wed, 25 Nov 2026 09:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>麦格理指出，费城半导体指数（SOX）历史走势往往领先中国出口增速约两个季度。随着该</title>
-      <link>https://x.com/fingraph66/status/2125508539053674981</link>
-      <description>&lt;p&gt;麦格理指出，费城半导体指数（SOX）历史走势往往领先中国出口增速约两个季度。随着该指数在2026年下半年累计回调约33%，今年以来表现强劲的中国出口热潮最快或于2027年一季度开始明显放缓；这意味着今年凭借出口高增得以保持克制的国内宏观政策，在明年可能难以继续单纯依赖外需实现增长目标，2027年初中国出台新一轮稳增长刺激政策的必要性正在上升。&lt;br/&gt;来源：麦格理&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX83ZYBbAAAwPw3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;麦格理指出，费城半导体指数（SOX）历史走势往往领先中国出口增速约两个季度。随着该指数在2026年下半年累计回调约33%，今年以来表现强劲的中国出口热潮最快或于2027年一季度开始明显放缓；这意味着今年凭借出口高增得以保持克制的国内宏观政策，在明年可能难以继续单纯依赖外需实现增长目标，2027年初中国出台新一轮稳增长刺激政策的必要性正在上升。&lt;br/&gt;来源：麦格理&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX83ZYBbAAAwPw3.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2125508539053674981</guid>
-      <pubDate>Wed, 25 Nov 2026 08:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
