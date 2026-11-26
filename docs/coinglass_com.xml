@@ -6,7 +6,17 @@
     <description>Posts from x.com/coinglass_com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 09:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:08:46 +0000</lastBuildDate>
+    <item>
+      <title>现在您可以尝试我们最新的腿图 比以往任何时候都光滑</title>
+      <link>https://x.com/coinglass_com/status/2125954920851661099</link>
+      <description>&lt;p&gt;现在您可以尝试我们最新的腿图&lt;br/&gt;&lt;br/&gt;比以往任何时候都光滑&lt;/p&gt;&lt;p&gt;Now you can try our latest Legned Chart&lt;br/&gt;&lt;br/&gt;Smooth than ever&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYDot3bacAApqy9.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;现在您可以尝试我们最新的腿图&lt;br/&gt;&lt;br/&gt;比以往任何时候都光滑&lt;/p&gt;&lt;p&gt;Now you can try our latest Legned Chart&lt;br/&gt;&lt;br/&gt;Smooth than ever&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYDot3bacAApqy9.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/coinglass_com/status/2125954920851661099</guid>
+      <pubDate>Thu, 26 Nov 2026 14:08:46 +0000</pubDate>
+    </item>
     <item>
       <title>总经理！ #BTC清算热图（12小时）</title>
       <link>https://x.com/coinglass_com/status/2125888619315696064</link>
@@ -200,16 +210,6 @@
       <content:encoded>&lt;p&gt;来源：https://www.coinglass.com/currencies/BTC/historical-data&lt;/p&gt;&lt;p&gt;source:https://www.coinglass.com/currencies/BTC/historical-data&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/coinglass_com/status/2124072774247559454</guid>
       <pubDate>Sat, 21 Nov 2026 09:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥶</title>
-      <link>https://x.com/coinglass_com/status/2124040282740060564</link>
-      <description>&lt;p&gt;🥶&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXobWmjXIAALsAe.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;🥶&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXobWmjXIAALsAe.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/coinglass_com/status/2124040282740060564</guid>
-      <pubDate>Sat, 21 Nov 2026 07:20:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
