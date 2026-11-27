@@ -6,7 +6,29 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 13:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:26:46 +0000</lastBuildDate>
+    <item>
+      <title>Antigravity 周边的插件太多啦，把我找到的汇总 &gt;https://github.com/qqxpee/antigrav</title>
+      <link>https://x.com/geekbb/status/2126321838976532718</link>
+      <description>&lt;p&gt;Antigravity 周边的插件太多啦，把我找到的汇总&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/qqxpee/antigravity2-cn&lt;br/&gt;Antigravity 2.0 的简繁中文汉化包，纯 Node.js 注入 app.asar，界面、菜单和托盘都能翻过来，不想用了也能一键还原。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/yuhuan-dev/antigravity-usage-monitor&lt;br/&gt;盯紧 Antigravity 消耗的本地监控工具（桌面端、IDE、CLI 都支持），Token 用量、上下文窗口、剩余额度、出字速度（TPS/TTFT）和子代理数据全都能看，零第三方依赖。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/CHANPAJN/antigravity-langpack&lt;br/&gt;不想动 asar 原文件的话可以用这个，自带中文等 15 种离线语言，Antigravity 客户端、IDE 和官方 VS Code 插件都能直接汉化。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/iamvicliu/antigravity-suite&lt;br/&gt;macOS 专属的免改包外挂工具，装上就有中文界面和思考过程本地翻译，还能用手机远程遥控审批、提前预警额度，遇到 rm -rf 这类危险命令会红框拦住。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/elviscjn-cjn/antigravity-context-viewer&lt;br/&gt;给 Antigravity 2.x 补全上下文和用量面板的工具，能按模型单独调上下文上限、看各模型剩余额度和生成速度，还顺带做了汉化和免 TUN 本地代理。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/anglee0323/agy-switch&lt;br/&gt;多账号切号工具，桌面端、状态栏和 CLI 都能用，哪个号还剩多少额度、什么时候重置一眼就能看清，快耗尽时还能自动切备用号。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/RMvdesi/obsidian-prism&lt;br/&gt;给 Antigravity 换肤的光学主题套件，除了四套深浅配色，还做了会动的 512K 上下文流体试管、弹簧动效、像素小宠物和自定义壁纸。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;br/&gt;走本地 CDP 注入、不改安装包的增强插件，能把界面换成 Codex 昼夜双主题和本机字体，还带中文汉化、5h/7d 额度显示、实时用量监控和分屏/旁路提问，功能可以按需挑着装。&lt;br/&gt;&lt;br/&gt;但是有个最大的问题，这种插件，哪怕只是汉化，是不是 Antigravity 官方所允许的，到底有没有封号的风险。我让 AI 分析了其中一个，大家自行判断吧。我目前用最后一个，而且只打开了主题、汉化和实时用量监控，其他的都没敢开。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIuf3aa0AArj8K.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIw97ObgAA6_I2.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxLvGacAAD4Ln.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxUOXaoAA4uLf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxnKwaEAAqVt_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIx0y6bAAERvPv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIx8_ObcAAQ4Ny.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Antigravity 周边的插件太多啦，把我找到的汇总&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/qqxpee/antigravity2-cn&lt;br/&gt;Antigravity 2.0 的简繁中文汉化包，纯 Node.js 注入 app.asar，界面、菜单和托盘都能翻过来，不想用了也能一键还原。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/yuhuan-dev/antigravity-usage-monitor&lt;br/&gt;盯紧 Antigravity 消耗的本地监控工具（桌面端、IDE、CLI 都支持），Token 用量、上下文窗口、剩余额度、出字速度（TPS/TTFT）和子代理数据全都能看，零第三方依赖。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/CHANPAJN/antigravity-langpack&lt;br/&gt;不想动 asar 原文件的话可以用这个，自带中文等 15 种离线语言，Antigravity 客户端、IDE 和官方 VS Code 插件都能直接汉化。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/iamvicliu/antigravity-suite&lt;br/&gt;macOS 专属的免改包外挂工具，装上就有中文界面和思考过程本地翻译，还能用手机远程遥控审批、提前预警额度，遇到 rm -rf 这类危险命令会红框拦住。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/elviscjn-cjn/antigravity-context-viewer&lt;br/&gt;给 Antigravity 2.x 补全上下文和用量面板的工具，能按模型单独调上下文上限、看各模型剩余额度和生成速度，还顺带做了汉化和免 TUN 本地代理。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/anglee0323/agy-switch&lt;br/&gt;多账号切号工具，桌面端、状态栏和 CLI 都能用，哪个号还剩多少额度、什么时候重置一眼就能看清，快耗尽时还能自动切备用号。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/RMvdesi/obsidian-prism&lt;br/&gt;给 Antigravity 换肤的光学主题套件，除了四套深浅配色，还做了会动的 512K 上下文流体试管、弹簧动效、像素小宠物和自定义壁纸。&lt;br/&gt;&lt;br/&gt;&amp;gt;https://github.com/nkjDSLcvanv/antigravity-codex-theme&lt;br/&gt;走本地 CDP 注入、不改安装包的增强插件，能把界面换成 Codex 昼夜双主题和本机字体，还带中文汉化、5h/7d 额度显示、实时用量监控和分屏/旁路提问，功能可以按需挑着装。&lt;br/&gt;&lt;br/&gt;但是有个最大的问题，这种插件，哪怕只是汉化，是不是 Antigravity 官方所允许的，到底有没有封号的风险。我让 AI 分析了其中一个，大家自行判断吧。我目前用最后一个，而且只打开了主题、汉化和实时用量监控，其他的都没敢开。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIuf3aa0AArj8K.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIw97ObgAA6_I2.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxLvGacAAD4Ln.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxUOXaoAA4uLf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIxnKwaEAAqVt_.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIx0y6bAAERvPv.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIx8_ObcAAQ4Ny.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126321838976532718</guid>
+      <pubDate>Fri, 27 Nov 2026 14:26:46 +0000</pubDate>
+    </item>
     <item>
       <title>对喽，现在情况就是这个情况。</title>
       <link>https://x.com/geekbb/status/2126306055324053987</link>
@@ -206,16 +228,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84icfacAAm3R1.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125479882495066480</guid>
       <pubDate>Wed, 25 Nov 2026 06:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>太好了～</title>
-      <link>https://x.com/geekbb/status/2125468579361693954</link>
-      <description>&lt;p&gt;太好了～&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ohayou792/status/2125435633363775782"&gt;@ohayou792&lt;/a&gt;&lt;/p&gt;&lt;p&gt;别替 Google 操心被蒸馏了。&lt;br/&gt;&lt;br/&gt;自打Neon发布后Gemini的风评极好，智商高干活又麻利&lt;br/&gt;&lt;br/&gt;这两天看到不少人担心，这种广受好评的模型放出来，肯定要被其他厂商拿去批量扫号来进行蒸馏，从而影响到正常用户的使用。&lt;br/&gt;&lt;br/&gt;其实 Google 在 Gemini 接口底层早就上了防蒸馏机制，大家完全可以不用担心。&lt;br/&gt;&lt;br/&gt;Google 威胁情报团队今年披露过针对模型提取的实时防御。&lt;br/&gt;后台会一直盯着模型的调用分布，一旦发现那种几万条提示词循环探测、专门套取跨语言逻辑和推理过程的自动化脚本，系统不会急着限流，也不弹报错。&lt;br/&gt;&lt;br/&gt;后台会直接对这个账号触发动态降级，悄悄把输出质量往下压，甚至往返回内容里掺一点扰动。&lt;br/&gt;&lt;br/&gt;再加上 Gemini 4 系列现在默认不会把未经处理的原始思维链直接返回给调用方，接口给出来的通常是思维摘要和加密后的思维签名。&lt;br/&gt;想靠写几句诱导提示词强行套出完整思考轨迹，安全分类器在前面就直接拦掉了。&lt;br/&gt;&lt;br/&gt;正常使用的用户基本感觉不到这层防护。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8QWi-a0AA2FfI.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;太好了～&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ohayou792/status/2125435633363775782"&gt;@ohayou792&lt;/a&gt;&lt;/p&gt;&lt;p&gt;别替 Google 操心被蒸馏了。&lt;br/&gt;&lt;br/&gt;自打Neon发布后Gemini的风评极好，智商高干活又麻利&lt;br/&gt;&lt;br/&gt;这两天看到不少人担心，这种广受好评的模型放出来，肯定要被其他厂商拿去批量扫号来进行蒸馏，从而影响到正常用户的使用。&lt;br/&gt;&lt;br/&gt;其实 Google 在 Gemini 接口底层早就上了防蒸馏机制，大家完全可以不用担心。&lt;br/&gt;&lt;br/&gt;Google 威胁情报团队今年披露过针对模型提取的实时防御。&lt;br/&gt;后台会一直盯着模型的调用分布，一旦发现那种几万条提示词循环探测、专门套取跨语言逻辑和推理过程的自动化脚本，系统不会急着限流，也不弹报错。&lt;br/&gt;&lt;br/&gt;后台会直接对这个账号触发动态降级，悄悄把输出质量往下压，甚至往返回内容里掺一点扰动。&lt;br/&gt;&lt;br/&gt;再加上 Gemini 4 系列现在默认不会把未经处理的原始思维链直接返回给调用方，接口给出来的通常是思维摘要和加密后的思维签名。&lt;br/&gt;想靠写几句诱导提示词强行套出完整思考轨迹，安全分类器在前面就直接拦掉了。&lt;br/&gt;&lt;br/&gt;正常使用的用户基本感觉不到这层防护。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8QWi-a0AA2FfI.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125468579361693954</guid>
-      <pubDate>Wed, 25 Nov 2026 05:56:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
