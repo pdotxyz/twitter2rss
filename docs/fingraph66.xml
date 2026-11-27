@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 20:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:40:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2126430865756692963</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-0CIubAAAvS75.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-0CIubAAAvS75.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2126430865756692963</guid>
+      <pubDate>Fri, 27 Nov 2026 21:40:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2126415514578596264</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYGewk2bYAAH9YS.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2126155066252173397</guid>
       <pubDate>Fri, 27 Nov 2026 03:24:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>高盛指出，2026年地缘油价冲击与紧缩财政导致MSCI中国和沪深300远期市盈率压缩约20%，</title>
-      <link>https://x.com/fingraph66/status/2126154633051849005</link>
-      <description>&lt;p&gt;高盛指出，2026年地缘油价冲击与紧缩财政导致MSCI中国和沪深300远期市盈率压缩约20%，仅为9.8倍和11.9倍，分别低于十年均值1.0和0.5个标准差。回溯2002年以来的月度数据，每当MSCI中国指数在10倍及以下远期市盈率区间交易时，未来12个月录得正回报的历史胜率高达85%。&lt;br/&gt;来源：高盛（《2027年展望：AI投资逻辑生变，H股重回增持》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYGeTWNbQAABM5M.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;高盛指出，2026年地缘油价冲击与紧缩财政导致MSCI中国和沪深300远期市盈率压缩约20%，仅为9.8倍和11.9倍，分别低于十年均值1.0和0.5个标准差。回溯2002年以来的月度数据，每当MSCI中国指数在10倍及以下远期市盈率区间交易时，未来12个月录得正回报的历史胜率高达85%。&lt;br/&gt;来源：高盛（《2027年展望：AI投资逻辑生变，H股重回增持》，更多详细内容请见《财经图集》知识星球，文末领取优惠券加入）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYGeTWNbQAABM5M.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2126154633051849005</guid>
-      <pubDate>Fri, 27 Nov 2026 03:22:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
