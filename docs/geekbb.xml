@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 11:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:24:03 +0000</lastBuildDate>
+    <item>
+      <title>对喽，现在情况就是这个情况。</title>
+      <link>https://x.com/geekbb/status/2126306055324053987</link>
+      <description>&lt;p&gt;对喽，现在情况就是这个情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIOnVdbEAAFqTf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;对喽，现在情况就是这个情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYIOnVdbEAAFqTf.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126306055324053987</guid>
+      <pubDate>Fri, 27 Nov 2026 13:24:03 +0000</pubDate>
+    </item>
     <item>
       <title>虽然说 Antigravity Bot 许愿没有实现，Gemini Bots 也可以，但是长这样就算了吧……</title>
       <link>https://x.com/geekbb/status/2126282567477518655</link>
@@ -206,16 +216,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/ohayou792/status/2125435633363775782"&gt;@ohayou792&lt;/a&gt;&lt;/p&gt;&lt;p&gt;别替 Google 操心被蒸馏了。&lt;br/&gt;&lt;br/&gt;自打Neon发布后Gemini的风评极好，智商高干活又麻利&lt;br/&gt;&lt;br/&gt;这两天看到不少人担心，这种广受好评的模型放出来，肯定要被其他厂商拿去批量扫号来进行蒸馏，从而影响到正常用户的使用。&lt;br/&gt;&lt;br/&gt;其实 Google 在 Gemini 接口底层早就上了防蒸馏机制，大家完全可以不用担心。&lt;br/&gt;&lt;br/&gt;Google 威胁情报团队今年披露过针对模型提取的实时防御。&lt;br/&gt;后台会一直盯着模型的调用分布，一旦发现那种几万条提示词循环探测、专门套取跨语言逻辑和推理过程的自动化脚本，系统不会急着限流，也不弹报错。&lt;br/&gt;&lt;br/&gt;后台会直接对这个账号触发动态降级，悄悄把输出质量往下压，甚至往返回内容里掺一点扰动。&lt;br/&gt;&lt;br/&gt;再加上 Gemini 4 系列现在默认不会把未经处理的原始思维链直接返回给调用方，接口给出来的通常是思维摘要和加密后的思维签名。&lt;br/&gt;想靠写几句诱导提示词强行套出完整思考轨迹，安全分类器在前面就直接拦掉了。&lt;br/&gt;&lt;br/&gt;正常使用的用户基本感觉不到这层防护。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX8QWi-a0AA2FfI.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125468579361693954</guid>
       <pubDate>Wed, 25 Nov 2026 05:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>这印证了我的体感，Gemini APP里面的 Neon 没有 Antigravity 聪明，Hydrogen 也如是！</title>
-      <link>https://x.com/geekbb/status/2125462412400963788</link>
-      <description>&lt;p&gt;这印证了我的体感，Gemini APP里面的 Neon 没有 Antigravity 聪明，Hydrogen 也如是！所以我现在需要 Antigravity 手机版。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125265770649460736/img/EtIWSagCwcZXJ0m-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;这印证了我的体感，Gemini APP里面的 Neon 没有 Antigravity 聪明，Hydrogen 也如是！所以我现在需要 Antigravity 手机版。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125265770649460736/img/EtIWSagCwcZXJ0m-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125462412400963788</guid>
-      <pubDate>Wed, 25 Nov 2026 05:31:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
