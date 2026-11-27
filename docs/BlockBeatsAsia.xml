@@ -6,7 +6,27 @@
     <description>Posts from x.com/BlockBeatsAsia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 01:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:55:08 +0000</lastBuildDate>
+    <item>
+      <title>一周前，租一张英伟达 B300 比 B200 贵约 27%，现在只贵 11%。 同一周里，涨得最快的</title>
+      <link>https://x.com/BlockBeatsAsia/status/2126147782918705444</link>
+      <description>&lt;p&gt;一周前，租一张英伟达 B300 比 B200 贵约 27%，现在只贵 11%。&lt;br/&gt;&lt;br/&gt;同一周里，涨得最快的却是更早推出的 H100。截至 11 月 27 日，Ornn 租赁价格指数显示：&lt;br/&gt;&lt;br/&gt;- B200 每卡每小时租金涨至 9.74 美元，周涨 6.2%&lt;br/&gt;- B300 跌至 10.82 美元，周跌 7.2%&lt;br/&gt;- H100 和 H200 则分别上涨 17.3% 和 5%&lt;br/&gt;&lt;br/&gt;东南亚的云厂商还要面对交付问题。据《金融时报》报道，美国对先进芯片实施新的出口许可要求后，英伟达已通知制造伙伴，暂停向马来西亚、新加坡、泰国和印度尼西亚发运搭载其芯片的服务器。&lt;br/&gt;&lt;br/&gt;若新集群延期上线，急着开工的客户可能转租当地已有的 H100 或 B200，推高短期租金压力。这一影响还要看当地交付周期和集群利用率，单凭本周指数涨幅，很难判断有多少来自停运。&lt;br/&gt;&lt;br/&gt;把时间拉到 2028 年底，@Polymarket 给 B200、B300 的隐含租金分别是每卡每小时 5.48 和 8.94 美元，较当前低约 44% 和 17%。&lt;br/&gt;&lt;br/&gt;按这个价格算，市场预期两款芯片的租金都会下降，但 B300 相对 B200 的溢价反而会扩大到约 63%。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYGYIwUbcAAHDtP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;一周前，租一张英伟达 B300 比 B200 贵约 27%，现在只贵 11%。&lt;br/&gt;&lt;br/&gt;同一周里，涨得最快的却是更早推出的 H100。截至 11 月 27 日，Ornn 租赁价格指数显示：&lt;br/&gt;&lt;br/&gt;- B200 每卡每小时租金涨至 9.74 美元，周涨 6.2%&lt;br/&gt;- B300 跌至 10.82 美元，周跌 7.2%&lt;br/&gt;- H100 和 H200 则分别上涨 17.3% 和 5%&lt;br/&gt;&lt;br/&gt;东南亚的云厂商还要面对交付问题。据《金融时报》报道，美国对先进芯片实施新的出口许可要求后，英伟达已通知制造伙伴，暂停向马来西亚、新加坡、泰国和印度尼西亚发运搭载其芯片的服务器。&lt;br/&gt;&lt;br/&gt;若新集群延期上线，急着开工的客户可能转租当地已有的 H100 或 B200，推高短期租金压力。这一影响还要看当地交付周期和集群利用率，单凭本周指数涨幅，很难判断有多少来自停运。&lt;br/&gt;&lt;br/&gt;把时间拉到 2028 年底，@Polymarket 给 B200、B300 的隐含租金分别是每卡每小时 5.48 和 8.94 美元，较当前低约 44% 和 17%。&lt;br/&gt;&lt;br/&gt;按这个价格算，市场预期两款芯片的租金都会下降，但 B300 相对 B200 的溢价反而会扩大到约 63%。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYGYIwUbcAAHDtP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2126147782918705444</guid>
+      <pubDate>Fri, 27 Nov 2026 02:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>过去三年，字节、阿里、腾讯是如何绕开美国出口管制，用上英伟达最先进的 AI 芯片的？</title>
+      <link>https://x.com/BlockBeatsAsia/status/2126138526639268071</link>
+      <description>&lt;p&gt;过去三年，字节、阿里、腾讯是如何绕开美国出口管制，用上英伟达最先进的 AI 芯片的？&lt;br/&gt;&lt;br/&gt;中国大厂不直接买卡，海外算力公司负责采购，数据中心运营商负责建机房，华尔街和亚洲银行负责融资。大厂只需签下长期租赁协议，就能远程调用算力。&lt;br/&gt;&lt;br/&gt;这门生意有多大？马来西亚柔佛与中国相关的数据中心容量，从 2022 年底的 19 兆瓦飙升至今年 10 月的 1210 兆瓦，增长超过 60 倍。花旗、摩根大通、星展、高瓴等资本巨头均参与其中。&lt;br/&gt;&lt;br/&gt;但美国 11 月 16 日出台的新规，改变了整个游戏规则：不再只看芯片卖给谁，而是看最终使用算力的公司总部在哪里。&lt;br/&gt;&lt;br/&gt;银行已经开始收紧贷款，部分算力供应商被列入实体清单，数百亿美元的融资与长期算力合约面临重新审视。&lt;br/&gt;&lt;br/&gt;动察 Beating 最新深度长文，拆解这条横跨中国、东南亚和华尔街的隐秘 AI 算力供应链，以及字节、阿里、腾讯各自面临的困局。&lt;br/&gt;&lt;br/&gt;东南亚的中间人还有机会选边站，但中国互联网三巨头没有。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/BeatingOfficial/status/2126127993429106949"&gt;@BeatingOfficial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2126125543842324480&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;过去三年，字节、阿里、腾讯是如何绕开美国出口管制，用上英伟达最先进的 AI 芯片的？&lt;br/&gt;&lt;br/&gt;中国大厂不直接买卡，海外算力公司负责采购，数据中心运营商负责建机房，华尔街和亚洲银行负责融资。大厂只需签下长期租赁协议，就能远程调用算力。&lt;br/&gt;&lt;br/&gt;这门生意有多大？马来西亚柔佛与中国相关的数据中心容量，从 2022 年底的 19 兆瓦飙升至今年 10 月的 1210 兆瓦，增长超过 60 倍。花旗、摩根大通、星展、高瓴等资本巨头均参与其中。&lt;br/&gt;&lt;br/&gt;但美国 11 月 16 日出台的新规，改变了整个游戏规则：不再只看芯片卖给谁，而是看最终使用算力的公司总部在哪里。&lt;br/&gt;&lt;br/&gt;银行已经开始收紧贷款，部分算力供应商被列入实体清单，数百亿美元的融资与长期算力合约面临重新审视。&lt;br/&gt;&lt;br/&gt;动察 Beating 最新深度长文，拆解这条横跨中国、东南亚和华尔街的隐秘 AI 算力供应链，以及字节、阿里、腾讯各自面临的困局。&lt;br/&gt;&lt;br/&gt;东南亚的中间人还有机会选边站，但中国互联网三巨头没有。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/BeatingOfficial/status/2126127993429106949"&gt;@BeatingOfficial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2126125543842324480&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2126138526639268071</guid>
+      <pubDate>Fri, 27 Nov 2026 02:18:21 +0000</pubDate>
+    </item>
     <item>
       <title>旗舰基金今年前 10 个月赚了 15.3%，城堡基金（Citadel）准备把约 35 亿美元利润还给</title>
       <link>https://x.com/BlockBeatsAsia/status/2126122496957317567</link>
@@ -186,24 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125523065870430209/img/OjcQyKqE9sFVwGdv.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2125566419949539517</guid>
       <pubDate>Wed, 25 Nov 2026 12:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UMX 授信怎么开、利息怎么算？⁠ 不卖币，也能买港美股。5 万 USDT 放在 UMX @UMX_CN，</title>
-      <link>https://x.com/BlockBeatsAsia/status/2125556353556996113</link>
-      <description>&lt;p&gt;UMX 授信怎么开、利息怎么算？⁠&lt;br/&gt;&lt;br/&gt;不卖币，也能买港美股。5 万 USDT 放在 UMX @UMX_CN，能拿到多少授信？&lt;br/&gt;&lt;br/&gt;按 0.96 的参考系数折算，若平台和个人剩余额度充足，锁定加密账户里的 5 万 USDT 可用保证金，证券账户可获得 4.8 万美元授信，用于交易港美股。USDT 留在原账户，授信额度不可提现。&lt;br/&gt;&lt;br/&gt;没用额度就不计息。当日买卖、交收后没有欠款，通常也不计息。卖股还款得等资金交收，还清后还要主动回收授信，才能解锁 USDT。&lt;br/&gt;&lt;br/&gt;如果加密账户保证金不足，系统可能自动回收授信。证券账户若因此触及风控阈值，也可能被强平。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UMX_CN/status/2125181876881252784"&gt;@UMX_CN&lt;/a&gt;&lt;/p&gt;&lt;p&gt;昨晚 $NVDA 单日暴涨 31%，纳指飙升 6.5%！今晚美股盘后，AI 服务器巨 $DELL 接棒发财报，AI 算力需求将迎来新一轮检验。&lt;br/&gt;&lt;br/&gt;想交易美股，又不想卖掉手中的加密资产？UMX 币股授信，让你不必二选一。&lt;br/&gt;&lt;br/&gt;🔹 不卖币、不划转：以加密资产作担保，无需改变原有持仓，即可提升证券购买力。&lt;br/&gt;🔹 闲置 0 息，结算前还清 0 息：授信额度不用不计息，交易现金结算前清偿欠款，同样无需支付利息。&lt;br/&gt;&lt;br/&gt;别让银行的工作日，卡住你的跨市场交易窗口。&lt;br/&gt;&lt;br/&gt;📖 解锁机构级跨市场资金调度方式： &lt;br/&gt;https://www.umx.com/zh-CN/news/umx-crypto-credit-line-guide&lt;br/&gt;&lt;br/&gt;#UMX #NVDA #美股&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4phrwagAAI-1k.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;UMX 授信怎么开、利息怎么算？⁠&lt;br/&gt;&lt;br/&gt;不卖币，也能买港美股。5 万 USDT 放在 UMX @UMX_CN，能拿到多少授信？&lt;br/&gt;&lt;br/&gt;按 0.96 的参考系数折算，若平台和个人剩余额度充足，锁定加密账户里的 5 万 USDT 可用保证金，证券账户可获得 4.8 万美元授信，用于交易港美股。USDT 留在原账户，授信额度不可提现。&lt;br/&gt;&lt;br/&gt;没用额度就不计息。当日买卖、交收后没有欠款，通常也不计息。卖股还款得等资金交收，还清后还要主动回收授信，才能解锁 USDT。&lt;br/&gt;&lt;br/&gt;如果加密账户保证金不足，系统可能自动回收授信。证券账户若因此触及风控阈值，也可能被强平。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/UMX_CN/status/2125181876881252784"&gt;@UMX_CN&lt;/a&gt;&lt;/p&gt;&lt;p&gt;昨晚 $NVDA 单日暴涨 31%，纳指飙升 6.5%！今晚美股盘后，AI 服务器巨 $DELL 接棒发财报，AI 算力需求将迎来新一轮检验。&lt;br/&gt;&lt;br/&gt;想交易美股，又不想卖掉手中的加密资产？UMX 币股授信，让你不必二选一。&lt;br/&gt;&lt;br/&gt;🔹 不卖币、不划转：以加密资产作担保，无需改变原有持仓，即可提升证券购买力。&lt;br/&gt;🔹 闲置 0 息，结算前还清 0 息：授信额度不用不计息，交易现金结算前清偿欠款，同样无需支付利息。&lt;br/&gt;&lt;br/&gt;别让银行的工作日，卡住你的跨市场交易窗口。&lt;br/&gt;&lt;br/&gt;📖 解锁机构级跨市场资金调度方式： &lt;br/&gt;https://www.umx.com/zh-CN/news/umx-crypto-credit-line-guide&lt;br/&gt;&lt;br/&gt;#UMX #NVDA #美股&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4phrwagAAI-1k.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2125556353556996113</guid>
-      <pubDate>Wed, 25 Nov 2026 11:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://x.com/i/article/2125540392020086784</title>
-      <link>https://x.com/BlockBeatsAsia/status/2125545396848259221</link>
-      <description>&lt;p&gt;https://x.com/i/article/2125540392020086784&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;https://x.com/i/article/2125540392020086784&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2125545396848259221</guid>
-      <pubDate>Wed, 25 Nov 2026 11:01:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
