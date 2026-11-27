@@ -6,7 +6,17 @@
     <description>Posts from x.com/fingraph66</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 16:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:39:00 +0000</lastBuildDate>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/fingraph66/status/2126370215999291867</link>
+      <description>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-z0A5bkAAhhXj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-z0A5bkAAhhXj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fingraph66/status/2126370215999291867</guid>
+      <pubDate>Fri, 27 Nov 2026 17:39:00 +0000</pubDate>
+    </item>
     <item>
       <title>Media post</title>
       <link>https://x.com/fingraph66/status/2126354865043464407</link>
@@ -196,16 +206,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYD8RyPaUAEg2FY.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fingraph66/status/2126112266634568087</guid>
       <pubDate>Fri, 27 Nov 2026 00:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>每天仅1元，解锁高质量图文资讯与深度研报大礼包。 加入知识星球《财经图集》1年会员</title>
-      <link>https://x.com/fingraph66/status/2126096915381309534</link>
-      <description>&lt;p&gt;每天仅1元，解锁高质量图文资讯与深度研报大礼包。&lt;br/&gt;加入知识星球《财经图集》1年会员仅需398元/年，折合每月33元、每天仅1元。&lt;br/&gt;目前已有1800+位读者加入，优惠面向前200名，先到先得。&lt;br/&gt;开通后可享四大权益：高质量图文资讯、海量机构研报、研报深度解析、专享周末特辑分析。&lt;br/&gt;微信搜索二维码立即加入，每天1元解锁全部权益。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYD8JebbgAAbMrY.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;每天仅1元，解锁高质量图文资讯与深度研报大礼包。&lt;br/&gt;加入知识星球《财经图集》1年会员仅需398元/年，折合每月33元、每天仅1元。&lt;br/&gt;目前已有1800+位读者加入，优惠面向前200名，先到先得。&lt;br/&gt;开通后可享四大权益：高质量图文资讯、海量机构研报、研报深度解析、专享周末特辑分析。&lt;br/&gt;微信搜索二维码立即加入，每天1元解锁全部权益。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYD8JebbgAAbMrY.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fingraph66/status/2126096915381309534</guid>
-      <pubDate>Thu, 26 Nov 2026 23:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
