@@ -24,16 +24,6 @@
       <pubDate>Fri, 27 Nov 2026 12:52:29 +0000</pubDate>
     </item>
     <item>
-      <title>还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动10</title>
-      <link>https://x.com/lidangzzz/status/2126297573291876382</link>
-      <description>&lt;p&gt;还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动100个agent、100个exec是个极其敏感的问题。&lt;br/&gt;&lt;br/&gt;一方面是nodejs需要绑定大量历史javascript的技术债务，另一方面并不强制C++的RAll或者Rust ownership，导致程序员在内存使用上为所欲为。&lt;br/&gt;&lt;br/&gt;一个动态类型+强类型+强制类型检查+RAll or memory ownership+interpreted+JIT+其他所有语法全部砍砍砍砍干净，这是A语言的目标。 @hd_nvim&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/lidangzzz/status/2126173779734708363"&gt;@lidangzzz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;每隔几周，我都会反思从零开始设计一个LLM-Agent-native programming language的特性，我现在的想法是这样的。&lt;br/&gt;&lt;br/&gt;A语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，这一点是不会变的，强类型是套套，是所有安全的第一层基础；&lt;br/&gt;&lt;br/&gt;2. 动态语言+interpreter+高效率JIT，而不是compile+execute，也不是compile+virtual machine，因为大量script需要执行和销毁，所以减少编译中间的各种object、lib、binary、cache是一个非常重要的基础，目标就是减少对存储的消耗；&lt;br/&gt;&lt;br/&gt;3. 作为一个全新的语言，你需要喂一个巨大的specs和tutorial给LLM Agent用于理解和生成代码，所以尽可能地精简语法，大幅度砍掉语法糖，减少范式，减少编译器的复杂度，最大限度压榨interpreter自身tokenizer和parser的性能。&lt;br/&gt;&lt;br/&gt;B语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，先把套套戴上；&lt;br/&gt;&lt;br/&gt;2. 砍语法，砍语法糖，语法精简，语法干净得如同lisp，一切继续为了tokenizer和parser的极致性能服务；&lt;br/&gt;&lt;br/&gt;3. 静态编译，静态运行，incrementally compile每个文件，但是保存一个global cache folder，几十个agent在一个codebase工作的时候，遇见大量重复编译的文件，直接保存在一个单一的global cache folder；&lt;br/&gt;&lt;br/&gt;4. 拉满optimization，因为是incrementally compile改动文件，单个文件拉满optimization问题不大；&lt;br/&gt;&lt;br/&gt;5. 设置一个global cache manager，允许每个compiler去checkout latest diff去更新管理，这个我还没想好，容我把这个完善一下，总之就是每段source code和cache&lt;br/&gt;可以通过这段source code的最快checksum作为index来进行cache manager里查找。&lt;br/&gt;&lt;br/&gt;一旦查找checksum发现编译完成，就停止编译，直接fetch binary/lib/cache/object file。&lt;br/&gt;&lt;br/&gt;这样1000 local agent可以最大限度地共享一份cache，减少对你珍贵的NAND硬盘的占用。&lt;br/&gt;&lt;br/&gt;你们说，A好还是B好？&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动100个agent、100个exec是个极其敏感的问题。&lt;br/&gt;&lt;br/&gt;一方面是nodejs需要绑定大量历史javascript的技术债务，另一方面并不强制C++的RAll或者Rust ownership，导致程序员在内存使用上为所欲为。&lt;br/&gt;&lt;br/&gt;一个动态类型+强类型+强制类型检查+RAll or memory ownership+interpreted+JIT+其他所有语法全部砍砍砍砍干净，这是A语言的目标。 @hd_nvim&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/lidangzzz/status/2126173779734708363"&gt;@lidangzzz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;每隔几周，我都会反思从零开始设计一个LLM-Agent-native programming language的特性，我现在的想法是这样的。&lt;br/&gt;&lt;br/&gt;A语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，这一点是不会变的，强类型是套套，是所有安全的第一层基础；&lt;br/&gt;&lt;br/&gt;2. 动态语言+interpreter+高效率JIT，而不是compile+execute，也不是compile+virtual machine，因为大量script需要执行和销毁，所以减少编译中间的各种object、lib、binary、cache是一个非常重要的基础，目标就是减少对存储的消耗；&lt;br/&gt;&lt;br/&gt;3. 作为一个全新的语言，你需要喂一个巨大的specs和tutorial给LLM Agent用于理解和生成代码，所以尽可能地精简语法，大幅度砍掉语法糖，减少范式，减少编译器的复杂度，最大限度压榨interpreter自身tokenizer和parser的性能。&lt;br/&gt;&lt;br/&gt;B语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，先把套套戴上；&lt;br/&gt;&lt;br/&gt;2. 砍语法，砍语法糖，语法精简，语法干净得如同lisp，一切继续为了tokenizer和parser的极致性能服务；&lt;br/&gt;&lt;br/&gt;3. 静态编译，静态运行，incrementally compile每个文件，但是保存一个global cache folder，几十个agent在一个codebase工作的时候，遇见大量重复编译的文件，直接保存在一个单一的global cache folder；&lt;br/&gt;&lt;br/&gt;4. 拉满optimization，因为是incrementally compile改动文件，单个文件拉满optimization问题不大；&lt;br/&gt;&lt;br/&gt;5. 设置一个global cache manager，允许每个compiler去checkout latest diff去更新管理，这个我还没想好，容我把这个完善一下，总之就是每段source code和cache&lt;br/&gt;可以通过这段source code的最快checksum作为index来进行cache manager里查找。&lt;br/&gt;&lt;br/&gt;一旦查找checksum发现编译完成，就停止编译，直接fetch binary/lib/cache/object file。&lt;br/&gt;&lt;br/&gt;这样1000 local agent可以最大限度地共享一份cache，减少对你珍贵的NAND硬盘的占用。&lt;br/&gt;&lt;br/&gt;你们说，A好还是B好？&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2126297573291876382</guid>
-      <pubDate>Fri, 27 Nov 2026 12:50:20 +0000</pubDate>
-    </item>
-    <item>
       <title>百年一遇的京剧现场大车祸， 包公还有一句词没唱，等着唱呢，司鼓使劲儿打急急风，催</title>
       <link>https://x.com/lidangzzz/status/2126203878098002312</link>
       <description>&lt;p&gt;百年一遇的京剧现场大车祸，&lt;br/&gt;&lt;br/&gt;包公还有一句词没唱，等着唱呢，司鼓使劲儿打急急风，催包公下场，小锣拦不住，演员直接急了，在舞台上跺脚瞪眼，司鼓还急急风，&lt;br/&gt;&lt;br/&gt;最后包公才把这句词唱完。&lt;br/&gt;&lt;br/&gt;无论是不是故意的，这个大花脸以后要跟司鼓结仇了，以后没人敢再用这个司鼓了。&lt;br/&gt;&lt;br/&gt;上一次全网震惊的超级重大车祸，是云南京剧院蒲雪晴唱锁麟囊，那次纯粹是蒲雪晴和乐队的个人恩怨。&lt;/p&gt;
@@ -176,6 +166,22 @@
       <content:encoded>&lt;p&gt;哪个明星的名字里同时包含两个直辖市？&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125987238463062101</guid>
       <pubDate>Thu, 26 Nov 2026 16:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>沈栋说陈希口述“陈吉宁不是我选的”有两种理解， 第一种意思就是字面意思，陈吉宁不是</title>
+      <link>https://x.com/lidangzzz/status/2125964054187368692</link>
+      <description>&lt;p&gt;沈栋说陈希口述“陈吉宁不是我选的”有两种理解，&lt;br/&gt;&lt;br/&gt;第一种意思就是字面意思，陈吉宁不是我选的，是其他人选的，&lt;br/&gt;&lt;br/&gt;第二种理解是，我作为有实权的未来组织部长，我绝对不能承认陈吉宁是我选的，我只能公开说“这是组织考察和推荐的结果”，在这个关键节点，你不是我们内部人士，我不可能跟你讲实情。&lt;br/&gt;&lt;br/&gt;我觉得第二种的可能性远远大于第一种。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;沈栋说陈希口述“陈吉宁不是我选的”有两种理解，&lt;br/&gt;&lt;br/&gt;第一种意思就是字面意思，陈吉宁不是我选的，是其他人选的，&lt;br/&gt;&lt;br/&gt;第二种理解是，我作为有实权的未来组织部长，我绝对不能承认陈吉宁是我选的，我只能公开说“这是组织考察和推荐的结果”，在这个关键节点，你不是我们内部人士，我不可能跟你讲实情。&lt;br/&gt;&lt;br/&gt;我觉得第二种的可能性远远大于第一种。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125964054187368692</guid>
+      <pubDate>Thu, 26 Nov 2026 14:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>第三种：你不是自己人，我凭什么告诉你这些机密？说两句官场话，你自己猜去吧</title>
+      <link>https://x.com/lidangzzz/status/2125976962510344252</link>
+      <description>&lt;p&gt;第三种：你不是自己人，我凭什么告诉你这些机密？说两句官场话，你自己猜去吧&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;第三种：你不是自己人，我凭什么告诉你这些机密？说两句官场话，你自己猜去吧&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125976962510344252</guid>
+      <pubDate>Thu, 26 Nov 2026 15:36:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
