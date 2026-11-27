@@ -6,7 +6,17 @@
     <description>Posts from x.com/abskoop</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 07:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:16:42 +0000</lastBuildDate>
+    <item>
+      <title>电视开机广告被取消了🤓</title>
+      <link>https://x.com/abskoop/status/2126243808476373140</link>
+      <description>&lt;p&gt;电视开机广告被取消了🤓&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYHveAMbYAAbGPZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;电视开机广告被取消了🤓&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYHveAMbYAAbGPZ.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/abskoop/status/2126243808476373140</guid>
+      <pubDate>Fri, 27 Nov 2026 09:16:42 +0000</pubDate>
+    </item>
     <item>
       <title>有意思 这该不会是同一个老板开的吧</title>
       <link>https://x.com/abskoop/status/2126216704434823298</link>
@@ -214,16 +224,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX4qr70bAAA6ryu.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/abskoop/status/2125183830458044787</guid>
       <pubDate>Tue, 24 Nov 2026 11:04:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tesla FSD V15这个可视化有点酷 国内能用这个版本的话 就有意思了</title>
-      <link>https://x.com/abskoop/status/2124798610629935555</link>
-      <description>&lt;p&gt;Tesla FSD V15这个可视化有点酷&lt;br/&gt;&lt;br/&gt;国内能用这个版本的话 就有意思了&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124597405790199808/img/51VlXtQHY5WEgTgZ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Tesla FSD V15这个可视化有点酷&lt;br/&gt;&lt;br/&gt;国内能用这个版本的话 就有意思了&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124597405790199808/img/51VlXtQHY5WEgTgZ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abskoop/status/2124798610629935555</guid>
-      <pubDate>Mon, 23 Nov 2026 09:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
