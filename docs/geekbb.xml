@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 04:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:50:43 +0000</lastBuildDate>
+    <item>
+      <title>虽然说 Antigravity Bot 许愿没有实现，Gemini Bots 也可以，但是长这样就算了吧……</title>
+      <link>https://x.com/geekbb/status/2126282567477518655</link>
+      <description>&lt;p&gt;虽然说 Antigravity Bot 许愿没有实现，Gemini Bots 也可以，但是长这样就算了吧……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYE6d1CWgAAdG4U.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;虽然说 Antigravity Bot 许愿没有实现，Gemini Bots 也可以，但是长这样就算了吧……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYE6d1CWgAAdG4U.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126282567477518655</guid>
+      <pubDate>Fri, 27 Nov 2026 11:50:43 +0000</pubDate>
+    </item>
     <item>
       <title>RT: 让 AI 像写网页一样，直接手搓原生桌面小应用。菜单栏、刘海屏、小组件、独立窗口，缺</title>
       <link>https://x.com/miantiao_me/status/2126108769981505571</link>
@@ -206,16 +216,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125265770649460736/img/EtIWSagCwcZXJ0m-.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125462412400963788</guid>
       <pubDate>Wed, 25 Nov 2026 05:31:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>这是真朋友，非酒肉朋友可比！</title>
-      <link>https://x.com/geekbb/status/2125441023996580029</link>
-      <description>&lt;p&gt;这是真朋友，非酒肉朋友可比！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TheTeslaBull/status/2125407904379424887"&gt;@TheTeslaBull&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看看谁在 Nvidia 总部闲逛……❤️&lt;/p&gt;&lt;p&gt;Look who is hanging out at Nvidia HQ… ❤️&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX73OZ6XcAAJDBy.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;这是真朋友，非酒肉朋友可比！&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/TheTeslaBull/status/2125407904379424887"&gt;@TheTeslaBull&lt;/a&gt;&lt;/p&gt;&lt;p&gt;看看谁在 Nvidia 总部闲逛……❤️&lt;/p&gt;&lt;p&gt;Look who is hanging out at Nvidia HQ… ❤️&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX73OZ6XcAAJDBy.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125441023996580029</guid>
-      <pubDate>Wed, 25 Nov 2026 04:06:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
