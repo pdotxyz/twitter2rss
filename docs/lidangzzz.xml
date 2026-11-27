@@ -6,7 +6,25 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 06:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:52:29 +0000</lastBuildDate>
+    <item>
+      <title>突发！上海房价暴涨！（不要用蓝牙耳机） https://x.com/i/spaces/1OdRJePdAdzjoq</title>
+      <link>https://x.com/lidangzzz/status/2126298112176329149</link>
+      <description>&lt;p&gt;突发！上海房价暴涨！（不要用蓝牙耳机） https://x.com/i/spaces/1OdRJePdAdzjoq&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;突发！上海房价暴涨！（不要用蓝牙耳机） https://x.com/i/spaces/1OdRJePdAdzjoq&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2126298112176329149</guid>
+      <pubDate>Fri, 27 Nov 2026 12:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动10</title>
+      <link>https://x.com/lidangzzz/status/2126297573291876382</link>
+      <description>&lt;p&gt;还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动100个agent、100个exec是个极其敏感的问题。&lt;br/&gt;&lt;br/&gt;一方面是nodejs需要绑定大量历史javascript的技术债务，另一方面并不强制C++的RAll或者Rust ownership，导致程序员在内存使用上为所欲为。&lt;br/&gt;&lt;br/&gt;一个动态类型+强类型+强制类型检查+RAll or memory ownership+interpreted+JIT+其他所有语法全部砍砍砍砍干净，这是A语言的目标。 @hd_nvim&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/lidangzzz/status/2126173779734708363"&gt;@lidangzzz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;每隔几周，我都会反思从零开始设计一个LLM-Agent-native programming language的特性，我现在的想法是这样的。&lt;br/&gt;&lt;br/&gt;A语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，这一点是不会变的，强类型是套套，是所有安全的第一层基础；&lt;br/&gt;&lt;br/&gt;2. 动态语言+interpreter+高效率JIT，而不是compile+execute，也不是compile+virtual machine，因为大量script需要执行和销毁，所以减少编译中间的各种object、lib、binary、cache是一个非常重要的基础，目标就是减少对存储的消耗；&lt;br/&gt;&lt;br/&gt;3. 作为一个全新的语言，你需要喂一个巨大的specs和tutorial给LLM Agent用于理解和生成代码，所以尽可能地精简语法，大幅度砍掉语法糖，减少范式，减少编译器的复杂度，最大限度压榨interpreter自身tokenizer和parser的性能。&lt;br/&gt;&lt;br/&gt;B语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，先把套套戴上；&lt;br/&gt;&lt;br/&gt;2. 砍语法，砍语法糖，语法精简，语法干净得如同lisp，一切继续为了tokenizer和parser的极致性能服务；&lt;br/&gt;&lt;br/&gt;3. 静态编译，静态运行，incrementally compile每个文件，但是保存一个global cache folder，几十个agent在一个codebase工作的时候，遇见大量重复编译的文件，直接保存在一个单一的global cache folder；&lt;br/&gt;&lt;br/&gt;4. 拉满optimization，因为是incrementally compile改动文件，单个文件拉满optimization问题不大；&lt;br/&gt;&lt;br/&gt;5. 设置一个global cache manager，允许每个compiler去checkout latest diff去更新管理，这个我还没想好，容我把这个完善一下，总之就是每段source code和cache&lt;br/&gt;可以通过这段source code的最快checksum作为index来进行cache manager里查找。&lt;br/&gt;&lt;br/&gt;一旦查找checksum发现编译完成，就停止编译，直接fetch binary/lib/cache/object file。&lt;br/&gt;&lt;br/&gt;这样1000 local agent可以最大限度地共享一份cache，减少对你珍贵的NAND硬盘的占用。&lt;br/&gt;&lt;br/&gt;你们说，A好还是B好？&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;还有一点我不喜欢的地方，就是nodejs和bunjs的runtime占用内存巨大，这在今天动不动100个agent、100个exec是个极其敏感的问题。&lt;br/&gt;&lt;br/&gt;一方面是nodejs需要绑定大量历史javascript的技术债务，另一方面并不强制C++的RAll或者Rust ownership，导致程序员在内存使用上为所欲为。&lt;br/&gt;&lt;br/&gt;一个动态类型+强类型+强制类型检查+RAll or memory ownership+interpreted+JIT+其他所有语法全部砍砍砍砍干净，这是A语言的目标。 @hd_nvim&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/lidangzzz/status/2126173779734708363"&gt;@lidangzzz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;每隔几周，我都会反思从零开始设计一个LLM-Agent-native programming language的特性，我现在的想法是这样的。&lt;br/&gt;&lt;br/&gt;A语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，这一点是不会变的，强类型是套套，是所有安全的第一层基础；&lt;br/&gt;&lt;br/&gt;2. 动态语言+interpreter+高效率JIT，而不是compile+execute，也不是compile+virtual machine，因为大量script需要执行和销毁，所以减少编译中间的各种object、lib、binary、cache是一个非常重要的基础，目标就是减少对存储的消耗；&lt;br/&gt;&lt;br/&gt;3. 作为一个全新的语言，你需要喂一个巨大的specs和tutorial给LLM Agent用于理解和生成代码，所以尽可能地精简语法，大幅度砍掉语法糖，减少范式，减少编译器的复杂度，最大限度压榨interpreter自身tokenizer和parser的性能。&lt;br/&gt;&lt;br/&gt;B语言：&lt;br/&gt;&lt;br/&gt;1. 强类型，先把套套戴上；&lt;br/&gt;&lt;br/&gt;2. 砍语法，砍语法糖，语法精简，语法干净得如同lisp，一切继续为了tokenizer和parser的极致性能服务；&lt;br/&gt;&lt;br/&gt;3. 静态编译，静态运行，incrementally compile每个文件，但是保存一个global cache folder，几十个agent在一个codebase工作的时候，遇见大量重复编译的文件，直接保存在一个单一的global cache folder；&lt;br/&gt;&lt;br/&gt;4. 拉满optimization，因为是incrementally compile改动文件，单个文件拉满optimization问题不大；&lt;br/&gt;&lt;br/&gt;5. 设置一个global cache manager，允许每个compiler去checkout latest diff去更新管理，这个我还没想好，容我把这个完善一下，总之就是每段source code和cache&lt;br/&gt;可以通过这段source code的最快checksum作为index来进行cache manager里查找。&lt;br/&gt;&lt;br/&gt;一旦查找checksum发现编译完成，就停止编译，直接fetch binary/lib/cache/object file。&lt;br/&gt;&lt;br/&gt;这样1000 local agent可以最大限度地共享一份cache，减少对你珍贵的NAND硬盘的占用。&lt;br/&gt;&lt;br/&gt;你们说，A好还是B好？&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2126297573291876382</guid>
+      <pubDate>Fri, 27 Nov 2026 12:50:20 +0000</pubDate>
+    </item>
     <item>
       <title>百年一遇的京剧现场大车祸， 包公还有一句词没唱，等着唱呢，司鼓使劲儿打急急风，催</title>
       <link>https://x.com/lidangzzz/status/2126203878098002312</link>
