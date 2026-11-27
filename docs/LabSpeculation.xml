@@ -6,7 +6,17 @@
     <description>Posts from x.com/LabSpeculation</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 22:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:39:40 +0000</lastBuildDate>
+    <item>
+      <title>再通知一声，Tradingview 便宜80%的黑五活动最后一天了，还赠一个月。 Premium和Plus</title>
+      <link>https://x.com/LabSpeculation/status/2126098593270648904</link>
+      <description>&lt;p&gt;再通知一声，Tradingview 便宜80%的黑五活动最后一天了，还赠一个月。&lt;br/&gt;&lt;br/&gt;Premium和Plus就差一美元，之前1000多刀，现在也就252，还没到期往后续的也可以按这个价格走。&lt;br/&gt;&lt;br/&gt;一直用Tradingview的，这应该是全年最便宜的时候了。&lt;br/&gt;&lt;br/&gt;链接：https://cn.tradingview.com/?aff_id=30294&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYFrSQ4aoAIVuDA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;再通知一声，Tradingview 便宜80%的黑五活动最后一天了，还赠一个月。&lt;br/&gt;&lt;br/&gt;Premium和Plus就差一美元，之前1000多刀，现在也就252，还没到期往后续的也可以按这个价格走。&lt;br/&gt;&lt;br/&gt;一直用Tradingview的，这应该是全年最便宜的时候了。&lt;br/&gt;&lt;br/&gt;链接：https://cn.tradingview.com/?aff_id=30294&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYFrSQ4aoAIVuDA.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2126098593270648904</guid>
+      <pubDate>Thu, 26 Nov 2026 23:39:40 +0000</pubDate>
+    </item>
     <item>
       <title>美国交易员 Ross Cameron，从 2017 年到 2026 年 3 月底，9 年累计赚走了 1950 多万美</title>
       <link>https://x.com/LabSpeculation/status/2126086484809986505</link>
@@ -202,16 +212,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HXy8d5absAAERSC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124780665539547372</guid>
       <pubDate>Mon, 23 Nov 2026 08:22:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>23岁的交易员Gianluca Bruni，已经接连三个季度拿下世界交易锦标赛季度赛的冠军，他做</title>
-      <link>https://x.com/LabSpeculation/status/2124749667976237561</link>
-      <description>&lt;p&gt;23岁的交易员Gianluca Bruni，已经接连三个季度拿下世界交易锦标赛季度赛的冠军，他做交易很有意思。&lt;br/&gt;&lt;br/&gt;就是每天最先做的就是先测行情的状态，不是去猜行情为什么涨跌，他只会在数据证明有优势的时候才出手😐😘&lt;br/&gt;&lt;br/&gt;有没有优势，就要看期望值，期望值就是平均每笔净赚的钱是你冒的风险的几倍，比如期望值是正的0.2，每笔冒1000美元，平均每笔就能净赚200美元。&lt;br/&gt;&lt;br/&gt;测行情状态要看波动大不大，再看这种波动持续多久了，波动大小看 ATR 的百分位，ATR 就是最近十四根 K 线平均每根的波动幅度，百分位就是看现在的 ATR 在最近两百根 K 线里排在百分之几。&lt;br/&gt;&lt;br/&gt;比如80就是比80%的时候波动都大，TradingView 上搜 ATR Percentile 就有，参数用14和200，从0到100，他每二十五分一档，分成低中和高波动还有极端。&lt;br/&gt;&lt;br/&gt;分档是因为同一套方法，高波动的时候能赚钱，但到了极端波动可能就亏了，所以回测时每一档都要分开算期望值。&lt;br/&gt;他这套在高波动，也就是51到75之间最好。&lt;br/&gt;&lt;br/&gt;持续多久，可以看 TradingView 上免费的贝叶斯变点指标，搜 Bayesian Changepoint 就有，它会显示这种波动已经持续了多少根 K 线。三十根以内算新，状态新的时候最好做，60根以内算成熟，再长就算老。&lt;br/&gt;&lt;br/&gt;第二步是看趋势，用的是价值区。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124676605855588352/img/vl5OCja3R3dFy_mI.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;23岁的交易员Gianluca Bruni，已经接连三个季度拿下世界交易锦标赛季度赛的冠军，他做交易很有意思。&lt;br/&gt;&lt;br/&gt;就是每天最先做的就是先测行情的状态，不是去猜行情为什么涨跌，他只会在数据证明有优势的时候才出手😐😘&lt;br/&gt;&lt;br/&gt;有没有优势，就要看期望值，期望值就是平均每笔净赚的钱是你冒的风险的几倍，比如期望值是正的0.2，每笔冒1000美元，平均每笔就能净赚200美元。&lt;br/&gt;&lt;br/&gt;测行情状态要看波动大不大，再看这种波动持续多久了，波动大小看 ATR 的百分位，ATR 就是最近十四根 K 线平均每根的波动幅度，百分位就是看现在的 ATR 在最近两百根 K 线里排在百分之几。&lt;br/&gt;&lt;br/&gt;比如80就是比80%的时候波动都大，TradingView 上搜 ATR Percentile 就有，参数用14和200，从0到100，他每二十五分一档，分成低中和高波动还有极端。&lt;br/&gt;&lt;br/&gt;分档是因为同一套方法，高波动的时候能赚钱，但到了极端波动可能就亏了，所以回测时每一档都要分开算期望值。&lt;br/&gt;他这套在高波动，也就是51到75之间最好。&lt;br/&gt;&lt;br/&gt;持续多久，可以看 TradingView 上免费的贝叶斯变点指标，搜 Bayesian Changepoint 就有，它会显示这种波动已经持续了多少根 K 线。三十根以内算新，状态新的时候最好做，60根以内算成熟，再长就算老。&lt;br/&gt;&lt;br/&gt;第二步是看趋势，用的是价值区。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2124676605855588352/img/vl5OCja3R3dFy_mI.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/LabSpeculation/status/2124749667976237561</guid>
-      <pubDate>Mon, 23 Nov 2026 06:19:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
