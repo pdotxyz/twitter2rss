@@ -6,7 +6,15 @@
     <description>Posts from x.com/MarsBit2022</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Social Capital 创始人：比特币会走向归零吗？ Social Capital创始人Chamath Palihapi</title>
+      <link>https://x.com/MarsBit2022/status/2126707691058089987</link>
+      <description>&lt;p&gt;Social Capital 创始人：比特币会走向归零吗？&lt;br/&gt;&lt;br/&gt;Social Capital创始人Chamath Palihapitiya探讨比特币安全性面临的根本挑战，指出随着AI加速数学突破（如密码学攻击、新分解算法），当前基于椭圆曲线和哈希函数的密码学基础可能被颠覆，进而威胁比特币底层安全假设，强调其并非因市场或监管而是因数学与算力范式变革而面临归零风险。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261128095107985579.html?lang=zh-CN&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Social Capital 创始人：比特币会走向归零吗？&lt;br/&gt;&lt;br/&gt;Social Capital创始人Chamath Palihapitiya探讨比特币安全性面临的根本挑战，指出随着AI加速数学突破（如密码学攻击、新分解算法），当前基于椭圆曲线和哈希函数的密码学基础可能被颠覆，进而威胁比特币底层安全假设，强调其并非因市场或监管而是因数学与算力范式变革而面临归零风险。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261128095107985579.html?lang=zh-CN&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2126707691058089987</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>功臣不封侯，字节无山头 字节跳动打破互联网公司‘功臣封侯’惯例，通过高频人事轮岗、</title>
       <link>https://x.com/MarsBit2022/status/2126647293013368896</link>
@@ -158,14 +166,6 @@
       <content:encoded>&lt;p&gt;震撼：OpenAI破解矩阵乘法指数，答案是9/4，连破8大世纪数学悬案&lt;br/&gt;&lt;br/&gt;OpenAI宣布AI生成的9篇论文破解包括矩阵乘法指数（确定为9/4）、斯梅尔第九问题、向日葵猜想等8大世纪数学与理论计算机难题，提出张量几何新框架并给出形式化证明，但成果尚未经同行评审，且理论突破暂无法转化为实际工程加速。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261126122208973399.html?lang=zh-CN&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125982915511333097</guid>
       <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>神秘模型突降热搜，一夜爆火HungerG，到底是谁？ HungerG是一款突然爆火的匿名AI编程</title>
-      <link>https://x.com/MarsBit2022/status/2125922517307306046</link>
-      <description>&lt;p&gt;神秘模型突降热搜，一夜爆火HungerG，到底是谁？&lt;br/&gt;&lt;br/&gt;HungerG是一款突然爆火的匿名AI编程模型，由Qoder和OpenCode平台限时免费上线，具备百万级上下文、原生多模态能力及强自主工具调用与闭环推理能力，在3D建模、复杂系统调试、长任务执行等真实开发场景中表现突出，引发业界对其背后研发方（疑似通义、DeepSeek或阶跃星辰）的广泛猜测，折射出AI行业从静态评测转向真实环境压力测试的战略转向。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125202213591191.html?lang=zh-CN&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;神秘模型突降热搜，一夜爆火HungerG，到底是谁？&lt;br/&gt;&lt;br/&gt;HungerG是一款突然爆火的匿名AI编程模型，由Qoder和OpenCode平台限时免费上线，具备百万级上下文、原生多模态能力及强自主工具调用与闭环推理能力，在3D建模、复杂系统调试、长任务执行等真实开发场景中表现突出，引发业界对其背后研发方（疑似通义、DeepSeek或阶跃星辰）的广泛猜测，折射出AI行业从静态评测转向真实环境压力测试的战略转向。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125202213591191.html?lang=zh-CN&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125922517307306046</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
