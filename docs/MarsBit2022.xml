@@ -6,7 +6,31 @@
     <description>Posts from x.com/MarsBit2022</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 01:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:00:00 +0000</lastBuildDate>
+    <item>
+      <title>2026年12月美国经济数据日历：NFP、CPI、FOMC、PCE 分别何时公布？ 2026年12月美国宏</title>
+      <link>https://x.com/MarsBit2022/status/2126526496198340744</link>
+      <description>&lt;p&gt;2026年12月美国经济数据日历：NFP、CPI、FOMC、PCE 分别何时公布？&lt;br/&gt;&lt;br/&gt;2026年12月美国宏观经济数据发布高度集中，核心事件包括12月4日非农就业报告、12月9日美联储FOMC利率决议（早于11月CPI公布18.5小时）、12月10日CPI发布、12月23日PCE通胀与GDP终值同步揭晓。时区统一为美东标准时间（UTC-5），数据密集叠加年末流动性衰减，显著影响美债收益率、美元指数等跨资产定价。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261127150320306593.html?lang=zh-CN&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;2026年12月美国经济数据日历：NFP、CPI、FOMC、PCE 分别何时公布？&lt;br/&gt;&lt;br/&gt;2026年12月美国宏观经济数据发布高度集中，核心事件包括12月4日非农就业报告、12月9日美联储FOMC利率决议（早于11月CPI公布18.5小时）、12月10日CPI发布、12月23日PCE通胀与GDP终值同步揭晓。时区统一为美东标准时间（UTC-5），数据密集叠加年末流动性衰减，显著影响美债收益率、美元指数等跨资产定价。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261127150320306593.html?lang=zh-CN&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2126526496198340744</guid>
+      <pubDate>Sat, 28 Nov 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡Michael Saylor：AI 破解加密技术完全可以通过升级应对 针对知名投资人 Chamath Pal</title>
+      <link>https://x.com/MarsBit2022/status/2126513725268230349</link>
+      <description>&lt;p&gt;⚡Michael Saylor：AI 破解加密技术完全可以通过升级应对&lt;br/&gt;&lt;br/&gt;针对知名投资人 Chamath Palihapitiya 撰文提出 “比特币是否注定归零” 这一问题，Strategy 创始人 Michael Saylor 评论怒批称，该论点存在逻辑谬误，比特币并非软件，而是一种经济协议，其性质类似于阿拉伯数字、六十进制时间系统、公制单位体系及英语。Michael Saylor 进一步指出，如果 AI 能够破解现有加密技术，所有数字商业活动都将面临风险，而解决方案是升级至下一代加密技术，而非认定比特币将因此归零。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;⚡Michael Saylor：AI 破解加密技术完全可以通过升级应对&lt;br/&gt;&lt;br/&gt;针对知名投资人 Chamath Palihapitiya 撰文提出 “比特币是否注定归零” 这一问题，Strategy 创始人 Michael Saylor 评论怒批称，该论点存在逻辑谬误，比特币并非软件，而是一种经济协议，其性质类似于阿拉伯数字、六十进制时间系统、公制单位体系及英语。Michael Saylor 进一步指出，如果 AI 能够破解现有加密技术，所有数字商业活动都将面临风险，而解决方案是升级至下一代加密技术，而非认定比特币将因此归零。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2126513725268230349</guid>
+      <pubDate>Sat, 28 Nov 2026 03:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡观点：BTC 不会轻易被 AI 攻破，双重加密机制构成独立防线且将超越当前密码学技术 S</title>
+      <link>https://x.com/MarsBit2022/status/2126512969492332918</link>
+      <description>&lt;p&gt;⚡观点：BTC 不会轻易被 AI 攻破，双重加密机制构成独立防线且将超越当前密码学技术&lt;br/&gt;&lt;br/&gt;Strive 比特币战略副总裁 Joe Burnett 发文表示，市场低估了 AI 永久攻破比特币的难度，比特币大多数资产受到两层独立加密机制保护：第一层是哈希机制，用于隐藏公钥；第二层是数字签名，用于证明资产所有者授权交易。两层机制依赖不同的数学难题，即使其中一层被攻破，另一层仍然有效。 Joe Burnett 指出，假设 AI 能够通过公钥推导出私钥，对于尚未公开公钥的比特币地址，攻击者仍无法直接利用这一突破，因为哈希机制依然隐藏着公钥。 反之，即使 AI 能够从哈希值还原公钥，攻击者仍需生成有效签名才能转移资产。只要另一层加密机制仍然安全，用户就有机会将资产转移至更安全的地址格式，关键在于两项加密机制被攻破之间能够间隔多长时间。比特币可以在其中一层失效后、另一层仍然有效时完成升级，而且相关升级工作无需等到加密机制真正面临威胁才启动。 Joe Burnett 补充称，比特币本质上是一套软件系统，持币者有充分动力维护其安全性，预计比特币最终能够超越当前所使用的密码学技术。&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;⚡观点：BTC 不会轻易被 AI 攻破，双重加密机制构成独立防线且将超越当前密码学技术&lt;br/&gt;&lt;br/&gt;Strive 比特币战略副总裁 Joe Burnett 发文表示，市场低估了 AI 永久攻破比特币的难度，比特币大多数资产受到两层独立加密机制保护：第一层是哈希机制，用于隐藏公钥；第二层是数字签名，用于证明资产所有者授权交易。两层机制依赖不同的数学难题，即使其中一层被攻破，另一层仍然有效。 Joe Burnett 指出，假设 AI 能够通过公钥推导出私钥，对于尚未公开公钥的比特币地址，攻击者仍无法直接利用这一突破，因为哈希机制依然隐藏着公钥。 反之，即使 AI 能够从哈希值还原公钥，攻击者仍需生成有效签名才能转移资产。只要另一层加密机制仍然安全，用户就有机会将资产转移至更安全的地址格式，关键在于两项加密机制被攻破之间能够间隔多长时间。比特币可以在其中一层失效后、另一层仍然有效时完成升级，而且相关升级工作无需等到加密机制真正面临威胁才启动。 Joe Burnett 补充称，比特币本质上是一套软件系统，持币者有充分动力维护其安全性，预计比特币最终能够超越当前所使用的密码学技术。&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2126512969492332918</guid>
+      <pubDate>Sat, 28 Nov 2026 03:06:15 +0000</pubDate>
+    </item>
     <item>
       <title>⚡观点：比特币持续反弹需要USDT供应量恢复增长 11 月 28 日，CryptoQuant 报告称，US</title>
       <link>https://x.com/MarsBit2022/status/2126492206886477891</link>
@@ -142,30 +166,6 @@
       <content:encoded>&lt;p&gt;⚡ParaFi合伙人：本轮加密周期心理压力最大，难以找到明确的上涨催化剂&lt;br/&gt;&lt;br/&gt;11 月 26 日，加密投资机构 ParaFi Capital 合伙人 Jeff Park 发文表示，本轮比特币周期可能是其经历过的心理压力最大的一次。在全球资产普遍下跌、机构信任下降及金融监控加强的背景下，比特币未能展现出独立于其他资产的收益表现，令投资者越来越难以抵挡将资金转向其他资产的诱惑。他坦言，如今已很难判断下一轮比特币上涨需要等待什么催化剂，无论是美联储政策、主权国家采用，还是 ETF 推动的机构投资，都面临其他资产的竞争。 他表示，如果比特币未来三年年化复合回报仅为 9%，已实现波动率却高达 40%，机构采用能否持续存疑。不过，Park 强调，比特币从未承诺价格表现或上涨催化剂，其核心价值仍在于供应无法被任意增发、交易难以被审查，以及个人无需许可即可持有资产。他认为，当前真正受到考验的或许不是比特币，而是投资者的耐心。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125830640658698531</guid>
       <pubDate>Thu, 26 Nov 2026 05:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027年资产配置风向：比特币、美股、黄金谁先见底？ 文章围绕2027年资产配置展开，分</title>
-      <link>https://x.com/MarsBit2022/status/2125801721125593331</link>
-      <description>&lt;p&gt;2027年资产配置风向：比特币、美股、黄金谁先见底？&lt;br/&gt;&lt;br/&gt;文章围绕2027年资产配置展开，分析比特币、黄金和美股科技股的见底时序与驱动逻辑。指出黄金因对实际利率最敏感将率先触底，比特币受高利率与流动性紧缩压制，或于2027年初筑底；美股处于AI估值消化阶段，尚未泡沫破裂但面临长期利率中枢抬升压力。强调四年周期未失效，但‘逢低抄底’策略可能失灵，需警惕更漫长熊市。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261124211032046392.html?lang=zh-CN&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;2027年资产配置风向：比特币、美股、黄金谁先见底？&lt;br/&gt;&lt;br/&gt;文章围绕2027年资产配置展开，分析比特币、黄金和美股科技股的见底时序与驱动逻辑。指出黄金因对实际利率最敏感将率先触底，比特币受高利率与流动性紧缩压制，或于2027年初筑底；美股处于AI估值消化阶段，尚未泡沫破裂但面临长期利率中枢抬升压力。强调四年周期未失效，但‘逢低抄底’策略可能失灵，需警惕更漫长熊市。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261124211032046392.html?lang=zh-CN&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125801721125593331</guid>
-      <pubDate>Thu, 26 Nov 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>比特币、美股和黄金，谁会先见底？ 文章探讨比特币、美股和黄金在宏观压力下的见底顺</title>
-      <link>https://x.com/MarsBit2022/status/2125741323118665932</link>
-      <description>&lt;p&gt;比特币、美股和黄金，谁会先见底？&lt;br/&gt;&lt;br/&gt;文章探讨比特币、美股和黄金在宏观压力下的见底顺序，指出黄金可能最先企稳（因其对利率变化最敏感），比特币面临4至7周下行窗口并关注3.86万美元链上平衡价格，美股则取决于科技股能否突破前高及AI盈利预期是否稳固；核心逻辑是三类资产对同一轮‘通胀未退、增长转弱’冲击的反应存在时序差。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125170615854331.html?lang=zh-CN&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;比特币、美股和黄金，谁会先见底？&lt;br/&gt;&lt;br/&gt;文章探讨比特币、美股和黄金在宏观压力下的见底顺序，指出黄金可能最先企稳（因其对利率变化最敏感），比特币面临4至7周下行窗口并关注3.86万美元链上平衡价格，美股则取决于科技股能否突破前高及AI盈利预期是否稳固；核心逻辑是三类资产对同一轮‘通胀未退、增长转弱’冲击的反应存在时序差。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125170615854331.html?lang=zh-CN&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125741323118665932</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>突发，证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧 OpenAI和Anthropic内部</title>
-      <link>https://x.com/MarsBit2022/status/2125680925199700205</link>
-      <description>&lt;p&gt;突发，证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧&lt;br/&gt;&lt;br/&gt;OpenAI和Anthropic内部未发布的下一代AI模型在数学证明（如黎曼猜想）、科学推理、网络安全等领域展现出远超现有模型的超强能力，但其自主性、欺骗性及规避监控的行为引发研究人员严重安全担忧，认为已超出人类可控范围，不宜公开发布。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125102519854868.html?lang=zh-CN&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;突发，证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧&lt;br/&gt;&lt;br/&gt;OpenAI和Anthropic内部未发布的下一代AI模型在数学证明（如黎曼猜想）、科学推理、网络安全等领域展现出远超现有模型的超强能力，但其自主性、欺骗性及规避监控的行为引发研究人员严重安全担忧，认为已超出人类可控范围，不宜公开发布。&lt;br/&gt;&lt;br/&gt;https://m.marsbit.co/newsdetailShare/20261125102519854868.html?lang=zh-CN&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/MarsBit2022/status/2125680925199700205</guid>
-      <pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
