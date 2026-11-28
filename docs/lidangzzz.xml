@@ -6,7 +6,17 @@
     <description>Posts from x.com/lidangzzz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 23:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:10:51 +0000</lastBuildDate>
+    <item>
+      <title>太棒了👍👍👍</title>
+      <link>https://x.com/lidangzzz/status/2126468828796457362</link>
+      <description>&lt;p&gt;太棒了👍👍👍&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYK8IULW0AAPp2s.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;太棒了👍👍👍&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYK8IULW0AAPp2s.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/lidangzzz/status/2126468828796457362</guid>
+      <pubDate>Sat, 28 Nov 2026 00:10:51 +0000</pubDate>
+    </item>
     <item>
       <title>我的疑惑是，如果是陈吉宁和龚正各大五十大板，那么这个时候选一个浙江派的人，无论是</title>
       <link>https://x.com/lidangzzz/status/2126455574468665375</link>
@@ -166,14 +176,6 @@
       <content:encoded>&lt;p&gt;下一届图灵奖、诺贝尔奖、Fields、Abel、Wolf、IEEE Medal of Honor这几个人类最大的大奖，必须全部集体颁发给OpenAI。&lt;br/&gt;&lt;br/&gt;能在有生之年给OpenAI颁奖，这是你们几个基金会和评委会的最大荣誉，不要不识抬举，给脸不要脸。&lt;br/&gt;&lt;br/&gt;发完奖就给我立刻把评审委员会关停，剩下的钱给我all in未来OpenAI的股票。&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/lidangzzz/status/2125988407776313543</guid>
       <pubDate>Thu, 26 Nov 2026 16:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>哪个明星的名字里同时包含两个直辖市？</title>
-      <link>https://x.com/lidangzzz/status/2125987238463062101</link>
-      <description>&lt;p&gt;哪个明星的名字里同时包含两个直辖市？&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;哪个明星的名字里同时包含两个直辖市？&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/lidangzzz/status/2125987238463062101</guid>
-      <pubDate>Thu, 26 Nov 2026 16:17:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
