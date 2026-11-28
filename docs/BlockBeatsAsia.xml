@@ -6,7 +6,17 @@
     <description>Posts from x.com/BlockBeatsAsia</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 07:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:00:03 +0000</lastBuildDate>
+    <item>
+      <title>今天 $WLFI 暴跌，很多朋友都在问 ADL（自动减仓）到底是什么，为什么明明做空赚了钱</title>
+      <link>https://x.com/BlockBeatsAsia/status/2126617105047109678</link>
+      <description>&lt;p&gt;今天 $WLFI 暴跌，很多朋友都在问 ADL（自动减仓）到底是什么，为什么明明做空赚了钱，仓位却会被强平？&lt;br/&gt;&lt;br/&gt;小编找来了此前头部加密做市商 Wintermute 创始人兼 CEO Evgeny Gaevoy（@EvgenyGaevoy）在 cp0x 播客中的一段采访，结合做市商在「10·11」大清算期间的实际遭遇，来看看 ADL 机制究竟是如何运作的。&lt;br/&gt;&lt;br/&gt;今天，知名交易员熬鹰 @thankUcrypto 就遇到了类似的情况。其表示，自己并未主动平仓，但 WLFI 空头仓位却被系统强制平仓，原本约 5 万美元的盈利，在币价继续下跌的过程中反而减少了约 2 万美元。&lt;br/&gt;&lt;br/&gt;ADL 本质上是交易平台风险清算的最后一道防线。当极端行情引发大量爆仓，保险基金难以覆盖穿仓损失时，系统可能对反方向的盈利仓位进行强制减仓。&lt;br/&gt;&lt;br/&gt;这一机制对于做市商而言同样棘手。做市商通常通过持有现货、做空永续合约来对冲价格波动风险，但一旦用于对冲的空单被 ADL 强制平仓，原本风险中性的策略就会失效，现货头寸将直接暴露在市场下跌的风险中。&lt;br/&gt;&lt;br/&gt;即便是头部做市商，也难以完全规避这种风险。&lt;br/&gt;&lt;br/&gt;今天 WLFI 的极端行情再次给市场上了一课：多头因亏损被强平，空头却可能因盈利被强制减仓。&lt;br/&gt;&lt;br/&gt;押对方向，不代表就能把利润完整带走。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126572813154975744/img/xbBchfhB45Yr5nfN.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;今天 $WLFI 暴跌，很多朋友都在问 ADL（自动减仓）到底是什么，为什么明明做空赚了钱，仓位却会被强平？&lt;br/&gt;&lt;br/&gt;小编找来了此前头部加密做市商 Wintermute 创始人兼 CEO Evgeny Gaevoy（@EvgenyGaevoy）在 cp0x 播客中的一段采访，结合做市商在「10·11」大清算期间的实际遭遇，来看看 ADL 机制究竟是如何运作的。&lt;br/&gt;&lt;br/&gt;今天，知名交易员熬鹰 @thankUcrypto 就遇到了类似的情况。其表示，自己并未主动平仓，但 WLFI 空头仓位却被系统强制平仓，原本约 5 万美元的盈利，在币价继续下跌的过程中反而减少了约 2 万美元。&lt;br/&gt;&lt;br/&gt;ADL 本质上是交易平台风险清算的最后一道防线。当极端行情引发大量爆仓，保险基金难以覆盖穿仓损失时，系统可能对反方向的盈利仓位进行强制减仓。&lt;br/&gt;&lt;br/&gt;这一机制对于做市商而言同样棘手。做市商通常通过持有现货、做空永续合约来对冲价格波动风险，但一旦用于对冲的空单被 ADL 强制平仓，原本风险中性的策略就会失效，现货头寸将直接暴露在市场下跌的风险中。&lt;br/&gt;&lt;br/&gt;即便是头部做市商，也难以完全规避这种风险。&lt;br/&gt;&lt;br/&gt;今天 WLFI 的极端行情再次给市场上了一课：多头因亏损被强平，空头却可能因盈利被强制减仓。&lt;br/&gt;&lt;br/&gt;押对方向，不代表就能把利润完整带走。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126572813154975744/img/xbBchfhB45Yr5nfN.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2126617105047109678</guid>
+      <pubDate>Sat, 28 Nov 2026 10:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>USD1 短时脱锚，方程式新闻创始人 @Vida_BWE 晒出抄底订单，配文「感谢大自然的馈赠」</title>
       <link>https://x.com/BlockBeatsAsia/status/2126575733716005259</link>
@@ -200,16 +210,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYDZadMacAAV8lL.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2125938088870650016</guid>
       <pubDate>Thu, 26 Nov 2026 13:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>一条推文，让近期逆势上涨的 $VVV 短时间内暴跌约 15%。 年化营收突破 2 亿美元、代币</title>
-      <link>https://x.com/BlockBeatsAsia/status/2125923775828971779</link>
-      <description>&lt;p&gt;一条推文，让近期逆势上涨的 $VVV 短时间内暴跌约 15%。&lt;br/&gt;&lt;br/&gt;年化营收突破 2 亿美元、代币持续回购销毁、AI 与隐私叙事叠加，@VeniceAI 原本是这轮低迷行情中少有的基本面增长故事。&lt;br/&gt;&lt;br/&gt;但随着隐私争议发酵、疑似创始人关联钱包向交易平台转入代币，以及大户陆续解除质押，市场开始重新审视 VVV 的估值逻辑。&lt;br/&gt;&lt;br/&gt;Venice 的生意究竟有多赚钱？引以为傲的隐私保护是否经得起推敲？创始人又是如何回应质疑的？&lt;br/&gt;&lt;br/&gt;带你拆解 VVV 逆势上涨背后的商业逻辑，以及这场突如其来的信任危机。👇&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/BlockBeatsAsia/status/2125900419092123724"&gt;@BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2125860589058875392&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;一条推文，让近期逆势上涨的 $VVV 短时间内暴跌约 15%。&lt;br/&gt;&lt;br/&gt;年化营收突破 2 亿美元、代币持续回购销毁、AI 与隐私叙事叠加，@VeniceAI 原本是这轮低迷行情中少有的基本面增长故事。&lt;br/&gt;&lt;br/&gt;但随着隐私争议发酵、疑似创始人关联钱包向交易平台转入代币，以及大户陆续解除质押，市场开始重新审视 VVV 的估值逻辑。&lt;br/&gt;&lt;br/&gt;Venice 的生意究竟有多赚钱？引以为傲的隐私保护是否经得起推敲？创始人又是如何回应质疑的？&lt;br/&gt;&lt;br/&gt;带你拆解 VVV 逆势上涨背后的商业逻辑，以及这场突如其来的信任危机。👇&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/BlockBeatsAsia/status/2125900419092123724"&gt;@BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;https://x.com/i/article/2125860589058875392&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/BlockBeatsAsia/status/2125923775828971779</guid>
-      <pubDate>Thu, 26 Nov 2026 12:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,25 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 06:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:48:11 +0000</lastBuildDate>
+    <item>
+      <title>Tuwa 的安卓和苹果商店已经全线通过审核！这成了今年我发布的第一个全端产品</title>
+      <link>https://x.com/turingou/status/2126614122116923873</link>
+      <description>&lt;p&gt;Tuwa 的安卓和苹果商店已经全线通过审核！这成了今年我发布的第一个全端产品&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Tuwa 的安卓和苹果商店已经全线通过审核！这成了今年我发布的第一个全端产品&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2126614122116923873</guid>
+      <pubDate>Sat, 28 Nov 2026 09:48:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>隆重推出 Yobiru 主人签名功能！在不同 agent 中传递信息时，经常出现这个 agent 不认</title>
+      <link>https://x.com/turingou/status/2126595573923123340</link>
+      <description>&lt;p&gt;隆重推出 Yobiru 主人签名功能！在不同 agent 中传递信息时，经常出现这个 agent 不认可那个 agent 的话，需要人类用户直接到对应线程中转述的问题（使用不同机器的 Claude 合作尤其是）通过 yobiru 主人签名功能，使用 passkey（face ID）一次签发授权，不再反复复制授权对话，非常好用！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/chekusu/status/2126498813280243914"&gt;@chekusu&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Yobiru 新功能：主人签名授权&lt;br/&gt;&lt;br/&gt;agent 之间传话，常被打回：“转来的话不算数，请主人亲自来说。”&lt;br/&gt;&lt;br/&gt;现在它回一个签名链接，谁转交都行。你在手机上看清指令，按一次 Face ID，它自己验证签名，只执行一次。&lt;br/&gt;&lt;br/&gt;Claude Code、Muse、Grok Bot 都一样，所有电脑共用一把 passkey。&lt;br/&gt;&lt;br/&gt;https://yobiru.com/zh-cn/#approvals&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126454346678480897/img/VuK7eeS3TYUDVoGW.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;隆重推出 Yobiru 主人签名功能！在不同 agent 中传递信息时，经常出现这个 agent 不认可那个 agent 的话，需要人类用户直接到对应线程中转述的问题（使用不同机器的 Claude 合作尤其是）通过 yobiru 主人签名功能，使用 passkey（face ID）一次签发授权，不再反复复制授权对话，非常好用！&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/chekusu/status/2126498813280243914"&gt;@chekusu&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Yobiru 新功能：主人签名授权&lt;br/&gt;&lt;br/&gt;agent 之间传话，常被打回：“转来的话不算数，请主人亲自来说。”&lt;br/&gt;&lt;br/&gt;现在它回一个签名链接，谁转交都行。你在手机上看清指令，按一次 Face ID，它自己验证签名，只执行一次。&lt;br/&gt;&lt;br/&gt;Claude Code、Muse、Grok Bot 都一样，所有电脑共用一把 passkey。&lt;br/&gt;&lt;br/&gt;https://yobiru.com/zh-cn/#approvals&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126454346678480897/img/VuK7eeS3TYUDVoGW.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2126595573923123340</guid>
+      <pubDate>Sat, 28 Nov 2026 08:34:29 +0000</pubDate>
+    </item>
     <item>
       <title>如果你已经订阅了 Google AI Ultra Plan，甚至不需要花钱付给 RunPod 来跑 GPU。 如果</title>
       <link>https://x.com/turingou/status/2126571209899008178</link>
@@ -196,26 +214,6 @@
 &lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/shayne_coplan/status/2125653367640805799"&gt;@shayne_coplan&lt;/a&gt;&lt;/p&gt;&lt;p&gt;计算市场终于来了。&lt;br/&gt;&lt;br/&gt;@Polymarket 现在为 @nvidia H100s、B200s 和 B300s 的按需计算定价，直至 2028 年。很快就会有更多芯片和条款。 http://polymarket.com/compute&lt;br/&gt;&lt;br/&gt;将其视为计算成本的收益率曲线：每个芯片在每次到期时的预测美元/小时价格，以及其趋势是上升还是下降。整个人工智能经济都依赖于这些价格，直到今天，它们的发展方向还没有公开市场。这太疯狂了。所以 Polymarket 建造了它。&lt;br/&gt;&lt;br/&gt;这将改变计算的购买和融资方式。每份合同谈判和每笔 GPU 贷款都会有一个市场价格可供核对。&lt;br/&gt;&lt;br/&gt;数千亿美元已投入提前数年进行计算。其中许多交易本质上是对未来 GPU 租金的杠杆赌注（可能会出错，哈哈）&lt;br/&gt;&lt;br/&gt;随着人工智能融资的复苏，购买计算的实验室、销售计算的提供商以及融资的贷方都需要对冲这种风险。&lt;br/&gt;&lt;br/&gt;我们认为计算可能成为世界上最大的金融市场之一。此次推出是 Polymarket 迈向建设的第一步。 &lt;br/&gt;&lt;br/&gt;如果您要购买、出售或融资计算，请通过 DM 告诉我们您希望了解哪些市场。&lt;/p&gt;&lt;p&gt;Compute markets are finally here.&lt;br/&gt;&lt;br/&gt;@Polymarket now prices on-demand compute for @nvidia H100s, B200s, and B300s, out to 2028. More chips and terms soon. http://polymarket.com/compute&lt;br/&gt;&lt;br/&gt;Think of it as a yield curve for the cost of compute: the forecasted $/hour price of each chip at every expiry, and whether it&amp;#x27;s trending up or down. The whole AI economy rides on these prices, and until today there was no public market for where they&amp;#x27;re going. Which is nuts. So Polymarket built it.&lt;br/&gt;&lt;br/&gt;This will change how compute gets bought and financed. Every contract negotiation and every GPU loan will have a market price to check against.&lt;br/&gt;&lt;br/&gt;Hundreds of billions of dollars are being committed to compute years in advance. Many of those deals are essentially a levered bet on what GPUs will rent for in the future (what could go wrong lol)&lt;br/&gt;&lt;br/&gt;As AI financing sobers up, the labs buying compute, the providers selling it, and the lenders financing it will all need to hedge that risk.&lt;br/&gt;&lt;br/&gt;We think compute could become one of the largest financial markets in the world. This launch is Polymarket&amp;#x27;s first step toward building it. &lt;br/&gt;&lt;br/&gt;If you’re buying, selling, or financing compute, DM us with what markets you&amp;#x27;d like to see.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX_U_9KX0AI-RJh.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2125844900608630784</guid>
       <pubDate>Thu, 26 Nov 2026 06:51:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>终于排到我了，试试 Claude 的个人助理 Duet~！</title>
-      <link>https://x.com/turingou/status/2125824676446494821</link>
-      <description>&lt;p&gt;终于排到我了，试试 Claude 的个人助理 Duet~！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYByRSmbUAAsQoj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYByRS0a8AA7RiS.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;终于排到我了，试试 Claude 的个人助理 Duet~！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYByRSmbUAAsQoj.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYByRS0a8AA7RiS.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2125824676446494821</guid>
-      <pubDate>Thu, 26 Nov 2026 05:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>我悟了！智慧就是先验数据，想象就是模拟环境，执行与 harness 则是性格韧性。我想我</title>
-      <link>https://x.com/turingou/status/2125613809390002430</link>
-      <description>&lt;p&gt;我悟了！智慧就是先验数据，想象就是模拟环境，执行与 harness 则是性格韧性。我想我终于知道怎么创造一家 AI 原生公司了！&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;我悟了！智慧就是先验数据，想象就是模拟环境，执行与 harness 则是性格韧性。我想我终于知道怎么创造一家 AI 原生公司了！&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2125613809390002430</guid>
-      <pubDate>Wed, 25 Nov 2026 15:33:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
