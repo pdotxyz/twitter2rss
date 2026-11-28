@@ -6,7 +6,19 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 11:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:46:56 +0000</lastBuildDate>
+    <item>
+      <title>Google 真是恶心，这么好的插件搞得我不敢用，用着也提心吊胆的。不就是用个插件改善</title>
+      <link>https://x.com/geekbb/status/2126659103862984804</link>
+      <description>&lt;p&gt;Google 真是恶心，这么好的插件搞得我不敢用，用着也提心吊胆的。不就是用个插件改善一下 Antigravity 外观，你也要承受被封号的恐惧，这就是 Google 的不作恶宗旨。👍&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNob-PaoAAJPTP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/double_asa/status/2126600036998173175"&gt;@double_asa&lt;/a&gt;&lt;/p&gt;&lt;p&gt;改进了Antigravity的模型选择器。&lt;br/&gt;&lt;br/&gt;昨晚搓的版本忽略了用量，思考的颜色也有点跳脱。&lt;br/&gt;&lt;br/&gt;现在和原生选择器一样，支持模型选择的同时可以快速查看用量。&lt;br/&gt;&lt;br/&gt;顺手优化了思考强度的滑块手感和特效颜色。&lt;br/&gt;&lt;br/&gt;当然，依旧遵循原生感🤠。&lt;br/&gt;https://github.com/Duoasa/antigravity-quantum-pixel-picker&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126598892544528384/img/8zF-_iW3R0o5DUSc.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;Google 真是恶心，这么好的插件搞得我不敢用，用着也提心吊胆的。不就是用个插件改善一下 Antigravity 外观，你也要承受被封号的恐惧，这就是 Google 的不作恶宗旨。👍&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNob-PaoAAJPTP.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/double_asa/status/2126600036998173175"&gt;@double_asa&lt;/a&gt;&lt;/p&gt;&lt;p&gt;改进了Antigravity的模型选择器。&lt;br/&gt;&lt;br/&gt;昨晚搓的版本忽略了用量，思考的颜色也有点跳脱。&lt;br/&gt;&lt;br/&gt;现在和原生选择器一样，支持模型选择的同时可以快速查看用量。&lt;br/&gt;&lt;br/&gt;顺手优化了思考强度的滑块手感和特效颜色。&lt;br/&gt;&lt;br/&gt;当然，依旧遵循原生感🤠。&lt;br/&gt;https://github.com/Duoasa/antigravity-quantum-pixel-picker&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126598892544528384/img/8zF-_iW3R0o5DUSc.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126659103862984804</guid>
+      <pubDate>Sat, 28 Nov 2026 12:46:56 +0000</pubDate>
+    </item>
     <item>
       <title>我去！居然找到我了～～</title>
       <link>https://x.com/geekbb/status/2126632567931883581</link>
@@ -230,16 +242,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBhJ1-a8AETM20.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125805998233583834</guid>
       <pubDate>Thu, 26 Nov 2026 04:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>这 UI 看起来还真不错，跨平台的原生 mihomo（Clash Meta）代理客户端，基于 Go 与 My</title>
-      <link>https://x.com/geekbb/status/2125777174879928689</link>
-      <description>&lt;p&gt;这 UI 看起来还真不错，跨平台的原生 mihomo（Clash Meta）代理客户端，基于 Go 与 MyGo 工具集实现 GPU 直接渲染，Android 端则采用 Flutter 构建。&lt;br/&gt;&lt;br/&gt;把流量按 AI、流媒体、开发等用途拆成不同路由组并支持测速选节点，可直接导入订阅链接、二维码和 Clash YAML 配置，还能在连接面板里即时改写域名分流。&lt;br/&gt;&lt;br/&gt;https://github.com/21stware/bowel&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBGqoBaIAAmzcB.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;这 UI 看起来还真不错，跨平台的原生 mihomo（Clash Meta）代理客户端，基于 Go 与 MyGo 工具集实现 GPU 直接渲染，Android 端则采用 Flutter 构建。&lt;br/&gt;&lt;br/&gt;把流量按 AI、流媒体、开发等用途拆成不同路由组并支持测速选节点，可直接导入订阅链接、二维码和 Clash YAML 配置，还能在连接面板里即时改写域名分流。&lt;br/&gt;&lt;br/&gt;https://github.com/21stware/bowel&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBGqoBaIAAmzcB.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125777174879928689</guid>
-      <pubDate>Thu, 26 Nov 2026 02:22:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
