@@ -6,7 +6,17 @@
     <description>Posts from x.com/turingou</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 17:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:57:40 +0000</lastBuildDate>
+    <item>
+      <title>如果你已经订阅了 Google AI Ultra Plan，甚至不需要花钱付给 RunPod 来跑 GPU。 如果</title>
+      <link>https://x.com/turingou/status/2126571209899008178</link>
+      <description>&lt;p&gt;如果你已经订阅了 Google AI Ultra Plan，甚至不需要花钱付给 RunPod 来跑 GPU。&lt;br/&gt;&lt;br/&gt;如果你的任务只是离线渲染一些东西，不需要实时地为用户提供服务的话，Colab 的额度多到用不完。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYMZPSRbwAEkf0Q.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;如果你已经订阅了 Google AI Ultra Plan，甚至不需要花钱付给 RunPod 来跑 GPU。&lt;br/&gt;&lt;br/&gt;如果你的任务只是离线渲染一些东西，不需要实时地为用户提供服务的话，Colab 的额度多到用不完。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYMZPSRbwAEkf0Q.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turingou/status/2126571209899008178</guid>
+      <pubDate>Sat, 28 Nov 2026 06:57:40 +0000</pubDate>
+    </item>
     <item>
       <title>基本上，我认为这是第一代 ChatGPT 作为聊天工具设计的一个缺陷。 但是，随着像 Muse </title>
       <link>https://x.com/turingou/status/2126365430382260353</link>
@@ -206,16 +216,6 @@
       <content:encoded>&lt;p&gt;我悟了！智慧就是先验数据，想象就是模拟环境，执行与 harness 则是性格韧性。我想我终于知道怎么创造一家 AI 原生公司了！&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/turingou/status/2125613809390002430</guid>
       <pubDate>Wed, 25 Nov 2026 15:33:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>这是一个很有意思的 AI Native 公司的定义，它不是关于人与 agent 协作方式（也就是 h</title>
-      <link>https://x.com/turingou/status/2125603408732393506</link>
-      <description>&lt;p&gt;这是一个很有意思的 AI Native 公司的定义，它不是关于人与 agent 协作方式（也就是 harness 设计）的定义，而是关于信息反馈和如何为商业本身构建模拟环境的语言结构。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/jayendra_ram/status/2125178842692391314"&gt;@jayendra_ram&lt;/a&gt;&lt;/p&gt;&lt;p&gt;到 2030 年，每家公司都将成为 RL 环境公司。&lt;/p&gt;&lt;p&gt;By 2030 every company will be an rl environment company.&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;这是一个很有意思的 AI Native 公司的定义，它不是关于人与 agent 协作方式（也就是 harness 设计）的定义，而是关于信息反馈和如何为商业本身构建模拟环境的语言结构。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/jayendra_ram/status/2125178842692391314"&gt;@jayendra_ram&lt;/a&gt;&lt;/p&gt;&lt;p&gt;到 2030 年，每家公司都将成为 RL 环境公司。&lt;/p&gt;&lt;p&gt;By 2030 every company will be an rl environment company.&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turingou/status/2125603408732393506</guid>
-      <pubDate>Wed, 25 Nov 2026 14:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
