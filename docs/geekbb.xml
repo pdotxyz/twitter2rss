@@ -6,7 +6,21 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 14:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:18:26 +0000</lastBuildDate>
+    <item>
+      <title>神经病，我只敢开汉化了，不明白 Google 这家伙为什么不让用户自行获取模型额度信息，</title>
+      <link>https://x.com/geekbb/status/2126500936852045897</link>
+      <description>&lt;p&gt;神经病，我只敢开汉化了，不明白 Google 这家伙为什么不让用户自行获取模型额度信息，你们在怕什么？！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYLY9XFawAAbVqz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYLZJFfasAAq1cV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bozhou_ai/status/2126341614801232128"&gt;@bozhou_ai&lt;/a&gt;&lt;/p&gt;&lt;p&gt;关于使用 agy 会不会封号，开发人员已经给出了回复&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYJIWq-bUAAV4u1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;神经病，我只敢开汉化了，不明白 Google 这家伙为什么不让用户自行获取模型额度信息，你们在怕什么？！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYLY9XFawAAbVqz.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYLZJFfasAAq1cV.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/bozhou_ai/status/2126341614801232128"&gt;@bozhou_ai&lt;/a&gt;&lt;/p&gt;&lt;p&gt;关于使用 agy 会不会封号，开发人员已经给出了回复&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYJIWq-bUAAV4u1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126500936852045897</guid>
+      <pubDate>Sat, 28 Nov 2026 02:18:26 +0000</pubDate>
+    </item>
     <item>
       <title>Antigravity 周边的插件太多啦，把我找到的汇总 &gt;https://github.com/qqxpee/antigrav</title>
       <link>https://x.com/geekbb/status/2126321838976532718</link>
@@ -218,16 +232,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5vilebIAA2oGn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125538963771539884</guid>
       <pubDate>Wed, 25 Nov 2026 10:35:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码</title>
-      <link>https://x.com/geekbb/status/2125479882495066480</link>
-      <description>&lt;p&gt;家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码库、群聊和 AI 助手全塞进一台本地 Docker 服务器。&lt;br/&gt;&lt;br/&gt;https://github.com/tristenlammi/Promptly&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84icfacAAm3R1.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;家庭自托管数字生活提供一体化私有平台，把家庭日常用的网盘、相册、邮箱、日历、密码库、群聊和 AI 助手全塞进一台本地 Docker 服务器。&lt;br/&gt;&lt;br/&gt;https://github.com/tristenlammi/Promptly&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX84icfacAAm3R1.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125479882495066480</guid>
-      <pubDate>Wed, 25 Nov 2026 06:41:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
