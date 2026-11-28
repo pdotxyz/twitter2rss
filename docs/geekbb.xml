@@ -6,7 +6,33 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 09:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:01:29 +0000</lastBuildDate>
+    <item>
+      <title>我去！居然找到我了～～</title>
+      <link>https://x.com/geekbb/status/2126632567931883581</link>
+      <description>&lt;p&gt;我去！居然找到我了～～&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNRCV1aQAA3mx1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/yetone/status/2126627402243813616"&gt;@yetone&lt;/a&gt;&lt;/p&gt;&lt;p&gt;给 Magpie 的贡献墙加了一个可视化动画来回顾历史，展望未来。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126627110144086016/img/uYhOqyTUcUuUCQiQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <content:encoded>&lt;p&gt;我去！居然找到我了～～&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNRCV1aQAA3mx1.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/yetone/status/2126627402243813616"&gt;@yetone&lt;/a&gt;&lt;/p&gt;&lt;p&gt;给 Magpie 的贡献墙加了一个可视化动画来回顾历史，展望未来。&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2126627110144086016/img/uYhOqyTUcUuUCQiQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126632567931883581</guid>
+      <pubDate>Sat, 28 Nov 2026 11:01:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google AI Pro $99 一年上车的兄弟也别偷笑，你们大概率要遭背刺。Google 不搞新用户</title>
+      <link>https://x.com/geekbb/status/2126625122245361900</link>
+      <description>&lt;p&gt;Google AI Pro $99 一年上车的兄弟也别偷笑，你们大概率要遭背刺。Google 不搞新用户活动，要么算力不够了，兜不住悄悄砍你们的额度。要么影响太大重新搞活动补偿新用户，全年 4 折，怎么算你们都亏，哈哈哈～🤣&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNI8p1aoAA_yoI.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNI81JaoAAxqsM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNJFg3aAAAtAnj.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Google AI Pro $99 一年上车的兄弟也别偷笑，你们大概率要遭背刺。Google 不搞新用户活动，要么算力不够了，兜不住悄悄砍你们的额度。要么影响太大重新搞活动补偿新用户，全年 4 折，怎么算你们都亏，哈哈哈～🤣&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNI8p1aoAA_yoI.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNI81JaoAAxqsM.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYNJFg3aAAAtAnj.png?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126625122245361900</guid>
+      <pubDate>Sat, 28 Nov 2026 10:31:54 +0000</pubDate>
+    </item>
     <item>
       <title>大部分谷歌都没有收到优惠推送，只有一个号弹了优惠提示(请忽略存储空间)。 点进去看</title>
       <link>https://x.com/geekbb/status/2126612509939601806</link>
@@ -214,24 +240,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYBGqoBaIAAmzcB.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125777174879928689</guid>
       <pubDate>Thu, 26 Nov 2026 02:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxmox VE 9.3 正式发布 底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEM</title>
-      <link>https://x.com/geekbb/status/2125759083139747982</link>
-      <description>&lt;p&gt;Proxmox VE 9.3 正式发布&lt;br/&gt;&lt;br/&gt;底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEMU 11.1 + ZFS 2.4&lt;br/&gt;&lt;br/&gt;最值得关心的 5 个更新&lt;br/&gt;- 装机省事了，安装界面里终于能直接给管理网配网卡绑定（Bond）和 VLAN，不用装完系统再去手改网络配置。&lt;br/&gt;- 网页后台更实用，系统日志按严重级别标了颜色，还新加了 API 访问记录和 APT 更新历史，排查问题少开很多终端；HA 的节点维护模式也能直接在网页上开关了，第三方存储插件也不用再去配置文件里硬写。&lt;br/&gt;- 几个之前在测试的功能转正了，LVM 的链式快照、基于 nftables 的新版防火墙现在都可以正式在生产环境用；存储这边还新加了 SAN 管理视图和原生 NVMe-oF 支持。&lt;br/&gt;- 每台虚拟机和容器现在都有一个固定的全局 ID，就算改了 VMID 或者迁到别的集群，备份软件也能认出是同一台；集群证书快到期也会自己续期。&lt;br/&gt;- 网页上可以直接看到 WireGuard 的握手和流量状态，SDN 的简单网络也支持单独做路由隔离了。&lt;br/&gt;&lt;br/&gt;https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-3&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;Proxmox VE 9.3 正式发布&lt;br/&gt;&lt;br/&gt;底层升级到 Debian 13.8 + Linux 7.0 内核（可选 7.3）+ QEMU 11.1 + ZFS 2.4&lt;br/&gt;&lt;br/&gt;最值得关心的 5 个更新&lt;br/&gt;- 装机省事了，安装界面里终于能直接给管理网配网卡绑定（Bond）和 VLAN，不用装完系统再去手改网络配置。&lt;br/&gt;- 网页后台更实用，系统日志按严重级别标了颜色，还新加了 API 访问记录和 APT 更新历史，排查问题少开很多终端；HA 的节点维护模式也能直接在网页上开关了，第三方存储插件也不用再去配置文件里硬写。&lt;br/&gt;- 几个之前在测试的功能转正了，LVM 的链式快照、基于 nftables 的新版防火墙现在都可以正式在生产环境用；存储这边还新加了 SAN 管理视图和原生 NVMe-oF 支持。&lt;br/&gt;- 每台虚拟机和容器现在都有一个固定的全局 ID，就算改了 VMID 或者迁到别的集群，备份软件也能认出是同一台；集群证书快到期也会自己续期。&lt;br/&gt;- 网页上可以直接看到 WireGuard 的握手和流量状态，SDN 的简单网络也支持单独做路由隔离了。&lt;br/&gt;&lt;br/&gt;https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-3&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125759083139747982</guid>
-      <pubDate>Thu, 26 Nov 2026 01:10:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信</title>
-      <link>https://x.com/geekbb/status/2125573692218642903</link>
-      <description>&lt;p&gt;Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信域名，并通过 Workers 绑定、REST API 或 SMTP 向账户内已验证的目标地址免费发送邮件。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CloudflareDev/status/2125564566755291247"&gt;@CloudflareDev&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Workers Free 计划现已提供电子邮件发送功能&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;Email Sending is now available on the Workers Free plan&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125564439919525888/img/VUvgOZCqiCjSHdxQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-      <content:encoded>&lt;p&gt;Cloudflare 宣布 Email Sending 现已向 Workers Free 套餐开放，允许免费账号配置发信域名，并通过 Workers 绑定、REST API 或 SMTP 向账户内已验证的目标地址免费发送邮件。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href="https://x.com/CloudflareDev/status/2125564566755291247"&gt;@CloudflareDev&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Workers Free 计划现已提供电子邮件发送功能&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;Email Sending is now available on the Workers Free plan&lt;br/&gt;&lt;br/&gt;https://developers.cloudflare.com/changelog/post/2026-11-24-email-sending-workers-free/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2125564439919525888/img/VUvgOZCqiCjSHdxQ.jpg" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125573692218642903</guid>
-      <pubDate>Wed, 25 Nov 2026 12:53:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
