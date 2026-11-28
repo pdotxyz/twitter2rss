@@ -6,7 +6,17 @@
     <description>Posts from x.com/geekbb</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 02:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:03:13 +0000</lastBuildDate>
+    <item>
+      <title>有跑友参加吗……</title>
+      <link>https://x.com/geekbb/status/2126542407986806863</link>
+      <description>&lt;p&gt;有跑友参加吗……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYL_AaEbUAA3KfC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;有跑友参加吗……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HYL_AaEbUAA3KfC.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/geekbb/status/2126542407986806863</guid>
+      <pubDate>Sat, 28 Nov 2026 05:03:13 +0000</pubDate>
+    </item>
     <item>
       <title>神经病，我只敢开汉化了，不明白 Google 这家伙为什么不让用户自行获取模型额度信息，</title>
       <link>https://x.com/geekbb/status/2126500936852045897</link>
@@ -222,16 +232,6 @@
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX-D1Y8bMAA_V1T.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/geekbb/status/2125562521772040274</guid>
       <pubDate>Wed, 25 Nov 2026 12:09:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>他辞职那天我就想到了这张图🤣</title>
-      <link>https://x.com/geekbb/status/2125538963771539884</link>
-      <description>&lt;p&gt;他辞职那天我就想到了这张图🤣&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5vilebIAA2oGn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;他辞职那天我就想到了这张图🤣&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HX5vilebIAA2oGn.jpg?name=orig" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/geekbb/status/2125538963771539884</guid>
-      <pubDate>Wed, 25 Nov 2026 10:35:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
